@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="A&amp;E">
-    <display-name lang="pt">A&amp;E</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvunesp.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="http://www.lineup.tv.br/canais/filmandarts.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
-  <channel id="A&amp;E HD">
-    <display-name lang="pt">A&amp;E HD</display-name>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
 </tv>
