@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190622003000 -0300" stop="20190622005500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622005500 -0300" stop="20190622012000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622012000 -0300" stop="20190622022000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622022000 -0300" stop="20190622024500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622024500 -0300" stop="20190622031000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622031000 -0300" stop="20190622033500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622033500 -0300" stop="20190622040000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622040000 -0300" stop="20190622050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622050000 -0300" stop="20190622053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622053000 -0300" stop="20190622060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622060000 -0300" stop="20190622065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622065000 -0300" stop="20190622074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622074000 -0300" stop="20190622080500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622080500 -0300" stop="20190622083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622083000 -0300" stop="20190622092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622092000 -0300" stop="20190622101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622101000 -0300" stop="20190622103500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622103500 -0300" stop="20190622110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622110000 -0300" stop="20190622115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622115000 -0300" stop="20190622124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622124000 -0300" stop="20190622133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622133000 -0300" stop="20190622140000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622140000 -0300" stop="20190622143000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622143000 -0300" stop="20190622152000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622152000 -0300" stop="20190622161500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622161500 -0300" stop="20190622171000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622171000 -0300" stop="20190622192000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Alien</title>
+    <sub-title lang="pt">O Oitavo Passageiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622192000 -0300" stop="20190622215000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Aliens</title>
+    <sub-title lang="pt">O Resgate</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622215000 -0300" stop="20190622235500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Alien 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190622235500 -0300" stop="20190623015000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Alien: A Ressurreição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
