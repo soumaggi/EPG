@@ -1,0 +1,2233 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Investigação Discovery">
+    <display-name lang="pt">Investigação Discovery</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Investigação Discovery HD">
+    <display-name lang="pt">Investigação Discovery HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="National Geographic Wild">
+    <display-name lang="pt">National Geographic Wild</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="National Geographic Wild HD">
+    <display-name lang="pt">National Geographic Wild HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="pt">National Geographic</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="pt">National Geographic HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BabyTv">
+    <display-name lang="pt">BabyTv</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band News HD">
+    <display-name lang="pt">Band News HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Bis">
+    <display-name lang="pt">Bis</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Bis HD">
+    <display-name lang="pt">Bis HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190721004000 -0300" stop="20190721012800 -0300" channel="Investigação Discovery">
+    <title lang="pt">Vivendo com o Inimigo: A Primeira Vítima</title>
+    <desc lang="pt">Felecia Collier quase mata Chester Turner durante um violento ataque, mas fica aliviada quando descobre que ele sobreviveu. Anos depois, esse momento se torna o maior arrependimento de sua vida(n)</desc>
+    <credits>
+      <director>Joel Pincosy</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190721012800 -0300" stop="20190721021400 -0300" channel="Investigação Discovery">
+    <title lang="pt">Lobo Em Pele De Cordeiro: Fora de Foco</title>
+    <desc lang="pt">Quando Beverly Thompson é golpeada até a morte dentro da própria casa, ninguém desconfia de sua família. Os detetives ficam intrigados, até que o vídeo de um circuito interno de TV mostra que alguém está mentindo(n)</desc>
+    <credits>
+      <director>Nick Davies</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721021400 -0300" stop="20190721030000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Vestígio do Mal: Sementes do Mal</title>
+    <desc lang="pt">Uma jovem é morta a tiros perto de um vilarejo no Alasca. Enquanto a polícia recorre à ciência forense para capturar o assassino, uma testemunha ocular faz uma revelação explosiva que abala a pequena cidade(n)</desc>
+    <credits>
+      <director>Paul Amirault</director>
+      <actor>Eric Reingrover</actor>
+      <actor>Olivia Cordell</actor>
+      <actor>Dan Glenn</actor>
+      <actor>Garrison Oliver Gross</actor>
+      <actor>Jeff Rector</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721030000 -0300" stop="20190721034600 -0300" channel="Investigação Discovery">
+    <title lang="pt">Seu Pior Pesadelo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Michel Monty</director>
+      <actor>Brianne Cordaro</actor>
+      <actor>Dustin Whitehead</actor>
+      <actor>Jeff Rose</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721034600 -0300" stop="20190721043200 -0300" channel="Investigação Discovery">
+    <title lang="pt">Seu Pior Pesadelo</title>
+    <desc lang="pt">Quando a jovem Anita Wooldridge desaparece da casa de seus pais, os investigadores precisam analisar as pistas para encontrá-la antes que seja tarde demais(n)</desc>
+    <credits>
+      <actor>Brad Brinkley</actor>
+      <actor>Keith Brooks</actor>
+      <actor>Jt Corbitt</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721043200 -0300" stop="20190721051600 -0300" channel="Investigação Discovery">
+    <title lang="pt">Gypsy: Uma Vida de Mentira</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721051600 -0300" stop="20190721060400 -0300" channel="Investigação Discovery">
+    <title lang="pt">Gypsy: Uma Vida de Mentira</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721060400 -0300" stop="20190721062800 -0300" channel="Investigação Discovery">
+    <title lang="pt">Anatomia do Crime</title>
+    <desc lang="pt">Um crime, duas perguntas: como aconteceu? Quem matou? Confira como delegados, peritos e legistas conseguiram encontrar essas respostas em crimes que abalaram o país e mexeram com a opinião pública(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721062800 -0300" stop="20190721071600 -0300" channel="Investigação Discovery">
+    <title lang="pt">Frios e Calculistas: Lobo Entre Ovelhas</title>
+    <desc lang="pt">Um assassino pervertido ataca mulheres jovens em Bellevue, Washington. Uma pista nada convencional leva a polícia a um assassino improvável, que se esconde à vista de todos(n)</desc>
+    <credits>
+      <actor>Javarius Conway</actor>
+      <actor>Morgan Ipsale</actor>
+      <actor>Darien Johnson</actor>
+      <actor>Denise Santos</actor>
+      <actor>Scott Paul Sloane</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721071600 -0300" stop="20190721080400 -0300" channel="Investigação Discovery">
+    <title lang="pt">Como Pegar um Assassino: Em Plena Luz do Dia</title>
+    <desc lang="pt">Quando um florista é encontrado morto, a polícia de Granite City descobre que o assassino é um homem engenhoso, que está sempre um passo à frente da investigação. Os detetives precisam trabalhar infiltrados para capturá-lo(n)</desc>
+    <credits>
+      <director>Dan Bush</director>
+      <actor>Jordan Blair Mangold Brown</actor>
+      <actor>Anna Didion</actor>
+      <actor>Jason Drumwright</actor>
+      <actor>Maurice Johnson</actor>
+      <actor>Jeffrey Charles Morgan</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721080400 -0300" stop="20190721085200 -0300" channel="Investigação Discovery">
+    <title lang="pt">Como Pegar um Assassino: Todas as Unidades</title>
+    <desc lang="pt">O detetive Mike Ritchie persegue o principal suspeito de um homicídio. Quando o assassino aparece a duas horas de viagem do local do crime, a prisão não é tão simples quanto parece(n)</desc>
+    <credits>
+      <director>Dan Bush</director>
+      <actor>Franco Castan</actor>
+      <actor>Adam Cole</actor>
+      <actor>Annie Cook</actor>
+      <actor>Ryan Davenport</actor>
+      <actor>Eric Hawkins</actor>
+      <actor>Julia Denton</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721085200 -0300" stop="20190721094000 -0300" channel="Investigação Discovery">
+    <title lang="pt">O Lado Obscuro Dos Anos 90: Estrela Solitária</title>
+    <desc lang="pt">Quando Doris Angleton é baleada com 13 tiros, a polícia supõe que o crime está ligado ao negócio de apostas de seu marido. Mas Doris também escondia um segredo: um caso extraconjugal que começou numa sala de bate-papo(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721094000 -0300" stop="20190721103000 -0300" channel="Investigação Discovery">
+    <title lang="pt">O Lado Obscuro Dos Anos 90: A Garota Nova</title>
+    <desc lang="pt">Numa zona rural de Indiana, o corpo carbonizado de uma garota é encontrado num campo. Os investigadores descobrem uma trama sinistra, que envolve bruxaria, adolescentes perturbados e um triângulo amoroso amaldiçoado(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721103000 -0300" stop="20190721112000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Prometo Ser Cruel: A Última Promessa</title>
+    <desc lang="pt">Na véspera do ano novo de 2014, um casal tem uma discussão acalorada que termina num assassinato. A polícia descobre que eles mantinham um relacionamento instável e problemático(n)</desc>
+    <credits>
+      <director>Peter G. Gillespie</director>
+      <actor>Chad Boushell</actor>
+      <actor>Claire Coyle</actor>
+      <actor>Chris Edmonds</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721112000 -0300" stop="20190721121000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Vizinho Assassino: A Arte de Matar</title>
+    <desc lang="pt">O assassinato de Shelley Nance a facadas choca a comunidade de Lake Highlands. Todos são suspeitos e a polícia parte em busca do culpado. O que eles descobrem são ciúmes, ódio e uma atração fatal(n)</desc>
+    <credits>
+      <actor>Shawn Abraham</actor>
+      <actor>Marshall Bailey</actor>
+      <actor>Moses Bernal</actor>
+      <actor>Meredith Sullivan</actor>
+      <actor>Laura Zollinhofer</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721121000 -0300" stop="20190721130000 -0300" channel="Investigação Discovery">
+    <title lang="pt">People Magazine: Além Da Notícia: O Som do Silêncio 3ª</title>
+    <desc lang="pt">A comunidade da Universidade Gallaudet, a melhor faculdade para surdos dos EUA, é abalada quando dois alunos são assassinados em seus dormitórios. Os detetives investigam o campus e descobrem um serial killer(n)</desc>
+    <credits>
+      <director>Stephen Schuster</director>
+      <actor>Eddie Buck</actor>
+      <actor>Mike Carson</actor>
+      <actor>Grant Wright Gunderson</actor>
+      <actor>Crystal Lott</actor>
+      <actor>Georgie Storm Waite</actor>
+      <actor>Brittany Wolf</actor>
+      <actor>Will Morgan</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721130000 -0300" stop="20190721135000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Vestígio do Mal: Sementes do Mal</title>
+    <desc lang="pt">Uma jovem é morta a tiros perto de um vilarejo no Alasca. Enquanto a polícia recorre à ciência forense para capturar o assassino, uma testemunha ocular faz uma revelação explosiva que abala a pequena cidade(n)</desc>
+    <credits>
+      <director>Paul Amirault</director>
+      <actor>Eric Reingrover</actor>
+      <actor>Olivia Cordell</actor>
+      <actor>Dan Glenn</actor>
+      <actor>Garrison Oliver Gross</actor>
+      <actor>Jeff Rector</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721135000 -0300" stop="20190721144000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Seu Pior Pesadelo</title>
+    <desc lang="pt">Quando a jovem Anita Wooldridge desaparece da casa de seus pais, os investigadores precisam analisar as pistas para encontrá-la antes que seja tarde demais(n)</desc>
+    <credits>
+      <actor>Brad Brinkley</actor>
+      <actor>Keith Brooks</actor>
+      <actor>Jt Corbitt</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721144000 -0300" stop="20190721153000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Emboscada</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Yoram Astrakhan</director>
+      <actor>Karma McCain</actor>
+      <actor>Alexi Stavrou</actor>
+      <actor>Christine Bergeron</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721153000 -0300" stop="20190721162000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Os Segredos da Minha Morte: Caminho Sem Volta</title>
+    <desc lang="pt">Becky Brosnan, de 32 anos, desaparece em fevereiro de 2009. Uma mensagem em uma rede social diz que ela partiu parau0027se encontrar', mas todos dizem que Becky jamais abandonaria seus filhos, o que intriga os investigadores(n)</desc>
+    <credits>
+      <director>Andrea De Brito</director>
+      <actor>Bryn Berg</actor>
+      <actor>Jimmy Dalton</actor>
+      <actor>Heather Gault</actor>
+      <actor>Christine McCann</actor>
+      <actor>Quinn Wood</actor>
+      <actor>Dane West</actor>
+      <actor>Miah Kane</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721162000 -0300" stop="20190721171000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Infância Roubadaa: Segredos Revelados - Parte 2</title>
+    <desc lang="pt">Os detetives seguem novas pistas, obtidas a partir de antigas provas materiais. Frustradas, as famílias das vítimas esperam que as novas tecnologias revelem a identidade do assassino das quatro crianças(n)</desc>
+    <credits>
+      <director>Tara Hughes</director>
+      <actor>Jacqueline Bynon</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721171000 -0300" stop="20190721180000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Vivendo com o Inimigo: A Primeira Vítima</title>
+    <desc lang="pt">Felecia Collier quase mata Chester Turner durante um violento ataque, mas fica aliviada quando descobre que ele sobreviveu. Anos depois, esse momento se torna o maior arrependimento de sua vida(n)</desc>
+    <credits>
+      <director>Joel Pincosy</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190721180000 -0300" stop="20190721185000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Vivendo com o Inimigo: Um Estranho no Ninho</title>
+    <desc lang="pt">Quando seu marido começa a agir de forma estranha, Beverly Stephens teme que seu comportamento bizarro seja um sinal de alerta. Ela não poderia imaginar que está vivendo com um assassino(n)</desc>
+    <credits>
+      <director>Justin Lee Stanley</director>
+      <actor>Khouri St.Surin</actor>
+      <actor>Maurice Little</actor>
+      <actor>Jesse S. Martin</actor>
+      <actor>Logan Raposo</actor>
+      <actor>Aaron Smallwood Jr</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190721185000 -0300" stop="20190721194000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Absoluta Convicção</title>
+    <desc lang="pt">Em 1988, o corpo de Cindy Apelt é encontrado num deserto do Arizona. Os detetives do caso revelam o minucioso trabalho investigativo que levou à resolução do caso e trouxe algum consolo à família(n)</desc>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721194000 -0300" stop="20190721203000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Absoluta Convicção</title>
+    <desc lang="pt">Quando uma mulher e sua filha são assassinadas numa zona rural na Flórida, a polícia não encontra muitas pistas. Mas um misterioso telefonema e o trabalho dos investigadores levam à prisão do assassino(n)</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721203000 -0300" stop="20190721212000 -0300" channel="Investigação Discovery">
+    <title lang="pt">People Magazine: Além Da Notícia: Filhos do Trovão 3ª</title>
+    <desc lang="pt">No verão de 2000, o pânico toma conta da Baía de São Francisco quando sacos com membros humanos começam a aparecer em toda a região. A pistas do caso levam os investigadores a descobrir uma seita secreta macabra(n)</desc>
+    <credits>
+      <director>Stephen Schuster</director>
+      <actor>Sophie Brabenec</actor>
+      <actor>Kristina Burke</actor>
+      <actor>Chad Cuervo !??</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721212000 -0300" stop="20190721220900 -0300" channel="Investigação Discovery">
+    <title lang="pt">Decifrando as Evidências: Assassinato nas Pedras</title>
+    <desc lang="pt">Quando o corpo de uma adolescente é encontrado na beira de um rio com sinais de espancamento, os investigadores interrogam vários suspeitos. Anos depois, o DNA extraído da arma do crime finalmente identifica ao assassino(n)</desc>
+    <credits>
+      <director>Bryan Gildner</director>
+      <actor>Matthew Atchley</actor>
+      <actor>Becky Boyd</actor>
+      <actor>Chris Caulpetzer</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721220900 -0300" stop="20190721225700 -0300" channel="Investigação Discovery">
+    <title lang="pt">Investigação Criminal - Top Cases: Débora Regina</title>
+    <desc lang="pt">Em Campinas, Débora Regina, de 21 anos, foi assassinada dentro de seu carro, e o corpo abandonado sem que nada fosse roubado. Para a família de Débora, o que parecia impossível aconteceu: o assassino vivia e convivia com a jovem(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721225700 -0300" stop="20190721234700 -0300" channel="Investigação Discovery">
+    <title lang="pt">Investigação Criminal - Top Cases: Eloá</title>
+    <desc lang="pt">Eloá Cristina Pereira Pimentel tinha apenas 15 anos quando seu ex-namorado, Lindemberg Fernandes Alves, então com 22 anos, não aceitou o fim do relacionamento e invadiu sua casa em Santo André (SP)(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721234700 -0300" stop="20190722004000 -0300" channel="Investigação Discovery">
+    <title lang="pt">Assassino Desconhecido - Busca Final: Perto Demais</title>
+    <desc lang="pt">Mike Huff se concentra no jovem que namorava Dena Dean em 1998 e nas últimas pessoas com quem a vítima manteve contato no dia em que desapareceu(n)</desc>
+    <credits>
+      <director>Zach Perkins</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721004000 -0300" stop="20190721012800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Vivendo com o Inimigo: A Primeira Vítima</title>
+    <desc lang="pt">Felecia Collier quase mata Chester Turner durante um violento ataque, mas fica aliviada quando descobre que ele sobreviveu. Anos depois, esse momento se torna o maior arrependimento de sua vida(n)</desc>
+    <credits>
+      <director>Joel Pincosy</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190721012800 -0300" stop="20190721021400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Lobo Em Pele De Cordeiro: Fora de Foco</title>
+    <desc lang="pt">Quando Beverly Thompson é golpeada até a morte dentro da própria casa, ninguém desconfia de sua família. Os detetives ficam intrigados, até que o vídeo de um circuito interno de TV mostra que alguém está mentindo(n)</desc>
+    <credits>
+      <director>Nick Davies</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721021400 -0300" stop="20190721030000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Vestígio do Mal: Sementes do Mal</title>
+    <desc lang="pt">Uma jovem é morta a tiros perto de um vilarejo no Alasca. Enquanto a polícia recorre à ciência forense para capturar o assassino, uma testemunha ocular faz uma revelação explosiva que abala a pequena cidade(n)</desc>
+    <credits>
+      <director>Paul Amirault</director>
+      <actor>Eric Reingrover</actor>
+      <actor>Olivia Cordell</actor>
+      <actor>Dan Glenn</actor>
+      <actor>Garrison Oliver Gross</actor>
+      <actor>Jeff Rector</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721030000 -0300" stop="20190721034600 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Seu Pior Pesadelo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Michel Monty</director>
+      <actor>Brianne Cordaro</actor>
+      <actor>Dustin Whitehead</actor>
+      <actor>Jeff Rose</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721034600 -0300" stop="20190721043200 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Seu Pior Pesadelo</title>
+    <desc lang="pt">Quando a jovem Anita Wooldridge desaparece da casa de seus pais, os investigadores precisam analisar as pistas para encontrá-la antes que seja tarde demais(n)</desc>
+    <credits>
+      <actor>Brad Brinkley</actor>
+      <actor>Keith Brooks</actor>
+      <actor>Jt Corbitt</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721043200 -0300" stop="20190721051600 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Gypsy: Uma Vida de Mentira</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721051600 -0300" stop="20190721060400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Gypsy: Uma Vida de Mentira</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721060400 -0300" stop="20190721062800 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Anatomia do Crime</title>
+    <desc lang="pt">Um crime, duas perguntas: como aconteceu? Quem matou? Confira como delegados, peritos e legistas conseguiram encontrar essas respostas em crimes que abalaram o país e mexeram com a opinião pública(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721062800 -0300" stop="20190721071600 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Frios e Calculistas: Lobo Entre Ovelhas</title>
+    <desc lang="pt">Um assassino pervertido ataca mulheres jovens em Bellevue, Washington. Uma pista nada convencional leva a polícia a um assassino improvável, que se esconde à vista de todos(n)</desc>
+    <credits>
+      <actor>Javarius Conway</actor>
+      <actor>Morgan Ipsale</actor>
+      <actor>Darien Johnson</actor>
+      <actor>Denise Santos</actor>
+      <actor>Scott Paul Sloane</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721071600 -0300" stop="20190721080400 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Como Pegar um Assassino: Em Plena Luz do Dia</title>
+    <desc lang="pt">Quando um florista é encontrado morto, a polícia de Granite City descobre que o assassino é um homem engenhoso, que está sempre um passo à frente da investigação. Os detetives precisam trabalhar infiltrados para capturá-lo(n)</desc>
+    <credits>
+      <director>Dan Bush</director>
+      <actor>Jordan Blair Mangold Brown</actor>
+      <actor>Anna Didion</actor>
+      <actor>Jason Drumwright</actor>
+      <actor>Maurice Johnson</actor>
+      <actor>Jeffrey Charles Morgan</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721080400 -0300" stop="20190721085200 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Como Pegar um Assassino: Todas as Unidades</title>
+    <desc lang="pt">O detetive Mike Ritchie persegue o principal suspeito de um homicídio. Quando o assassino aparece a duas horas de viagem do local do crime, a prisão não é tão simples quanto parece(n)</desc>
+    <credits>
+      <director>Dan Bush</director>
+      <actor>Franco Castan</actor>
+      <actor>Adam Cole</actor>
+      <actor>Annie Cook</actor>
+      <actor>Ryan Davenport</actor>
+      <actor>Eric Hawkins</actor>
+      <actor>Julia Denton</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721085200 -0300" stop="20190721094000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Lado Obscuro Dos Anos 90: Estrela Solitária</title>
+    <desc lang="pt">Quando Doris Angleton é baleada com 13 tiros, a polícia supõe que o crime está ligado ao negócio de apostas de seu marido. Mas Doris também escondia um segredo: um caso extraconjugal que começou numa sala de bate-papo(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721094000 -0300" stop="20190721103000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">O Lado Obscuro Dos Anos 90: A Garota Nova</title>
+    <desc lang="pt">Numa zona rural de Indiana, o corpo carbonizado de uma garota é encontrado num campo. Os investigadores descobrem uma trama sinistra, que envolve bruxaria, adolescentes perturbados e um triângulo amoroso amaldiçoado(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721103000 -0300" stop="20190721112000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Prometo Ser Cruel: A Última Promessa</title>
+    <desc lang="pt">Na véspera do ano novo de 2014, um casal tem uma discussão acalorada que termina num assassinato. A polícia descobre que eles mantinham um relacionamento instável e problemático(n)</desc>
+    <credits>
+      <director>Peter G. Gillespie</director>
+      <actor>Chad Boushell</actor>
+      <actor>Claire Coyle</actor>
+      <actor>Chris Edmonds</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721112000 -0300" stop="20190721121000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Vizinho Assassino: A Arte de Matar</title>
+    <desc lang="pt">O assassinato de Shelley Nance a facadas choca a comunidade de Lake Highlands. Todos são suspeitos e a polícia parte em busca do culpado. O que eles descobrem são ciúmes, ódio e uma atração fatal(n)</desc>
+    <credits>
+      <actor>Shawn Abraham</actor>
+      <actor>Marshall Bailey</actor>
+      <actor>Moses Bernal</actor>
+      <actor>Meredith Sullivan</actor>
+      <actor>Laura Zollinhofer</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721121000 -0300" stop="20190721130000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">People Magazine: Além Da Notícia: O Som do Silêncio 3ª</title>
+    <desc lang="pt">A comunidade da Universidade Gallaudet, a melhor faculdade para surdos dos EUA, é abalada quando dois alunos são assassinados em seus dormitórios. Os detetives investigam o campus e descobrem um serial killer(n)</desc>
+    <credits>
+      <director>Stephen Schuster</director>
+      <actor>Eddie Buck</actor>
+      <actor>Mike Carson</actor>
+      <actor>Grant Wright Gunderson</actor>
+      <actor>Crystal Lott</actor>
+      <actor>Georgie Storm Waite</actor>
+      <actor>Brittany Wolf</actor>
+      <actor>Will Morgan</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721130000 -0300" stop="20190721135000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Vestígio do Mal: Sementes do Mal</title>
+    <desc lang="pt">Uma jovem é morta a tiros perto de um vilarejo no Alasca. Enquanto a polícia recorre à ciência forense para capturar o assassino, uma testemunha ocular faz uma revelação explosiva que abala a pequena cidade(n)</desc>
+    <credits>
+      <director>Paul Amirault</director>
+      <actor>Eric Reingrover</actor>
+      <actor>Olivia Cordell</actor>
+      <actor>Dan Glenn</actor>
+      <actor>Garrison Oliver Gross</actor>
+      <actor>Jeff Rector</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721135000 -0300" stop="20190721144000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Seu Pior Pesadelo</title>
+    <desc lang="pt">Quando a jovem Anita Wooldridge desaparece da casa de seus pais, os investigadores precisam analisar as pistas para encontrá-la antes que seja tarde demais(n)</desc>
+    <credits>
+      <actor>Brad Brinkley</actor>
+      <actor>Keith Brooks</actor>
+      <actor>Jt Corbitt</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721144000 -0300" stop="20190721153000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Emboscada</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Yoram Astrakhan</director>
+      <actor>Karma McCain</actor>
+      <actor>Alexi Stavrou</actor>
+      <actor>Christine Bergeron</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721153000 -0300" stop="20190721162000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Os Segredos da Minha Morte: Caminho Sem Volta</title>
+    <desc lang="pt">Becky Brosnan, de 32 anos, desaparece em fevereiro de 2009. Uma mensagem em uma rede social diz que ela partiu parau0027se encontrar', mas todos dizem que Becky jamais abandonaria seus filhos, o que intriga os investigadores(n)</desc>
+    <credits>
+      <director>Andrea De Brito</director>
+      <actor>Bryn Berg</actor>
+      <actor>Jimmy Dalton</actor>
+      <actor>Heather Gault</actor>
+      <actor>Christine McCann</actor>
+      <actor>Quinn Wood</actor>
+      <actor>Dane West</actor>
+      <actor>Miah Kane</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721162000 -0300" stop="20190721171000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Infância Roubadaa: Segredos Revelados - Parte 2</title>
+    <desc lang="pt">Os detetives seguem novas pistas, obtidas a partir de antigas provas materiais. Frustradas, as famílias das vítimas esperam que as novas tecnologias revelem a identidade do assassino das quatro crianças(n)</desc>
+    <credits>
+      <director>Tara Hughes</director>
+      <actor>Jacqueline Bynon</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721171000 -0300" stop="20190721180000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Vivendo com o Inimigo: A Primeira Vítima</title>
+    <desc lang="pt">Felecia Collier quase mata Chester Turner durante um violento ataque, mas fica aliviada quando descobre que ele sobreviveu. Anos depois, esse momento se torna o maior arrependimento de sua vida(n)</desc>
+    <credits>
+      <director>Joel Pincosy</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190721180000 -0300" stop="20190721185000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Vivendo com o Inimigo: Um Estranho no Ninho</title>
+    <desc lang="pt">Quando seu marido começa a agir de forma estranha, Beverly Stephens teme que seu comportamento bizarro seja um sinal de alerta. Ela não poderia imaginar que está vivendo com um assassino(n)</desc>
+    <credits>
+      <director>Justin Lee Stanley</director>
+      <actor>Khouri St.Surin</actor>
+      <actor>Maurice Little</actor>
+      <actor>Jesse S. Martin</actor>
+      <actor>Logan Raposo</actor>
+      <actor>Aaron Smallwood Jr</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190721185000 -0300" stop="20190721194000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Absoluta Convicção</title>
+    <desc lang="pt">Em 1988, o corpo de Cindy Apelt é encontrado num deserto do Arizona. Os detetives do caso revelam o minucioso trabalho investigativo que levou à resolução do caso e trouxe algum consolo à família(n)</desc>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721194000 -0300" stop="20190721203000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Absoluta Convicção</title>
+    <desc lang="pt">Quando uma mulher e sua filha são assassinadas numa zona rural na Flórida, a polícia não encontra muitas pistas. Mas um misterioso telefonema e o trabalho dos investigadores levam à prisão do assassino(n)</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721203000 -0300" stop="20190721212000 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">People Magazine: Além Da Notícia: Filhos do Trovão 3ª</title>
+    <desc lang="pt">No verão de 2000, o pânico toma conta da Baía de São Francisco quando sacos com membros humanos começam a aparecer em toda a região. A pistas do caso levam os investigadores a descobrir uma seita secreta macabra(n)</desc>
+    <credits>
+      <director>Stephen Schuster</director>
+      <actor>Sophie Brabenec</actor>
+      <actor>Kristina Burke</actor>
+      <actor>Chad Cuervo !??</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721212000 -0300" stop="20190721220900 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Decifrando as Evidências: Assassinato nas Pedras</title>
+    <desc lang="pt">Quando o corpo de uma adolescente é encontrado na beira de um rio com sinais de espancamento, os investigadores interrogam vários suspeitos. Anos depois, o DNA extraído da arma do crime finalmente identifica ao assassino(n)</desc>
+    <credits>
+      <director>Bryan Gildner</director>
+      <actor>Matthew Atchley</actor>
+      <actor>Becky Boyd</actor>
+      <actor>Chris Caulpetzer</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721220900 -0300" stop="20190721225700 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Investigação Criminal - Top Cases: Débora Regina</title>
+    <desc lang="pt">Em Campinas, Débora Regina, de 21 anos, foi assassinada dentro de seu carro, e o corpo abandonado sem que nada fosse roubado. Para a família de Débora, o que parecia impossível aconteceu: o assassino vivia e convivia com a jovem(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721225700 -0300" stop="20190721234700 -0300" channel="Investigação Discovery HD">
+    <title lang="pt">Investigação Criminal - Top Cases: Eloá</title>
+    <desc lang="pt">Eloá Cristina Pereira Pimentel tinha apenas 15 anos quando seu ex-namorado, Lindemberg Fernandes Alves, então com 22 anos, não aceitou o fim do relacionamento e invadiu sua casa em Santo André (SP)(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190721000600 -0300" stop="20190721005000 -0300" channel="National Geographic">
+    <title lang="pt">Apollo: Reconstruindo a Jornada Espacial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721005000 -0300" stop="20190721013400 -0300" channel="National Geographic">
+    <title lang="pt">Os Maiores Mistérios do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721013400 -0300" stop="20190721015800 -0300" channel="National Geographic">
+    <title lang="pt">Ciência do Absurdo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721015800 -0300" stop="20190721022300 -0300" channel="National Geographic">
+    <title lang="pt">Ciência do Absurdo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721022300 -0300" stop="20190721031200 -0300" channel="National Geographic">
+    <title lang="pt">As Maiores Máquinas do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721031200 -0300" stop="20190721035900 -0300" channel="National Geographic">
+    <title lang="pt">Engenharia Fantástica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721035900 -0300" stop="20190721044800 -0300" channel="National Geographic">
+    <title lang="pt">Construções Extraordinárias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721044800 -0300" stop="20190721053200 -0300" channel="National Geographic">
+    <title lang="pt">Missão à Saturno: Desvendando os Anéis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721053200 -0300" stop="20190721061600 -0300" channel="National Geographic">
+    <title lang="pt">Plutão: Além do Destino Final</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721061600 -0300" stop="20190721063800 -0300" channel="National Geographic">
+    <title lang="pt">Truques da Mente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721063800 -0300" stop="20190721070000 -0300" channel="National Geographic">
+    <title lang="pt">Truques da Mente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721070000 -0300" stop="20190721083000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721083000 -0300" stop="20190721090000 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721090000 -0300" stop="20190721095900 -0300" channel="National Geographic">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721095900 -0300" stop="20190721101200 -0300" channel="National Geographic">
+    <title lang="pt">Exploradores Espaciais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721101200 -0300" stop="20190721102700 -0300" channel="National Geographic">
+    <title lang="pt">Exploradores Espaciais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721102700 -0300" stop="20190721104800 -0300" channel="National Geographic">
+    <title lang="pt">Opa Popa Dupa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721104800 -0300" stop="20190721114400 -0300" channel="National Geographic">
+    <title lang="pt">Os Bravos do Rio Yukon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721114400 -0300" stop="20190721121100 -0300" channel="National Geographic">
+    <title lang="pt">Prazer À La Carte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721121100 -0300" stop="20190721123800 -0300" channel="National Geographic">
+    <title lang="pt">O Lado Doce da Índia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721123800 -0300" stop="20190721130300 -0300" channel="National Geographic">
+    <title lang="pt">O Lado Doce da Índia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721130300 -0300" stop="20190721133000 -0300" channel="National Geographic">
+    <title lang="pt">O Lado Doce da Índia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721133000 -0300" stop="20190721135500 -0300" channel="National Geographic">
+    <title lang="pt">O Lado Doce da Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721135500 -0300" stop="20190721144300 -0300" channel="National Geographic">
+    <title lang="pt">The Hot Zone: A História do Ebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721144300 -0300" stop="20190721153600 -0300" channel="National Geographic">
+    <title lang="pt">Apollo: Reconstruindo a Jornada Espacial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721153600 -0300" stop="20190721162200 -0300" channel="National Geographic">
+    <title lang="pt">Apollo: Reconstruindo a Jornada Espacial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721162200 -0300" stop="20190721180000 -0300" channel="National Geographic">
+    <title lang="pt">Apollo: Missão à Lua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721180000 -0300" stop="20190721184400 -0300" channel="National Geographic">
+    <title lang="pt">Segredos do Fundo do Mar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721184400 -0300" stop="20190721193000 -0300" channel="National Geographic">
+    <title lang="pt">Segredos do Fundo do Mar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721193000 -0300" stop="20190721201900 -0300" channel="National Geographic">
+    <title lang="pt">Vale dos Reis: Tesouros do Egito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721201900 -0300" stop="20190721210700 -0300" channel="National Geographic">
+    <title lang="pt">Especial de Mayday! Desastres Aéreos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721210700 -0300" stop="20190721215500 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Canadá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721215500 -0300" stop="20190721224300 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Peru</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721224300 -0300" stop="20190721233000 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Peru</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721233000 -0300" stop="20190722001800 -0300" channel="National Geographic">
+    <title lang="pt">Aeroporto: Peru</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721000600 -0300" stop="20190721005000 -0300" channel="National Geographic HD">
+    <title lang="pt">Apollo: Reconstruindo a Jornada Espacial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721005000 -0300" stop="20190721013400 -0300" channel="National Geographic HD">
+    <title lang="pt">Os Maiores Mistérios do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721013400 -0300" stop="20190721015800 -0300" channel="National Geographic HD">
+    <title lang="pt">Ciência do Absurdo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721015800 -0300" stop="20190721022300 -0300" channel="National Geographic HD">
+    <title lang="pt">Ciência do Absurdo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721022300 -0300" stop="20190721031200 -0300" channel="National Geographic HD">
+    <title lang="pt">As Maiores Máquinas do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721031200 -0300" stop="20190721035900 -0300" channel="National Geographic HD">
+    <title lang="pt">Engenharia Fantástica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721035900 -0300" stop="20190721044800 -0300" channel="National Geographic HD">
+    <title lang="pt">Construções Extraordinárias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721044800 -0300" stop="20190721053200 -0300" channel="National Geographic HD">
+    <title lang="pt">Missão à Saturno: Desvendando os Anéis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721053200 -0300" stop="20190721061600 -0300" channel="National Geographic HD">
+    <title lang="pt">Plutão: Além do Destino Final</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721061600 -0300" stop="20190721063800 -0300" channel="National Geographic HD">
+    <title lang="pt">Truques da Mente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721063800 -0300" stop="20190721070000 -0300" channel="National Geographic HD">
+    <title lang="pt">Truques da Mente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721070000 -0300" stop="20190721083000 -0300" channel="National Geographic HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721083000 -0300" stop="20190721090000 -0300" channel="National Geographic HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721090000 -0300" stop="20190721095900 -0300" channel="National Geographic HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721095900 -0300" stop="20190721101200 -0300" channel="National Geographic HD">
+    <title lang="pt">Exploradores Espaciais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721101200 -0300" stop="20190721102700 -0300" channel="National Geographic HD">
+    <title lang="pt">Exploradores Espaciais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721102700 -0300" stop="20190721104800 -0300" channel="National Geographic HD">
+    <title lang="pt">Opa Popa Dupa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721104800 -0300" stop="20190721114400 -0300" channel="National Geographic HD">
+    <title lang="pt">Os Bravos do Rio Yukon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721114400 -0300" stop="20190721121100 -0300" channel="National Geographic HD">
+    <title lang="pt">Prazer À La Carte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721121100 -0300" stop="20190721123800 -0300" channel="National Geographic HD">
+    <title lang="pt">O Lado Doce da Índia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721123800 -0300" stop="20190721130300 -0300" channel="National Geographic HD">
+    <title lang="pt">O Lado Doce da Índia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721130300 -0300" stop="20190721133000 -0300" channel="National Geographic HD">
+    <title lang="pt">O Lado Doce da Índia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721133000 -0300" stop="20190721135500 -0300" channel="National Geographic HD">
+    <title lang="pt">O Lado Doce da Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721135500 -0300" stop="20190721144300 -0300" channel="National Geographic HD">
+    <title lang="pt">The Hot Zone: A História do Ebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721144300 -0300" stop="20190721153600 -0300" channel="National Geographic HD">
+    <title lang="pt">Apollo: Reconstruindo a Jornada Espacial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721153600 -0300" stop="20190721162200 -0300" channel="National Geographic HD">
+    <title lang="pt">Apollo: Reconstruindo a Jornada Espacial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721162200 -0300" stop="20190721180000 -0300" channel="National Geographic HD">
+    <title lang="pt">Apollo: Missão à Lua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721180000 -0300" stop="20190721184400 -0300" channel="National Geographic HD">
+    <title lang="pt">Segredos do Fundo do Mar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721184400 -0300" stop="20190721193000 -0300" channel="National Geographic HD">
+    <title lang="pt">Segredos do Fundo do Mar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721193000 -0300" stop="20190721201900 -0300" channel="National Geographic HD">
+    <title lang="pt">Vale dos Reis: Tesouros do Egito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721201900 -0300" stop="20190721210700 -0300" channel="National Geographic HD">
+    <title lang="pt">Especial de Mayday! Desastres Aéreos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721210700 -0300" stop="20190721215500 -0300" channel="National Geographic HD">
+    <title lang="pt">Aeroporto: Canadá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721215500 -0300" stop="20190721224300 -0300" channel="National Geographic HD">
+    <title lang="pt">Aeroporto: Peru</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721224300 -0300" stop="20190721233000 -0300" channel="National Geographic HD">
+    <title lang="pt">Aeroporto: Peru</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721233000 -0300" stop="20190722001800 -0300" channel="National Geographic HD">
+    <title lang="pt">Aeroporto: Peru</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721000000 -0300" stop="20190721003000 -0300" channel="BabyTv">
+    <title lang="pt">Oceano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721003000 -0300" stop="20190721010000 -0300" channel="BabyTv">
+    <title lang="pt">Crepúsculo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721010000 -0300" stop="20190721013000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721013000 -0300" stop="20190721020000 -0300" channel="BabyTv">
+    <title lang="pt">Noites Estreladas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721020000 -0300" stop="20190721023000 -0300" channel="BabyTv">
+    <title lang="pt">Céu Noturno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721023000 -0300" stop="20190721030000 -0300" channel="BabyTv">
+    <title lang="pt">Céu Noturno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721030000 -0300" stop="20190721033000 -0300" channel="BabyTv">
+    <title lang="pt">Flor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721033000 -0300" stop="20190721040000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721040000 -0300" stop="20190721043000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721043000 -0300" stop="20190721050000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721050000 -0300" stop="20190721053000 -0300" channel="BabyTv">
+    <title lang="pt">Os Ratinhos Construtores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721053000 -0300" stop="20190721060000 -0300" channel="BabyTv">
+    <title lang="pt">Charlie e o Alfabeto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721060000 -0300" stop="20190721063000 -0300" channel="BabyTv">
+    <title lang="pt">Pim e Pimba</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721063000 -0300" stop="20190721070000 -0300" channel="BabyTv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721070000 -0300" stop="20190721073000 -0300" channel="BabyTv">
+    <title lang="pt">Rocco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721073000 -0300" stop="20190721080000 -0300" channel="BabyTv">
+    <title lang="pt">Estúdios BabyTV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721080000 -0300" stop="20190721083000 -0300" channel="BabyTv">
+    <title lang="pt">Trilha do Caracol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721083000 -0300" stop="20190721090000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721090000 -0300" stop="20190721093000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721093000 -0300" stop="20190721100000 -0300" channel="BabyTv">
+    <title lang="pt">Billy Bam Bam</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721100000 -0300" stop="20190721103000 -0300" channel="BabyTv">
+    <title lang="pt">Acompanha o Mick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721103000 -0300" stop="20190721110000 -0300" channel="BabyTv">
+    <title lang="pt">Estúdios BabyTV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721110000 -0300" stop="20190721113000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721113000 -0300" stop="20190721120000 -0300" channel="BabyTv">
+    <title lang="pt">Trilha do Caracol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721120000 -0300" stop="20190721123000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721123000 -0300" stop="20190721130000 -0300" channel="BabyTv">
+    <title lang="pt">Gi-Raffa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721130000 -0300" stop="20190721133000 -0300" channel="BabyTv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721133000 -0300" stop="20190721140000 -0300" channel="BabyTv">
+    <title lang="pt">O Grupo dos Pequenos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721140000 -0300" stop="20190721143000 -0300" channel="BabyTv">
+    <title lang="pt">Os Ratinhos Construtores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721143000 -0300" stop="20190721150000 -0300" channel="BabyTv">
+    <title lang="pt">Que Dia Maravilhoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721150000 -0300" stop="20190721153000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721153000 -0300" stop="20190721160000 -0300" channel="BabyTv">
+    <title lang="pt">O Circo Veio à Cidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721160000 -0300" stop="20190721163000 -0300" channel="BabyTv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721163000 -0300" stop="20190721170000 -0300" channel="BabyTv">
+    <title lang="pt">Acompanha o Mick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721170000 -0300" stop="20190721173000 -0300" channel="BabyTv">
+    <title lang="pt">Charlie e o Alfabeto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721173000 -0300" stop="20190721180000 -0300" channel="BabyTv">
+    <title lang="pt">Pim e Pimba</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721180000 -0300" stop="20190721183000 -0300" channel="BabyTv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721183000 -0300" stop="20190721190000 -0300" channel="BabyTv">
+    <title lang="pt">Gi-Raffa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721190000 -0300" stop="20190721193000 -0300" channel="BabyTv">
+    <title lang="pt">LaLe Ki LoLu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721193000 -0300" stop="20190721200000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721200000 -0300" stop="20190721203000 -0300" channel="BabyTv">
+    <title lang="pt">O Mundo de Louie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721203000 -0300" stop="20190721210000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721210000 -0300" stop="20190721213000 -0300" channel="BabyTv">
+    <title lang="pt">Bola de Cristal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721213000 -0300" stop="20190721220000 -0300" channel="BabyTv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721220000 -0300" stop="20190721223000 -0300" channel="BabyTv">
+    <title lang="pt">Estrela Cadente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721223000 -0300" stop="20190721230000 -0300" channel="BabyTv">
+    <title lang="pt">Concertino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721230000 -0300" stop="20190721233000 -0300" channel="BabyTv">
+    <title lang="pt">Flor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721233000 -0300" stop="20190722000000 -0300" channel="BabyTv">
+    <title lang="pt">Concertino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721000000 -0300" stop="20190721003000 -0300" channel="Band News">
+    <title lang="pt">BandNews DOCs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721003000 -0300" stop="20190721030000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721030000 -0300" stop="20190721033000 -0300" channel="Band News">
+    <title lang="pt">Capital Natural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721033000 -0300" stop="20190721060000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721060000 -0300" stop="20190721073000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721073000 -0300" stop="20190721090000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721090000 -0300" stop="20190721093000 -0300" channel="Band News">
+    <title lang="pt">BandNews DOCs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721093000 -0300" stop="20190721110000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721110000 -0300" stop="20190721113000 -0300" channel="Band News">
+    <title lang="pt">Feiras &amp; Negócios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721113000 -0300" stop="20190721150000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721150000 -0300" stop="20190721153000 -0300" channel="Band News">
+    <title lang="pt">Conexão com The New York Times</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721153000 -0300" stop="20190721160000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721160000 -0300" stop="20190721163000 -0300" channel="Band News">
+    <title lang="pt">Capital Natural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721163000 -0300" stop="20190721173000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721173000 -0300" stop="20190721180000 -0300" channel="Band News">
+    <title lang="pt">Ponto a Ponto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721180000 -0300" stop="20190721210000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721210000 -0300" stop="20190721220000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721220000 -0300" stop="20190721223000 -0300" channel="Band News">
+    <title lang="pt">Conexão com The New York Times</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721223000 -0300" stop="20190722000000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721000000 -0300" stop="20190721003000 -0300" channel="Band News HD">
+    <title lang="pt">BandNews DOCs</title>
+    <desc lang="pt">No bandnews docs você encontra um espaço dedicado a exibição de documentários(n)</desc>
+    <credits>
+      <director>Fernando Mitre</director>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721003000 -0300" stop="20190721030000 -0300" channel="Band News HD">
+    <title lang="pt">Madrugada Bandnews</title>
+    <desc lang="pt">As notícias não param nem durante a madrugada e o BandNews também não. Jornais atualizados com as principais informações a cada 30 minutos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721030000 -0300" stop="20190721033000 -0300" channel="Band News HD">
+    <title lang="pt">Capital Natural</title>
+    <desc lang="pt">Um debate que registra as mudanças que ocorrem na sociedade em direção ao desenvolvimento sustentável(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721033000 -0300" stop="20190721060000 -0300" channel="Band News HD">
+    <title lang="pt">Madrugada Bandnews</title>
+    <desc lang="pt">As notícias não param nem durante a madrugada e o BandNews também não. Jornais atualizados com as principais informações a cada 30 minutos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721060000 -0300" stop="20190721073000 -0300" channel="Band News HD">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <desc lang="pt">Principais notícias do Brasil e do mundo, o trânsito e a previsão do tempo. Rafael Colombo comanda o Jornal BandNews: 1ª edição com muita prestação de serviço e a análise dos assuntos mais relevantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721073000 -0300" stop="20190721090000 -0300" channel="Band News HD">
+    <title lang="pt">Manhã Bandnews</title>
+    <desc lang="pt">A atualização das notícias da manhã e tudo o que é importante para você ficar ligado ao longo do dia estão no Manhã BandNews(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721090000 -0300" stop="20190721093000 -0300" channel="Band News HD">
+    <title lang="pt">BandNews DOCs</title>
+    <desc lang="pt">No bandnews docs você encontra um espaço dedicado a exibição de documentários(n)</desc>
+    <credits>
+      <director>Fernando Mitre</director>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721093000 -0300" stop="20190721110000 -0300" channel="Band News HD">
+    <title lang="pt">Manhã Bandnews</title>
+    <desc lang="pt">A atualização das notícias da manhã e tudo o que é importante para você ficar ligado ao longo do dia estão no Manhã BandNews(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721110000 -0300" stop="20190721113000 -0300" channel="Band News HD">
+    <title lang="pt">Feiras &amp; Negócios</title>
+    <desc lang="pt">Cobertura das mais importantes feiras de negócios do mundo, entrevistas com empreendedores de sucesso e os principais lançamentos e tendências do mercado com Carlos D'Goes e Carolina Goes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721113000 -0300" stop="20190721150000 -0300" channel="Band News HD">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <desc lang="pt">A atualização das principais notícias do Brasil e do mundo ao longo para você ficar bem informado ao longo do fim de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721150000 -0300" stop="20190721153000 -0300" channel="Band News HD">
+    <title lang="pt">Conexão com The New York Times</title>
+    <desc lang="pt">Programa com matérias jornalisticas em parceria com o The New York Times(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721153000 -0300" stop="20190721160000 -0300" channel="Band News HD">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <desc lang="pt">A atualização das principais notícias do Brasil e do mundo ao longo para você ficar bem informado ao longo do fim de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721160000 -0300" stop="20190721163000 -0300" channel="Band News HD">
+    <title lang="pt">Capital Natural</title>
+    <desc lang="pt">Um debate que registra as mudanças que ocorrem na sociedade em direção ao desenvolvimento sustentável(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721163000 -0300" stop="20190721173000 -0300" channel="Band News HD">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <desc lang="pt">A atualização das principais notícias do Brasil e do mundo ao longo para você ficar bem informado ao longo do fim de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721173000 -0300" stop="20190721180000 -0300" channel="Band News HD">
+    <title lang="pt">Ponto a Ponto</title>
+    <desc lang="pt">A jornalista Mônica Bergamo e o cientista político Antônio Lavareda recebem convidados para discutir os temas mais importantes da política e do setor público na atualidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721180000 -0300" stop="20190721210000 -0300" channel="Band News HD">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <desc lang="pt">A atualização das principais notícias do Brasil e do mundo ao longo para você ficar bem informado ao longo do fim de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721210000 -0300" stop="20190721220000 -0300" channel="Band News HD">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <desc lang="pt">A atualização das principais notícias do Brasil e do mundo ao longo para você ficar bem informado ao longo do fim de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721220000 -0300" stop="20190721223000 -0300" channel="Band News HD">
+    <title lang="pt">Conexão com The New York Times</title>
+    <desc lang="pt">Programa com matérias jornalisticas em parceria com o The New York Times(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721000000 -0300" stop="20190721010000 -0300" channel="Bis">
+    <title lang="pt">Nile Rodgers</title>
+    <sub-title lang="pt">How To Make It In The Music Busines</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721010000 -0300" stop="20190721020000 -0300" channel="Bis">
+    <title lang="pt">Soundcheck</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721020000 -0300" stop="20190721040000 -0300" channel="Bis">
+    <title lang="pt">Arquivo Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721040000 -0300" stop="20190721050000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721050000 -0300" stop="20190721053000 -0300" channel="Bis">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721053000 -0300" stop="20190721060000 -0300" channel="Bis">
+    <title lang="pt">Multishow Ao Vivo</title>
+    <sub-title lang="pt">Paralamas do Sucesso 30 Anos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721060000 -0300" stop="20190721070000 -0300" channel="Bis">
+    <title lang="pt">Front And Center Presents: George Ezra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721070000 -0300" stop="20190721080000 -0300" channel="Bis">
+    <title lang="pt">Catherine Russell</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721080000 -0300" stop="20190721083000 -0300" channel="Bis">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Lou Reed</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721083000 -0300" stop="20190721090000 -0300" channel="Bis">
+    <title lang="pt">Live @ Home</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721090000 -0300" stop="20190721100000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721100000 -0300" stop="20190721110000 -0300" channel="Bis">
+    <title lang="pt">Los Hermanos 2019</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721110000 -0300" stop="20190721120000 -0300" channel="Bis">
+    <title lang="pt">Iron Maiden: En Vivo Live</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721120000 -0300" stop="20190721140000 -0300" channel="Bis">
+    <title lang="pt">Arquivo Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721140000 -0300" stop="20190721143000 -0300" channel="Bis">
+    <title lang="pt">Multishow Ao Vivo</title>
+    <sub-title lang="pt">Paralamas do Sucesso 30 Anos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721143000 -0300" stop="20190721163000 -0300" channel="Bis">
+    <title lang="pt">Música Boa Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721163000 -0300" stop="20190721170000 -0300" channel="Bis">
+    <title lang="pt">After The Raves</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721170000 -0300" stop="20190721180000 -0300" channel="Bis">
+    <title lang="pt">Soundcheck</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721180000 -0300" stop="20190721183000 -0300" channel="Bis">
+    <title lang="pt">Música Sertaneja Do Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721183000 -0300" stop="20190721190000 -0300" channel="Bis">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721190000 -0300" stop="20190721193000 -0300" channel="Bis">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721193000 -0300" stop="20190721203000 -0300" channel="Bis">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721203000 -0300" stop="20190721213000 -0300" channel="Bis">
+    <title lang="pt">André Midani</title>
+    <sub-title lang="pt">Do Vinil ao Download</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721213000 -0300" stop="20190721223000 -0300" channel="Bis">
+    <title lang="pt">Arquivo Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721223000 -0300" stop="20190721230000 -0300" channel="Bis">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721230000 -0300" stop="20190721233000 -0300" channel="Bis">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721233000 -0300" stop="20190722000000 -0300" channel="Bis">
+    <title lang="pt">Videoclipers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190721000000 -0300" stop="20190721010000 -0300" channel="Bis HD">
+    <title lang="pt">Nile Rodgers - How To Make It In The Music Busines</title>
+    <desc lang="pt">Vencedor do Grammy como produtor, compositor e guitarrista, Nile Rodgers vendeu mais de 300 milhões de discos em 40 anos de carreira. Acompanha o artista e apresenta uma visão dos bastidores do mundo da música(n)</desc>
+    <credits>
+      <director>Francis Hanly</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721010000 -0300" stop="20190721020000 -0300" channel="Bis HD">
+    <title lang="pt">Soundcheck</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721020000 -0300" stop="20190721040000 -0300" channel="Bis HD">
+    <title lang="pt">Arquivo Musical</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721040000 -0300" stop="20190721050000 -0300" channel="Bis HD">
+    <title lang="pt">Versões: Di Ferrero Canta Maroon 5</title>
+    <desc lang="pt">Artistas brasileiros são convidados para fazerem suas versões de clássicos da música. A cada episódio, a obra de uma banda ou de um artista é homenageada(n)</desc>
+    <credits>
+      <director>Guilherme Zattar</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190721050000 -0300" stop="20190721053000 -0300" channel="Bis HD">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes: Estados Unidos 2 (Nashville) 1ª</title>
+    <desc lang="pt">A segunda parada do casal nos Estados Unidos é uma cidade muito importante pra eles: Nashville. Havia sido lá, dois anos antes, que os filmmakers se inspiraram pra criar essa volta ao mundo em 80 videoclipes(n)</desc>
+    <credits>
+      <director>Diana Boccara</director>
+      <director>Leo Longo</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721053000 -0300" stop="20190721060000 -0300" channel="Bis HD">
+    <title lang="pt">Multishow Ao Vivo - Paralamas do Sucesso 30 Anos</title>
+    <desc lang="pt">Transmissão ao vivo do show(n)</desc>
+    <credits>
+      <director>Pedro Secchin</director>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721060000 -0300" stop="20190721070000 -0300" channel="Bis HD">
+    <title lang="pt">Front And Center Presents: George Ezra</title>
+    <desc lang="pt">Show do cantor britânico George Ezra com os hits Budapest, Cassy O e Blame It On Me(n)</desc>
+    <credits>
+      <director>Brad Fuss</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721070000 -0300" stop="20190721080000 -0300" channel="Bis HD">
+    <title lang="pt">Palco Jazz</title>
+    <desc lang="pt">Faixa dedicada aos shows de jazz dos melhores artistas da atualidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721080000 -0300" stop="20190721083000 -0300" channel="Bis HD">
+    <title lang="pt">Video Killed The Radio Star - Lou Reed</title>
+    <desc lang="pt">Série que traça o perfil de bandas e astros da música, mostrando sua trajetória no mundo pop(n)</desc>
+    <credits>
+      <director>Jim Parsons</director>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721083000 -0300" stop="20190721090000 -0300" channel="Bis HD">
+    <title lang="pt">Live @ Home</title>
+    <desc lang="pt">Série músical em que artistas interpretam suas canções de forma intimista em uma casa(n)</desc>
+    <credits>
+      <director>Jamie Anderson</director>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721090000 -0300" stop="20190721100000 -0300" channel="Bis HD">
+    <title lang="pt">Versões: Di Ferrero Canta Maroon 5</title>
+    <desc lang="pt">Artistas brasileiros são convidados para fazerem suas versões de clássicos da música. A cada episódio, a obra de uma banda ou de um artista é homenageada(n)</desc>
+    <credits>
+      <director>Guilherme Zattar</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190721100000 -0300" stop="20190721110000 -0300" channel="Bis HD">
+    <title lang="pt">Los Hermanos 2019 - Ao Vivo</title>
+    <desc lang="pt">Transmissão ao vivo do show do Los Hermanos diretamente do Maracanã(n)</desc>
+    <credits>
+      <director>Tatiana Costa</director>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190721110000 -0300" stop="20190721120000 -0300" channel="Bis HD">
+    <title lang="pt">Iron Maiden: En Vivo Live</title>
+    <desc lang="pt">Show da banda britânica de heavy metal Iron Maiden, realizado em abril de 2011 no Estadio Nacional, em Santiago do Chile(n)</desc>
+    <credits>
+      <director>Andy Matthews</director>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721120000 -0300" stop="20190721140000 -0300" channel="Bis HD">
+    <title lang="pt">Arquivo Musical</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721140000 -0300" stop="20190721143000 -0300" channel="Bis HD">
+    <title lang="pt">Multishow Ao Vivo - Paralamas do Sucesso 30 Anos</title>
+    <desc lang="pt">Transmissão ao vivo do show(n)</desc>
+    <credits>
+      <director>Pedro Secchin</director>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721143000 -0300" stop="20190721163000 -0300" channel="Bis HD">
+    <title lang="pt">Música Boa Ao Vivo</title>
+    <desc lang="pt">Iza comanda a sexta temporada do programa semanal do Multishow. Sempre às terças-feiras, a cantora recebe diferentes convidados que interagem numa grande troca musical, ao vivo(n)</desc>
+    <credits>
+      <director>Tatiana Costa</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190721163000 -0300" stop="20190721170000 -0300" channel="Bis HD">
+    <title lang="pt">After The Raves</title>
+    <desc lang="pt">Série mostra os bastidores do mundo da música eletrônica, com shows de importantes nomes do gênero(n)</desc>
+    <credits>
+      <director>Danny Lee</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721170000 -0300" stop="20190721180000 -0300" channel="Bis HD">
+    <title lang="pt">Soundcheck</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721180000 -0300" stop="20190721183000 -0300" channel="Bis HD">
+    <title lang="pt">Música Sertaneja Do Brasil</title>
+    <desc lang="pt">Nesse episódio, há duas participações especiais. O cantor Milionário canta(n)</desc>
+    <credits>
+      <director>Roberto T. Oliveira</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721183000 -0300" stop="20190721190000 -0300" channel="Bis HD">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes: Estados Unidos 2 (Nashville) 1ª</title>
+    <desc lang="pt">A segunda parada do casal nos Estados Unidos é uma cidade muito importante pra eles: Nashville. Havia sido lá, dois anos antes, que os filmmakers se inspiraram pra criar essa volta ao mundo em 80 videoclipes(n)</desc>
+    <credits>
+      <director>Diana Boccara</director>
+      <director>Leo Longo</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721190000 -0300" stop="20190721193000 -0300" channel="Bis HD">
+    <title lang="pt">Vamos Tocar: Seu Jorge</title>
+    <desc lang="pt">Leo Gandelman recebe nomes da música nacional em um estúdio e tocam grandes sucessos. Entre uma música e outra, Leo bate um papo com o convidado. Nesse episódio, Seu Jorge tocau0027Carolina',u0027Zé do Caroço', entre outros(n)</desc>
+    <credits>
+      <director>Leo Gandelman</director>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721193000 -0300" stop="20190721203000 -0300" channel="Bis HD">
+    <title lang="pt">Versões: Di Ferrero Canta Maroon 5</title>
+    <desc lang="pt">Artistas brasileiros são convidados para fazerem suas versões de clássicos da música. A cada episódio, a obra de uma banda ou de um artista é homenageada(n)</desc>
+    <credits>
+      <director>Guilherme Zattar</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190721203000 -0300" stop="20190721213000 -0300" channel="Bis HD">
+    <title lang="pt">André Midani - Do Vinil ao Download: (Documentário) - Era de Ouro</title>
+    <desc lang="pt">Em um período prolífico para muitos artistas da MPB, André esteve capitaneando carreiras, formando um elenco de primeira e abrindo as portas para a realização de discos que ficaram marcados para sempre(n)</desc>
+    <credits>
+      <director>Andrucha Waddington</director>
+      <director>Maria Izabel Kerti</director>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721213000 -0300" stop="20190721223000 -0300" channel="Bis HD">
+    <title lang="pt">Arquivo Musical</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190721223000 -0300" stop="20190721230000 -0300" channel="Bis HD">
+    <title lang="pt">Setlist</title>
+    <desc lang="pt">Faixa que reúne os melhores clipes nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190721230000 -0300" stop="20190721233000 -0300" channel="Bis HD">
+    <title lang="pt">Lounge</title>
+    <desc lang="pt">Série com grandes sucessos de músicas nacionais e internacionais, em que cantoras interpretam estes variados estilos musicais em um arranjo mais tranquilo e relaxante, no estilo Jazz/Bossa Nova(n)</desc>
+    <credits>
+      <director>Roberto T. Oliveira</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
