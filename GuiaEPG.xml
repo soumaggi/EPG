@@ -1,0 +1,3083 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Tele Cine Fun">
+    <display-name lang="pt">Tele Cine Fun</display-name>
+    <icon src="http://www.lineup.tv.br/canais/telecinefun.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cine+">
+    <display-name lang="pt">Cine+</display-name>
+    <icon src="http://www.lineup.tv.br/canais/kaza.gif|http://www.lineup.tv.br/canais/metv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Extra">
+    <display-name lang="pt">ESPN Extra</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvuniversidade.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Extra HD">
+    <display-name lang="pt">ESPN Extra HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/recordtv-interiorsp.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/pdvsatv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FilmArts">
+    <display-name lang="pt">FilmArts</display-name>
+    <icon src="http://www.lineup.tv.br/canais/intertv.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox Premium 1">
+    <display-name lang="pt">FoxPremium 1</display-name>
+    <icon src="http://www.lineup.tv.br/canais/canaldabiblia.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox Premium 1 HD">
+    <display-name lang="pt">FoxPremium 1 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/eltrece.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox Premium 2">
+    <display-name lang="pt">FoxPremium 2</display-name>
+    <icon src="http://www.lineup.tv.br/canais/metropolenews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox Premium 2 HD">
+    <display-name lang="pt">FoxPremium 2 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/pax.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="pt">History Channel</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redebrasil-bahia.gif|http://www.lineup.tv.br/canais/redebrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="History Channel HD">
+    <display-name lang="pt">History Channel HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvsol-pb.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Investigação Discovery">
+    <display-name lang="pt">Investigação Discovery</display-name>
+    <icon src="http://www.lineup.tv.br/canais/bandnatal.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Investigação Discovery HD">
+    <display-name lang="pt">Investigação Discovery HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/canal11-iguazu.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Nick">
+    <display-name lang="pt">Nick</display-name>
+    <icon src="http://www.lineup.tv.br/canais/comedycentral.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Premiere 9">
+    <display-name lang="pt">Premiere 9</display-name>
+    <icon src="http://www.lineup.tv.br/canais/whptv.gif|http://www.lineup.tv.br/canais/cbs.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Premiere 8">
+    <display-name lang="pt">Premiere 8</display-name>
+    <icon src="http://www.lineup.tv.br/canais/premiere8.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT Ribeirão">
+    <display-name lang="pt">SBT Ribeirão</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sbtinterior.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT Series">
+    <display-name lang="pt">TNT Series</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tntseries.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT Series HD">
+    <display-name lang="pt">TNT Series HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tntseries.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NatGeo Kids">
+    <display-name lang="pt">NatGeo Kids</display-name>
+    <icon src="http://www.lineup.tv.br/canais/natgeokids.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NatGeo Kids HD">
+    <display-name lang="pt">NatGeo Kids HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/natgeokids.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNN Internacional">
+    <display-name lang="pt">CNN Internacional</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="+Globosat HD">
+    <display-name lang="pt">+Globosat HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190723013500 -0300" stop="20190723032000 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Os Batutinhas - Uma Nova Aventura</title>
+    <desc lang="pt">A turminha mais famosa dos anos 90 volta trazendo mais diversão do que nunca! Para impedir que a confeitaria da vovó e o clubinho sejam destruídos, Spanky e seus amigos participam de um show de talentos(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723032000 -0300" stop="20190723050000 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Os Caçadores</title>
+    <desc lang="pt">O casal Carter e Jordyn sempre gostou de explorar o mundo. Quando o aventureiro desaparece, sua esposa conta com a ajuda de seus filhos para descobrir o que pode ter acontecido(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723050000 -0300" stop="20190723063500 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Um Lobo Em Pele De Cordeiro</title>
+    <desc lang="pt">O lobo Grey anseia por ser líder de sua matilha e, com isso, também conquistar o amor de Bianca. Mas, ao entrar na floresta, ele acaba enfeitiçado e transformado em uma ovelha. Agora Grey precisa lidar com sua nova condição(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>Rússia</country>
+  </programme>
+  <programme start="20190723063500 -0300" stop="20190723081500 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Querida, Encolhi As Crianças</title>
+    <desc lang="pt">Wayne é um cientista desastrado, capaz de criar as coisas mais estranhas que imagina, mas, desta vez, ele foi longe demais. Ao construir uma máquina redutora, acidentalmente ele encolhe os seus filhos e os do vizinho ao tamanho de insetos(n)</desc>
+    <date>1989</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA/México</country>
+  </programme>
+  <programme start="20190723081500 -0300" stop="20190723095000 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Querida, Estiquei O Bebê</title>
+    <desc lang="pt">O distraído cientista Wayne Szalinski está de volta testando seu equipamento para uma importante companhia. Mas agora, acidentalmente, ao invés de encolher as crianças, ele estica o bebê(n)</desc>
+    <date>1992</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723095000 -0300" stop="20190723112000 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Batman: O Retorno da Dupla Dinâmica</title>
+    <desc lang="pt">Batman e Robin estão juntos em uma nova missão. Desta vez, o grupo de vilões formado por Mulher-Gato, Coringa, Charada e Pinguim unem seus poderes para aterrorizar Gotham City, restando à Dupla Dinâmica salvar o dia novamente(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723112000 -0300" stop="20190723131500 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Dois É Bom. Três É Demais</title>
+    <desc lang="pt">Carl e Molly estão prestes a iniciar uma vida como casados. Mas, ao descobrirem que seu melhor amigo, Dupree, está desempregado e não tem onde morar, eles o aceitam em sua casa. O convívio desse trio não será fácil, criando problemas para todos(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723131500 -0300" stop="20190723145000 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Os Jetsons e as Super-Estrelas do WWE</title>
+    <desc lang="pt">George Jetson descobre a existência de um lutador do WWE chamado Big Show, congelado há 100 anos. Ele deseja dominar o mundo depois de descobrir que no futuro a modalidade é praticada por robôs(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723145000 -0300" stop="20190723163500 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Um Parto De Viagem</title>
+    <desc lang="pt">Peter Highman (Robert Downey Jr.) está longe de casa e vai ser pai pela primeira vez. Assim, tudo o que ele queria era acompanhar o parto de seu filho e para isso ele tem exatos cinco dias para chegar a Atlanta(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723163500 -0300" stop="20190723182000 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Como Treinar O Seu Dragão</title>
+    <desc lang="pt">Os vikings da Ilha de Berk dedicam suas vidas a combater dragões. Enquanto todos nasceram prontos para a tarefa, Soluço se sente deslocado dos demais(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723182000 -0300" stop="20190723201000 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Como Treinar o Seu Dragão 2</title>
+    <desc lang="pt">Agora que os moradores da ilha de Berk vivem em harmonia com dragões, Soluço e Fúria da Noite acham uma caverna habitada por dragões nada pacíficos e caberá a eles garantir novamente a paz de seu povo(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723201000 -0300" stop="20190723220000 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Abulele: Meu Amigo Monstro</title>
+    <desc lang="pt">Adam se sente sozinho após ter perdido o irmão. Uma criatura lendária, o Abulele, aparece em sua casa e vira seu novo amigo. Quando Adam descobre que Abulele está sendo caçado por forças especiais do governo, ele faz de tudo para ajudar o amigo(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Israel</country>
+  </programme>
+  <programme start="20190723220000 -0300" stop="20190723235500 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Sing: Quem Canta Seus Males Espanta</title>
+    <desc lang="pt">Em uma cidade habitada por animais, o coala Buster decide criar uma competição de canto para salvar seu teatro da falência. Oferecendo um grande prêmio em dinheiro para o vencedor, a disputa movimenta toda a cidade(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723235500 -0300" stop="20190724013000 -0300" channel="Tele Cine Fun">
+    <title lang="pt">Pets - A Vida Secreta Dos Bichos</title>
+    <desc lang="pt">Max é um cão que mora com sua dona, Katie. Quando um dia ela volta para casa com Duke, outro cachorro, Max se sente ameaçado. Após uma confusão, os dois são pegos pela carrocinha. Enquanto tentam fugir, os animais da vizinhança vão ao seu resgate(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>Japão/EUA</country>
+  </programme>
+  <programme start="20190723000000 -0300" stop="20190723010000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723010000 -0300" stop="20190723020000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723020000 -0300" stop="20190723030000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723030000 -0300" stop="20190723040000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723040000 -0300" stop="20190723050000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723050000 -0300" stop="20190723060000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723060000 -0300" stop="20190723070000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723070000 -0300" stop="20190723080000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723080000 -0300" stop="20190723090000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723090000 -0300" stop="20190723100000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723100000 -0300" stop="20190723110000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723110000 -0300" stop="20190723120000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723120000 -0300" stop="20190723130000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723130000 -0300" stop="20190723140000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723140000 -0300" stop="20190723150000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723150000 -0300" stop="20190723160000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723160000 -0300" stop="20190723170000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723170000 -0300" stop="20190723180000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723180000 -0300" stop="20190723190000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723190000 -0300" stop="20190723200000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723200000 -0300" stop="20190723210000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723210000 -0300" stop="20190723220000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723220000 -0300" stop="20190723230000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723230000 -0300" stop="20190724000000 -0300" channel="Premiere 8">
+    <title lang="pt">Premiere 8</title>
+    <desc lang="pt">Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190723004500 -0300" stop="20190723014500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723014500 -0300" stop="20190723023000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes fazem às vezes de auditório(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20190723023000 -0300" stop="20190723031500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723031500 -0300" stop="20190723040000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723040000 -0300" stop="20190723060000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723060000 -0300" stop="20190723070000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723070000 -0300" stop="20190723073000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Experimenta</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20190723073000 -0300" stop="20190723080000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Mudança de Vida Hoje</title>
+    <desc lang="pt">Produção Independente cunho religioso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20190723080000 -0300" stop="20190723103000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723103000 -0300" stop="20190723104500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Dia &amp; Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Programa</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723104500 -0300" stop="20190723110000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">TV Ofertas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20190723110000 -0300" stop="20190723113000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Bem na Hora</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723113000 -0300" stop="20190723121500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">SBT Interior 1ª Edição</title>
+    <date>2015</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723121500 -0300" stop="20190723124500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">SBT Esporte</title>
+    <desc lang="pt">Aqui a gente apita mesmo, em campo e fora dele. É informação com opinião. É o esporte daqui, de um jeito bem gaúcho(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20190723124500 -0300" stop="20190723134500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">SBT &amp; Você</title>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723134500 -0300" stop="20190723141500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Hora da Verdade</title>
+    <desc lang="pt">Pastor Daniel Batista fala sobre o amor de Deus e coloca neste programa o compromisso com a mensagem bíblica(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723141500 -0300" stop="20190723150000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!(n)</desc>
+    <date>1971</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>México</country>
+  </programme>
+  <programme start="20190723150000 -0300" stop="20190723160000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723160000 -0300" stop="20190723171500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723171500 -0300" stop="20190723183000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">A Que Não Podia Amar</title>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>México</country>
+  </programme>
+  <programme start="20190723183000 -0300" stop="20190723192000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">A Dona</title>
+    <desc lang="pt">Valentina é uma jovem que tem tudo para ser feliz: beleza, fortuna e um noivo, a quem ama intensamente. Vive na mansão deixada por seus pais na companhia de sua tia, Isabel, e sua prima, Ivana, que vive corroída pela inveja(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>México</country>
+  </programme>
+  <programme start="20190723192000 -0300" stop="20190723194500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">SBT Interior 2ª Edição</title>
+    <date>2015</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723194500 -0300" stop="20190723202500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723202500 -0300" stop="20190723205000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723205000 -0300" stop="20190723213000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">As Aventuras de Poliana</title>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723213000 -0300" stop="20190723221500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Cúmplices de um Resgate</title>
+    <desc lang="pt">A irmandade é algo muito maior do que uma questão de laços de sangue. Em "Cúmplices de um Resgate" duas meninas mostrarão ao mundo o valor e a transcendência da verdadeira amizade(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>México</country>
+  </programme>
+  <programme start="20190723221500 -0300" stop="20190723231500 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723231500 -0300" stop="20190724010000 -0300" channel="SBT Ribeirão">
+    <title lang="pt">Cine Espetacular</title>
+    <desc lang="pt">Toda terça-feira, a sessão exibe os melhores filmes do cinema(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723001400 -0300" stop="20190723005900 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist - S4E14</title>
+    <desc lang="pt">Jane tenta provar que uma mulher em um julgamento por homicídio é inocente; Summer (Samaire Armstrong) ajuda Cho em um caso(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723005900 -0300" stop="20190723014600 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I - S11E7</title>
+    <desc lang="pt">A equipe de CSIs trabalha na investigação de um assassinato quando um corpo aparece em um centro de reciclagem(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723014600 -0300" stop="20190723023100 -0300" channel="TNT Series">
+    <title lang="pt">Law &amp; Order: Criminal Intent - S6E11</title>
+    <desc lang="pt">O assassinato de uma jovem Muçulmana-Paquistanêsa com a mensagem "4 911" leva Logan e Wheeler a investigar os filhos de um Italiano-Americano e a animosidade entre as famílias(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723023100 -0300" stop="20190723031600 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. Miami - S5E10</title>
+    <desc lang="pt">Um recruta da Marinha é encontrado morto com vários perfurações de bala, mas não se vê nenhum sangue na cena. Os investigadores acabam descobrindo que a vítima foi morta antes de ser baleada(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723031600 -0300" stop="20190723041100 -0300" channel="TNT Series">
+    <title lang="pt">I Am The Night - S1E1</title>
+    <desc lang="pt">Fauna Hodel inicia uma busca desesperada para descobrir quem ela é. Em Los Angeles, Jay Singletary, um ex-fuzileiro naval que virou repórter cobre um caso de um assassinato repulsivo(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723041100 -0300" stop="20190723045600 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. Miami - S7E6</title>
+    <desc lang="pt">Calleigh e Delko correm perigo quando um guindaste choca-se com o arranhanha-céus em que os dois estão. Além disso, o acidente também atrapalha a caçada de Horatio a um chefão do mundo do crime(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723045600 -0300" stop="20190723054000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I - S8E9</title>
+    <desc lang="pt">A equipe investiga uma quadrilha de crime organizado underground. Warrick termina se tornando o suspeito principal em um assassinato relacionado à quadrilha e o seu vício em medicamentos começa ter um grande impacto em seu trabalho como CSI(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723054000 -0300" stop="20190723060000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY - S1E12</title>
+    <desc lang="pt">Mac, Aiden e o detetive Flack encontram suas paciências testadas quando precisam lidar com donos arrogantes quando um treinador de cães é morto(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723060000 -0300" stop="20190723063500 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY - S1E13</title>
+    <desc lang="pt">Mac e Stella investigam o brutal assassinato de um jovem feito por uma gangue, e as provas indicam que ele atirou em alguém na noite de sua morte(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723063500 -0300" stop="20190723072300 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I - S11E8</title>
+    <desc lang="pt">Os CSIs investigam uma série de mortes relacionadas ao envenanemento de água encoberto por uma empresa de fornecimento de energia(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723072300 -0300" stop="20190723080800 -0300" channel="TNT Series">
+    <title lang="pt">Law &amp; Order: Criminal Intent - S6E12</title>
+    <desc lang="pt">Goren e Eames partem para mais uma investigação quando o corpo de Isabel Harrington é encontrado em seu apartamento, as investigações sofrem uma reviravolta e eles logo passam a suspeitar da família de Isabel(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723080800 -0300" stop="20190723085400 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist - S4E15</title>
+    <desc lang="pt">Quando Erica Flynn, que Jane ajudou a condenar por homicídio, alega ter informações sobre a morte de uma trabalhadora de caridade, Jane consegue licença fora da prisão em troca de informações(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723085400 -0300" stop="20190723093800 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I - S5E13</title>
+    <desc lang="pt">Catherine, Warrick e Nick encontram os corpos de duas mulheres enterrados em uma construção. Sara e Catherine têm uma disputa e Sara é suspensa por Ecklie por falta de respeito aos superiores(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723093800 -0300" stop="20190723102400 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY - S3E14</title>
+    <desc lang="pt">Será que saber um segredo pode ser um motivo para um assassinato? A equipe dos CSIs terá que descobrir se a troca de sexo é a causa da morte de uma dançarina(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723102400 -0300" stop="20190723110900 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist - S3E1</title>
+    <desc lang="pt">Depois de seu encontro com Red John, Patrick pensa sobre seu futuro na CBI. Ao mesmo tempo, a equipe investiga dois sequestros grandiosos(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723110900 -0300" stop="20190723115600 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist - S3E2</title>
+    <desc lang="pt">Quando o cunhado de Jane retorna à cidade e se envolve na investigação de um assassinato, Jane deve ajudá-lo apesar de os dois não se entenderem(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723115600 -0300" stop="20190723124300 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. Miami - S10E14</title>
+    <desc lang="pt">Membros de uma irmandade de Miami são assassinados. Uma das mortes ocorre em um estábulo, e a filha do proprietário pode saber alguma coisa sobre o crime(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723124300 -0300" stop="20190723132800 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY - S3E14</title>
+    <desc lang="pt">Será que saber um segredo pode ser um motivo para um assassinato? A equipe dos CSIs terá que descobrir se a troca de sexo é a causa da morte de uma dançarina(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723132800 -0300" stop="20190723141400 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist - S4E15</title>
+    <desc lang="pt">Quando Erica Flynn, que Jane ajudou a condenar por homicídio, alega ter informações sobre a morte de uma trabalhadora de caridade, Jane consegue licença fora da prisão em troca de informações(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723141400 -0300" stop="20190723150000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I - S5E13</title>
+    <desc lang="pt">Catherine, Warrick e Nick encontram os corpos de duas mulheres enterrados em uma construção. Sara e Catherine têm uma disputa e Sara é suspensa por Ecklie por falta de respeito aos superiores(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723150000 -0300" stop="20190723154900 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. Miami - S7E7</title>
+    <desc lang="pt">Um homem é algemado e esfaqueado em um quarto de hotel. A investigação desse crime é ameaçada por uma brincadeira no laboratório que causa uma briga entre os membros da equipe(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723154900 -0300" stop="20190723163400 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist - S3E1</title>
+    <desc lang="pt">Depois de seu encontro com Red John, Patrick pensa sobre seu futuro na CBI. Ao mesmo tempo, a equipe investiga dois sequestros grandiosos(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723163400 -0300" stop="20190723172200 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist - S3E2</title>
+    <desc lang="pt">Quando o cunhado de Jane retorna à cidade e se envolve na investigação de um assassinato, Jane deve ajudá-lo apesar de os dois não se entenderem(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723172200 -0300" stop="20190723182000 -0300" channel="TNT Series">
+    <title lang="pt">I Am The Night - S1E1</title>
+    <desc lang="pt">Fauna Hodel inicia uma busca desesperada para descobrir quem ela é. Em Los Angeles, Jay Singletary, um ex-fuzileiro naval que virou repórter cobre um caso de um assassinato repulsivo(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723182000 -0300" stop="20190723185400 -0300" channel="TNT Series">
+    <title lang="pt">Rua Augusta - S1E3</title>
+    <desc lang="pt">Mika, ganha a vida dançando na Boate Love e se divertindo na balada Hell, localizada na icônica Rua Augusta, da capital paulista(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723185400 -0300" stop="20190723192700 -0300" channel="TNT Series">
+    <title lang="pt">Rua Augusta - S1E4</title>
+    <desc lang="pt">Mika, ganha a vida dançando na Boate Love e se divertindo na balada Hell, localizada na icônica Rua Augusta, da capital paulista(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723192700 -0300" stop="20190723201300 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. Miami - S10E14</title>
+    <desc lang="pt">Membros de uma irmandade de Miami são assassinados. Uma das mortes ocorre em um estábulo, e a filha do proprietário pode saber alguma coisa sobre o crime(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723201300 -0300" stop="20190723205800 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I - S5E13</title>
+    <desc lang="pt">Catherine, Warrick e Nick encontram os corpos de duas mulheres enterrados em uma construção. Sara e Catherine têm uma disputa e Sara é suspensa por Ecklie por falta de respeito aos superiores(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723205800 -0300" stop="20190723214400 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist - S3E1</title>
+    <desc lang="pt">Depois de seu encontro com Red John, Patrick pensa sobre seu futuro na CBI. Ao mesmo tempo, a equipe investiga dois sequestros grandiosos(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723214400 -0300" stop="20190723223000 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist - S3E2</title>
+    <desc lang="pt">Quando o cunhado de Jane retorna à cidade e se envolve na investigação de um assassinato, Jane deve ajudá-lo apesar de os dois não se entenderem(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723223000 -0300" stop="20190723231700 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. Miami - S7E7</title>
+    <desc lang="pt">Um homem é algemado e esfaqueado em um quarto de hotel. A investigação desse crime é ameaçada por uma brincadeira no laboratório que causa uma briga entre os membros da equipe(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723231700 -0300" stop="20190724000100 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I - S8E10</title>
+    <desc lang="pt">O mundo da briga ilegal de cães é explorado por Grissom e o resto da equipe, quando eles pegam o caso de uma socialite rica, que foi assassinada. Enquanto isso, Warrick luta para limpar o seu nome no caso do assassinato da dançarina exótica(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723001400 -0300" stop="20190723005900 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist - S4E14</title>
+    <desc lang="pt">Jane tenta provar que uma mulher em um julgamento por homicídio é inocente; Summer (Samaire Armstrong) ajuda Cho em um caso(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723005900 -0300" stop="20190723014600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S11E7</title>
+    <desc lang="pt">A equipe de CSIs trabalha na investigação de um assassinato quando um corpo aparece em um centro de reciclagem(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723014600 -0300" stop="20190723023100 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent - S6E11</title>
+    <desc lang="pt">O assassinato de uma jovem Muçulmana-Paquistanêsa com a mensagem "4 911" leva Logan e Wheeler a investigar os filhos de um Italiano-Americano e a animosidade entre as famílias(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723023100 -0300" stop="20190723031600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S5E10</title>
+    <desc lang="pt">Um recruta da Marinha é encontrado morto com vários perfurações de bala, mas não se vê nenhum sangue na cena. Os investigadores acabam descobrindo que a vítima foi morta antes de ser baleada(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723031600 -0300" stop="20190723041100 -0300" channel="TNT Series HD">
+    <title lang="pt">I Am The Night - S1E1</title>
+    <desc lang="pt">Fauna Hodel inicia uma busca desesperada para descobrir quem ela é. Em Los Angeles, Jay Singletary, um ex-fuzileiro naval que virou repórter cobre um caso de um assassinato repulsivo(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723041100 -0300" stop="20190723045600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S7E6</title>
+    <desc lang="pt">Calleigh e Delko correm perigo quando um guindaste choca-se com o arranhanha-céus em que os dois estão. Além disso, o acidente também atrapalha a caçada de Horatio a um chefão do mundo do crime(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723045600 -0300" stop="20190723054000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S8E9</title>
+    <desc lang="pt">A equipe investiga uma quadrilha de crime organizado underground. Warrick termina se tornando o suspeito principal em um assassinato relacionado à quadrilha e o seu vício em medicamentos começa ter um grande impacto em seu trabalho como CSI(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723054000 -0300" stop="20190723060000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S1E12</title>
+    <desc lang="pt">Mac, Aiden e o detetive Flack encontram suas paciências testadas quando precisam lidar com donos arrogantes quando um treinador de cães é morto(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723060000 -0300" stop="20190723063500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S1E13</title>
+    <desc lang="pt">Mac e Stella investigam o brutal assassinato de um jovem feito por uma gangue, e as provas indicam que ele atirou em alguém na noite de sua morte(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723063500 -0300" stop="20190723072300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S11E8</title>
+    <desc lang="pt">Os CSIs investigam uma série de mortes relacionadas ao envenanemento de água encoberto por uma empresa de fornecimento de energia(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723072300 -0300" stop="20190723080800 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent - S6E12</title>
+    <desc lang="pt">Goren e Eames partem para mais uma investigação quando o corpo de Isabel Harrington é encontrado em seu apartamento, as investigações sofrem uma reviravolta e eles logo passam a suspeitar da família de Isabel(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723080800 -0300" stop="20190723085400 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist - S4E15</title>
+    <desc lang="pt">Quando Erica Flynn, que Jane ajudou a condenar por homicídio, alega ter informações sobre a morte de uma trabalhadora de caridade, Jane consegue licença fora da prisão em troca de informações(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723085400 -0300" stop="20190723093800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S5E13</title>
+    <desc lang="pt">Catherine, Warrick e Nick encontram os corpos de duas mulheres enterrados em uma construção. Sara e Catherine têm uma disputa e Sara é suspensa por Ecklie por falta de respeito aos superiores(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723093800 -0300" stop="20190723102400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S3E14</title>
+    <desc lang="pt">Será que saber um segredo pode ser um motivo para um assassinato? A equipe dos CSIs terá que descobrir se a troca de sexo é a causa da morte de uma dançarina(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723102400 -0300" stop="20190723110900 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist - S3E1</title>
+    <desc lang="pt">Depois de seu encontro com Red John, Patrick pensa sobre seu futuro na CBI. Ao mesmo tempo, a equipe investiga dois sequestros grandiosos(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723110900 -0300" stop="20190723115600 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist - S3E2</title>
+    <desc lang="pt">Quando o cunhado de Jane retorna à cidade e se envolve na investigação de um assassinato, Jane deve ajudá-lo apesar de os dois não se entenderem(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723115600 -0300" stop="20190723124300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S10E14</title>
+    <desc lang="pt">Membros de uma irmandade de Miami são assassinados. Uma das mortes ocorre em um estábulo, e a filha do proprietário pode saber alguma coisa sobre o crime(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723124300 -0300" stop="20190723132800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY - S3E14</title>
+    <desc lang="pt">Será que saber um segredo pode ser um motivo para um assassinato? A equipe dos CSIs terá que descobrir se a troca de sexo é a causa da morte de uma dançarina(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723132800 -0300" stop="20190723141400 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist - S4E15</title>
+    <desc lang="pt">Quando Erica Flynn, que Jane ajudou a condenar por homicídio, alega ter informações sobre a morte de uma trabalhadora de caridade, Jane consegue licença fora da prisão em troca de informações(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723141400 -0300" stop="20190723150000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S5E13</title>
+    <desc lang="pt">Catherine, Warrick e Nick encontram os corpos de duas mulheres enterrados em uma construção. Sara e Catherine têm uma disputa e Sara é suspensa por Ecklie por falta de respeito aos superiores(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723150000 -0300" stop="20190723154900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S7E7</title>
+    <desc lang="pt">Um homem é algemado e esfaqueado em um quarto de hotel. A investigação desse crime é ameaçada por uma brincadeira no laboratório que causa uma briga entre os membros da equipe(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723154900 -0300" stop="20190723163400 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist - S3E1</title>
+    <desc lang="pt">Depois de seu encontro com Red John, Patrick pensa sobre seu futuro na CBI. Ao mesmo tempo, a equipe investiga dois sequestros grandiosos(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723163400 -0300" stop="20190723172200 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist - S3E2</title>
+    <desc lang="pt">Quando o cunhado de Jane retorna à cidade e se envolve na investigação de um assassinato, Jane deve ajudá-lo apesar de os dois não se entenderem(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723172200 -0300" stop="20190723182000 -0300" channel="TNT Series HD">
+    <title lang="pt">I Am The Night - S1E1</title>
+    <desc lang="pt">Fauna Hodel inicia uma busca desesperada para descobrir quem ela é. Em Los Angeles, Jay Singletary, um ex-fuzileiro naval que virou repórter cobre um caso de um assassinato repulsivo(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723182000 -0300" stop="20190723185400 -0300" channel="TNT Series HD">
+    <title lang="pt">Rua Augusta - S1E3</title>
+    <desc lang="pt">Mika, ganha a vida dançando na Boate Love e se divertindo na balada Hell, localizada na icônica Rua Augusta, da capital paulista(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723185400 -0300" stop="20190723192700 -0300" channel="TNT Series HD">
+    <title lang="pt">Rua Augusta - S1E4</title>
+    <desc lang="pt">Mika, ganha a vida dançando na Boate Love e se divertindo na balada Hell, localizada na icônica Rua Augusta, da capital paulista(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723192700 -0300" stop="20190723201300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S10E14</title>
+    <desc lang="pt">Membros de uma irmandade de Miami são assassinados. Uma das mortes ocorre em um estábulo, e a filha do proprietário pode saber alguma coisa sobre o crime(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723201300 -0300" stop="20190723205800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S5E13</title>
+    <desc lang="pt">Catherine, Warrick e Nick encontram os corpos de duas mulheres enterrados em uma construção. Sara e Catherine têm uma disputa e Sara é suspensa por Ecklie por falta de respeito aos superiores(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723205800 -0300" stop="20190723214400 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist - S3E1</title>
+    <desc lang="pt">Depois de seu encontro com Red John, Patrick pensa sobre seu futuro na CBI. Ao mesmo tempo, a equipe investiga dois sequestros grandiosos(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723214400 -0300" stop="20190723223000 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist - S3E2</title>
+    <desc lang="pt">Quando o cunhado de Jane retorna à cidade e se envolve na investigação de um assassinato, Jane deve ajudá-lo apesar de os dois não se entenderem(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723223000 -0300" stop="20190723231700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami - S7E7</title>
+    <desc lang="pt">Um homem é algemado e esfaqueado em um quarto de hotel. A investigação desse crime é ameaçada por uma brincadeira no laboratório que causa uma briga entre os membros da equipe(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723231700 -0300" stop="20190724000100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I - S8E10</title>
+    <desc lang="pt">O mundo da briga ilegal de cães é explorado por Grissom e o resto da equipe, quando eles pegam o caso de uma socialite rica, que foi assassinada. Enquanto isso, Warrick luta para limpar o seu nome no caso do assassinato da dançarina exótica(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country>EUA/Canadá</country>
+  </programme>
+  <programme start="20190723000800 -0300" stop="20190723003300 -0300" channel="NatGeo Kids">
+    <title lang="pt">Acredite, é verdade! - S1E5</title>
+    <desc lang="pt">Você sabia que os tubarões têm sete sentidos e que eles não possuem ossos comuns? Estranho não? Mas acredite, é verdade!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723003300 -0300" stop="20190723004400 -0300" channel="NatGeo Kids">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E22</title>
+    <desc lang="pt">Neste episódio, descubra quem são os animais mais esquentadinhos e atrevidos da natureza. Desde uma lhama que adora cuspir nos outros até um lêmure raivoso. Qual deles será que é o mais petulante?(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723004400 -0300" stop="20190723005700 -0300" channel="NatGeo Kids">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E50</title>
+    <desc lang="pt">Os tubarões são criaturas capazes de amedrontar até mesmo os mais valentes. Descubra neste episódio qual destes predadores merece o título de ser verdadeira uma "máquina de matar". Será que é o tubarão branco, ou o tubarão martelo?(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723005700 -0300" stop="20190723011700 -0300" channel="NatGeo Kids">
+    <title lang="pt">Nat Geo Lab - S1E22</title>
+    <desc lang="pt">Paula Stephânia faz um forno portátil e ecológico. Além disso, ela nos mostra como fazer desaparecer um copo invisível. Para terminar, ela congela o tempo para alguns objetos com o experimento minicápsulas do tempo(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20190723011700 -0300" stop="20190723014200 -0300" channel="NatGeo Kids">
+    <title lang="pt">Nat Geo Lab - S1E1</title>
+    <desc lang="pt">Paula Stephânia faz experimentos caseiros de cinema 3D e de ''água mágica'', que permite ver as coisas ao contrário(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20190723014200 -0300" stop="20190723020800 -0300" channel="NatGeo Kids">
+    <title lang="pt">Buscando Respostas - S5E9</title>
+    <desc lang="pt">Por que meu corpo faz tanto barulho? Nós tossimos, arrotamos, espirramos... E esses são apenas alguns dos sons involuntários. Outros barulhos que fazemos voluntariamente podem ser também bastante impressionantes(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723020800 -0300" stop="20190723023200 -0300" channel="NatGeo Kids">
+    <title lang="pt">Animal Mania - S2E2</title>
+    <desc lang="pt">Neste episódio: formigas, macacos e sanguessugas. E mais: adoráveis filhotes de leão e um truque para seu cão aprender a cumprimentar com a patinha(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723023200 -0300" stop="20190723025800 -0300" channel="NatGeo Kids">
+    <title lang="pt">Acredite, é verdade! - S2E9</title>
+    <desc lang="pt">Não importa o quanto tente, Kirby não consegue cultivar nenhuma fruta! Então, cabe a Charlie provar para sua irmã que as abelhas não são pequenas pragas, mas os polinizadores perfeitos que vão solucionar o problema!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723025800 -0300" stop="20190723030900 -0300" channel="NatGeo Kids">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E15</title>
+    <desc lang="pt">Descubra quais são os animais mais fedidos do planeta. Além dos abutres e das hienas, os hipopótamos também entram nessa lista. Alguns desses animais usam seu fedor como defesa, outros até para atrair um companheiro!(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723030900 -0300" stop="20190723032200 -0300" channel="NatGeo Kids">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E44</title>
+    <desc lang="pt">Quem disse que é preciso ter asas para voar? Junte-se a nós na busca pelo voador mais maluco do reino animal. De lagartos a esquilos, descubra neste episódio, quem é o mais criativo quando se trata de levantar voo(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723032200 -0300" stop="20190723034600 -0300" channel="NatGeo Kids">
+    <title lang="pt">Nat Geo Lab - S1E5</title>
+    <desc lang="pt">Paula Stephânia faz os experimentos peira lunar, garfos acrobatas e lanterna detetive. Já Tubeto enfrenta desafios sobre o ar, o ouvido e a luz solar(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20190723034600 -0300" stop="20190723035800 -0300" channel="NatGeo Kids">
+    <title lang="pt">As Aventuras de Blinky Bill - S1E22</title>
+    <desc lang="pt">Blinky e Jacko querem saborear um arco-íris, mas encontram uma Princesa Sapo que chora sem parar. Ela está desconsolada pois seu príncipe não chegou e ela teme ficar sozinha para sempre(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723035800 -0300" stop="20190723041300 -0300" channel="NatGeo Kids">
+    <title lang="pt">As Aventuras de Blinky Bill - S1E50</title>
+    <desc lang="pt">A visita de Jorge, primo de Pablo, traz de volta uma velha disputa entre os dois pássaros. Todas as tentativas de acalmá-los falham(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723041300 -0300" stop="20190723042400 -0300" channel="NatGeo Kids">
+    <title lang="pt">Kody Kapow - S1E22</title>
+    <desc lang="pt">Os macacos acham que encontraram um mapa do tesouro. Porém, o que o mapa realmente mostra é onde está uma erva especial para a sopa da Tia(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723042400 -0300" stop="20190723043800 -0300" channel="NatGeo Kids">
+    <title lang="pt">Kody Kapow - S1E24</title>
+    <desc lang="pt">Os macacos tentam abrir uma porta do templo com música. Então, Kody precisa impedir que Mogo entre no lugar e pegue o tesouro(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723043800 -0300" stop="20190723045100 -0300" channel="NatGeo Kids">
+    <title lang="pt">Beat Bugs - S1E22</title>
+    <desc lang="pt">Os Beat Bugs fazem um misterioso novo amigo chamado Melvin, que tem orgulho dos jogos que ele inventa. Porém, o último jogo que Melvin planejou rapidamente sai do controle(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália/Canadá</country>
+  </programme>
+  <programme start="20190723045100 -0300" stop="20190723050600 -0300" channel="NatGeo Kids">
+    <title lang="pt">Beat Bugs - S1E50</title>
+    <desc lang="pt">Depois de um encontro traumático com Mee-Yow, Buzz recebe um alarme para usar em caso de emergência. Porém, Buzz faz mau uso dele, e os Beat Bugs demoram a reagir quando Mee-Yow retorna!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália/Canadá</country>
+  </programme>
+  <programme start="20190723050600 -0300" stop="20190723051800 -0300" channel="NatGeo Kids">
+    <title lang="pt">Yoko - S1E22</title>
+    <desc lang="pt">As crianças prometem fazer um canteiro de flores para o próximo festival das flores. Com isso, Vik inventa um robô para ajudá-los! Entretanto, o robô arruma as flores de maneira pouco criativa(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Espanha/Rússia</country>
+  </programme>
+  <programme start="20190723051800 -0300" stop="20190723053300 -0300" channel="NatGeo Kids">
+    <title lang="pt">Yoko - S1E50</title>
+    <desc lang="pt">Guarda Loops está orgulhosa de suas flores cheirosas. Entretanto, um fedor acaba com o perfume da primavera. Logo, todos percebem que o mau cheiro vem de Yoko, que nunca tomou banho na vida! Agora, a turma precisa dar um bom um banho nele!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Espanha/Rússia</country>
+  </programme>
+  <programme start="20190723053300 -0300" stop="20190723054400 -0300" channel="NatGeo Kids">
+    <title lang="pt">Pablo - S1E28</title>
+    <desc lang="pt">Pablo abre um pacote de batatas fritas rápido demais. Com isso, elas voam para todos os lados. Para recuperar as batatas, ele e seus amigos têm que ir para o topo de uma montanha, para o fundo do mar e até para a Lua!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20190723054400 -0300" stop="20190723055800 -0300" channel="NatGeo Kids">
+    <title lang="pt">Pablo - S1E50</title>
+    <desc lang="pt">Pablo tem duas pinhas que acabam se tornando exploradoras! Então, elas lideram os Animais do Livro em uma jornada para descobrir sons e texturas(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20190723055800 -0300" stop="20190723061000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Zafari - S1E22</title>
+    <desc lang="pt">Zoomba corre de uma aventura para outra e nunca aproveita o tempo para se divertir. Então, Babatua pede para ele passar o dia com Bubba. Logo, Bubba ensina para Zoomba que também é importante "desacelerar" um pouco!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723061000 -0300" stop="20190723062600 -0300" channel="NatGeo Kids">
+    <title lang="pt">Zafari - S2E22</title>
+    <desc lang="pt">Quincy desaparece, então Zoomba decide que ele precisa agir como Quincy para encontrá-lo - uma tarefa complicada, de fato!(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723062600 -0300" stop="20190723063700 -0300" channel="NatGeo Kids">
+    <title lang="pt">The Jungle Bunch - S1E22</title>
+    <desc lang="pt">Hector, o antigo mestre de Kung Fu de Maurice vai até a floresta. Porém, os babuínos querem roubar os ''Cinco Taos do Trovão'', para se transformarem em guerreiros invencíveis(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723063700 -0300" stop="20190723064900 -0300" channel="NatGeo Kids">
+    <title lang="pt">The Jungle Bunch - S1E50</title>
+    <desc lang="pt">Um gerbil fêmea pede ajuda à turma, pois ela está soluçando há semanas. Com isso, Maurice e seus amigos precisam dar um susto nela para ver se passa(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723064900 -0300" stop="20190723070000 -0300" channel="NatGeo Kids">
+    <title lang="pt">The Jungle Bunch - S2E22</title>
+    <desc lang="pt">Melina se disfarça de velhinha e pede ajuda à turma, pois seu neto está em perigo no pântano da morte. Então, a turma vai para a missão(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723070000 -0300" stop="20190723071500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Galinha Pintadinha Mini - S1E3</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o atrapalhado Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723071500 -0300" stop="20190723073000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Galinha Pintadinha Mini - S1E24</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723073000 -0300" stop="20190723073300 -0300" channel="NatGeo Kids">
+    <title lang="pt">Galinha Pintadinha - S3E4</title>
+    <desc lang="pt">Com bilhões de visualizações na internet, "Galinha Pintadinha" vem encantando crianças de todo o mundo. O programa traz canções infantis alegres com desenhos e legendas animadas que ensinam como é bom cantar e aprender(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723073300 -0300" stop="20190723073500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Galinha Pintadinha - S3E14</title>
+    <desc lang="pt">Com bilhões de visualizações na internet, "Galinha Pintadinha" vem encantando crianças de todo o mundo. O programa traz canções infantis alegres com desenhos e legendas animadas que ensinam como é bom cantar e aprender(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723073500 -0300" stop="20190723074500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Yoko - S2E2</title>
+    <desc lang="pt">Oto tem medo de abelhas, e elas estão em todas as partes! Então, Yoko pede que as abelhas deixem o parque. Com isso, as flores param de crescer. Agora, Yoko e as crianças saem em uma missão para fazer as abelhas voltarem!(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Espanha/Rússia</country>
+  </programme>
+  <programme start="20190723074500 -0300" stop="20190723080000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Yoko - S1E7</title>
+    <desc lang="pt">Oto decide brincar de pega-pega e logo alcança Mai, quando ela está subindo na torre. Porém, ela escapa em seu foguete imaginário que Yoko transforma em realidade!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Espanha/Rússia</country>
+  </programme>
+  <programme start="20190723080000 -0300" stop="20190723080500 -0300" channel="NatGeo Kids">
+    <title lang="pt">O Diário de Bita e Cora - S1E7</title>
+    <desc lang="pt">Os Elms começam a discutir na hora de resolver um problema simples, e a maioria deles não concorda com a solução mais ousada(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Espanha</country>
+  </programme>
+  <programme start="20190723080500 -0300" stop="20190723081000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Os Polos - S1E33</title>
+    <desc lang="pt">Willow deixa um monte de objetos caírem do PoloMobile. Então, os Polos se reúnem para recuperá-los de um jeito rápido e organizado - assim como as formigas que eles observam(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723081000 -0300" stop="20190723082000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Ranger Rob - S1E23</title>
+    <desc lang="pt">Rob e Stomper se unem para limpar um acampamento. Com isso, eles se divertem enquanto fazem o trabalho, até que Sam e Dakota pedem ajuda a Rob com outra tarefa. Então, Rob deixa Stomper sozinho para terminar a limpeza!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723082000 -0300" stop="20190723083500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Ranger Rob - S2E73</title>
+    <desc lang="pt">Rob e Stomper vão observar macacos da neve. Porém, Stomper se aproxima demais deles. Então, os macacos elegem Stomper como o seu líder. Honrado, Stomper não vê o problema... até que surgem problemas(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723083500 -0300" stop="20190723084500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Beat Bugs - S1E23</title>
+    <desc lang="pt">Os Beat Bugs estão indecisos sobre o que fazer com um novo tesouro que eles encontraram no jardim(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália/Canadá</country>
+  </programme>
+  <programme start="20190723084500 -0300" stop="20190723090000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Beat Bugs - S1E24</title>
+    <desc lang="pt">Os Beat Bugs recriam um antigo programa de culinária para ajudar a Granny Bee a lembrar a receita da sua famosa torta de mel(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália/Canadá</country>
+  </programme>
+  <programme start="20190723090000 -0300" stop="20190723090500 -0300" channel="NatGeo Kids">
+    <title lang="pt">O Diário de Bita e Cora - S1E1</title>
+    <desc lang="pt">Bita e Cora viajam pelo espaço até aterrissarem em um planeta desconhecido onde os Elms vivem. Com isso, os Elms fazem amizade com as cosmonautas e as ajudam a consertar a espaçonave delas(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Espanha</country>
+  </programme>
+  <programme start="20190723090500 -0300" stop="20190723091000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Os Polos - S1E27</title>
+    <desc lang="pt">Nash perde o seu bichinho de pelúcia mais uma vez. Agora, os Polos se aventuram em uma das partes mais profundas do oceano para recuperá-lo: a zona batial(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723091000 -0300" stop="20190723093500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Opa Popa Dupa - S1E16</title>
+    <desc lang="pt">Leonordo encontra Eco observando as estrelas com um telescópio. Ao vê-las, ele decide dirigir e protagonizar um filme sobre o sistema solar(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Colômbia</country>
+  </programme>
+  <programme start="20190723093500 -0300" stop="20190723094500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Galinha Pintadinha Mini - S1E17</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723094500 -0300" stop="20190723095500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Galinha Pintadinha Mini - S1E18</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723095500 -0300" stop="20190723095800 -0300" channel="NatGeo Kids">
+    <title lang="pt">Galinha Pintadinha - S3E5</title>
+    <desc lang="pt">Com bilhões de visualizações na internet, "Galinha Pintadinha" vem encantando crianças de todo o mundo. O programa traz canções infantis alegres com desenhos e legendas animadas que ensinam como é bom cantar e aprender(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723095800 -0300" stop="20190723100000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Galinha Pintadinha - S3E1</title>
+    <desc lang="pt">Com bilhões de visualizações na internet, "Galinha Pintadinha" vem encantando crianças de todo o mundo. O programa traz canções infantis alegres com desenhos e legendas animadas que ensinam como é bom cantar e aprender(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723100000 -0300" stop="20190723101500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Dot. - S2E17</title>
+    <desc lang="pt">Dot descobre que a sua colega de classe fará o mesmo projeto de ciências que ela. Então, ela procura inspiração para criar outro projeto e decide estudar sobre os efeitos da luz azul nas pessoas(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723101500 -0300" stop="20190723103000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Dot. - S2E18</title>
+    <desc lang="pt">Greg e o Clube Avançado de Robótica apresentam Dot e Hal a um novo e desafiador jogo chamado RoboBall, que parece com o futebol. Porém, o time é formado por pequenos robôs(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723103000 -0300" stop="20190723104500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Bitz e Bob - S1E16</title>
+    <desc lang="pt">A Princesa Purl precisa completar mais uma tarefa para continuar sendo uma princesa. Com isso, ela deve dançar com o estranho Zippopopomus antes que o sino do castelo soe três vezes. Porém, encontrar o Zippopopomus não será fácil!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20190723104500 -0300" stop="20190723105500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Bitz e Bob - S1E13</title>
+    <desc lang="pt">A tiara da Princesa Purl foi roubada por dois trolls. Então, Bevel tenta ajudar a recuperá-la. Porém, todos ficam congelados ao olharem nos óculos especiais dos trolls. Agora, cabe à Bitz descongelar todo mundo e recuperar a tiara(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20190723105500 -0300" stop="20190723110000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Bitz e Bob - S1E14</title>
+    <desc lang="pt">Bitz e Bob procuram naves espaciais. Então, um foguete cai bem perto deles. Com isso, eles correm para ajudar e encontram dois alienígenas que falam um idioma estranho. Agora, eles precisam ajudá-los a voltar para o espaço!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20190723110000 -0300" stop="20190723111000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Atchim! - S1E45</title>
+    <desc lang="pt">Na escola, todos se esforçam para fazer o melhor projeto para o concurso de ciências e ganhar uma visita ao centro espacial da cidade(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723111000 -0300" stop="20190723112500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Atchim! - S1E18</title>
+    <desc lang="pt">Teo chega da escola e tenta entrar em casa sem ser percebido. Porém, seu pai o espera ansioso para uma tarde de muita diversão!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723112500 -0300" stop="20190723114000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Kody Kapow - S1E17</title>
+    <desc lang="pt">Quando Mogo começa a derreter toda a neve na montanha, Kody precisa trabalhar junto com Mei e Goji para deter sua máquina de calor(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723114000 -0300" stop="20190723115500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Kody Kapow - S1E18</title>
+    <desc lang="pt">Os macacos roubam o que eles pensam ser um ovo de dragão. Com isso, Kody precisa ser muito cuidadoso para recuperar o ovo para a mamãe dragão(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723115500 -0300" stop="20190723121000 -0300" channel="NatGeo Kids">
+    <title lang="pt">The Jungle Bunch - S1E17</title>
+    <desc lang="pt">Depois de travar uma grande batalha contra os piratas e de escapar de algumas armadilhas, a turma da selva conseguirá encontrar o tesouro!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723121000 -0300" stop="20190723122000 -0300" channel="NatGeo Kids">
+    <title lang="pt">The Jungle Bunch - S2E18</title>
+    <desc lang="pt">Gilbert se sente incomodado pelo barulho que seus amigos fazem. Então, ele decide ir embora. Logo, a turma descobre que Melina o sequestrou e mantém Gilbert como refém em um balão de ar quente(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723122000 -0300" stop="20190723123000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Galinha Pintadinha Mini - S1E23</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723123000 -0300" stop="20190723124000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Galinha Pintadinha Mini - S1E6</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o atrapalhado Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723124000 -0300" stop="20190723125000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Nina e os Guardiões E23</title>
+    <desc lang="pt">Nina e a dra. Anna vão cuidar de uma coruja que está ferida e descobrem que ela tem três filhotinhos. Agora, Nina e o seu amigo Fusquinha terão que cuidar deles até que a mamãe coruja retorne(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723125000 -0300" stop="20190723130000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Nina e os Guardiões E6</title>
+    <desc lang="pt">Os guardiões ensinam a diferença entre lago, cachoeira e mar, falam sobre os animais que vivem neles e mostram a importância de não poluir as águas(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723130000 -0300" stop="20190723132500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Opa Popa Dupa - S1E16</title>
+    <desc lang="pt">Leonordo encontra Eco observando as estrelas com um telescópio. Ao vê-las, ele decide dirigir e protagonizar um filme sobre o sistema solar(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Colômbia</country>
+  </programme>
+  <programme start="20190723132500 -0300" stop="20190723133000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Os Fixies - S2E42</title>
+    <desc lang="pt">Fire pensa que enterrar baterias no chão dará mais energia para as mudas de limão de Toola crescerem. Porém, os Fixies logo aprendem sobre os perigos desse hábito(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Rússia</country>
+  </programme>
+  <programme start="20190723133000 -0300" stop="20190723140000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Buscando Respostas - S5E4</title>
+    <desc lang="pt">Narizes grandes sentem mais cheiros? Quando se trata de narizes, o tamanho não faz diferença quando o olfato é bom. O número de receptores olfativos no nariz e a combinação única de genes é o que nos ajudam a sentir os odores(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723140000 -0300" stop="20190723152500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Planeta 51</title>
+    <desc lang="pt">Quando o astronauta Chuck aterrissa no inexplorado Planeta 51 tem uma grande surpresa. Ele se depara com seus habitantes que vivem como as pessoas na Terra e por sua vez temem ser invadidos por alienígenas, como Chuck parece ser(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>Espanha/Reino Unido/EUA</country>
+  </programme>
+  <programme start="20190723152500 -0300" stop="20190723154000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Dino Dana - S2E15</title>
+    <desc lang="pt">Dana conduz a Experiência Dino 615: quem venceria em uma briga? Um Tricerátopo, um Diabloceratops ou um Kosmoceratops? É a hora da batalha dos Ceratopsianos!(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723154000 -0300" stop="20190723155500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Dino Dana - S2E3</title>
+    <desc lang="pt">Alguns familiares do sul da Ásia vêm para um jantar. Com isso, Dana deve proteger de alguns herbívoros famintos, um pimentão picante usado na receita de frango com manteiga do seu pai(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723155500 -0300" stop="20190723162500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Buscando Respostas - S4E3</title>
+    <desc lang="pt">O que é o veneno? Muitos animais e plantas possuem veneno para sobreviver. Nós, humanos, encontramos maneiras de nos proteger. Porém, ainda assim precisamos ser cuidadosos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723162500 -0300" stop="20190723163000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Coruja e a Bicharada E20</title>
+    <desc lang="pt">O Bicho-Pau quer ajudar o Coruja a capturar lagartas. Então, ele pretende transformá-lo em um super-heroí graças a um sistema de propulsão por raios. Porém, o Ovelha é transformada por engano! E agora?(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20190723163000 -0300" stop="20190723164500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Atchim! - S1E7</title>
+    <desc lang="pt">Teo perde sua entrada para o circo. Porém, ele logo vê um filhote de gorila brincando com o ingresso. Teo tenta desesperadamente recuperá-lo, mas ele acaba tendo que encarar a mamãe gorila(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723164500 -0300" stop="20190723170000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Atchim! - S1E8</title>
+    <desc lang="pt">Teo vai a uma excursão na montanha com a turma para construírem esculturas de gelo. No caminho até o topo, Teo espirra e se transforma em um camelo!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723170000 -0300" stop="20190723171000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Jaime e seus Tentáculos - S1E22</title>
+    <desc lang="pt">Erwin e Jaime organizam uma conversa de paz entre os Glogs e os Blarbs para terminar com a guerra(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723171000 -0300" stop="20190723172000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Jaime e seus Tentáculos - S2E39</title>
+    <desc lang="pt">Ralf escapa da Área 51 e se esconde na casa de Erwin. Porém, Ralf é conhecido por todos como "o maior bocó da galáxia". Com isso, todos os planetas os rejeitam. Então, ele não tem outra escolha a não ser ficar escondido na Terra!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723172000 -0300" stop="20190723173000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Furiki Wheels - S1E19</title>
+    <desc lang="pt">André se torna uma celebridade das corridas depois de salvar o Sr. McWildewho com uma manobra ousada. Porém, quando Pepita quer escrever sobre a sua façanha, André precisa esconder que tudo não passou de um mero acidente(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723173000 -0300" stop="20190723174000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Furiki Wheels - S1E20</title>
+    <desc lang="pt">Enquanto Brenda está no lava-jato, André se apaixona por um novo smartcar. Com isso, ele planeja tirá-la do circuito de uma vez por todas(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723174000 -0300" stop="20190723175000 -0300" channel="NatGeo Kids">
+    <title lang="pt">As Escolhas de Chuck - S1E35</title>
+    <desc lang="pt">Chuck encontra Norm totalmente desanimado. Acontece que ele perdeu uma luta, num jogo de ação ao vivo. Chuck escolhe transformar Norm num campeão, e eles vão para um novo mundo onde ele é o campeão de uma tribo mutante(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723175000 -0300" stop="20190723180000 -0300" channel="NatGeo Kids">
+    <title lang="pt">As Escolhas de Chuck - S1E3</title>
+    <desc lang="pt">Chuck escolhe Misha para ser ''mimada como realeza'' e instantaneamente eles viajam no tempo para uma época medieval(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723180000 -0300" stop="20190723180500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Coruja e a Bicharada - S1E23</title>
+    <desc lang="pt">O Morcego não deixa ninguém dormir com os seus soluços. Depois de várias tentativas para fazê-lo parar, os seus vizinhos decidem passar a noite com o Coruja. Com isso, ele se disfarça de monstro para assustar o Morcego(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723180500 -0300" stop="20190723181500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais E4</title>
+    <desc lang="pt">Analu tem medo de tocar violino em frente a uma plateia. Com isso, os irmãos geniais e Soneca a levam para a Áustria e Grécia, para que ela descubra como grandes artistas, como Mozart, se apresentavam em público(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723181500 -0300" stop="20190723182500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais E3</title>
+    <desc lang="pt">É o primeiro dia de aula de Miguel e ele está bastante assustado. Então Júlio, Verne e Soneca resolvem levá-lo em uma viagem pela história, para entender porque as crianças precisam estudar e como isso pode ser muito divertido!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723182500 -0300" stop="20190723183500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais E2</title>
+    <desc lang="pt">Nina, irmã de Júlio e Verne, não consegue largar a chupeta. Para ajudá-la a superar essa fase, Soneca transforma o objeto num grande balão, e todos viajam na história para entender por que a chupeta foi criada(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723183500 -0300" stop="20190723184500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Atchim! - S1E14</title>
+    <desc lang="pt">Teo está esperando Peter para conseguir vencer Flo em seu jogo de videogame favorito. Porém, Peter está preso em sua própria casa! Acontece é que uma galinha escapou do galinheiro e Peter morre de medo delas!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723184500 -0300" stop="20190723185500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Atchim! - S1E15</title>
+    <desc lang="pt">Teo vai para escola pensando em todas as vezes que ele espirrou e precisou enfrentar situações imprevistas. Então, ele decide resistir a todas suas emoções(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723185500 -0300" stop="20190723190000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Javi e o Clube da Árvore - S1E14</title>
+    <desc lang="pt">Enquanto brincam de pique-esconde, os animais do Clube da Árvore ensinam a Javi sobre como eles se camuflam para poder imitarem a natureza. Com isso, Javi fica pensando: será que os vaga-lumes querem se parecer com as estrelas?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20190723190000 -0300" stop="20190723191500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Dino Dana - S2E2</title>
+    <desc lang="pt">Um episódio dividido em duas partes. Dana encontra um bebê Tricerátopo abandonado e tenta devolvê-lo à sua família(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723191500 -0300" stop="20190723193000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Dino Dana - S2E11</title>
+    <desc lang="pt">A srta. Currie pediu a Dana para ajudá-la a adotar um réptil para Trek. Com isso, Dana fica entusiasmada em ajudar e aproveita a oportunidade para comparar os répteis modernos aos Archelon, Deinosuchus e Titanoboa(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723193000 -0300" stop="20190723200000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Acredite, é verdade! - S2E1</title>
+    <desc lang="pt">Charlie e Kirby visitam uma fábrica de papel e aprendem de onde ele vem. Com isso, eles percebem que reciclá-lo pode ajudar a salvar árvores!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723200000 -0300" stop="20190723203000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Buscando Respostas - S4E12</title>
+    <desc lang="pt">Por que existe a dor? A dor é desagradável, mas é o modo como o nosso corpo nos diz quando estamos doentes, machucados ou em perigo(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723203000 -0300" stop="20190723210000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Animal Mania - S2E20</title>
+    <desc lang="pt">Neste episódio: carneiros-azuis, formigas-tecelãs, coalas e uma curiosidade sobre pinguins-de-adélia. E mais: incríveis bisontes e bebês de chacal, além de um truque para seu cão aprender a correr através de um túnel(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723210000 -0300" stop="20190723213000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Nat Geo Lab - S1E13</title>
+    <desc lang="pt">Paula Stephânia faz os experimentos moreias coloridas, o esconde-esconde e um torlouco para viver uma super aventura. O Tubeto faz suas travessuras, enquanto aparecem alguns desafios. A Missão Lab é sobre como reutilizar a água(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20190723213000 -0300" stop="20190723214500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Furiki Wheels - S1E13</title>
+    <desc lang="pt">Brenda fica sem combustível de amendoim. Então, André e Chobado saem em busca de uma lendária terra de amendoim. Porém, eles caem em uma armadilha de Gordon(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723214500 -0300" stop="20190723220000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Furiki Wheels - S1E14</title>
+    <desc lang="pt">André perde o amuleto da sorte de Chobado. Com isso, Chobado decide viver em uma bola protetora de hamster para sempre. Agora, André precisa ajudá-lo enfrentando o seu pior inimigo: Gordon(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723220000 -0300" stop="20190723221500 -0300" channel="NatGeo Kids">
+    <title lang="pt">As Escolhas de Chuck - S1E13</title>
+    <desc lang="pt">Chuck tem um terrível medo de altura e para superá-lo, ele escolhe voar como as aves. Porém, acaba se transformando em uma e vira mãe de um grupo de passarinhos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723221500 -0300" stop="20190723223000 -0300" channel="NatGeo Kids">
+    <title lang="pt">As Escolhas de Chuck - S1E14</title>
+    <desc lang="pt">Chuck está ajudando na grande festa de Biff Adonis, mas não conhece as batatas de pastrami. Então, ele escolhe que as louças o ajudem(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723223000 -0300" stop="20190723230000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Acredite, é verdade! - S1E3</title>
+    <desc lang="pt">Charlie e Kirby embarcam em uma aventura pirata. Está na hora de colocar suas habilidades à prova e ver quais tesouros eles poderão encontrar no fundo do oceano(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723230000 -0300" stop="20190723231500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Dino Dana - S2E7</title>
+    <desc lang="pt">Dana imagina que Cai e ela são homens das cavernas que tentam domesticar um Smilodon. Enquanto isso, Cai lida com o seu novo gato na vida real(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723231500 -0300" stop="20190723233000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Dino Dana - S2E1</title>
+    <desc lang="pt">Um episódio dividido em duas partes. Dana encontra um bebê Tricerátopo abandonado e tenta devolvê-lo à sua família(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723233000 -0300" stop="20190723234500 -0300" channel="NatGeo Kids">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E17</title>
+    <desc lang="pt">Prepare-se para conhecer o banquete dos animais mais gourmets da natureza!  Desde aranhas a besouros, até peixes que ''voam'' para capturar sua comida favorita(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723234500 -0300" stop="20190724000000 -0300" channel="NatGeo Kids">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E18</title>
+    <desc lang="pt">Chegou a vez de conhecer os jardineiros do reino animal. Alguns bichos têm um talento natural para cultivar plantas. Seria a minhoca, rainha da compostagem, ou a girafa, que poda árvores como ninguém?(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723000800 -0300" stop="20190723003300 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Acredite, é verdade! - S1E5</title>
+    <desc lang="pt">Você sabia que os tubarões têm sete sentidos e que eles não possuem ossos comuns? Estranho não? Mas acredite, é verdade!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723003300 -0300" stop="20190723004400 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E22</title>
+    <desc lang="pt">Neste episódio, descubra quem são os animais mais esquentadinhos e atrevidos da natureza. Desde uma lhama que adora cuspir nos outros até um lêmure raivoso. Qual deles será que é o mais petulante?(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723004400 -0300" stop="20190723005700 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E50</title>
+    <desc lang="pt">Os tubarões são criaturas capazes de amedrontar até mesmo os mais valentes. Descubra neste episódio qual destes predadores merece o título de ser verdadeira uma "máquina de matar". Será que é o tubarão branco, ou o tubarão martelo?(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723005700 -0300" stop="20190723011700 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Nat Geo Lab - S1E22</title>
+    <desc lang="pt">Paula Stephânia faz um forno portátil e ecológico. Além disso, ela nos mostra como fazer desaparecer um copo invisível. Para terminar, ela congela o tempo para alguns objetos com o experimento minicápsulas do tempo(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20190723011700 -0300" stop="20190723014200 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Nat Geo Lab - S1E1</title>
+    <desc lang="pt">Paula Stephânia faz experimentos caseiros de cinema 3D e de ''água mágica'', que permite ver as coisas ao contrário(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20190723014200 -0300" stop="20190723020800 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Buscando Respostas - S5E9</title>
+    <desc lang="pt">Por que meu corpo faz tanto barulho? Nós tossimos, arrotamos, espirramos... E esses são apenas alguns dos sons involuntários. Outros barulhos que fazemos voluntariamente podem ser também bastante impressionantes(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723020800 -0300" stop="20190723023200 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Animal Mania - S2E2</title>
+    <desc lang="pt">Neste episódio: formigas, macacos e sanguessugas. E mais: adoráveis filhotes de leão e um truque para seu cão aprender a cumprimentar com a patinha(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723023200 -0300" stop="20190723025800 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Acredite, é verdade! - S2E9</title>
+    <desc lang="pt">Não importa o quanto tente, Kirby não consegue cultivar nenhuma fruta! Então, cabe a Charlie provar para sua irmã que as abelhas não são pequenas pragas, mas os polinizadores perfeitos que vão solucionar o problema!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723025800 -0300" stop="20190723030900 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E15</title>
+    <desc lang="pt">Descubra quais são os animais mais fedidos do planeta. Além dos abutres e das hienas, os hipopótamos também entram nessa lista. Alguns desses animais usam seu fedor como defesa, outros até para atrair um companheiro!(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723030900 -0300" stop="20190723032200 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E44</title>
+    <desc lang="pt">Quem disse que é preciso ter asas para voar? Junte-se a nós na busca pelo voador mais maluco do reino animal. De lagartos a esquilos, descubra neste episódio, quem é o mais criativo quando se trata de levantar voo(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723032200 -0300" stop="20190723034600 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Nat Geo Lab - S1E5</title>
+    <desc lang="pt">Paula Stephânia faz os experimentos peira lunar, garfos acrobatas e lanterna detetive. Já Tubeto enfrenta desafios sobre o ar, o ouvido e a luz solar(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20190723034600 -0300" stop="20190723035800 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">As Aventuras de Blinky Bill - S1E22</title>
+    <desc lang="pt">Blinky e Jacko querem saborear um arco-íris, mas encontram uma Princesa Sapo que chora sem parar. Ela está desconsolada pois seu príncipe não chegou e ela teme ficar sozinha para sempre(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723035800 -0300" stop="20190723041300 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">As Aventuras de Blinky Bill - S1E50</title>
+    <desc lang="pt">A visita de Jorge, primo de Pablo, traz de volta uma velha disputa entre os dois pássaros. Todas as tentativas de acalmá-los falham(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723041300 -0300" stop="20190723042400 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Kody Kapow - S1E22</title>
+    <desc lang="pt">Os macacos acham que encontraram um mapa do tesouro. Porém, o que o mapa realmente mostra é onde está uma erva especial para a sopa da Tia(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723042400 -0300" stop="20190723043800 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Kody Kapow - S1E24</title>
+    <desc lang="pt">Os macacos tentam abrir uma porta do templo com música. Então, Kody precisa impedir que Mogo entre no lugar e pegue o tesouro(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723043800 -0300" stop="20190723045100 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Beat Bugs - S1E22</title>
+    <desc lang="pt">Os Beat Bugs fazem um misterioso novo amigo chamado Melvin, que tem orgulho dos jogos que ele inventa. Porém, o último jogo que Melvin planejou rapidamente sai do controle(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália/Canadá</country>
+  </programme>
+  <programme start="20190723045100 -0300" stop="20190723050600 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Beat Bugs - S1E50</title>
+    <desc lang="pt">Depois de um encontro traumático com Mee-Yow, Buzz recebe um alarme para usar em caso de emergência. Porém, Buzz faz mau uso dele, e os Beat Bugs demoram a reagir quando Mee-Yow retorna!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália/Canadá</country>
+  </programme>
+  <programme start="20190723050600 -0300" stop="20190723051800 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Yoko - S1E22</title>
+    <desc lang="pt">As crianças prometem fazer um canteiro de flores para o próximo festival das flores. Com isso, Vik inventa um robô para ajudá-los! Entretanto, o robô arruma as flores de maneira pouco criativa(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Espanha/Rússia</country>
+  </programme>
+  <programme start="20190723051800 -0300" stop="20190723053300 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Yoko - S1E50</title>
+    <desc lang="pt">Guarda Loops está orgulhosa de suas flores cheirosas. Entretanto, um fedor acaba com o perfume da primavera. Logo, todos percebem que o mau cheiro vem de Yoko, que nunca tomou banho na vida! Agora, a turma precisa dar um bom um banho nele!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Espanha/Rússia</country>
+  </programme>
+  <programme start="20190723053300 -0300" stop="20190723054400 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Pablo - S1E28</title>
+    <desc lang="pt">Pablo abre um pacote de batatas fritas rápido demais. Com isso, elas voam para todos os lados. Para recuperar as batatas, ele e seus amigos têm que ir para o topo de uma montanha, para o fundo do mar e até para a Lua!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20190723054400 -0300" stop="20190723055800 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Pablo - S1E50</title>
+    <desc lang="pt">Pablo tem duas pinhas que acabam se tornando exploradoras! Então, elas lideram os Animais do Livro em uma jornada para descobrir sons e texturas(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20190723055800 -0300" stop="20190723061000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Zafari - S1E22</title>
+    <desc lang="pt">Zoomba corre de uma aventura para outra e nunca aproveita o tempo para se divertir. Então, Babatua pede para ele passar o dia com Bubba. Logo, Bubba ensina para Zoomba que também é importante "desacelerar" um pouco!(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723061000 -0300" stop="20190723062600 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Zafari - S2E22</title>
+    <desc lang="pt">Quincy desaparece, então Zoomba decide que ele precisa agir como Quincy para encontrá-lo - uma tarefa complicada, de fato!(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723062600 -0300" stop="20190723063700 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">The Jungle Bunch - S1E22</title>
+    <desc lang="pt">Hector, o antigo mestre de Kung Fu de Maurice vai até a floresta. Porém, os babuínos querem roubar os ''Cinco Taos do Trovão'', para se transformarem em guerreiros invencíveis(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723063700 -0300" stop="20190723064900 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">The Jungle Bunch - S1E50</title>
+    <desc lang="pt">Um gerbil fêmea pede ajuda à turma, pois ela está soluçando há semanas. Com isso, Maurice e seus amigos precisam dar um susto nela para ver se passa(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723064900 -0300" stop="20190723070000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">The Jungle Bunch - S2E22</title>
+    <desc lang="pt">Melina se disfarça de velhinha e pede ajuda à turma, pois seu neto está em perigo no pântano da morte. Então, a turma vai para a missão(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723070000 -0300" stop="20190723071500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Galinha Pintadinha Mini - S1E3</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o atrapalhado Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723071500 -0300" stop="20190723073000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Galinha Pintadinha Mini - S1E24</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723073000 -0300" stop="20190723073300 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Galinha Pintadinha - S3E4</title>
+    <desc lang="pt">Com bilhões de visualizações na internet, "Galinha Pintadinha" vem encantando crianças de todo o mundo. O programa traz canções infantis alegres com desenhos e legendas animadas que ensinam como é bom cantar e aprender(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723073300 -0300" stop="20190723073500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Galinha Pintadinha - S3E14</title>
+    <desc lang="pt">Com bilhões de visualizações na internet, "Galinha Pintadinha" vem encantando crianças de todo o mundo. O programa traz canções infantis alegres com desenhos e legendas animadas que ensinam como é bom cantar e aprender(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723073500 -0300" stop="20190723074500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Yoko - S2E2</title>
+    <desc lang="pt">Oto tem medo de abelhas, e elas estão em todas as partes! Então, Yoko pede que as abelhas deixem o parque. Com isso, as flores param de crescer. Agora, Yoko e as crianças saem em uma missão para fazer as abelhas voltarem!(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Espanha/Rússia</country>
+  </programme>
+  <programme start="20190723074500 -0300" stop="20190723080000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Yoko - S1E7</title>
+    <desc lang="pt">Oto decide brincar de pega-pega e logo alcança Mai, quando ela está subindo na torre. Porém, ela escapa em seu foguete imaginário que Yoko transforma em realidade!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Espanha/Rússia</country>
+  </programme>
+  <programme start="20190723080000 -0300" stop="20190723080500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">O Diário de Bita e Cora - S1E7</title>
+    <desc lang="pt">Os Elms começam a discutir na hora de resolver um problema simples, e a maioria deles não concorda com a solução mais ousada(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Espanha</country>
+  </programme>
+  <programme start="20190723080500 -0300" stop="20190723081000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Os Polos - S1E33</title>
+    <desc lang="pt">Willow deixa um monte de objetos caírem do PoloMobile. Então, os Polos se reúnem para recuperá-los de um jeito rápido e organizado - assim como as formigas que eles observam(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723081000 -0300" stop="20190723082000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Ranger Rob - S1E23</title>
+    <desc lang="pt">Rob e Stomper se unem para limpar um acampamento. Com isso, eles se divertem enquanto fazem o trabalho, até que Sam e Dakota pedem ajuda a Rob com outra tarefa. Então, Rob deixa Stomper sozinho para terminar a limpeza!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723082000 -0300" stop="20190723083500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Ranger Rob - S2E73</title>
+    <desc lang="pt">Rob e Stomper vão observar macacos da neve. Porém, Stomper se aproxima demais deles. Então, os macacos elegem Stomper como o seu líder. Honrado, Stomper não vê o problema... até que surgem problemas(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723083500 -0300" stop="20190723084500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Beat Bugs - S1E23</title>
+    <desc lang="pt">Os Beat Bugs estão indecisos sobre o que fazer com um novo tesouro que eles encontraram no jardim(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália/Canadá</country>
+  </programme>
+  <programme start="20190723084500 -0300" stop="20190723090000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Beat Bugs - S1E24</title>
+    <desc lang="pt">Os Beat Bugs recriam um antigo programa de culinária para ajudar a Granny Bee a lembrar a receita da sua famosa torta de mel(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Austrália/Canadá</country>
+  </programme>
+  <programme start="20190723090000 -0300" stop="20190723090500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">O Diário de Bita e Cora - S1E1</title>
+    <desc lang="pt">Bita e Cora viajam pelo espaço até aterrissarem em um planeta desconhecido onde os Elms vivem. Com isso, os Elms fazem amizade com as cosmonautas e as ajudam a consertar a espaçonave delas(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Espanha</country>
+  </programme>
+  <programme start="20190723090500 -0300" stop="20190723091000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Os Polos - S1E27</title>
+    <desc lang="pt">Nash perde o seu bichinho de pelúcia mais uma vez. Agora, os Polos se aventuram em uma das partes mais profundas do oceano para recuperá-lo: a zona batial(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723091000 -0300" stop="20190723093500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Opa Popa Dupa - S1E16</title>
+    <desc lang="pt">Leonordo encontra Eco observando as estrelas com um telescópio. Ao vê-las, ele decide dirigir e protagonizar um filme sobre o sistema solar(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Colômbia</country>
+  </programme>
+  <programme start="20190723093500 -0300" stop="20190723094500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Galinha Pintadinha Mini - S1E17</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723094500 -0300" stop="20190723095500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Galinha Pintadinha Mini - S1E18</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723095500 -0300" stop="20190723095800 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Galinha Pintadinha - S3E5</title>
+    <desc lang="pt">Com bilhões de visualizações na internet, "Galinha Pintadinha" vem encantando crianças de todo o mundo. O programa traz canções infantis alegres com desenhos e legendas animadas que ensinam como é bom cantar e aprender(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723095800 -0300" stop="20190723100000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Galinha Pintadinha - S3E1</title>
+    <desc lang="pt">Com bilhões de visualizações na internet, "Galinha Pintadinha" vem encantando crianças de todo o mundo. O programa traz canções infantis alegres com desenhos e legendas animadas que ensinam como é bom cantar e aprender(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723100000 -0300" stop="20190723101500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Dot. - S2E17</title>
+    <desc lang="pt">Dot descobre que a sua colega de classe fará o mesmo projeto de ciências que ela. Então, ela procura inspiração para criar outro projeto e decide estudar sobre os efeitos da luz azul nas pessoas(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723101500 -0300" stop="20190723103000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Dot. - S2E18</title>
+    <desc lang="pt">Greg e o Clube Avançado de Robótica apresentam Dot e Hal a um novo e desafiador jogo chamado RoboBall, que parece com o futebol. Porém, o time é formado por pequenos robôs(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723103000 -0300" stop="20190723104500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Bitz e Bob - S1E16</title>
+    <desc lang="pt">A Princesa Purl precisa completar mais uma tarefa para continuar sendo uma princesa. Com isso, ela deve dançar com o estranho Zippopopomus antes que o sino do castelo soe três vezes. Porém, encontrar o Zippopopomus não será fácil!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20190723104500 -0300" stop="20190723105500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Bitz e Bob - S1E13</title>
+    <desc lang="pt">A tiara da Princesa Purl foi roubada por dois trolls. Então, Bevel tenta ajudar a recuperá-la. Porém, todos ficam congelados ao olharem nos óculos especiais dos trolls. Agora, cabe à Bitz descongelar todo mundo e recuperar a tiara(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20190723105500 -0300" stop="20190723110000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Bitz e Bob - S1E14</title>
+    <desc lang="pt">Bitz e Bob procuram naves espaciais. Então, um foguete cai bem perto deles. Com isso, eles correm para ajudar e encontram dois alienígenas que falam um idioma estranho. Agora, eles precisam ajudá-los a voltar para o espaço!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20190723110000 -0300" stop="20190723111000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Atchim! - S1E45</title>
+    <desc lang="pt">Na escola, todos se esforçam para fazer o melhor projeto para o concurso de ciências e ganhar uma visita ao centro espacial da cidade(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723111000 -0300" stop="20190723112500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Atchim! - S1E18</title>
+    <desc lang="pt">Teo chega da escola e tenta entrar em casa sem ser percebido. Porém, seu pai o espera ansioso para uma tarde de muita diversão!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723112500 -0300" stop="20190723114000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Kody Kapow - S1E17</title>
+    <desc lang="pt">Quando Mogo começa a derreter toda a neve na montanha, Kody precisa trabalhar junto com Mei e Goji para deter sua máquina de calor(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723114000 -0300" stop="20190723115500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Kody Kapow - S1E18</title>
+    <desc lang="pt">Os macacos roubam o que eles pensam ser um ovo de dragão. Com isso, Kody precisa ser muito cuidadoso para recuperar o ovo para a mamãe dragão(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723115500 -0300" stop="20190723121000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">The Jungle Bunch - S1E17</title>
+    <desc lang="pt">Depois de travar uma grande batalha contra os piratas e de escapar de algumas armadilhas, a turma da selva conseguirá encontrar o tesouro!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723121000 -0300" stop="20190723122000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">The Jungle Bunch - S2E18</title>
+    <desc lang="pt">Gilbert se sente incomodado pelo barulho que seus amigos fazem. Então, ele decide ir embora. Logo, a turma descobre que Melina o sequestrou e mantém Gilbert como refém em um balão de ar quente(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723122000 -0300" stop="20190723123000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Galinha Pintadinha Mini - S1E23</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723123000 -0300" stop="20190723124000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Galinha Pintadinha Mini - S1E6</title>
+    <desc lang="pt">"Galinha Pintadinha Mini" conta com músicas, histórias e atividades educativas com a personagem mais querida do Brasil. A cada episódio, a Galinha Pintadinha, o atrapalhado Galo Carijó e o Pintinho Amarelinho buscam novas aventuras(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723124000 -0300" stop="20190723125000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Nina e os Guardiões E23</title>
+    <desc lang="pt">Nina e a dra. Anna vão cuidar de uma coruja que está ferida e descobrem que ela tem três filhotinhos. Agora, Nina e o seu amigo Fusquinha terão que cuidar deles até que a mamãe coruja retorne(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723125000 -0300" stop="20190723130000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Nina e os Guardiões E6</title>
+    <desc lang="pt">Os guardiões ensinam a diferença entre lago, cachoeira e mar, falam sobre os animais que vivem neles e mostram a importância de não poluir as águas(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723130000 -0300" stop="20190723132500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Opa Popa Dupa - S1E16</title>
+    <desc lang="pt">Leonordo encontra Eco observando as estrelas com um telescópio. Ao vê-las, ele decide dirigir e protagonizar um filme sobre o sistema solar(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Colômbia</country>
+  </programme>
+  <programme start="20190723132500 -0300" stop="20190723133000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Os Fixies - S2E42</title>
+    <desc lang="pt">Fire pensa que enterrar baterias no chão dará mais energia para as mudas de limão de Toola crescerem. Porém, os Fixies logo aprendem sobre os perigos desse hábito(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Rússia</country>
+  </programme>
+  <programme start="20190723133000 -0300" stop="20190723140000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Buscando Respostas - S5E4</title>
+    <desc lang="pt">Narizes grandes sentem mais cheiros? Quando se trata de narizes, o tamanho não faz diferença quando o olfato é bom. O número de receptores olfativos no nariz e a combinação única de genes é o que nos ajudam a sentir os odores(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723140000 -0300" stop="20190723152500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Planeta 51</title>
+    <desc lang="pt">Quando o astronauta Chuck aterrissa no inexplorado Planeta 51 tem uma grande surpresa. Ele se depara com seus habitantes que vivem como as pessoas na Terra e por sua vez temem ser invadidos por alienígenas, como Chuck parece ser(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>Espanha/Reino Unido/EUA</country>
+  </programme>
+  <programme start="20190723152500 -0300" stop="20190723154000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Dino Dana - S2E15</title>
+    <desc lang="pt">Dana conduz a Experiência Dino 615: quem venceria em uma briga? Um Tricerátopo, um Diabloceratops ou um Kosmoceratops? É a hora da batalha dos Ceratopsianos!(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723154000 -0300" stop="20190723155500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Dino Dana - S2E3</title>
+    <desc lang="pt">Alguns familiares do sul da Ásia vêm para um jantar. Com isso, Dana deve proteger de alguns herbívoros famintos, um pimentão picante usado na receita de frango com manteiga do seu pai(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723155500 -0300" stop="20190723162500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Buscando Respostas - S4E3</title>
+    <desc lang="pt">O que é o veneno? Muitos animais e plantas possuem veneno para sobreviver. Nós, humanos, encontramos maneiras de nos proteger. Porém, ainda assim precisamos ser cuidadosos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723162500 -0300" stop="20190723163000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Coruja e a Bicharada E20</title>
+    <desc lang="pt">O Bicho-Pau quer ajudar o Coruja a capturar lagartas. Então, ele pretende transformá-lo em um super-heroí graças a um sistema de propulsão por raios. Porém, o Ovelha é transformada por engano! E agora?(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20190723163000 -0300" stop="20190723164500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Atchim! - S1E7</title>
+    <desc lang="pt">Teo perde sua entrada para o circo. Porém, ele logo vê um filhote de gorila brincando com o ingresso. Teo tenta desesperadamente recuperá-lo, mas ele acaba tendo que encarar a mamãe gorila(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723164500 -0300" stop="20190723170000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Atchim! - S1E8</title>
+    <desc lang="pt">Teo vai a uma excursão na montanha com a turma para construírem esculturas de gelo. No caminho até o topo, Teo espirra e se transforma em um camelo!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723170000 -0300" stop="20190723171000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Jaime e seus Tentáculos - S1E22</title>
+    <desc lang="pt">Erwin e Jaime organizam uma conversa de paz entre os Glogs e os Blarbs para terminar com a guerra(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723171000 -0300" stop="20190723172000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Jaime e seus Tentáculos - S2E39</title>
+    <desc lang="pt">Ralf escapa da Área 51 e se esconde na casa de Erwin. Porém, Ralf é conhecido por todos como "o maior bocó da galáxia". Com isso, todos os planetas os rejeitam. Então, ele não tem outra escolha a não ser ficar escondido na Terra!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723172000 -0300" stop="20190723173000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Furiki Wheels - S1E19</title>
+    <desc lang="pt">André se torna uma celebridade das corridas depois de salvar o Sr. McWildewho com uma manobra ousada. Porém, quando Pepita quer escrever sobre a sua façanha, André precisa esconder que tudo não passou de um mero acidente(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723173000 -0300" stop="20190723174000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Furiki Wheels - S1E20</title>
+    <desc lang="pt">Enquanto Brenda está no lava-jato, André se apaixona por um novo smartcar. Com isso, ele planeja tirá-la do circuito de uma vez por todas(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723174000 -0300" stop="20190723175000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">As Escolhas de Chuck - S1E35</title>
+    <desc lang="pt">Chuck encontra Norm totalmente desanimado. Acontece que ele perdeu uma luta, num jogo de ação ao vivo. Chuck escolhe transformar Norm num campeão, e eles vão para um novo mundo onde ele é o campeão de uma tribo mutante(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723175000 -0300" stop="20190723180000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">As Escolhas de Chuck - S1E3</title>
+    <desc lang="pt">Chuck escolhe Misha para ser ''mimada como realeza'' e instantaneamente eles viajam no tempo para uma época medieval(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723180000 -0300" stop="20190723180500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Coruja e a Bicharada - S1E23</title>
+    <desc lang="pt">O Morcego não deixa ninguém dormir com os seus soluços. Depois de várias tentativas para fazê-lo parar, os seus vizinhos decidem passar a noite com o Coruja. Com isso, ele se disfarça de monstro para assustar o Morcego(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723180500 -0300" stop="20190723181500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais E4</title>
+    <desc lang="pt">Analu tem medo de tocar violino em frente a uma plateia. Com isso, os irmãos geniais e Soneca a levam para a Áustria e Grécia, para que ela descubra como grandes artistas, como Mozart, se apresentavam em público(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723181500 -0300" stop="20190723182500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais E3</title>
+    <desc lang="pt">É o primeiro dia de aula de Miguel e ele está bastante assustado. Então Júlio, Verne e Soneca resolvem levá-lo em uma viagem pela história, para entender porque as crianças precisam estudar e como isso pode ser muito divertido!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723182500 -0300" stop="20190723183500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais E2</title>
+    <desc lang="pt">Nina, irmã de Júlio e Verne, não consegue largar a chupeta. Para ajudá-la a superar essa fase, Soneca transforma o objeto num grande balão, e todos viajam na história para entender por que a chupeta foi criada(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20190723183500 -0300" stop="20190723184500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Atchim! - S1E14</title>
+    <desc lang="pt">Teo está esperando Peter para conseguir vencer Flo em seu jogo de videogame favorito. Porém, Peter está preso em sua própria casa! Acontece é que uma galinha escapou do galinheiro e Peter morre de medo delas!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723184500 -0300" stop="20190723185500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Atchim! - S1E15</title>
+    <desc lang="pt">Teo vai para escola pensando em todas as vezes que ele espirrou e precisou enfrentar situações imprevistas. Então, ele decide resistir a todas suas emoções(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Itália</country>
+  </programme>
+  <programme start="20190723185500 -0300" stop="20190723190000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Javi e o Clube da Árvore - S1E14</title>
+    <desc lang="pt">Enquanto brincam de pique-esconde, os animais do Clube da Árvore ensinam a Javi sobre como eles se camuflam para poder imitarem a natureza. Com isso, Javi fica pensando: será que os vaga-lumes querem se parecer com as estrelas?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20190723190000 -0300" stop="20190723191500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Dino Dana - S2E2</title>
+    <desc lang="pt">Um episódio dividido em duas partes. Dana encontra um bebê Tricerátopo abandonado e tenta devolvê-lo à sua família(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723191500 -0300" stop="20190723193000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Dino Dana - S2E11</title>
+    <desc lang="pt">A srta. Currie pediu a Dana para ajudá-la a adotar um réptil para Trek. Com isso, Dana fica entusiasmada em ajudar e aproveita a oportunidade para comparar os répteis modernos aos Archelon, Deinosuchus e Titanoboa(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723193000 -0300" stop="20190723200000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Acredite, é verdade! - S2E1</title>
+    <desc lang="pt">Charlie e Kirby visitam uma fábrica de papel e aprendem de onde ele vem. Com isso, eles percebem que reciclá-lo pode ajudar a salvar árvores!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723200000 -0300" stop="20190723203000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Buscando Respostas - S4E12</title>
+    <desc lang="pt">Por que existe a dor? A dor é desagradável, mas é o modo como o nosso corpo nos diz quando estamos doentes, machucados ou em perigo(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723203000 -0300" stop="20190723210000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Animal Mania - S2E20</title>
+    <desc lang="pt">Neste episódio: carneiros-azuis, formigas-tecelãs, coalas e uma curiosidade sobre pinguins-de-adélia. E mais: incríveis bisontes e bebês de chacal, além de um truque para seu cão aprender a correr através de um túnel(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723210000 -0300" stop="20190723213000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Nat Geo Lab - S1E13</title>
+    <desc lang="pt">Paula Stephânia faz os experimentos moreias coloridas, o esconde-esconde e um torlouco para viver uma super aventura. O Tubeto faz suas travessuras, enquanto aparecem alguns desafios. A Missão Lab é sobre como reutilizar a água(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20190723213000 -0300" stop="20190723214500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Furiki Wheels - S1E13</title>
+    <desc lang="pt">Brenda fica sem combustível de amendoim. Então, André e Chobado saem em busca de uma lendária terra de amendoim. Porém, eles caem em uma armadilha de Gordon(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723214500 -0300" stop="20190723220000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Furiki Wheels - S1E14</title>
+    <desc lang="pt">André perde o amuleto da sorte de Chobado. Com isso, Chobado decide viver em uma bola protetora de hamster para sempre. Agora, André precisa ajudá-lo enfrentando o seu pior inimigo: Gordon(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20190723220000 -0300" stop="20190723221500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">As Escolhas de Chuck - S1E13</title>
+    <desc lang="pt">Chuck tem um terrível medo de altura e para superá-lo, ele escolhe voar como as aves. Porém, acaba se transformando em uma e vira mãe de um grupo de passarinhos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723221500 -0300" stop="20190723223000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">As Escolhas de Chuck - S1E14</title>
+    <desc lang="pt">Chuck está ajudando na grande festa de Biff Adonis, mas não conhece as batatas de pastrami. Então, ele escolhe que as louças o ajudem(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723223000 -0300" stop="20190723230000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Acredite, é verdade! - S1E3</title>
+    <desc lang="pt">Charlie e Kirby embarcam em uma aventura pirata. Está na hora de colocar suas habilidades à prova e ver quais tesouros eles poderão encontrar no fundo do oceano(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20190723230000 -0300" stop="20190723231500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Dino Dana - S2E7</title>
+    <desc lang="pt">Dana imagina que Cai e ela são homens das cavernas que tentam domesticar um Smilodon. Enquanto isso, Cai lida com o seu novo gato na vida real(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723231500 -0300" stop="20190723233000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Dino Dana - S2E1</title>
+    <desc lang="pt">Um episódio dividido em duas partes. Dana encontra um bebê Tricerátopo abandonado e tenta devolvê-lo à sua família(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20190723233000 -0300" stop="20190723234500 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E17</title>
+    <desc lang="pt">Prepare-se para conhecer o banquete dos animais mais gourmets da natureza!  Desde aranhas a besouros, até peixes que ''voam'' para capturar sua comida favorita(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723234500 -0300" stop="20190724000000 -0300" channel="NatGeo Kids HD">
+    <title lang="pt">Reino Animal - Nat Geo Kids - S1E18</title>
+    <desc lang="pt">Chegou a vez de conhecer os jardineiros do reino animal. Alguns bichos têm um talento natural para cultivar plantas. Seria a minhoca, rainha da compostagem, ou a girafa, que poda árvores como ninguém?(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Austrália</country>
+  </programme>
+  <programme start="20190723000000 -0300" stop="20190723010000 -0300" channel="CNN Internacional">
+    <title lang="pt">Anderson Cooper 360</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723010000 -0300" stop="20190723020000 -0300" channel="CNN Internacional">
+    <title lang="pt">Cuomo Prime Time</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723020000 -0300" stop="20190723023000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Tonight</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723023000 -0300" stop="20190723030000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Tonight</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723030000 -0300" stop="20190723040000 -0300" channel="CNN Internacional">
+    <title lang="pt">Amanpour</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723040000 -0300" stop="20190723050000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723050000 -0300" stop="20190723060000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723060000 -0300" stop="20190723070000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723070000 -0300" stop="20190723080000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723080000 -0300" stop="20190723083000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723083000 -0300" stop="20190723090000 -0300" channel="CNN Internacional">
+    <title lang="pt">African Voices</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723090000 -0300" stop="20190723093000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723093000 -0300" stop="20190723100000 -0300" channel="CNN Internacional">
+    <title lang="pt">Weekly Special</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723100000 -0300" stop="20190723110000 -0300" channel="CNN Internacional">
+    <title lang="pt">New Day</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723110000 -0300" stop="20190723113000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Talk</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723113000 -0300" stop="20190723120000 -0300" channel="CNN Internacional">
+    <title lang="pt">World Sport Live</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723120000 -0300" stop="20190723130000 -0300" channel="CNN Internacional">
+    <title lang="pt">News Stream</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723130000 -0300" stop="20190723140000 -0300" channel="CNN Internacional">
+    <title lang="pt">First Move With Julia Chatterley</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723140000 -0300" stop="20190723143000 -0300" channel="CNN Internacional">
+    <title lang="pt">International Desk</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723143000 -0300" stop="20190723150000 -0300" channel="CNN Internacional">
+    <title lang="pt">International Desk</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723150000 -0300" stop="20190723153000 -0300" channel="CNN Internacional">
+    <title lang="pt">Connect the World</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723153000 -0300" stop="20190723160000 -0300" channel="CNN Internacional">
+    <title lang="pt">Connect the World</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723160000 -0300" stop="20190723163000 -0300" channel="CNN Internacional">
+    <title lang="pt">The Express</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723163000 -0300" stop="20190723170000 -0300" channel="CNN Internacional">
+    <title lang="pt">Weekly Special</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723170000 -0300" stop="20190723180000 -0300" channel="CNN Internacional">
+    <title lang="pt">Amanpour</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723180000 -0300" stop="20190723193000 -0300" channel="CNN Internacional">
+    <title lang="pt">Hala Gorani Tonight</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723193000 -0300" stop="20190723203000 -0300" channel="CNN Internacional">
+    <title lang="pt">Quest Means Business</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723203000 -0300" stop="20190723210000 -0300" channel="CNN Internacional">
+    <title lang="pt">The Lead With Jake Tapper</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723210000 -0300" stop="20190723213000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723213000 -0300" stop="20190723220000 -0300" channel="CNN Internacional">
+    <title lang="pt">World Sport Live</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723220000 -0300" stop="20190723223000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723223000 -0300" stop="20190723230000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723230000 -0300" stop="20190723233000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723233000 -0300" stop="20190724000000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723001500 -0300" stop="20190723013000 -0300" channel="+Globosat HD">
+    <title lang="pt">A Ponte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723013000 -0300" stop="20190723023000 -0300" channel="+Globosat HD">
+    <title lang="pt">Capitão Sharif</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723023000 -0300" stop="20190723033000 -0300" channel="+Globosat HD">
+    <title lang="pt">Mistérios do Detetive Murdoch</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723033000 -0300" stop="20190723043000 -0300" channel="+Globosat HD">
+    <title lang="pt">O Ministério do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723043000 -0300" stop="20190723050000 -0300" channel="+Globosat HD">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723050000 -0300" stop="20190723053000 -0300" channel="+Globosat HD">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723053000 -0300" stop="20190723055000 -0300" channel="+Globosat HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723055000 -0300" stop="20190723061000 -0300" channel="+Globosat HD">
+    <title lang="pt">Oficina Motor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723061000 -0300" stop="20190723063000 -0300" channel="+Globosat HD">
+    <title lang="pt">Restaurantes Inesquecíveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723063000 -0300" stop="20190723070000 -0300" channel="+Globosat HD">
+    <title lang="pt">Brinquedos de Luxo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723070000 -0300" stop="20190723073000 -0300" channel="+Globosat HD">
+    <title lang="pt">Tá Na Hora Do Café</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723073000 -0300" stop="20190723080000 -0300" channel="+Globosat HD">
+    <title lang="pt">Tá Na Hora Do Café</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723080000 -0300" stop="20190723083000 -0300" channel="+Globosat HD">
+    <title lang="pt">Oficina Motor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723083000 -0300" stop="20190723090000 -0300" channel="+Globosat HD">
+    <title lang="pt">Oficina Motor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723090000 -0300" stop="20190723093000 -0300" channel="+Globosat HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723093000 -0300" stop="20190723100000 -0300" channel="+Globosat HD">
+    <title lang="pt">Destino Certo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723100000 -0300" stop="20190723103000 -0300" channel="+Globosat HD">
+    <title lang="pt">Tá Na Hora Do Café</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723103000 -0300" stop="20190723110000 -0300" channel="+Globosat HD">
+    <title lang="pt">Tá Na Hora Do Café</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723110000 -0300" stop="20190723113000 -0300" channel="+Globosat HD">
+    <title lang="pt">Cervejantes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723113000 -0300" stop="20190723120000 -0300" channel="+Globosat HD">
+    <title lang="pt">Bendita Marvada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723120000 -0300" stop="20190723123000 -0300" channel="+Globosat HD">
+    <title lang="pt">Um Brinde Ao Vinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723123000 -0300" stop="20190723130000 -0300" channel="+Globosat HD">
+    <title lang="pt">Um Brinde Ao Vinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723130000 -0300" stop="20190723140000 -0300" channel="+Globosat HD">
+    <title lang="pt">O Ministério do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723140000 -0300" stop="20190723144500 -0300" channel="+Globosat HD">
+    <title lang="pt">Mistérios do Detetive Murdoch</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723144500 -0300" stop="20190723154500 -0300" channel="+Globosat HD">
+    <title lang="pt">Capitão Sharif</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723154500 -0300" stop="20190723170000 -0300" channel="+Globosat HD">
+    <title lang="pt">Aquarius: Os Crimes de Charles Manson</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723170000 -0300" stop="20190723173000 -0300" channel="+Globosat HD">
+    <title lang="pt">A Ponte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723173000 -0300" stop="20190723180000 -0300" channel="+Globosat HD">
+    <title lang="pt">Tá Na Hora Do Café</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723180000 -0300" stop="20190723183000 -0300" channel="+Globosat HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723183000 -0300" stop="20190723190000 -0300" channel="+Globosat HD">
+    <title lang="pt">Sonho e Destino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723190000 -0300" stop="20190723193000 -0300" channel="+Globosat HD">
+    <title lang="pt">Restaurantes Inesquecíveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723193000 -0300" stop="20190723200000 -0300" channel="+Globosat HD">
+    <title lang="pt">Restaurantes Inesquecíveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723200000 -0300" stop="20190723203000 -0300" channel="+Globosat HD">
+    <title lang="pt">Encuentros en Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723203000 -0300" stop="20190723210000 -0300" channel="+Globosat HD">
+    <title lang="pt">Expedição Raiz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723210000 -0300" stop="20190723213000 -0300" channel="+Globosat HD">
+    <title lang="pt">Destino Certo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723213000 -0300" stop="20190723220000 -0300" channel="+Globosat HD">
+    <title lang="pt">Um Brinde Ao Vinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723220000 -0300" stop="20190723223000 -0300" channel="+Globosat HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723223000 -0300" stop="20190723230000 -0300" channel="+Globosat HD">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723230000 -0300" stop="20190723233000 -0300" channel="+Globosat HD">
+    <title lang="pt">Mundo Visto de Cima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190723233000 -0300" stop="20190724001500 -0300" channel="+Globosat HD">
+    <title lang="pt">Aquarius: Os Crimes de Charles Manson</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
