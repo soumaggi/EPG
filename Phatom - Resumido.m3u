@@ -105,15 +105,15 @@ http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/40249
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/40514
 #EXTINF:-1 tvg-id="Globo Eptv Ribeirão Preto HD" tvg-name="Globo Eptv Ribeirão Preto HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Canais | Abertos",Globo Eptv Ribeirão Preto HD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/38640
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | Esportes",ESPN SD
+#EXTINF:-1 tvg-id="ESPN SD" tvg-name="ESPN SD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | Esportes",ESPN SD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37105
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36977
 #EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN 2 HD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36976
-#EXTINF:-1 tvg-id="ESPN Bras" tvg-name="ESPN Bras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/320px-Logo_espnbrasil.png" group-title="Canais | Esportes",ESPN Bras
+#EXTINF:-1 tvg-id="ESPN Brasil SD" tvg-name="ESPN Brasil SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/320px-Logo_espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil SD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37104
-#EXTINF:-1 tvg-id="ESPN Bras HD" tvg-name="ESPN Bras HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/320px-Logo_espnbrasil.png" group-title="Canais | Esportes",ESPN Bras
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/320px-Logo_espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil HD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36978
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN Extra
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/41977
