@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AE" tvg-name="AE" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",AE
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",AE
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37130
-#EXTINF:-1 tvg-id="AE HD" tvg-name="AE HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",AE HD
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",AE HD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36929
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/41087
@@ -47,9 +47,9 @@ http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37120
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36926
 #EXTINF:-1 tvg-id="CNNInternacional" tvg-name="CNN Internacional" tvg-logo="http://images.mi.tv/channels/br_cnn_m.png" group-title="Canais | Noticias",CNN Internacional
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/40609
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate
+#EXTINF:-1 tvg-id="Combate SD" tvg-name="Combate SD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate SD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37119
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate HD
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate HD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36986
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://4.bp.blogspot.com/-puQSRRAPmJU/V8NXh_GGbFI/AAAAAAAAvyg/wKWsB3xUtDUagWjezHXm-gTX1S-_fT6fQCPcB/s1600/comedycentral-logo-red-stacked.jpg" group-title="Canais | Variedades",Comedy Central
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37118
@@ -105,9 +105,9 @@ http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/40249
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/40514
 #EXTINF:-1 tvg-id="Globo Eptv Ribeirão Preto HD" tvg-name="Globo Eptv Ribeirão Preto HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Canais | Abertos",Globo Eptv Ribeirão Preto HD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/38640
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | Esportes",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | Esportes",ESPN SD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37105
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN HD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36977
 #EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN 2 HD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36976
