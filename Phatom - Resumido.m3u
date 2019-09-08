@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37130
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36929
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/41087
