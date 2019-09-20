@@ -41,9 +41,9 @@ http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37121
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36927
 #EXTINF:-1 tvg-id="Cine+" tvg-name="Cine+" tvg-logo="http://www.vtq.de/images/referenzen/logo-cine.png" group-title="Canais | Filmes e Series",Cine+
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/42620
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-id="Cinemax HD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" tvg-name="Cinemax SD",Cinemax SD
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-id="Cinemax" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" tvg-name="Cinemax SD",Cinemax SD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/37120
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-id="Cinemax HD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" tvg-name="Cinemax HD",Cinemax HD
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-id="Cinemax" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" tvg-name="Cinemax HD",Cinemax HD
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/36926
 #EXTINF:-1 tvg-id="CNNInternacional" tvg-name="CNN Internacional" tvg-logo="http://images.mi.tv/channels/br_cnn_m.png" group-title="Canais | Noticias",CNN Internacional
 http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/40609
