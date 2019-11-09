@@ -583,3 +583,7 @@ http://fsrv.me:80/7827199462/fireurl.co/532
 http://fsrv.me:80/7827199462/fireurl.co/528
 #EXTINF:-1 group-title="Radios" tvg-id="" tvg-logo="http://iv.pe/IZ0",[SP] Tropical FM - 107.9 FM
 http://fsrv.me:80/7827199462/fireurl.co/534
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE CLUBES HD  [Alternativo]
+http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/51000
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE CLUBES SD  [Alternativo]
+http://tv.factoryiptv.com:80/DUSnRx7a8/phantomiptv/51001
