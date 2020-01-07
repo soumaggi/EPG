@@ -13,6 +13,14 @@
     <display-name lang="pt">AMC SD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN SD">
+    <display-name lang="pt">AXN SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20200107000000 -0200" stop="20200107003000 -0200" channel="[XXX] PlayBoy HD">
     <title lang="pt">Private Selfies</title>
     <desc lang="pt">Erótico. Garotas reais dos Estados Unidos vão mostrar as suas selfies e os seus vídeos privados. É impossível não olhar!(n)</desc>
@@ -3370,5 +3378,1293 @@
   <programme start="20200113223000 -0200" stop="20200114002500 -0200" channel="AMC SD">
     <title lang="pt">Professor Peso Pesado</title>
     <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200107153500 -0200" stop="20200107163000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200107163000 -0200" stop="20200107172500 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200107172500 -0200" stop="20200107182000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200107182000 -0200" stop="20200107191500 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200107191500 -0200" stop="20200107201000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200107201000 -0200" stop="20200107210500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200107210500 -0200" stop="20200107220000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200107220000 -0200" stop="20200107225500 -0200" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200107225500 -0200" stop="20200107235000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200107235000 -0200" stop="20200108004500 -0200" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108004500 -0200" stop="20200108014000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108014000 -0200" stop="20200108023500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200108023500 -0200" stop="20200108033000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108033000 -0200" stop="20200108042000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108042000 -0200" stop="20200108051000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108051000 -0200" stop="20200108060000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108060000 -0200" stop="20200108070000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108070000 -0200" stop="20200108080000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108080000 -0200" stop="20200108090000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108090000 -0200" stop="20200108100000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108100000 -0200" stop="20200108110000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108110000 -0200" stop="20200108115500 -0200" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108115500 -0200" stop="20200108125000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108125000 -0200" stop="20200108134500 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200108134500 -0200" stop="20200108144000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200108144000 -0200" stop="20200108153500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200108153500 -0200" stop="20200108163000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200108163000 -0200" stop="20200108172500 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200108172500 -0200" stop="20200108182000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200108182000 -0200" stop="20200108191500 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108191500 -0200" stop="20200108201000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108201000 -0200" stop="20200108210500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200108210500 -0200" stop="20200108220000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200108220000 -0200" stop="20200108225500 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108225500 -0200" stop="20200108235000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108235000 -0200" stop="20200109004500 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109004500 -0200" stop="20200109014000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109014000 -0200" stop="20200109023500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200109023500 -0200" stop="20200109033000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109033000 -0200" stop="20200109042000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109042000 -0200" stop="20200109051000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109051000 -0200" stop="20200109060000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109060000 -0200" stop="20200109070000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109070000 -0200" stop="20200109080000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109080000 -0200" stop="20200109090000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109090000 -0200" stop="20200109100000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109100000 -0200" stop="20200109110000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109110000 -0200" stop="20200109115500 -0200" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109115500 -0200" stop="20200109125000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109125000 -0200" stop="20200109134500 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109134500 -0200" stop="20200109144000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200109144000 -0200" stop="20200109153500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200109153500 -0200" stop="20200109163000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109163000 -0200" stop="20200109172500 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109172500 -0200" stop="20200109182000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109182000 -0200" stop="20200109191500 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109191500 -0200" stop="20200109201000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109201000 -0200" stop="20200109210500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200109210500 -0200" stop="20200109220000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200109220000 -0200" stop="20200109225500 -0200" channel="AXN HD">
+    <title lang="pt">Snatch</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200109225500 -0200" stop="20200109235000 -0200" channel="AXN HD">
+    <title lang="pt">Snatch</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200109235000 -0200" stop="20200110004500 -0200" channel="AXN HD">
+    <title lang="pt">Snatch</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200110004500 -0200" stop="20200110014000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110014000 -0200" stop="20200110023500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200110023500 -0200" stop="20200110033000 -0200" channel="AXN HD">
+    <title lang="pt">Snatch</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200110033000 -0200" stop="20200110042000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110042000 -0200" stop="20200110051000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110051000 -0200" stop="20200110060000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110060000 -0200" stop="20200110070000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110070000 -0200" stop="20200110080000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110080000 -0200" stop="20200110090000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110090000 -0200" stop="20200110100000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110100000 -0200" stop="20200110110000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110110000 -0200" stop="20200110115500 -0200" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110115500 -0200" stop="20200110125000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110125000 -0200" stop="20200110134500 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110134500 -0200" stop="20200110144000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200110144000 -0200" stop="20200110153500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200110153500 -0200" stop="20200110163000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110163000 -0200" stop="20200110172500 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110172500 -0200" stop="20200110182000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110182000 -0200" stop="20200110191500 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110191500 -0200" stop="20200110201000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110201000 -0200" stop="20200110210500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200110210500 -0200" stop="20200110220000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200110220000 -0200" stop="20200110225500 -0200" channel="AXN HD">
+    <title lang="pt">Carter</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200110225500 -0200" stop="20200110235000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110235000 -0200" stop="20200111004500 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200111004500 -0200" stop="20200111014000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200111014000 -0200" stop="20200111023500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111023500 -0200" stop="20200111033000 -0200" channel="AXN HD">
+    <title lang="pt">Carter</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200111033000 -0200" stop="20200111042000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200111042000 -0200" stop="20200111051000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200111051000 -0200" stop="20200111060000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200111060000 -0200" stop="20200111070000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111070000 -0200" stop="20200111080000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111080000 -0200" stop="20200111090000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111090000 -0200" stop="20200111100000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111100000 -0200" stop="20200111110000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111110000 -0200" stop="20200111115500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111115500 -0200" stop="20200111125000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111125000 -0200" stop="20200111134500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111134500 -0200" stop="20200111144000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111144000 -0200" stop="20200111153500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111153500 -0200" stop="20200111163000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111163000 -0200" stop="20200111172500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111172500 -0200" stop="20200111182000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111182000 -0200" stop="20200111185000 -0200" channel="AXN HD">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200111185000 -0200" stop="20200111191500 -0200" channel="AXN HD">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200111191500 -0200" stop="20200111201000 -0200" channel="AXN HD">
+    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200111201000 -0200" stop="20200111204000 -0200" channel="AXN HD">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200111204000 -0200" stop="20200111210500 -0200" channel="AXN HD">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200111210500 -0200" stop="20200111220000 -0200" channel="AXN HD">
+    <title lang="pt">Em Nome da Justiça</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200111220000 -0200" stop="20200111225500 -0200" channel="AXN HD">
+    <title lang="pt">Em Nome da Justiça</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200111225500 -0200" stop="20200112010500 -0200" channel="AXN HD">
+    <title lang="pt">Bad Boys</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200112010500 -0200" stop="20200112033500 -0200" channel="AXN HD">
+    <title lang="pt">Bad Boys 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200112033500 -0200" stop="20200112042500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112042500 -0200" stop="20200112051000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112051000 -0200" stop="20200112060000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112060000 -0200" stop="20200112065500 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200112065500 -0200" stop="20200112075000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200112075000 -0200" stop="20200112084500 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200112084500 -0200" stop="20200112094000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200112094000 -0200" stop="20200112103500 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200112103500 -0200" stop="20200112113000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112113000 -0200" stop="20200112122500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112122500 -0200" stop="20200112132000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112132000 -0200" stop="20200112141500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112141500 -0200" stop="20200112151000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112151000 -0200" stop="20200112160500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112160500 -0200" stop="20200112170000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112170000 -0200" stop="20200112175500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112175500 -0200" stop="20200112201500 -0200" channel="AXN HD">
+    <title lang="pt">A Intérprete</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200112201500 -0200" stop="20200112210500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112210500 -0200" stop="20200112220000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200112220000 -0200" stop="20200113000000 -0200" channel="AXN HD">
+    <title lang="pt">Assalto Sobre Trilhos</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200113000000 -0200" stop="20200113020500 -0200" channel="AXN HD">
+    <title lang="pt">S.W.A.T. - Comando Especial</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200113020500 -0200" stop="20200113030500 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113030500 -0200" stop="20200113040000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113040000 -0200" stop="20200113050000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113050000 -0200" stop="20200113060000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113060000 -0200" stop="20200113070000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113070000 -0200" stop="20200113080000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113080000 -0200" stop="20200113090000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113090000 -0200" stop="20200113100000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113100000 -0200" stop="20200113110000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113110000 -0200" stop="20200113115500 -0200" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200113115500 -0200" stop="20200113125000 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200113125000 -0200" stop="20200113134500 -0200" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113134500 -0200" stop="20200113144000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113144000 -0200" stop="20200113153500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113153500 -0200" stop="20200113163000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113163000 -0200" stop="20200113172500 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113172500 -0200" stop="20200113182000 -0200" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113182000 -0200" stop="20200113191500 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200113191500 -0200" stop="20200113201000 -0200" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200113201000 -0200" stop="20200113210500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113210500 -0200" stop="20200113220000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113220000 -0200" stop="20200113225000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113225000 -0200" stop="20200113234000 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113234000 -0200" stop="20200114003500 -0200" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200107153500 -0200" stop="20200107163000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200107163000 -0200" stop="20200107172500 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200107172500 -0200" stop="20200107182000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200107182000 -0200" stop="20200107191500 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200107191500 -0200" stop="20200107201000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200107201000 -0200" stop="20200107210500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200107210500 -0200" stop="20200107220000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200107220000 -0200" stop="20200107225500 -0200" channel="AXN SD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200107225500 -0200" stop="20200107235000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200107235000 -0200" stop="20200108004500 -0200" channel="AXN SD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108004500 -0200" stop="20200108014000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108014000 -0200" stop="20200108023500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200108023500 -0200" stop="20200108033000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108033000 -0200" stop="20200108042000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108042000 -0200" stop="20200108051000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108051000 -0200" stop="20200108060000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108060000 -0200" stop="20200108070000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108070000 -0200" stop="20200108080000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108080000 -0200" stop="20200108090000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108090000 -0200" stop="20200108100000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108100000 -0200" stop="20200108110000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108110000 -0200" stop="20200108115500 -0200" channel="AXN SD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108115500 -0200" stop="20200108125000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108125000 -0200" stop="20200108134500 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200108134500 -0200" stop="20200108144000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200108144000 -0200" stop="20200108153500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200108153500 -0200" stop="20200108163000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200108163000 -0200" stop="20200108172500 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200108172500 -0200" stop="20200108182000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200108182000 -0200" stop="20200108191500 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108191500 -0200" stop="20200108201000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108201000 -0200" stop="20200108210500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200108210500 -0200" stop="20200108220000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200108220000 -0200" stop="20200108225500 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108225500 -0200" stop="20200108235000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200108235000 -0200" stop="20200109004500 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109004500 -0200" stop="20200109014000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109014000 -0200" stop="20200109023500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200109023500 -0200" stop="20200109033000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109033000 -0200" stop="20200109042000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109042000 -0200" stop="20200109051000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109051000 -0200" stop="20200109060000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109060000 -0200" stop="20200109070000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109070000 -0200" stop="20200109080000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109080000 -0200" stop="20200109090000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109090000 -0200" stop="20200109100000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109100000 -0200" stop="20200109110000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109110000 -0200" stop="20200109115500 -0200" channel="AXN SD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109115500 -0200" stop="20200109125000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109125000 -0200" stop="20200109134500 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109134500 -0200" stop="20200109144000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200109144000 -0200" stop="20200109153500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200109153500 -0200" stop="20200109163000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109163000 -0200" stop="20200109172500 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109172500 -0200" stop="20200109182000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200109182000 -0200" stop="20200109191500 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109191500 -0200" stop="20200109201000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200109201000 -0200" stop="20200109210500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200109210500 -0200" stop="20200109220000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200109220000 -0200" stop="20200109225500 -0200" channel="AXN SD">
+    <title lang="pt">Snatch</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200109225500 -0200" stop="20200109235000 -0200" channel="AXN SD">
+    <title lang="pt">Snatch</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200109235000 -0200" stop="20200110004500 -0200" channel="AXN SD">
+    <title lang="pt">Snatch</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200110004500 -0200" stop="20200110014000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110014000 -0200" stop="20200110023500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200110023500 -0200" stop="20200110033000 -0200" channel="AXN SD">
+    <title lang="pt">Snatch</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200110033000 -0200" stop="20200110042000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110042000 -0200" stop="20200110051000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110051000 -0200" stop="20200110060000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110060000 -0200" stop="20200110070000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110070000 -0200" stop="20200110080000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110080000 -0200" stop="20200110090000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110090000 -0200" stop="20200110100000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110100000 -0200" stop="20200110110000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110110000 -0200" stop="20200110115500 -0200" channel="AXN SD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110115500 -0200" stop="20200110125000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110125000 -0200" stop="20200110134500 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110134500 -0200" stop="20200110144000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200110144000 -0200" stop="20200110153500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200110153500 -0200" stop="20200110163000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110163000 -0200" stop="20200110172500 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110172500 -0200" stop="20200110182000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110182000 -0200" stop="20200110191500 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110191500 -0200" stop="20200110201000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200110201000 -0200" stop="20200110210500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200110210500 -0200" stop="20200110220000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200110220000 -0200" stop="20200110225500 -0200" channel="AXN SD">
+    <title lang="pt">Carter</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200110225500 -0200" stop="20200110235000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200110235000 -0200" stop="20200111004500 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200111004500 -0200" stop="20200111014000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200111014000 -0200" stop="20200111023500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111023500 -0200" stop="20200111033000 -0200" channel="AXN SD">
+    <title lang="pt">Carter</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200111033000 -0200" stop="20200111042000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200111042000 -0200" stop="20200111051000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200111051000 -0200" stop="20200111060000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200111060000 -0200" stop="20200111070000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111070000 -0200" stop="20200111080000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111080000 -0200" stop="20200111090000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111090000 -0200" stop="20200111100000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111100000 -0200" stop="20200111110000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111110000 -0200" stop="20200111115500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111115500 -0200" stop="20200111125000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111125000 -0200" stop="20200111134500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111134500 -0200" stop="20200111144000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111144000 -0200" stop="20200111153500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111153500 -0200" stop="20200111163000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111163000 -0200" stop="20200111172500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111172500 -0200" stop="20200111182000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200111182000 -0200" stop="20200111185000 -0200" channel="AXN SD">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200111185000 -0200" stop="20200111191500 -0200" channel="AXN SD">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200111191500 -0200" stop="20200111201000 -0200" channel="AXN SD">
+    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200111201000 -0200" stop="20200111204000 -0200" channel="AXN SD">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200111204000 -0200" stop="20200111210500 -0200" channel="AXN SD">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200111210500 -0200" stop="20200111220000 -0200" channel="AXN SD">
+    <title lang="pt">Em Nome da Justiça</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200111220000 -0200" stop="20200111225500 -0200" channel="AXN SD">
+    <title lang="pt">Em Nome da Justiça</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200111225500 -0200" stop="20200112010500 -0200" channel="AXN SD">
+    <title lang="pt">Bad Boys</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200112010500 -0200" stop="20200112033500 -0200" channel="AXN SD">
+    <title lang="pt">Bad Boys 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200112033500 -0200" stop="20200112042500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112042500 -0200" stop="20200112051000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112051000 -0200" stop="20200112060000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112060000 -0200" stop="20200112065500 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200112065500 -0200" stop="20200112075000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200112075000 -0200" stop="20200112084500 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200112084500 -0200" stop="20200112094000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200112094000 -0200" stop="20200112103500 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200112103500 -0200" stop="20200112113000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112113000 -0200" stop="20200112122500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112122500 -0200" stop="20200112132000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112132000 -0200" stop="20200112141500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112141500 -0200" stop="20200112151000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112151000 -0200" stop="20200112160500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112160500 -0200" stop="20200112170000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112170000 -0200" stop="20200112175500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112175500 -0200" stop="20200112201500 -0200" channel="AXN SD">
+    <title lang="pt">A Intérprete</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200112201500 -0200" stop="20200112210500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200112210500 -0200" stop="20200112220000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200112220000 -0200" stop="20200113000000 -0200" channel="AXN SD">
+    <title lang="pt">Assalto Sobre Trilhos</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200113000000 -0200" stop="20200113020500 -0200" channel="AXN SD">
+    <title lang="pt">S.W.A.T. - Comando Especial</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200113020500 -0200" stop="20200113030500 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113030500 -0200" stop="20200113040000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113040000 -0200" stop="20200113050000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113050000 -0200" stop="20200113060000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113060000 -0200" stop="20200113070000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113070000 -0200" stop="20200113080000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113080000 -0200" stop="20200113090000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113090000 -0200" stop="20200113100000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113100000 -0200" stop="20200113110000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113110000 -0200" stop="20200113115500 -0200" channel="AXN SD">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200113115500 -0200" stop="20200113125000 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200113125000 -0200" stop="20200113134500 -0200" channel="AXN SD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113134500 -0200" stop="20200113144000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113144000 -0200" stop="20200113153500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113153500 -0200" stop="20200113163000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113163000 -0200" stop="20200113172500 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113172500 -0200" stop="20200113182000 -0200" channel="AXN SD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200113182000 -0200" stop="20200113191500 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200113191500 -0200" stop="20200113201000 -0200" channel="AXN SD">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200113201000 -0200" stop="20200113210500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113210500 -0200" stop="20200113220000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113220000 -0200" stop="20200113225000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113225000 -0200" stop="20200113234000 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200113234000 -0200" stop="20200114003500 -0200" channel="AXN SD">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
   </programme>
 </tv>
