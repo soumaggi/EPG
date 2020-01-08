@@ -233,9 +233,9 @@ http://psrv.io:80/65890560442/snakeplay/18587
 http://psrv.io:80/65890560442/snakeplay/18584
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 SD" tvg-logo="http://z4.vc/1i8" group-title="Canais | Esportes",Premiere 7 SD
 http://psrv.io:80/65890560442/snakeplay/18585
-#EXTINF:-1 tvg-id="Premiere 8 - Mosaico FHD" tvg-name="Premiere 8 SD" tvg-logo="" group-title="Canais | Esportes",Premiere 8 SD
+#EXTINF:-1 tvg-id="Premiere 8 SD" tvg-name="Premiere 8 SD" tvg-logo="" group-title="Canais | Esportes",Premiere 8 SD
 http://psrv.io:80/65890560442/snakeplay/28064
-#EXTINF:-1 tvg-id="Premiere 9" tvg-name="Premiere 9 SD" tvg-logo="" group-title="Canais | Esportes",Premiere 9 SD
+#EXTINF:-1 tvg-id="Premiere 9 SD" tvg-name="Premiere 9 SD" tvg-logo="" group-title="Canais | Esportes",Premiere 9 SD
 http://psrv.io:80/65890560442/snakeplay/28063
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="http://z4.vc/CQb" group-title="Canais | Esportes",Premiere Clubes HD
 http://psrv.io:80/65890560442/snakeplay/18582
@@ -371,12 +371,12 @@ http://psrv.io:80/65890560442/snakeplay/18581
 http://psrv.io:80/65890560442/snakeplay/18538
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC SD" tvg-logo="http://z4.vc/r69" group-title="Canais | Variedades",TLC SD
 http://psrv.io:80/65890560442/snakeplay/18539
-#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 HD" tvg-logo="http://z4.vc/6fr" group-title="Canais | Variedades",VH1 HD
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://z4.vc/6fr" group-title="Canais | Variedades",VH1 HD
 http://psrv.io:80/65890560442/snakeplay/18518
-#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MegaHits SD" tvg-logo="http://z4.vc/Xhe" group-title="Canais | Variedades",VH1 MegaHits SD
-http://psrv.io:80/65890560442/snakeplay/18517
-#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 SD" tvg-logo="http://z4.vc/KZh" group-title="Canais | Variedades",VH1 SD
+#EXTINF:-1 tvg-id="VH1 SD" tvg-name="VH1 SD" tvg-logo="http://z4.vc/KZh" group-title="Canais | Variedades",VH1 SD
 http://psrv.io:80/65890560442/snakeplay/22252
+#EXTINF:-1 tvg-id="VH1 MegaHits SD" tvg-name="VH1 MegaHits SD" tvg-logo="http://z4.vc/Xhe" group-title="Canais | Variedades",VH1 MegaHits SD
+http://psrv.io:80/65890560442/snakeplay/18517
 #EXTINF:-1 tvg-id="Woohoo HD" tvg-name="Woohoo HD" tvg-logo="http://z4.vc/6Z3" group-title="Canais | Variedades",Woohoo HD
 http://psrv.io:80/65890560442/snakeplay/18511
 #EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo SD" tvg-logo="http://z4.vc/fUJ" group-title="Canais | Variedades",Woohoo SD
@@ -399,7 +399,7 @@ http://psrv.io:80/65890560442/snakeplay/18693
 http://psrv.io:80/65890560442/snakeplay/18694
 #EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://z4.vc/FSs" group-title="Canais | Documentários",Discovery Theater HD
 http://psrv.io:80/65890560442/snakeplay/18691
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater SD" tvg-logo="http://z4.vc/9oW" group-title="Canais | Documentários",Discovery Theater SD
+#EXTINF:-1 tvg-id="Discovery Theater SD" tvg-name="Discovery Theater SD" tvg-logo="http://z4.vc/9oW" group-title="Canais | Documentários",Discovery Theater SD
 http://psrv.io:80/65890560442/snakeplay/18692
 #EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://z4.vc/SxE" group-title="Canais | Documentários",Discovery World HD
 http://psrv.io:80/65890560442/snakeplay/18687
