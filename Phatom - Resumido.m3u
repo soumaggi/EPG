@@ -201,14 +201,14 @@ http://psrv.io:80/65890560442/snakeplay/18677
 http://psrv.io:80/65890560442/snakeplay/18674
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra SD" tvg-logo="http://z4.vc/dzo" group-title="Canais | Esportes",ESPN Extra SD
 http://psrv.io:80/65890560442/snakeplay/18675
-#EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="http://z4.vc/pne" group-title="Canais | Esportes",Fox Sports 2 HD
-http://psrv.io:80/65890560442/snakeplay/18657
-#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 SD" tvg-logo="http://z4.vc/Rei" group-title="Canais | Esportes",Fox Sports 2 SD
-http://psrv.io:80/65890560442/snakeplay/18658
 #EXTINF:-1 tvg-id="FoxSports HD" tvg-name="Fox Sports HD" tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports HD
 http://psrv.io:80/65890560442/snakeplay/18659
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports SD" tvg-logo="http://z4.vc/LEj" group-title="Canais | Esportes",Fox Sports SD
 http://psrv.io:80/65890560442/snakeplay/18660
+#EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="http://z4.vc/pne" group-title="Canais | Esportes",Fox Sports 2 HD
+http://psrv.io:80/65890560442/snakeplay/18657
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 SD" tvg-logo="http://z4.vc/Rei" group-title="Canais | Esportes",Fox Sports 2 SD
+http://psrv.io:80/65890560442/snakeplay/18658
 #EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="http://z4.vc/7TJ" group-title="Canais | Esportes",Premiere 2 HD
 http://psrv.io:80/65890560442/snakeplay/18594
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 SD" tvg-logo="http://z4.vc/Dw5" group-title="Canais | Esportes",Premiere 2 SD
@@ -325,8 +325,6 @@ http://psrv.io:80/65890560442/snakeplay/18670
 http://psrv.io:80/65890560442/snakeplay/18665
 #EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life SD" tvg-logo="http://z4.vc/E0q" group-title="Canais | Variedades",Fox Life SD
 http://psrv.io:80/65890560442/snakeplay/18666
-#EXTINF:-1 tvg-id="" tvg-name="GloboSat SD" tvg-logo="http://z4.vc/KG5" group-title="Canais | Variedades",GloboSat SD
-http://psrv.io:80/65890560442/snakeplay/22311
 #EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://z4.vc/6ya" group-title="Canais | Variedades",GNT HD
 http://psrv.io:80/65890560442/snakeplay/18645
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD" tvg-logo="http://z4.vc/Dat" group-title="Canais | Variedades",GNT SD
