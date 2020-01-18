@@ -437,15 +437,15 @@ http://psrv.io:80/65890560442/snakeplay/18712
 http://psrv.io:80/65890560442/snakeplay/18695
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids SD" tvg-logo="http://z4.vc/s9P" group-title="Canais | Infantis",Discovery Kids SD
 http://psrv.io:80/65890560442/snakeplay/18696
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney HD" tvg-logo="http://z4.vc/COA" group-title="Canais | Infantis",Disney HD
+#EXTINF:-1 tvg-id="Disney HD" tvg-name="Disney HD" tvg-logo="http://z4.vc/COA" group-title="Canais | Infantis",Disney HD
 http://psrv.io:80/65890560442/snakeplay/18685
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney SD" tvg-logo="http://z4.vc/Vjj" group-title="Canais | Infantis",Disney SD
+#EXTINF:-1 tvg-id="Disney SD" tvg-name="Disney SD" tvg-logo="http://z4.vc/Vjj" group-title="Canais | Infantis",Disney SD
 http://psrv.io:80/65890560442/snakeplay/18686
 #EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="Disney Junior HD" tvg-logo="http://z4.vc/67y" group-title="Canais | Infantis",Disney Junior HD
 http://psrv.io:80/65890560442/snakeplay/18509
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior SD" tvg-logo="http://z4.vc/3Vd" group-title="Canais | Infantis",Disney Junior SD
+#EXTINF:-1 tvg-id="Disney Junior SD" tvg-name="Disney Junior SD" tvg-logo="http://z4.vc/3Vd" group-title="Canais | Infantis",Disney Junior SD
 http://psrv.io:80/65890560442/snakeplay/18684
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD SD" tvg-logo="http://z4.vc/n2T" group-title="Canais | Infantis",Disney XD SD
+#EXTINF:-1 tvg-id="Disney XD SD" tvg-name="Disney XD SD" tvg-logo="http://z4.vc/n2T" group-title="Canais | Infantis",Disney XD SD
 http://psrv.io:80/65890560442/snakeplay/22321
 #EXTINF:-1 tvg-id="Gloob  HD" tvg-name="Gloob HD" tvg-logo="http://z4.vc/uDI" group-title="Canais | Infantis",Gloob HD
 http://psrv.io:80/65890560442/snakeplay/18649
@@ -459,9 +459,9 @@ http://psrv.io:80/65890560442/snakeplay/18647
 http://psrv.io:80/65890560442/snakeplay/18607
 #EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids SD" tvg-logo="http://z4.vc/3yZ" group-title="Canais | Infantis",NatGeo Kids SD
 http://psrv.io:80/65890560442/snakeplay/18608
-#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr HD" tvg-logo="http://z4.vc/Xp5" group-title="Canais | Infantis",Nick Jr HD
+#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="Nick Jr HD" tvg-logo="http://z4.vc/Xp5" group-title="Canais | Infantis",Nick Jr HD
 http://psrv.io:80/65890560442/snakeplay/18602
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr SD" tvg-logo="http://z4.vc/kuz" group-title="Canais | Infantis",Nick Jr SD
+#EXTINF:-1 tvg-id="Nick Jr SD" tvg-name="Nick Jr SD" tvg-logo="http://z4.vc/kuz" group-title="Canais | Infantis",Nick Jr SD
 http://psrv.io:80/65890560442/snakeplay/18603
 #EXTINF:-1 tvg-id="Nick HD" tvg-name="Nickelodeon HD" tvg-logo="http://z4.vc/6RD" group-title="Canais | Infantis",Nickelodeon HD
 http://psrv.io:80/65890560442/snakeplay/18600
@@ -491,8 +491,6 @@ http://psrv.io:80/65890560442/snakeplay/18652
 http://psrv.io:80/65890560442/snakeplay/18577
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News SD" tvg-logo="http://z4.vc/JOU" group-title="Canais | Notícias",Record News SD
 http://psrv.io:80/65890560442/snakeplay/18578
-#EXTINF:-1 tvg-id="TV5" tvg-name="RecordTV News SD" tvg-logo="http://z4.vc/xeN" group-title="Canais | Notícias",RecordTV News SD
-http://psrv.io:80/65890560442/snakeplay/22216
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD [Legendado]" tvg-logo="http://z4.vc/ItW" group-title="Canais | Legendados",AXN HD [Legendado]
 http://psrv.io:80/65890560442/snakeplay/28339
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD [Legendado]" tvg-logo="http://z4.vc/ItW" group-title="Canais | Legendados",AXN SD [Legendado]
