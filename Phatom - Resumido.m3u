@@ -1,68 +1,56 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://z4.vc/SDH" group-title="Canais | Variedades",A&E HD
-http://psrv.io:80/2146686202/coreurl.me/18738
-#EXTINF:-1 tvg-logo="http://z4.vc/o9i" group-title="Canais | Variedades",A&E SD
-http://psrv.io:80/2146686202/coreurl.me/18739
-#EXTINF:-1 tvg-logo="http://z4.vc/5Gw" group-title="Canais | Filmes e Séries",AMC HD
-http://psrv.io:80/2146686202/coreurl.me/18736
-#EXTINF:-1 tvg-logo="http://z4.vc/6ZV" group-title="Canais | Filmes e Séries",AMC SD
-http://psrv.io:80/2146686202/coreurl.me/18737
-#EXTINF:-1 tvg-logo="http://z4.vc/BZz" group-title="Canais | Documentários",Animal Planet HD
-http://psrv.io:80/2146686202/coreurl.me/18734
-#EXTINF:-1 tvg-logo="http://z4.vc/fjU" group-title="Canais | Documentários",Animal Planet SD
-http://psrv.io:80/2146686202/coreurl.me/18735
-#EXTINF:-1 tvg-logo="http://z4.vc/Vfq" group-title="Canais | Documentários",Arte 1 HD
-http://psrv.io:80/2146686202/coreurl.me/27884
-#EXTINF:-1 tvg-logo="http://z4.vc/8td" group-title="Canais | Documentários",Arte 1 SD
-http://psrv.io:80/2146686202/coreurl.me/18733
-#EXTINF:-1 tvg-logo="http://z4.vc/j1K" group-title="Canais | Filmes e Séries",AXN HD
-http://psrv.io:80/2146686202/coreurl.me/18730
-#EXTINF:-1 tvg-logo="http://z4.vc/qfK" group-title="Canais | Filmes e Séries",AXN SD
-http://psrv.io:80/2146686202/coreurl.me/18731
-#EXTINF:-1 tvg-logo="http://z4.vc/k3q" group-title="Canais | Infantis",BabyTV SD
-http://psrv.io:80/2146686202/coreurl.me/18729
 #EXTINF:-1 tvg-logo="http://z4.vc/SV1" group-title="Canais | Abertos",Band SD
 http://psrv.io:80/2146686202/coreurl.me/22242
 #EXTINF:-1 tvg-logo="http://z4.vc/X0u" group-title="Canais | Abertos",Band SP HD
 http://psrv.io:80/2146686202/coreurl.me/18727
 #EXTINF:-1 tvg-logo="http://z4.vc/xaf" group-title="Canais | Abertos",Band SP SD
 http://psrv.io:80/2146686202/coreurl.me/18728
-#EXTINF:-1 tvg-logo="http://z4.vc/COC" group-title="Canais | Notícias",BandNews HD
-http://psrv.io:80/2146686202/coreurl.me/18725
-#EXTINF:-1 tvg-logo="http://z4.vc/mps" group-title="Canais | Notícias",BandNews SD
-http://psrv.io:80/2146686202/coreurl.me/18726
-#EXTINF:-1 tvg-logo="http://z4.vc/0ev" group-title="Canais | Esportes",BandSports HD
-http://psrv.io:80/2146686202/coreurl.me/18723
-#EXTINF:-1 tvg-logo="http://z4.vc/ral" group-title="Canais | Esportes",BandSports SD
-http://psrv.io:80/2146686202/coreurl.me/18724
+#EXTINF:-1 tvg-logo="http://z4.vc/a9U" group-title="Canais | Abertos",Futura HD
+http://psrv.io:80/2146686202/coreurl.me/18655
+#EXTINF:-1 tvg-logo="http://z4.vc/XaX" group-title="Canais | Abertos",Futura SD
+http://psrv.io:80/2146686202/coreurl.me/18656
+#EXTINF:-1 tvg-logo="http://z4.vc/pqb" group-title="Canais | Abertos",Globo EPTV Ribeirao Preto HD
+http://psrv.io:80/2146686202/coreurl.me/18430
+#EXTINF:-1 tvg-logo="http://z4.vc/5Uj" group-title="Canais | Abertos",Globo EPTV Ribeirao Preto SD
+http://psrv.io:80/2146686202/coreurl.me/18429
+#EXTINF:-1 tvg-logo="http://z4.vc/Vlx" group-title="Canais | Abertos",Globo SP HD
+http://psrv.io:80/2146686202/coreurl.me/18410
+#EXTINF:-1 tvg-logo="http://z4.vc/tlB" group-title="Canais | Abertos",Globo SP SD
+http://psrv.io:80/2146686202/coreurl.me/18411
+#EXTINF:-1 tvg-logo="http://z4.vc/MsE" group-title="Canais | Abertos",RecordTV SP HD
+http://psrv.io:80/2146686202/coreurl.me/18575
+#EXTINF:-1 tvg-logo="http://z4.vc/BKM" group-title="Canais | Abertos",RecordTV SP SD
+http://psrv.io:80/2146686202/coreurl.me/18579
+#EXTINF:-1 tvg-logo="http://z4.vc/RnA" group-title="Canais | Abertos",Rede Brasil SD
+http://psrv.io:80/2146686202/coreurl.me/18574
+#EXTINF:-1 tvg-logo="http://z4.vc/rJP" group-title="Canais | Abertos",Rede Vida HD
+http://psrv.io:80/2146686202/coreurl.me/18504
+#EXTINF:-1 tvg-logo="http://z4.vc/DPy" group-title="Canais | Abertos",Rede Vida SD
+http://psrv.io:80/2146686202/coreurl.me/18571
+#EXTINF:-1 tvg-logo="http://z4.vc/heG" group-title="Canais | Abertos",RedeTV! HD
+http://psrv.io:80/2146686202/coreurl.me/18572
+#EXTINF:-1 tvg-logo="http://z4.vc/lHy" group-title="Canais | Abertos",RedeTV! SD
+http://psrv.io:80/2146686202/coreurl.me/18573
+#EXTINF:-1 tvg-logo="http://z4.vc/G2I" group-title="Canais | Abertos",SBT HD
+http://psrv.io:80/2146686202/coreurl.me/18569
+#EXTINF:-1 tvg-logo="http://z4.vc/MSJ" group-title="Canais | Abertos",SBT SD
+http://psrv.io:80/2146686202/coreurl.me/18570
+#EXTINF:-1 tvg-logo="http://z4.vc/0Eb" group-title="Canais | Abertos",TV Aparecida SD
+http://psrv.io:80/2146686202/coreurl.me/18530
+#EXTINF:-1 tvg-logo="http://z4.vc/BEU" group-title="Canais | Abertos",TV Cultura HD
+http://psrv.io:80/2146686202/coreurl.me/18505
+#EXTINF:-1 tvg-logo="http://z4.vc/7FM" group-title="Canais | Abertos",TV Cultura SD
+http://psrv.io:80/2146686202/coreurl.me/18506
+#EXTINF:-1 tvg-logo="http://z4.vc/ARG" group-title="Canais | Abertos",TV Gazeta SP HD
+http://psrv.io:80/2146686202/coreurl.me/18526
+#EXTINF:-1 tvg-logo="http://z4.vc/SDH" group-title="Canais | Variedades",A&E HD
+http://psrv.io:80/2146686202/coreurl.me/18738
+#EXTINF:-1 tvg-logo="http://z4.vc/o9i" group-title="Canais | Variedades",A&E SD
+http://psrv.io:80/2146686202/coreurl.me/18739
 #EXTINF:-1 tvg-logo="http://z4.vc/PAl" group-title="Canais | Variedades",Bis HD
 http://psrv.io:80/2146686202/coreurl.me/18721
 #EXTINF:-1 tvg-logo="http://z4.vc/ybv" group-title="Canais | Variedades",Bis SD
 http://psrv.io:80/2146686202/coreurl.me/18722
-#EXTINF:-1 tvg-logo="http://z4.vc/BLS" group-title="Canais | Infantis",Boomerang HD
-http://psrv.io:80/2146686202/coreurl.me/18718
-#EXTINF:-1 tvg-logo="http://z4.vc/H1Y" group-title="Canais | Infantis",Boomerang SD
-http://psrv.io:80/2146686202/coreurl.me/18719
-#EXTINF:-1 tvg-logo="http://z4.vc/GsJ" group-title="Canais | Filmes e Séries",Canal Brasil HD
-http://psrv.io:80/2146686202/coreurl.me/18716
-#EXTINF:-1 tvg-logo="http://z4.vc/kWm" group-title="Canais | Filmes e Séries",Canal Brasil SD
-http://psrv.io:80/2146686202/coreurl.me/18717
-#EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais | Infantis",Cartoon Network HD
-http://psrv.io:80/2146686202/coreurl.me/18711
-#EXTINF:-1 tvg-logo="http://z4.vc/BjV" group-title="Canais | Infantis",Cartoon Network SD
-http://psrv.io:80/2146686202/coreurl.me/18712
-#EXTINF:-1 tvg-logo="http://z4.vc/Lo1" group-title="Canais | Filmes e Séries",Cinemax HD
-http://psrv.io:80/2146686202/coreurl.me/18709
-#EXTINF:-1 tvg-logo="http://z4.vc/ZLC" group-title="Canais | Filmes e Séries",Cinemax SD
-http://psrv.io:80/2146686202/coreurl.me/18710
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",CNN Internacional HD
-http://psrv.io:80/2146686202/coreurl.me/28054
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",CNN Internacional SD
-http://psrv.io:80/2146686202/coreurl.me/26438
-#EXTINF:-1 tvg-logo="http://z4.vc/ids" group-title="Canais | Esportes",Combate HD
-http://psrv.io:80/2146686202/coreurl.me/18707
-#EXTINF:-1 tvg-logo="http://z4.vc/jLd" group-title="Canais | Esportes",Combate SD
-http://psrv.io:80/2146686202/coreurl.me/18708
 #EXTINF:-1 tvg-logo="http://z4.vc/qUw" group-title="Canais | Variedades",Comedy Central HD
 http://psrv.io:80/2146686202/coreurl.me/18705
 #EXTINF:-1 tvg-logo="http://z4.vc/RrZ" group-title="Canais | Variedades",Comedy Central SD
@@ -71,82 +59,20 @@ http://psrv.io:80/2146686202/coreurl.me/18706
 http://psrv.io:80/2146686202/coreurl.me/18703
 #EXTINF:-1 tvg-logo="http://z4.vc/fVn" group-title="Canais | Variedades",Curta! SD
 http://psrv.io:80/2146686202/coreurl.me/18704
-#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN  CHANNEL 1
-http://psrv.io:80/2146686202/coreurl.me/26195
-#EXTINF:-1 tvg-logo="http://z4.vc/Pjc" group-title="Canais | Esportes",DAZN CHANNEL 2
-http://psrv.io:80/2146686202/coreurl.me/26197
-#EXTINF:-1 tvg-logo="http://z4.vc/Wp3" group-title="Canais | Esportes",DAZN CHANNEL 3
-http://psrv.io:80/2146686202/coreurl.me/26196
-#EXTINF:-1 tvg-logo="http://z4.vc/W6B" group-title="Canais | Documentários",Discovery Channel HD
-http://psrv.io:80/2146686202/coreurl.me/18701
-#EXTINF:-1 tvg-logo="http://z4.vc/4mU" group-title="Canais | Documentários",Discovery Channel SD
-http://psrv.io:80/2146686202/coreurl.me/18702
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",HGTV HD
-http://psrv.io:80/2146686202/coreurl.me/18699
-#EXTINF:-1 tvg-logo="http://z4.vc/3Ee" group-title="Canais | Documentários",HGTV SD
-http://psrv.io:80/2146686202/coreurl.me/18700
 #EXTINF:-1 tvg-logo="http://z4.vc/nXL" group-title="Canais | Variedades",Discovery H&H HD
 http://psrv.io:80/2146686202/coreurl.me/18697
 #EXTINF:-1 tvg-logo="http://z4.vc/91r" group-title="Canais | Variedades",Discovery H&H SD
 http://psrv.io:80/2146686202/coreurl.me/18698
-#EXTINF:-1 tvg-logo="http://z4.vc/p3E" group-title="Canais | Infantis",Discovery Kids HD
-http://psrv.io:80/2146686202/coreurl.me/18695
-#EXTINF:-1 tvg-logo="http://z4.vc/s9P" group-title="Canais | Infantis",Discovery Kids SD
-http://psrv.io:80/2146686202/coreurl.me/18696
-#EXTINF:-1 tvg-logo="http://z4.vc/rQr" group-title="Canais | Documentários",Discovery Science HD
-http://psrv.io:80/2146686202/coreurl.me/18693
-#EXTINF:-1 tvg-logo="http://z4.vc/fV1" group-title="Canais | Documentários",Discovery Science SD
-http://psrv.io:80/2146686202/coreurl.me/18694
-#EXTINF:-1 tvg-logo="http://z4.vc/FSs" group-title="Canais | Documentários",Discovery Theater HD
-http://psrv.io:80/2146686202/coreurl.me/18691
-#EXTINF:-1 tvg-logo="http://z4.vc/9oW" group-title="Canais | Documentários",Discovery Theater SD
-http://psrv.io:80/2146686202/coreurl.me/18692
 #EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais | Variedades",Discovery Turbo HD
 http://psrv.io:80/2146686202/coreurl.me/18689
 #EXTINF:-1 tvg-logo="http://z4.vc/Vy0" group-title="Canais | Variedades",Discovery Turbo SD
 http://psrv.io:80/2146686202/coreurl.me/18690
-#EXTINF:-1 tvg-logo="http://z4.vc/SxE" group-title="Canais | Documentários",Discovery World HD
-http://psrv.io:80/2146686202/coreurl.me/18687
-#EXTINF:-1 tvg-logo="http://z4.vc/x5l" group-title="Canais | Documentários",Discovery World SD
-http://psrv.io:80/2146686202/coreurl.me/18688
-#EXTINF:-1 tvg-logo="http://z4.vc/COA" group-title="Canais | Infantis",Disney HD
-http://psrv.io:80/2146686202/coreurl.me/18685
-#EXTINF:-1 tvg-logo="http://z4.vc/Vjj" group-title="Canais | Infantis",Disney SD
-http://psrv.io:80/2146686202/coreurl.me/18686
-#EXTINF:-1 tvg-logo="http://z4.vc/67y" group-title="Canais | Infantis",Disney Junior HD
-http://psrv.io:80/2146686202/coreurl.me/18509
-#EXTINF:-1 tvg-logo="http://z4.vc/3Vd" group-title="Canais | Infantis",Disney Junior SD
-http://psrv.io:80/2146686202/coreurl.me/18684
-#EXTINF:-1 tvg-logo="http://z4.vc/H7Y" group-title="Canais | Infantis",Disney XD FHD [H265]
-http://psrv.io:80/2146686202/coreurl.me/25211
-#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais | Infantis",Disney XD SD
-http://psrv.io:80/2146686202/coreurl.me/22321
 #EXTINF:-1 tvg-logo="http://z4.vc/6nk" group-title="Canais | Variedades",Dog TV HD
 http://psrv.io:80/2146686202/coreurl.me/28000
 #EXTINF:-1 tvg-logo="http://z4.vc/PCy" group-title="Canais | Variedades",E! HD
 http://psrv.io:80/2146686202/coreurl.me/18681
 #EXTINF:-1 tvg-logo="http://z4.vc/Z05" group-title="Canais | Variedades",E! SD
 http://psrv.io:80/2146686202/coreurl.me/18682
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",EI Plus 1 HD
-http://psrv.io:80/2146686202/coreurl.me/22978
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",EI Plus 1 SD
-http://psrv.io:80/2146686202/coreurl.me/26194
-#EXTINF:-1 tvg-logo="http://z4.vc/krr" group-title="Canais | Esportes",ESPN 2 HD
-http://psrv.io:80/2146686202/coreurl.me/18678
-#EXTINF:-1 tvg-logo="http://z4.vc/J6U" group-title="Canais | Esportes",ESPN 2 SD
-http://psrv.io:80/2146686202/coreurl.me/18679
-#EXTINF:-1 tvg-logo="http://z4.vc/hvU" group-title="Canais | Esportes",ESPN Brasil HD
-http://psrv.io:80/2146686202/coreurl.me/18676
-#EXTINF:-1 tvg-logo="http://z4.vc/S1E" group-title="Canais | Esportes",ESPN Brasil SD
-http://psrv.io:80/2146686202/coreurl.me/18677
-#EXTINF:-1 tvg-logo="http://z4.vc/1xn" group-title="Canais | Esportes",ESPN Extra HD
-http://psrv.io:80/2146686202/coreurl.me/18674
-#EXTINF:-1 tvg-logo="http://z4.vc/dzo" group-title="Canais | Esportes",ESPN Extra SD
-http://psrv.io:80/2146686202/coreurl.me/18675
-#EXTINF:-1 tvg-logo="http://z4.vc/gWv" group-title="Canais | Esportes",ESPN HD
-http://psrv.io:80/2146686202/coreurl.me/18673
-#EXTINF:-1 tvg-logo="http://z4.vc/yGS" group-title="Canais | Esportes",ESPN SD
-http://psrv.io:80/2146686202/coreurl.me/18680
 #EXTINF:-1 tvg-logo="http://z4.vc/T5S" group-title="Canais | Variedades",Film & Arts SD
 http://psrv.io:80/2146686202/coreurl.me/18497
 #EXTINF:-1 tvg-logo="http://z4.vc/VxE" group-title="Canais | Variedades",Fish TV HD
@@ -157,90 +83,14 @@ http://psrv.io:80/2146686202/coreurl.me/18672
 http://psrv.io:80/2146686202/coreurl.me/18669
 #EXTINF:-1 tvg-logo="http://z4.vc/2cT" group-title="Canais | Variedades",Food Network SD
 http://psrv.io:80/2146686202/coreurl.me/18670
-#EXTINF:-1 tvg-logo="http://z4.vc/DUZ" group-title="Canais | Filmes e Séries",Fox HD
-http://psrv.io:80/2146686202/coreurl.me/18667
-#EXTINF:-1 tvg-logo="http://z4.vc/OcS" group-title="Canais | Filmes e Séries",Fox SD
-http://psrv.io:80/2146686202/coreurl.me/18668
 #EXTINF:-1 tvg-logo="http://z4.vc/9pz" group-title="Canais | Variedades",Fox Life HD
 http://psrv.io:80/2146686202/coreurl.me/18665
 #EXTINF:-1 tvg-logo="http://z4.vc/E0q" group-title="Canais | Variedades",Fox Life SD
 http://psrv.io:80/2146686202/coreurl.me/18666
-#EXTINF:-1 tvg-logo="http://z4.vc/AQ5" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
-http://psrv.io:80/2146686202/coreurl.me/18663
-#EXTINF:-1 tvg-logo="http://z4.vc/TCc" group-title="Canais | Esportes",Fox Premium 1 SD
-http://psrv.io:80/2146686202/coreurl.me/18664
-#EXTINF:-1 tvg-logo="http://z4.vc/g8Q" group-title="Canais | Filmes e Séries",Fox Premium 2 HD
-http://psrv.io:80/2146686202/coreurl.me/18661
-#EXTINF:-1 tvg-logo="http://z4.vc/cw8" group-title="Canais | Esportes",Fox Premium 2 SD
-http://psrv.io:80/2146686202/coreurl.me/18662
-#EXTINF:-1 tvg-logo="http://z4.vc/pne" group-title="Canais | Esportes",Fox Sports 2 HD
-http://psrv.io:80/2146686202/coreurl.me/18657
-#EXTINF:-1 tvg-logo="http://z4.vc/Rei" group-title="Canais | Esportes",Fox Sports 2 SD
-http://psrv.io:80/2146686202/coreurl.me/18658
-#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports HD
-http://psrv.io:80/2146686202/coreurl.me/18659
-#EXTINF:-1 tvg-logo="http://z4.vc/LEj" group-title="Canais | Esportes",Fox Sports SD
-http://psrv.io:80/2146686202/coreurl.me/18660
-#EXTINF:-1 tvg-logo="http://z4.vc/a9U" group-title="Canais | Abertos",Futura HD
-http://psrv.io:80/2146686202/coreurl.me/18655
-#EXTINF:-1 tvg-logo="http://z4.vc/XaX" group-title="Canais | Abertos",Futura SD
-http://psrv.io:80/2146686202/coreurl.me/18656
-#EXTINF:-1 tvg-logo="http://z4.vc/OsR" group-title="Canais | Filmes e Séries",FX HD
-http://psrv.io:80/2146686202/coreurl.me/18653
-#EXTINF:-1 tvg-logo="http://z4.vc/OYf" group-title="Canais | Filmes e Séries",FX SD
-http://psrv.io:80/2146686202/coreurl.me/18654
-#EXTINF:-1 tvg-logo="http://z4.vc/pqb" group-title="Canais | Abertos",Globo EPTV Ribeirao Preto HD
-http://psrv.io:80/2146686202/coreurl.me/18430
-#EXTINF:-1 tvg-logo="http://z4.vc/5Uj" group-title="Canais | Abertos",Globo EPTV Ribeirao Preto SD
-http://psrv.io:80/2146686202/coreurl.me/18429
-#EXTINF:-1 tvg-logo="http://z4.vc/4gV" group-title="Canais | Notícias",Globo News HD
-http://psrv.io:80/2146686202/coreurl.me/18651
-#EXTINF:-1 tvg-logo="http://z4.vc/lKc" group-title="Canais | Notícias",Globo News SD
-http://psrv.io:80/2146686202/coreurl.me/18652
-#EXTINF:-1 tvg-logo="http://z4.vc/Vlx" group-title="Canais | Abertos",Globo SP HD
-http://psrv.io:80/2146686202/coreurl.me/18410
-#EXTINF:-1 tvg-logo="http://z4.vc/tlB" group-title="Canais | Abertos",Globo SP SD
-http://psrv.io:80/2146686202/coreurl.me/18411
-#EXTINF:-1 tvg-logo="http://z4.vc/uDI" group-title="Canais | Infantis",Gloob HD
-http://psrv.io:80/2146686202/coreurl.me/18649
-#EXTINF:-1 tvg-logo="http://z4.vc/K5g" group-title="Canais | Infantis",Gloob SD
-http://psrv.io:80/2146686202/coreurl.me/18650
-#EXTINF:-1 tvg-logo="http://z4.vc/sf3" group-title="Canais | Infantis",Gloobinho HD
-http://psrv.io:80/2146686202/coreurl.me/18648
-#EXTINF:-1 tvg-logo="http://z4.vc/QOP" group-title="Canais | Infantis",Gloobinho SD
-http://psrv.io:80/2146686202/coreurl.me/18647
 #EXTINF:-1 tvg-logo="http://z4.vc/6ya" group-title="Canais | Variedades",GNT HD
 http://psrv.io:80/2146686202/coreurl.me/18645
 #EXTINF:-1 tvg-logo="http://z4.vc/Dat" group-title="Canais | Variedades",GNT SD
 http://psrv.io:80/2146686202/coreurl.me/18646
-#EXTINF:-1 tvg-logo="http://z4.vc/prI" group-title="Canais | Documentários",H2 HD
-http://psrv.io:80/2146686202/coreurl.me/18643
-#EXTINF:-1 tvg-logo="http://z4.vc/Izg" group-title="Canais | Documentários",H2 SD
-http://psrv.io:80/2146686202/coreurl.me/22309
-#EXTINF:-1 tvg-logo="http://z4.vc/0PM" group-title="Canais | Filmes e Séries",HBO 2 HD
-http://psrv.io:80/2146686202/coreurl.me/18640
-#EXTINF:-1 tvg-logo="http://z4.vc/zwf" group-title="Canais | Filmes e Séries",HBO 2 SD
-http://psrv.io:80/2146686202/coreurl.me/18641
-#EXTINF:-1 tvg-logo="http://z4.vc/JtC" group-title="Canais | Filmes e Séries",HBO Family HD
-http://psrv.io:80/2146686202/coreurl.me/18638
-#EXTINF:-1 tvg-logo="http://z4.vc/vKg" group-title="Canais | Filmes e Séries",HBO Family SD
-http://psrv.io:80/2146686202/coreurl.me/18639
-#EXTINF:-1 tvg-logo="http://z4.vc/z1Y" group-title="Canais | Filmes e Séries",HBO HD
-http://psrv.io:80/2146686202/coreurl.me/18637
-#EXTINF:-1 tvg-logo="http://z4.vc/ncl" group-title="Canais | Filmes e Séries",HBO SD
-http://psrv.io:80/2146686202/coreurl.me/18642
-#EXTINF:-1 tvg-logo="http://z4.vc/oZI" group-title="Canais | Filmes e Séries",HBO Plus HD
-http://psrv.io:80/2146686202/coreurl.me/18635
-#EXTINF:-1 tvg-logo="http://z4.vc/Gg9" group-title="Canais | Filmes e Séries",HBO Plus SD
-http://psrv.io:80/2146686202/coreurl.me/18636
-#EXTINF:-1 tvg-logo="http://z4.vc/ICL" group-title="Canais | Filmes e Séries",HBO Signature HD
-http://psrv.io:80/2146686202/coreurl.me/18633
-#EXTINF:-1 tvg-logo="http://z4.vc/CPt" group-title="Canais | Filmes e Séries",HBO Signature SD
-http://psrv.io:80/2146686202/coreurl.me/18634
-#EXTINF:-1 tvg-logo="http://z4.vc/hEz" group-title="Canais | Documentários",History Channel HD
-http://psrv.io:80/2146686202/coreurl.me/18631
-#EXTINF:-1 tvg-logo="http://z4.vc/GaY" group-title="Canais | Documentários",History Channel SD
-http://psrv.io:80/2146686202/coreurl.me/18632
 #EXTINF:-1 tvg-logo="http://z4.vc/q6F" group-title="Canais | Variedades",ID: Investigacao Discovery HD
 http://psrv.io:80/2146686202/coreurl.me/18629
 #EXTINF:-1 tvg-logo="http://z4.vc/dAy" group-title="Canais | Variedades",ID: Investigacao Discovery SD
@@ -253,22 +103,6 @@ http://psrv.io:80/2146686202/coreurl.me/18628
 http://psrv.io:80/2146686202/coreurl.me/18625
 #EXTINF:-1 tvg-logo="http://z4.vc/QSP" group-title="Canais | Variedades",Mais GloboSat SD
 http://psrv.io:80/2146686202/coreurl.me/18626
-#EXTINF:-1 tvg-logo="http://z4.vc/cC5" group-title="Canais | Filmes e Séries",Max HD
-http://psrv.io:80/2146686202/coreurl.me/18623
-#EXTINF:-1 tvg-logo="http://z4.vc/CmH" group-title="Canais | Filmes e Séries",Max SD
-http://psrv.io:80/2146686202/coreurl.me/18624
-#EXTINF:-1 tvg-logo="http://z4.vc/fwU" group-title="Canais | Filmes e Séries",Max Prime HD
-http://psrv.io:80/2146686202/coreurl.me/18621
-#EXTINF:-1 tvg-logo="http://z4.vc/cv2" group-title="Canais | Filmes e Séries",Max Prime SD
-http://psrv.io:80/2146686202/coreurl.me/18622
-#EXTINF:-1 tvg-logo="http://z4.vc/gZk" group-title="Canais | Filmes e Séries",Max UP HD
-http://psrv.io:80/2146686202/coreurl.me/18619
-#EXTINF:-1 tvg-logo="http://z4.vc/brs" group-title="Canais | Filmes e Séries",Max UP SD
-http://psrv.io:80/2146686202/coreurl.me/18620
-#EXTINF:-1 tvg-logo="http://z4.vc/KR2" group-title="Canais | Filmes e Séries",Megapix HD
-http://psrv.io:80/2146686202/coreurl.me/18617
-#EXTINF:-1 tvg-logo="http://z4.vc/g9W" group-title="Canais | Filmes e Séries",Megapix SD
-http://psrv.io:80/2146686202/coreurl.me/18618
 #EXTINF:-1 tvg-logo="http://z4.vc/sTl" group-title="Canais | Variedades",MTV HD
 http://psrv.io:80/2146686202/coreurl.me/18615
 #EXTINF:-1 tvg-logo="http://z4.vc/MWq" group-title="Canais | Variedades",MTV SD
@@ -285,40 +119,70 @@ http://psrv.io:80/2146686202/coreurl.me/18614
 http://psrv.io:80/2146686202/coreurl.me/18611
 #EXTINF:-1 tvg-logo="http://z4.vc/SEn" group-title="Canais | Variedades",Music Box Brasil SD
 http://psrv.io:80/2146686202/coreurl.me/18612
-#EXTINF:-1 tvg-logo="http://z4.vc/4kC" group-title="Canais | Infantis",NatGeo Kids HD
-http://psrv.io:80/2146686202/coreurl.me/18607
-#EXTINF:-1 tvg-logo="http://z4.vc/3yZ" group-title="Canais | Infantis",NatGeo Kids SD
-http://psrv.io:80/2146686202/coreurl.me/18608
-#EXTINF:-1 tvg-logo="http://z4.vc/Vzb" group-title="Canais | Documentários",NatGeo Wild HD
-http://psrv.io:80/2146686202/coreurl.me/18606
-#EXTINF:-1 tvg-logo="http://z4.vc/qtJ" group-title="Canais | Documentários",NatGeo Wild SD
-http://psrv.io:80/2146686202/coreurl.me/18605
-#EXTINF:-1 tvg-logo="http://z4.vc/NlH" group-title="Canais | Documentários",National Geographic HD
-http://psrv.io:80/2146686202/coreurl.me/18609
-#EXTINF:-1 tvg-logo="http://z4.vc/uNC" group-title="Canais | Documentários",National Geographic SD
-http://psrv.io:80/2146686202/coreurl.me/18610
-#EXTINF:-1 tvg-logo="http://z4.vc/Xp5" group-title="Canais | Infantis",Nick Jr HD
-http://psrv.io:80/2146686202/coreurl.me/18602
-#EXTINF:-1 tvg-logo="http://z4.vc/kuz" group-title="Canais | Infantis",Nick Jr SD
-http://psrv.io:80/2146686202/coreurl.me/18603
-#EXTINF:-1 tvg-logo="http://z4.vc/6RD" group-title="Canais | Infantis",Nickelodeon HD
-http://psrv.io:80/2146686202/coreurl.me/18600
-#EXTINF:-1 tvg-logo="http://z4.vc/Ad6" group-title="Canais | Infantis",Nickelodeon SD
-http://psrv.io:80/2146686202/coreurl.me/18601
 #EXTINF:-1 tvg-logo="http://z4.vc/L2Z" group-title="Canais | Variedades",OFF HD
 http://psrv.io:80/2146686202/coreurl.me/18598
 #EXTINF:-1 tvg-logo="http://z4.vc/dGv" group-title="Canais | Variedades",OFF SD
 http://psrv.io:80/2146686202/coreurl.me/18599
-#EXTINF:-1 tvg-logo="http://z4.vc/QY7" group-title="Canais | Filmes e Séries",Paramount Channel HD
-http://psrv.io:80/2146686202/coreurl.me/18596
-#EXTINF:-1 tvg-logo="http://z4.vc/G8C" group-title="Canais | Filmes e Séries",Paramount Channel SD
-http://psrv.io:80/2146686202/coreurl.me/18597
 #EXTINF:-1 tvg-logo="http://z4.vc/jN0" group-title="Canais | Variedades",Play TV SD
 http://psrv.io:80/2146686202/coreurl.me/22288
-#EXTINF:-1 tvg-logo="http://z4.vc/zrG" group-title="Canais | Infantis",PlayKids HD
-http://psrv.io:80/2146686202/coreurl.me/18499
-#EXTINF:-1 tvg-logo="http://z4.vc/z3I" group-title="Canais | Infantis",PlayKids SD
-http://psrv.io:80/2146686202/coreurl.me/18498
+#EXTINF:-1 tvg-logo="http://z4.vc/JY2" group-title="Canais | Variedades",Prime Box Brasil HD
+http://psrv.io:80/2146686202/coreurl.me/18580
+#EXTINF:-1 tvg-logo="http://z4.vc/3WB" group-title="Canais | Variedades",Prime Box Brasil SD
+http://psrv.io:80/2146686202/coreurl.me/18581
+#EXTINF:-1 tvg-logo="http://z4.vc/fUs" group-title="Canais | Variedades",TLC HD
+http://psrv.io:80/2146686202/coreurl.me/18538
+#EXTINF:-1 tvg-logo="http://z4.vc/r69" group-title="Canais | Variedades",TLC SD
+http://psrv.io:80/2146686202/coreurl.me/18539
+#EXTINF:-1 tvg-logo="http://z4.vc/6fr" group-title="Canais | Variedades",VH1 HD
+http://psrv.io:80/2146686202/coreurl.me/18518
+#EXTINF:-1 tvg-logo="http://z4.vc/KZh" group-title="Canais | Variedades",VH1 SD
+http://psrv.io:80/2146686202/coreurl.me/22252
+#EXTINF:-1 tvg-logo="http://z4.vc/Xhe" group-title="Canais | Variedades",VH1 MegaHits SD
+http://psrv.io:80/2146686202/coreurl.me/18517
+#EXTINF:-1 tvg-logo="http://z4.vc/LVI" group-title="Canais | Variedades",Viva HD
+http://psrv.io:80/2146686202/coreurl.me/18515
+#EXTINF:-1 tvg-logo="http://z4.vc/Pte" group-title="Canais | Variedades",Viva SD
+http://psrv.io:80/2146686202/coreurl.me/18516
+#EXTINF:-1 tvg-logo="http://z4.vc/6Z3" group-title="Canais | Variedades",Woohoo HD
+http://psrv.io:80/2146686202/coreurl.me/18511
+#EXTINF:-1 tvg-logo="http://z4.vc/fUJ" group-title="Canais | Variedades",Woohoo SD
+http://psrv.io:80/2146686202/coreurl.me/18512
+
+
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/0ev" group-title="Canais | Esportes",BandSports HD
+http://psrv.io:80/2146686202/coreurl.me/18723
+#EXTINF:-1 tvg-logo="http://z4.vc/ral" group-title="Canais | Esportes",BandSports SD
+http://psrv.io:80/2146686202/coreurl.me/18724
+#EXTINF:-1 tvg-logo="http://z4.vc/ids" group-title="Canais | Esportes",Combate HD
+http://psrv.io:80/2146686202/coreurl.me/18707
+#EXTINF:-1 tvg-logo="http://z4.vc/jLd" group-title="Canais | Esportes",Combate SD
+http://psrv.io:80/2146686202/coreurl.me/18708
+#EXTINF:-1 tvg-logo="http://z4.vc/gWv" group-title="Canais | Esportes",ESPN HD
+http://psrv.io:80/2146686202/coreurl.me/18673
+#EXTINF:-1 tvg-logo="http://z4.vc/yGS" group-title="Canais | Esportes",ESPN SD
+http://psrv.io:80/2146686202/coreurl.me/18680
+#EXTINF:-1 tvg-logo="http://z4.vc/krr" group-title="Canais | Esportes",ESPN 2 HD
+http://psrv.io:80/2146686202/coreurl.me/18678
+#EXTINF:-1 tvg-logo="http://z4.vc/J6U" group-title="Canais | Esportes",ESPN 2 SD
+http://psrv.io:80/2146686202/coreurl.me/18679
+#EXTINF:-1 tvg-logo="http://z4.vc/hvU" group-title="Canais | Esportes",ESPN Brasil HD
+http://psrv.io:80/2146686202/coreurl.me/18676
+#EXTINF:-1 tvg-logo="http://z4.vc/S1E" group-title="Canais | Esportes",ESPN Brasil SD
+http://psrv.io:80/2146686202/coreurl.me/18677
+#EXTINF:-1 tvg-logo="http://z4.vc/1xn" group-title="Canais | Esportes",ESPN Extra HD
+http://psrv.io:80/2146686202/coreurl.me/18674
+#EXTINF:-1 tvg-logo="http://z4.vc/dzo" group-title="Canais | Esportes",ESPN Extra SD
+http://psrv.io:80/2146686202/coreurl.me/18675
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports HD
+http://psrv.io:80/2146686202/coreurl.me/18659
+#EXTINF:-1 tvg-logo="http://z4.vc/LEj" group-title="Canais | Esportes",Fox Sports SD
+http://psrv.io:80/2146686202/coreurl.me/18660
+#EXTINF:-1 tvg-logo="http://z4.vc/pne" group-title="Canais | Esportes",Fox Sports 2 HD
+http://psrv.io:80/2146686202/coreurl.me/18657
+#EXTINF:-1 tvg-logo="http://z4.vc/Rei" group-title="Canais | Esportes",Fox Sports 2 SD
+http://psrv.io:80/2146686202/coreurl.me/18658
 #EXTINF:-1 tvg-logo="http://z4.vc/CQb" group-title="Canais | Esportes",Premiere Clubes HD
 http://psrv.io:80/2146686202/coreurl.me/18582
 #EXTINF:-1 tvg-logo="http://z4.vc/URo" group-title="Canais | Esportes",Premiere Clubes SD
@@ -351,40 +215,6 @@ http://psrv.io:80/2146686202/coreurl.me/18585
 http://psrv.io:80/2146686202/coreurl.me/28064
 #EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Premiere 9 SD
 http://psrv.io:80/2146686202/coreurl.me/28063
-#EXTINF:-1 tvg-logo="http://z4.vc/JY2" group-title="Canais | Variedades",Prime Box Brazil HD
-http://psrv.io:80/2146686202/coreurl.me/18580
-#EXTINF:-1 tvg-logo="http://z4.vc/3WB" group-title="Canais | Variedades",Prime Box Brazil SD
-http://psrv.io:80/2146686202/coreurl.me/18581
-#EXTINF:-1 tvg-logo="http://z4.vc/Ncd" group-title="Canais | Notícias",Record News HD
-http://psrv.io:80/2146686202/coreurl.me/18577
-#EXTINF:-1 tvg-logo="http://z4.vc/JOU" group-title="Canais | Notícias",Record News SD
-http://psrv.io:80/2146686202/coreurl.me/18578
-#EXTINF:-1 tvg-logo="http://z4.vc/MsE" group-title="Canais | Abertos",RecordTV SP HD
-http://psrv.io:80/2146686202/coreurl.me/18575
-#EXTINF:-1 tvg-logo="http://z4.vc/BKM" group-title="Canais | Abertos",RecordTV SP SD
-http://psrv.io:80/2146686202/coreurl.me/18579
-#EXTINF:-1 tvg-logo="http://z4.vc/RnA" group-title="Canais | Abertos",Rede Brasil SD
-http://psrv.io:80/2146686202/coreurl.me/18574
-#EXTINF:-1 tvg-logo="http://z4.vc/rJP" group-title="Canais | Abertos",Rede Vida HD
-http://psrv.io:80/2146686202/coreurl.me/18504
-#EXTINF:-1 tvg-logo="http://z4.vc/DPy" group-title="Canais | Abertos",Rede Vida SD
-http://psrv.io:80/2146686202/coreurl.me/18571
-#EXTINF:-1 tvg-logo="http://z4.vc/heG" group-title="Canais | Abertos",RedeTV! HD
-http://psrv.io:80/2146686202/coreurl.me/18572
-#EXTINF:-1 tvg-logo="http://z4.vc/lHy" group-title="Canais | Abertos",RedeTV! SD
-http://psrv.io:80/2146686202/coreurl.me/18573
-#EXTINF:-1 tvg-logo="http://z4.vc/G2I" group-title="Canais | Abertos",SBT HD
-http://psrv.io:80/2146686202/coreurl.me/18569
-#EXTINF:-1 tvg-logo="http://z4.vc/MSJ" group-title="Canais | Abertos",SBT SD
-http://psrv.io:80/2146686202/coreurl.me/18570
-#EXTINF:-1 tvg-logo="http://z4.vc/hkn" group-title="Canais | Filmes e Séries",Sony HD
-http://psrv.io:80/2146686202/coreurl.me/18714
-#EXTINF:-1 tvg-logo="http://z4.vc/npa" group-title="Canais | Filmes e Séries",Sony SD
-http://psrv.io:80/2146686202/coreurl.me/18715
-#EXTINF:-1 tvg-logo="http://z4.vc/EPt" group-title="Canais | Filmes e Séries",Space HD
-http://psrv.io:80/2146686202/coreurl.me/18564
-#EXTINF:-1 tvg-logo="http://z4.vc/zXZ" group-title="Canais | Filmes e Séries",Space SD
-http://psrv.io:80/2146686202/coreurl.me/18565
 #EXTINF:-1 tvg-logo="http://z4.vc/ygd" group-title="Canais | Esportes",SporTV HD
 http://psrv.io:80/2146686202/coreurl.me/18558
 #EXTINF:-1 tvg-logo="http://z4.vc/Ffl" group-title="Canais | Esportes",SporTV SD
@@ -397,6 +227,232 @@ http://psrv.io:80/2146686202/coreurl.me/18562
 http://psrv.io:80/2146686202/coreurl.me/18559
 #EXTINF:-1 tvg-logo="http://z4.vc/GGG" group-title="Canais | Esportes",SporTV 3 SD
 http://psrv.io:80/2146686202/coreurl.me/18560
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",EI Plus 1 HD
+http://psrv.io:80/2146686202/coreurl.me/22978
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",EI Plus 1 SD
+http://psrv.io:80/2146686202/coreurl.me/26194
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 01 [Champions League]
+http://psrv.io:80/2146686202/coreurl.me/28380
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 02 [Champions League]
+http://psrv.io:80/2146686202/coreurl.me/28381
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 03 [Champions League]
+http://psrv.io:80/2146686202/coreurl.me/28382
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 04 [Champions League]
+http://psrv.io:80/2146686202/coreurl.me/28383
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 05 [Champions League]
+http://psrv.io:80/2146686202/coreurl.me/28384
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 06 [Champions League]
+http://psrv.io:80/2146686202/coreurl.me/28385
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Copa Libertadores HD
+http://psrv.io:80/2146686202/coreurl.me/28386
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN  CHANNEL 1
+http://psrv.io:80/2146686202/coreurl.me/26195
+#EXTINF:-1 tvg-logo="http://z4.vc/Pjc" group-title="Canais | Esportes",DAZN CHANNEL 2
+http://psrv.io:80/2146686202/coreurl.me/26197
+#EXTINF:-1 tvg-logo="http://z4.vc/Wp3" group-title="Canais | Esportes",DAZN CHANNEL 3
+http://psrv.io:80/2146686202/coreurl.me/26196
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN CHANNEL 4
+http://psrv.io:80/2146686202/coreurl.me/28387
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN CHANNEL 5
+http://psrv.io:80/2146686202/coreurl.me/28388
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN CHANNEL 6
+http://psrv.io:80/2146686202/coreurl.me/28389
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",NFL Network HD [TEMP]
+http://psrv.io:80/2146686202/coreurl.me/28392
+#EXTINF:-1 tvg-logo="http://z4.vc/5Gw" group-title="Canais | Filmes e Séries",AMC HD
+http://psrv.io:80/2146686202/coreurl.me/18736
+#EXTINF:-1 tvg-logo="http://z4.vc/6ZV" group-title="Canais | Filmes e Séries",AMC SD
+http://psrv.io:80/2146686202/coreurl.me/18737
+#EXTINF:-1 tvg-logo="http://z4.vc/BZz" group-title="Canais | Documentários",Animal Planet HD
+http://psrv.io:80/2146686202/coreurl.me/18734
+#EXTINF:-1 tvg-logo="http://z4.vc/fjU" group-title="Canais | Documentários",Animal Planet SD
+http://psrv.io:80/2146686202/coreurl.me/18735
+#EXTINF:-1 tvg-logo="http://z4.vc/Vfq" group-title="Canais | Documentários",Arte 1 HD
+http://psrv.io:80/2146686202/coreurl.me/27884
+#EXTINF:-1 tvg-logo="http://z4.vc/8td" group-title="Canais | Documentários",Arte 1 SD
+http://psrv.io:80/2146686202/coreurl.me/18733
+#EXTINF:-1 tvg-logo="http://z4.vc/j1K" group-title="Canais | Filmes e Séries",AXN HD
+http://psrv.io:80/2146686202/coreurl.me/18730
+#EXTINF:-1 tvg-logo="http://z4.vc/qfK" group-title="Canais | Filmes e Séries",AXN SD
+http://psrv.io:80/2146686202/coreurl.me/18731
+#EXTINF:-1 tvg-logo="http://z4.vc/k3q" group-title="Canais | Infantis",BabyTV SD
+http://psrv.io:80/2146686202/coreurl.me/18729
+#EXTINF:-1 tvg-logo="http://z4.vc/COC" group-title="Canais | Notícias",BandNews HD
+http://psrv.io:80/2146686202/coreurl.me/18725
+#EXTINF:-1 tvg-logo="http://z4.vc/mps" group-title="Canais | Notícias",BandNews SD
+http://psrv.io:80/2146686202/coreurl.me/18726
+#EXTINF:-1 tvg-logo="http://z4.vc/BLS" group-title="Canais | Infantis",Boomerang HD
+http://psrv.io:80/2146686202/coreurl.me/18718
+#EXTINF:-1 tvg-logo="http://z4.vc/H1Y" group-title="Canais | Infantis",Boomerang SD
+http://psrv.io:80/2146686202/coreurl.me/18719
+#EXTINF:-1 tvg-logo="http://z4.vc/GsJ" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://psrv.io:80/2146686202/coreurl.me/18716
+#EXTINF:-1 tvg-logo="http://z4.vc/kWm" group-title="Canais | Filmes e Séries",Canal Brasil SD
+http://psrv.io:80/2146686202/coreurl.me/18717
+#EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais | Infantis",Cartoon Network HD
+http://psrv.io:80/2146686202/coreurl.me/18711
+#EXTINF:-1 tvg-logo="http://z4.vc/BjV" group-title="Canais | Infantis",Cartoon Network SD
+http://psrv.io:80/2146686202/coreurl.me/18712
+#EXTINF:-1 tvg-logo="http://z4.vc/Lo1" group-title="Canais | Filmes e Séries",Cinemax HD
+http://psrv.io:80/2146686202/coreurl.me/18709
+#EXTINF:-1 tvg-logo="http://z4.vc/ZLC" group-title="Canais | Filmes e Séries",Cinemax SD
+http://psrv.io:80/2146686202/coreurl.me/18710
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",CNN Internacional HD
+http://psrv.io:80/2146686202/coreurl.me/28054
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",CNN Internacional SD
+http://psrv.io:80/2146686202/coreurl.me/26438
+#EXTINF:-1 tvg-logo="http://z4.vc/W6B" group-title="Canais | Documentários",Discovery Channel HD
+http://psrv.io:80/2146686202/coreurl.me/18701
+#EXTINF:-1 tvg-logo="http://z4.vc/4mU" group-title="Canais | Documentários",Discovery Channel SD
+http://psrv.io:80/2146686202/coreurl.me/18702
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",HGTV HD
+http://psrv.io:80/2146686202/coreurl.me/18699
+#EXTINF:-1 tvg-logo="http://z4.vc/3Ee" group-title="Canais | Documentários",HGTV SD
+http://psrv.io:80/2146686202/coreurl.me/18700
+#EXTINF:-1 tvg-logo="http://z4.vc/p3E" group-title="Canais | Infantis",Discovery Kids HD
+http://psrv.io:80/2146686202/coreurl.me/18695
+#EXTINF:-1 tvg-logo="http://z4.vc/s9P" group-title="Canais | Infantis",Discovery Kids SD
+http://psrv.io:80/2146686202/coreurl.me/18696
+#EXTINF:-1 tvg-logo="http://z4.vc/rQr" group-title="Canais | Documentários",Discovery Science HD
+http://psrv.io:80/2146686202/coreurl.me/18693
+#EXTINF:-1 tvg-logo="http://z4.vc/fV1" group-title="Canais | Documentários",Discovery Science SD
+http://psrv.io:80/2146686202/coreurl.me/18694
+#EXTINF:-1 tvg-logo="http://z4.vc/FSs" group-title="Canais | Documentários",Discovery Theater HD
+http://psrv.io:80/2146686202/coreurl.me/18691
+#EXTINF:-1 tvg-logo="http://z4.vc/9oW" group-title="Canais | Documentários",Discovery Theater SD
+http://psrv.io:80/2146686202/coreurl.me/18692
+#EXTINF:-1 tvg-logo="http://z4.vc/SxE" group-title="Canais | Documentários",Discovery World HD
+http://psrv.io:80/2146686202/coreurl.me/18687
+#EXTINF:-1 tvg-logo="http://z4.vc/x5l" group-title="Canais | Documentários",Discovery World SD
+http://psrv.io:80/2146686202/coreurl.me/18688
+#EXTINF:-1 tvg-logo="http://z4.vc/COA" group-title="Canais | Infantis",Disney HD
+http://psrv.io:80/2146686202/coreurl.me/18685
+#EXTINF:-1 tvg-logo="http://z4.vc/Vjj" group-title="Canais | Infantis",Disney SD
+http://psrv.io:80/2146686202/coreurl.me/18686
+#EXTINF:-1 tvg-logo="http://z4.vc/67y" group-title="Canais | Infantis",Disney Junior HD
+http://psrv.io:80/2146686202/coreurl.me/18509
+#EXTINF:-1 tvg-logo="http://z4.vc/3Vd" group-title="Canais | Infantis",Disney Junior SD
+http://psrv.io:80/2146686202/coreurl.me/18684
+#EXTINF:-1 tvg-logo="http://z4.vc/H7Y" group-title="Canais | Infantis",Disney XD FHD [H265]
+http://psrv.io:80/2146686202/coreurl.me/25211
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais | Infantis",Disney XD SD
+http://psrv.io:80/2146686202/coreurl.me/22321
+#EXTINF:-1 tvg-logo="http://z4.vc/DUZ" group-title="Canais | Filmes e Séries",Fox HD
+http://psrv.io:80/2146686202/coreurl.me/18667
+#EXTINF:-1 tvg-logo="http://z4.vc/OcS" group-title="Canais | Filmes e Séries",Fox SD
+http://psrv.io:80/2146686202/coreurl.me/18668
+#EXTINF:-1 tvg-logo="http://z4.vc/AQ5" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
+http://psrv.io:80/2146686202/coreurl.me/18663
+#EXTINF:-1 tvg-logo="http://z4.vc/TCc" group-title="Canais | Filmes e Séries",Fox Premium 1 SD
+http://psrv.io:80/2146686202/coreurl.me/18664
+#EXTINF:-1 tvg-logo="http://z4.vc/g8Q" group-title="Canais | Filmes e Séries",Fox Premium 2 HD
+http://psrv.io:80/2146686202/coreurl.me/18661
+#EXTINF:-1 tvg-logo="http://z4.vc/cw8" group-title="Canais | Filmes e Séries",Fox Premium 2 SD
+http://psrv.io:80/2146686202/coreurl.me/18662
+#EXTINF:-1 tvg-logo="http://z4.vc/OsR" group-title="Canais | Filmes e Séries",FX HD
+http://psrv.io:80/2146686202/coreurl.me/18653
+#EXTINF:-1 tvg-logo="http://z4.vc/OYf" group-title="Canais | Filmes e Séries",FX SD
+http://psrv.io:80/2146686202/coreurl.me/18654
+#EXTINF:-1 tvg-logo="http://z4.vc/4gV" group-title="Canais | Notícias",Globo News HD
+http://psrv.io:80/2146686202/coreurl.me/18651
+#EXTINF:-1 tvg-logo="http://z4.vc/lKc" group-title="Canais | Notícias",Globo News SD
+http://psrv.io:80/2146686202/coreurl.me/18652
+#EXTINF:-1 tvg-logo="http://z4.vc/uDI" group-title="Canais | Infantis",Gloob HD
+http://psrv.io:80/2146686202/coreurl.me/18649
+#EXTINF:-1 tvg-logo="http://z4.vc/K5g" group-title="Canais | Infantis",Gloob SD
+http://psrv.io:80/2146686202/coreurl.me/18650
+#EXTINF:-1 tvg-logo="http://z4.vc/sf3" group-title="Canais | Infantis",Gloobinho HD
+http://psrv.io:80/2146686202/coreurl.me/18648
+#EXTINF:-1 tvg-logo="http://z4.vc/QOP" group-title="Canais | Infantis",Gloobinho SD
+http://psrv.io:80/2146686202/coreurl.me/18647
+#EXTINF:-1 tvg-logo="http://z4.vc/prI" group-title="Canais | Documentários",H2 HD
+http://psrv.io:80/2146686202/coreurl.me/18643
+#EXTINF:-1 tvg-logo="http://z4.vc/Izg" group-title="Canais | Documentários",H2 SD
+http://psrv.io:80/2146686202/coreurl.me/22309
+#EXTINF:-1 tvg-logo="http://z4.vc/0PM" group-title="Canais | Filmes e Séries",HBO 2 HD
+http://psrv.io:80/2146686202/coreurl.me/18640
+#EXTINF:-1 tvg-logo="http://z4.vc/zwf" group-title="Canais | Filmes e Séries",HBO 2 SD
+http://psrv.io:80/2146686202/coreurl.me/18641
+#EXTINF:-1 tvg-logo="http://z4.vc/JtC" group-title="Canais | Filmes e Séries",HBO Family HD
+http://psrv.io:80/2146686202/coreurl.me/18638
+#EXTINF:-1 tvg-logo="http://z4.vc/vKg" group-title="Canais | Filmes e Séries",HBO Family SD
+http://psrv.io:80/2146686202/coreurl.me/18639
+#EXTINF:-1 tvg-logo="http://z4.vc/z1Y" group-title="Canais | Filmes e Séries",HBO HD
+http://psrv.io:80/2146686202/coreurl.me/18637
+#EXTINF:-1 tvg-logo="http://z4.vc/ncl" group-title="Canais | Filmes e Séries",HBO SD
+http://psrv.io:80/2146686202/coreurl.me/18642
+#EXTINF:-1 tvg-logo="http://z4.vc/oZI" group-title="Canais | Filmes e Séries",HBO Plus HD
+http://psrv.io:80/2146686202/coreurl.me/18635
+#EXTINF:-1 tvg-logo="http://z4.vc/Gg9" group-title="Canais | Filmes e Séries",HBO Plus SD
+http://psrv.io:80/2146686202/coreurl.me/18636
+#EXTINF:-1 tvg-logo="http://z4.vc/ICL" group-title="Canais | Filmes e Séries",HBO Signature HD
+http://psrv.io:80/2146686202/coreurl.me/18633
+#EXTINF:-1 tvg-logo="http://z4.vc/CPt" group-title="Canais | Filmes e Séries",HBO Signature SD
+http://psrv.io:80/2146686202/coreurl.me/18634
+#EXTINF:-1 tvg-logo="http://z4.vc/hEz" group-title="Canais | Documentários",History Channel HD
+http://psrv.io:80/2146686202/coreurl.me/18631
+#EXTINF:-1 tvg-logo="http://z4.vc/GaY" group-title="Canais | Documentários",History Channel SD
+http://psrv.io:80/2146686202/coreurl.me/18632
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Life Time FHD
+http://psrv.io:80/2146686202/coreurl.me/28401
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Life Time SD
+http://psrv.io:80/2146686202/coreurl.me/28402
+#EXTINF:-1 tvg-logo="http://z4.vc/cC5" group-title="Canais | Filmes e Séries",Max HD
+http://psrv.io:80/2146686202/coreurl.me/18623
+#EXTINF:-1 tvg-logo="http://z4.vc/CmH" group-title="Canais | Filmes e Séries",Max SD
+http://psrv.io:80/2146686202/coreurl.me/18624
+#EXTINF:-1 tvg-logo="http://z4.vc/fwU" group-title="Canais | Filmes e Séries",Max Prime HD
+http://psrv.io:80/2146686202/coreurl.me/18621
+#EXTINF:-1 tvg-logo="http://z4.vc/cv2" group-title="Canais | Filmes e Séries",Max Prime SD
+http://psrv.io:80/2146686202/coreurl.me/18622
+#EXTINF:-1 tvg-logo="http://z4.vc/gZk" group-title="Canais | Filmes e Séries",Max UP HD
+http://psrv.io:80/2146686202/coreurl.me/18619
+#EXTINF:-1 tvg-logo="http://z4.vc/brs" group-title="Canais | Filmes e Séries",Max UP SD
+http://psrv.io:80/2146686202/coreurl.me/18620
+#EXTINF:-1 tvg-logo="http://z4.vc/KR2" group-title="Canais | Filmes e Séries",Megapix HD
+http://psrv.io:80/2146686202/coreurl.me/18617
+#EXTINF:-1 tvg-logo="http://z4.vc/g9W" group-title="Canais | Filmes e Séries",Megapix SD
+http://psrv.io:80/2146686202/coreurl.me/18618
+#EXTINF:-1 tvg-logo="http://z4.vc/4kC" group-title="Canais | Infantis",NatGeo Kids HD
+http://psrv.io:80/2146686202/coreurl.me/18607
+#EXTINF:-1 tvg-logo="http://z4.vc/3yZ" group-title="Canais | Infantis",NatGeo Kids SD
+http://psrv.io:80/2146686202/coreurl.me/18608
+#EXTINF:-1 tvg-logo="http://z4.vc/Vzb" group-title="Canais | Documentários",NatGeo Wild HD
+http://psrv.io:80/2146686202/coreurl.me/18606
+#EXTINF:-1 tvg-logo="http://z4.vc/qtJ" group-title="Canais | Documentários",NatGeo Wild SD
+http://psrv.io:80/2146686202/coreurl.me/18605
+#EXTINF:-1 tvg-logo="http://z4.vc/NlH" group-title="Canais | Documentários",National Geographic HD
+http://psrv.io:80/2146686202/coreurl.me/18609
+#EXTINF:-1 tvg-logo="http://z4.vc/uNC" group-title="Canais | Documentários",National Geographic SD
+http://psrv.io:80/2146686202/coreurl.me/18610
+#EXTINF:-1 tvg-logo="http://z4.vc/Xp5" group-title="Canais | Infantis",Nick Jr HD
+http://psrv.io:80/2146686202/coreurl.me/18602
+#EXTINF:-1 tvg-logo="http://z4.vc/kuz" group-title="Canais | Infantis",Nick Jr SD
+http://psrv.io:80/2146686202/coreurl.me/18603
+#EXTINF:-1 tvg-logo="http://z4.vc/6RD" group-title="Canais | Infantis",Nickelodeon HD
+http://psrv.io:80/2146686202/coreurl.me/18600
+#EXTINF:-1 tvg-logo="http://z4.vc/Ad6" group-title="Canais | Infantis",Nickelodeon SD
+http://psrv.io:80/2146686202/coreurl.me/18601
+#EXTINF:-1 tvg-logo="http://z4.vc/QY7" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://psrv.io:80/2146686202/coreurl.me/18596
+#EXTINF:-1 tvg-logo="http://z4.vc/G8C" group-title="Canais | Filmes e Séries",Paramount Channel SD
+http://psrv.io:80/2146686202/coreurl.me/18597
+#EXTINF:-1 tvg-logo="http://z4.vc/zrG" group-title="Canais | Infantis",PlayKids HD
+http://psrv.io:80/2146686202/coreurl.me/18499
+#EXTINF:-1 tvg-logo="http://z4.vc/z3I" group-title="Canais | Infantis",PlayKids SD
+http://psrv.io:80/2146686202/coreurl.me/18498
+#EXTINF:-1 tvg-logo="http://z4.vc/Ncd" group-title="Canais | Notícias",Record News HD
+http://psrv.io:80/2146686202/coreurl.me/18577
+#EXTINF:-1 tvg-logo="http://z4.vc/JOU" group-title="Canais | Notícias",Record News SD
+http://psrv.io:80/2146686202/coreurl.me/18578
+#EXTINF:-1 tvg-logo="http://z4.vc/hkn" group-title="Canais | Filmes e Séries",Sony HD
+http://psrv.io:80/2146686202/coreurl.me/18714
+#EXTINF:-1 tvg-logo="http://z4.vc/npa" group-title="Canais | Filmes e Séries",Sony SD
+http://psrv.io:80/2146686202/coreurl.me/18715
+#EXTINF:-1 tvg-logo="http://z4.vc/EPt" group-title="Canais | Filmes e Séries",Space HD
+http://psrv.io:80/2146686202/coreurl.me/18564
+#EXTINF:-1 tvg-logo="http://z4.vc/zXZ" group-title="Canais | Filmes e Séries",Space SD
+http://psrv.io:80/2146686202/coreurl.me/18565
 #EXTINF:-1 tvg-logo="http://z4.vc/IU1" group-title="Canais | Filmes e Séries",Studio Universal HD
 http://psrv.io:80/2146686202/coreurl.me/18556
 #EXTINF:-1 tvg-logo="http://z4.vc/6ft" group-title="Canais | Filmes e Séries",Studio Universal SD
@@ -435,10 +491,6 @@ http://psrv.io:80/2146686202/coreurl.me/18544
 http://psrv.io:80/2146686202/coreurl.me/18541
 #EXTINF:-1 tvg-logo="http://z4.vc/c1M" group-title="Canais | Filmes e Séries",Telecine Touch SD
 http://psrv.io:80/2146686202/coreurl.me/18542
-#EXTINF:-1 tvg-logo="http://z4.vc/fUs" group-title="Canais | Variedades",TLC HD
-http://psrv.io:80/2146686202/coreurl.me/18538
-#EXTINF:-1 tvg-logo="http://z4.vc/r69" group-title="Canais | Variedades",TLC SD
-http://psrv.io:80/2146686202/coreurl.me/18539
 #EXTINF:-1 tvg-logo="http://z4.vc/C6Y" group-title="Canais | Filmes e Séries",TNT HD
 http://psrv.io:80/2146686202/coreurl.me/18536
 #EXTINF:-1 tvg-logo="http://z4.vc/VGk" group-title="Canais | Filmes e Séries",TNT SD
@@ -453,14 +505,6 @@ http://psrv.io:80/2146686202/coreurl.me/18533
 http://psrv.io:80/2146686202/coreurl.me/18522
 #EXTINF:-1 tvg-logo="http://z4.vc/67c" group-title="Canais | Documentários",TruTV SD
 http://psrv.io:80/2146686202/coreurl.me/18523
-#EXTINF:-1 tvg-logo="http://z4.vc/0Eb" group-title="Canais | Abertos",TV Aparecida SD
-http://psrv.io:80/2146686202/coreurl.me/18530
-#EXTINF:-1 tvg-logo="http://z4.vc/BEU" group-title="Canais | Abertos",TV Cultura HD
-http://psrv.io:80/2146686202/coreurl.me/18505
-#EXTINF:-1 tvg-logo="http://z4.vc/7FM" group-title="Canais | Abertos",TV Cultura SD
-http://psrv.io:80/2146686202/coreurl.me/18506
-#EXTINF:-1 tvg-logo="http://z4.vc/ARG" group-title="Canais | Abertos",TV Gazeta SP HD
-http://psrv.io:80/2146686202/coreurl.me/18526
 #EXTINF:-1 tvg-logo="http://z4.vc/0Yb" group-title="Canais | Infantis",TV Ra-Tim-Bum HD
 http://psrv.io:80/2146686202/coreurl.me/18524
 #EXTINF:-1 tvg-logo="http://z4.vc/zvq" group-title="Canais | Infantis",TV Ra-Tim-Bum SD
@@ -469,24 +513,10 @@ http://psrv.io:80/2146686202/coreurl.me/18525
 http://psrv.io:80/2146686202/coreurl.me/18520
 #EXTINF:-1 tvg-logo="http://z4.vc/wGT" group-title="Canais | Filmes e Séries",Universal Channel SD
 http://psrv.io:80/2146686202/coreurl.me/18521
-#EXTINF:-1 tvg-logo="http://z4.vc/6fr" group-title="Canais | Variedades",VH1 HD
-http://psrv.io:80/2146686202/coreurl.me/18518
-#EXTINF:-1 tvg-logo="http://z4.vc/KZh" group-title="Canais | Variedades",VH1 SD
-http://psrv.io:80/2146686202/coreurl.me/22252
-#EXTINF:-1 tvg-logo="http://z4.vc/Xhe" group-title="Canais | Variedades",VH1 MegaHits SD
-http://psrv.io:80/2146686202/coreurl.me/18517
-#EXTINF:-1 tvg-logo="http://z4.vc/LVI" group-title="Canais | Variedades",Viva HD
-http://psrv.io:80/2146686202/coreurl.me/18515
-#EXTINF:-1 tvg-logo="http://z4.vc/Pte" group-title="Canais | Variedades",Viva SD
-http://psrv.io:80/2146686202/coreurl.me/18516
 #EXTINF:-1 tvg-logo="http://z4.vc/W7o" group-title="Canais | Filmes e Séries",Warner Channel HD
 http://psrv.io:80/2146686202/coreurl.me/18513
 #EXTINF:-1 tvg-logo="http://z4.vc/QRs" group-title="Canais | Filmes e Séries",Warner Channel SD
 http://psrv.io:80/2146686202/coreurl.me/18514
-#EXTINF:-1 tvg-logo="http://z4.vc/6Z3" group-title="Canais | Variedades",Woohoo HD
-http://psrv.io:80/2146686202/coreurl.me/18511
-#EXTINF:-1 tvg-logo="http://z4.vc/fUJ" group-title="Canais | Variedades",Woohoo SD
-http://psrv.io:80/2146686202/coreurl.me/18512
 #EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",ZooMoo SD
 http://psrv.io:80/2146686202/coreurl.me/28199
 #EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | Legendados",AXN HD [Legendado]
@@ -561,32 +591,6 @@ http://psrv.io:80/2146686202/coreurl.me/28372
 http://psrv.io:80/2146686202/coreurl.me/28373
 #EXTINF:-1 tvg-logo="http://z4.vc/hkn" group-title="Canais | Legendados",SONY SD [Legendado]
 http://psrv.io:80/2146686202/coreurl.me/28375
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 01 [Champions League]
-http://psrv.io:80/2146686202/coreurl.me/28380
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 02 [Champions League]
-http://psrv.io:80/2146686202/coreurl.me/28381
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 03 [Champions League]
-http://psrv.io:80/2146686202/coreurl.me/28382
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 04 [Champions League]
-http://psrv.io:80/2146686202/coreurl.me/28383
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 05 [Champions League]
-http://psrv.io:80/2146686202/coreurl.me/28384
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 06 [Champions League]
-http://psrv.io:80/2146686202/coreurl.me/28385
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Copa Libertadores HD
-http://psrv.io:80/2146686202/coreurl.me/28386
-#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN CHANNEL 4
-http://psrv.io:80/2146686202/coreurl.me/28387
-#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN CHANNEL 5
-http://psrv.io:80/2146686202/coreurl.me/28388
-#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN CHANNEL 6
-http://psrv.io:80/2146686202/coreurl.me/28389
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",NFL Network HD [TEMP]
-http://psrv.io:80/2146686202/coreurl.me/28392
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Life Time FHD
-http://psrv.io:80/2146686202/coreurl.me/28401
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Life Time SD
-http://psrv.io:80/2146686202/coreurl.me/28402
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] Blue Hustler HD
 http://psrv.io:80/2146686202/coreurl.me/33381
 #EXTINF:-1 tvg-logo="http://z4.vc/4tq" group-title="Canais | Adultos",[XXX] Blue Hustler SD
