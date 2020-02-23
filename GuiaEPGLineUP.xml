@@ -1,0 +1,3340 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Dog TV HD">
+    <display-name lang="pt">Dog TV HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/dogtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="pt">MTV Live HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/mtvlivehd.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MTV Live SD">
+    <display-name lang="pt">MTV Live SD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/mtvlivehd.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/espn2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 SD">
+    <display-name lang="pt">ESPN 2 SD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/espn2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Extra HD">
+    <display-name lang="pt">ESPN Extra HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/espnextra.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Extra SD">
+    <display-name lang="pt">ESPN Extra SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Premiere 8 SD">
+    <display-name lang="pt">Premiere 8 SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Premiere 9 SD">
+    <display-name lang="pt">Premiere 9 SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox Premium 1 HD">
+    <display-name lang="pt">Fox Premium 1 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox Premium 1 SD">
+    <display-name lang="pt">Fox Premium 1 SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox Premium 2 HD">
+    <display-name lang="pt">Fox Premium 2 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox Premium 2 SD">
+    <display-name lang="pt">Fox Premium 2 SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Gloobinho HD">
+    <display-name lang="pt">Gloobinho HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Gloobinho SD">
+    <display-name lang="pt">Gloobinho SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NatGeo Kids HD">
+    <display-name lang="pt">NatGeo Kids HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NatGeo Kids SD">
+    <display-name lang="pt">NatGeo Kids SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band SP HD">
+    <display-name lang="pt">Band SP HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band SP SD">
+    <display-name lang="pt">Band SP SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo EPTV Ribeirao Preto HD">
+    <display-name lang="pt">Globo EPTV Ribeirao Preto HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo EPTV Ribeirao Preto SD">
+    <display-name lang="pt">Globo EPTV Ribeirao Preto SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo SP HD">
+    <display-name lang="pt">Globo SP HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo SP SD">
+    <display-name lang="pt">Globo SP SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Film &amp; Arts SD">
+    <display-name lang="pt">Film &amp; Arts SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC SD">
+    <display-name lang="pt">AMC SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TruTV HD">
+    <display-name lang="pt">TruTV HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TruTV SD">
+    <display-name lang="pt">TruTV SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Gazeta SP HD">
+    <display-name lang="pt">TV Gazeta SP HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV SP HD">
+    <display-name lang="pt">RecordTV SP HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV SP SD">
+    <display-name lang="pt">RecordTV SP SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Brasil SD">
+    <display-name lang="pt">Rede Brasil SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Brasil HD">
+    <display-name lang="pt">Canal Brasil HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Brasil SD">
+    <display-name lang="pt">Canal Brasil SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="H2 SD">
+    <display-name lang="pt">H2 SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="History Channel HD">
+    <display-name lang="pt">History Channel HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="History Channel SD">
+    <display-name lang="pt">History Channel SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Max HD">
+    <display-name lang="pt">Max HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Max Prime HD">
+    <display-name lang="pt">Max Prime HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="pt">HBO Plus HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Max SD">
+    <display-name lang="pt">Max SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Max Prime SD">
+    <display-name lang="pt">Max Prime SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Plus SD">
+    <display-name lang="pt">HBO Plus SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20200223000000 -0300" stop="20200223060000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200223060000 -0300" stop="20200223120000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200223120000 -0300" stop="20200223180000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200223180000 -0300" stop="20200224000000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200224000000 -0300" stop="20200224060000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200224060000 -0300" stop="20200224120000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200224120000 -0300" stop="20200224180000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200224180000 -0300" stop="20200225000000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225000000 -0300" stop="20200225060000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225060000 -0300" stop="20200225120000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225120000 -0300" stop="20200225180000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225180000 -0300" stop="20200226000000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226000000 -0300" stop="20200226060000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226060000 -0300" stop="20200226120000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226120000 -0300" stop="20200226180000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226180000 -0300" stop="20200227000000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227000000 -0300" stop="20200227060000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227060000 -0300" stop="20200227120000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227120000 -0300" stop="20200227180000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227180000 -0300" stop="20200228000000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228000000 -0300" stop="20200228060000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228060000 -0300" stop="20200228120000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228120000 -0300" stop="20200228180000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228180000 -0300" stop="20200229000000 -0300" channel="Dog TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200223010000 -0300" stop="20200223014500 -0300" channel="MTV Live HD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223014500 -0300" stop="20200223020500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223020500 -0300" stop="20200223023000 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223023000 -0300" stop="20200223031500 -0300" channel="MTV Live HD">
+    <title lang="pt">Wireless Festival 2018: Best Of The Us</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223031500 -0300" stop="20200223040000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223040000 -0300" stop="20200223060000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223060000 -0300" stop="20200223064500 -0300" channel="MTV Live HD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223064500 -0300" stop="20200223070500 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223070500 -0300" stop="20200223073000 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223073000 -0300" stop="20200223100000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223100000 -0300" stop="20200223140000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200223140000 -0300" stop="20200223150000 -0300" channel="MTV Live HD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223150000 -0300" stop="20200223154500 -0300" channel="MTV Live HD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223154500 -0300" stop="20200223160500 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223160500 -0300" stop="20200223163000 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223163000 -0300" stop="20200223171500 -0300" channel="MTV Live HD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223171500 -0300" stop="20200223173500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223173500 -0300" stop="20200223180000 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223180000 -0300" stop="20200223184500 -0300" channel="MTV Live HD">
+    <title lang="pt">K-pop's Monsta 10!</title>
+    <desc lang="pt">Monsta X invade os estúdios da MTV para realizar o seu K-Pop Monsta 10! Incluindo grandes sucessos do Psy, BTS e, claro, os próprios Monsta X!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223184500 -0300" stop="20200223193000 -0300" channel="MTV Live HD">
+    <title lang="pt">Shawn Mendes: MTV Essentials</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223193000 -0300" stop="20200223200000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Asks</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223200000 -0300" stop="20200223220000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200223220000 -0300" stop="20200223230000 -0300" channel="MTV Live HD">
+    <title lang="pt">Brits 2020: The Winners</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223230000 -0300" stop="20200223234500 -0300" channel="MTV Live HD">
+    <title lang="pt">K-pop's Monsta 10!</title>
+    <desc lang="pt">Monsta X invade os estúdios da MTV para realizar o seu K-Pop Monsta 10! Incluindo grandes sucessos do Psy, BTS e, claro, os próprios Monsta X!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223234500 -0300" stop="20200224003000 -0300" channel="MTV Live HD">
+    <title lang="pt">Shawn Mendes: MTV Essentials</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224003000 -0300" stop="20200224010000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Asks</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224010000 -0300" stop="20200224014500 -0300" channel="MTV Live HD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224014500 -0300" stop="20200224023000 -0300" channel="MTV Live HD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200224023000 -0300" stop="20200224031500 -0300" channel="MTV Live HD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224031500 -0300" stop="20200224033500 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224033500 -0300" stop="20200224040000 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224040000 -0300" stop="20200224060000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224060000 -0300" stop="20200224064500 -0300" channel="MTV Live HD">
+    <title lang="pt">Wireless Festival 2018: Best Of The Us</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224064500 -0300" stop="20200224073000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224073000 -0300" stop="20200224100000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224100000 -0300" stop="20200224140000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200224140000 -0300" stop="20200224150000 -0300" channel="MTV Live HD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224150000 -0300" stop="20200224154500 -0300" channel="MTV Live HD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224154500 -0300" stop="20200224160500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224160500 -0300" stop="20200224163000 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224163000 -0300" stop="20200224171500 -0300" channel="MTV Live HD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224171500 -0300" stop="20200224180000 -0300" channel="MTV Live HD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200224180000 -0300" stop="20200224193000 -0300" channel="MTV Live HD">
+    <title lang="pt">Dua x Ed x Guetta</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224193000 -0300" stop="20200224200000 -0300" channel="MTV Live HD">
+    <title lang="pt">Zara Larsson: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224200000 -0300" stop="20200224220000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200224220000 -0300" stop="20200224230000 -0300" channel="MTV Live HD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224230000 -0300" stop="20200225003000 -0300" channel="MTV Live HD">
+    <title lang="pt">Dua x Ed x Guetta</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225003000 -0300" stop="20200225010000 -0300" channel="MTV Live HD">
+    <title lang="pt">Zara Larsson: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225010000 -0300" stop="20200225014500 -0300" channel="MTV Live HD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225014500 -0300" stop="20200225020500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225020500 -0300" stop="20200225023000 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225023000 -0300" stop="20200225031500 -0300" channel="MTV Live HD">
+    <title lang="pt">Wireless Festival 2018: Best Of The Us</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225031500 -0300" stop="20200225040000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225040000 -0300" stop="20200225060000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225060000 -0300" stop="20200225064500 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225064500 -0300" stop="20200225073000 -0300" channel="MTV Live HD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200225073000 -0300" stop="20200225100000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225100000 -0300" stop="20200225140000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225140000 -0300" stop="20200225150000 -0300" channel="MTV Live HD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225150000 -0300" stop="20200225154500 -0300" channel="MTV Live HD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225154500 -0300" stop="20200225163000 -0300" channel="MTV Live HD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200225163000 -0300" stop="20200225171500 -0300" channel="MTV Live HD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225171500 -0300" stop="20200225173500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225173500 -0300" stop="20200225180000 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225180000 -0300" stop="20200225193000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Rewind: 2014</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225193000 -0300" stop="20200225200000 -0300" channel="MTV Live HD">
+    <title lang="pt">James Arthur and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225200000 -0300" stop="20200225220000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225220000 -0300" stop="20200225230000 -0300" channel="MTV Live HD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225230000 -0300" stop="20200226003000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Rewind: 2014</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226003000 -0300" stop="20200226010000 -0300" channel="MTV Live HD">
+    <title lang="pt">James Arthur and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226010000 -0300" stop="20200226014500 -0300" channel="MTV Live HD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226014500 -0300" stop="20200226023000 -0300" channel="MTV Live HD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200226023000 -0300" stop="20200226031500 -0300" channel="MTV Live HD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226031500 -0300" stop="20200226033500 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226033500 -0300" stop="20200226040000 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226040000 -0300" stop="20200226060000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226060000 -0300" stop="20200226064500 -0300" channel="MTV Live HD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226064500 -0300" stop="20200226070500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226070500 -0300" stop="20200226073000 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226073000 -0300" stop="20200226100000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226100000 -0300" stop="20200226140000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226140000 -0300" stop="20200226150000 -0300" channel="MTV Live HD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226150000 -0300" stop="20200226154500 -0300" channel="MTV Live HD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226154500 -0300" stop="20200226160500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226160500 -0300" stop="20200226163000 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226163000 -0300" stop="20200226171500 -0300" channel="MTV Live HD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226171500 -0300" stop="20200226173500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226173500 -0300" stop="20200226180000 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226180000 -0300" stop="20200226193000 -0300" channel="MTV Live HD">
+    <title lang="pt">Ella Mai's R+b Anthems</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226193000 -0300" stop="20200226200000 -0300" channel="MTV Live HD">
+    <title lang="pt">Diary Of The Vamps</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226200000 -0300" stop="20200226220000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226220000 -0300" stop="20200226230000 -0300" channel="MTV Live HD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226230000 -0300" stop="20200227003000 -0300" channel="MTV Live HD">
+    <title lang="pt">Ella Mai's R+b Anthems</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227003000 -0300" stop="20200227010000 -0300" channel="MTV Live HD">
+    <title lang="pt">Diary Of The Vamps</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227010000 -0300" stop="20200227014500 -0300" channel="MTV Live HD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227014500 -0300" stop="20200227020500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227020500 -0300" stop="20200227023000 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227023000 -0300" stop="20200227031500 -0300" channel="MTV Live HD">
+    <title lang="pt">Wireless Festival 2018: Best Of The Us</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227031500 -0300" stop="20200227040000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227040000 -0300" stop="20200227060000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227060000 -0300" stop="20200227064500 -0300" channel="MTV Live HD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227064500 -0300" stop="20200227070500 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227070500 -0300" stop="20200227073000 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227073000 -0300" stop="20200227100000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227100000 -0300" stop="20200227140000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227140000 -0300" stop="20200227150000 -0300" channel="MTV Live HD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227150000 -0300" stop="20200227154500 -0300" channel="MTV Live HD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227154500 -0300" stop="20200227160500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227160500 -0300" stop="20200227163000 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227163000 -0300" stop="20200227171500 -0300" channel="MTV Live HD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227171500 -0300" stop="20200227180000 -0300" channel="MTV Live HD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200227180000 -0300" stop="20200227193000 -0300" channel="MTV Live HD">
+    <title lang="pt">Avicii X Garrix X Marshmello</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227193000 -0300" stop="20200227200000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Asks</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227200000 -0300" stop="20200227220000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227220000 -0300" stop="20200227230000 -0300" channel="MTV Live HD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227230000 -0300" stop="20200228003000 -0300" channel="MTV Live HD">
+    <title lang="pt">Avicii X Garrix X Marshmello</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228003000 -0300" stop="20200228010000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Asks</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228010000 -0300" stop="20200228014500 -0300" channel="MTV Live HD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228014500 -0300" stop="20200228023000 -0300" channel="MTV Live HD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200228023000 -0300" stop="20200228031500 -0300" channel="MTV Live HD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228031500 -0300" stop="20200228033500 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228033500 -0300" stop="20200228040000 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228040000 -0300" stop="20200228060000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228060000 -0300" stop="20200228064500 -0300" channel="MTV Live HD">
+    <title lang="pt">Wireless Festival 2018: Best Of The Us</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228064500 -0300" stop="20200228073000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228073000 -0300" stop="20200228100000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228100000 -0300" stop="20200228140000 -0300" channel="MTV Live HD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228140000 -0300" stop="20200228150000 -0300" channel="MTV Live HD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228150000 -0300" stop="20200228154500 -0300" channel="MTV Live HD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228154500 -0300" stop="20200228163000 -0300" channel="MTV Live HD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200228163000 -0300" stop="20200228171500 -0300" channel="MTV Live HD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228171500 -0300" stop="20200228173500 -0300" channel="MTV Live HD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228173500 -0300" stop="20200228180000 -0300" channel="MTV Live HD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228180000 -0300" stop="20200228193000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Rewind: 2013</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228193000 -0300" stop="20200228200000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Asks</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228200000 -0300" stop="20200228230000 -0300" channel="MTV Live HD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228230000 -0300" stop="20200229003000 -0300" channel="MTV Live HD">
+    <title lang="pt">MTV Rewind: 2013</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223010000 -0300" stop="20200223014500 -0300" channel="MTV Live SD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223014500 -0300" stop="20200223020500 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223020500 -0300" stop="20200223023000 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223023000 -0300" stop="20200223031500 -0300" channel="MTV Live SD">
+    <title lang="pt">Wireless Festival 2018: Best Of The Us</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223031500 -0300" stop="20200223040000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223040000 -0300" stop="20200223060000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223060000 -0300" stop="20200223064500 -0300" channel="MTV Live SD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223064500 -0300" stop="20200223070500 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223070500 -0300" stop="20200223073000 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223073000 -0300" stop="20200223100000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223100000 -0300" stop="20200223140000 -0300" channel="MTV Live SD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200223140000 -0300" stop="20200223150000 -0300" channel="MTV Live SD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223150000 -0300" stop="20200223154500 -0300" channel="MTV Live SD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223154500 -0300" stop="20200223160500 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223160500 -0300" stop="20200223163000 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223163000 -0300" stop="20200223171500 -0300" channel="MTV Live SD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223171500 -0300" stop="20200223173500 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223173500 -0300" stop="20200223180000 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223180000 -0300" stop="20200223184500 -0300" channel="MTV Live SD">
+    <title lang="pt">K-pop's Monsta 10!</title>
+    <desc lang="pt">Monsta X invade os estúdios da MTV para realizar o seu K-Pop Monsta 10! Incluindo grandes sucessos do Psy, BTS e, claro, os próprios Monsta X!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223184500 -0300" stop="20200223193000 -0300" channel="MTV Live SD">
+    <title lang="pt">Shawn Mendes: MTV Essentials</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223193000 -0300" stop="20200223200000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Asks</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223200000 -0300" stop="20200223220000 -0300" channel="MTV Live SD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200223220000 -0300" stop="20200223230000 -0300" channel="MTV Live SD">
+    <title lang="pt">Brits 2020: The Winners</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223230000 -0300" stop="20200223234500 -0300" channel="MTV Live SD">
+    <title lang="pt">K-pop's Monsta 10!</title>
+    <desc lang="pt">Monsta X invade os estúdios da MTV para realizar o seu K-Pop Monsta 10! Incluindo grandes sucessos do Psy, BTS e, claro, os próprios Monsta X!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223234500 -0300" stop="20200224003000 -0300" channel="MTV Live SD">
+    <title lang="pt">Shawn Mendes: MTV Essentials</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224003000 -0300" stop="20200224010000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Asks</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224010000 -0300" stop="20200224014500 -0300" channel="MTV Live SD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224014500 -0300" stop="20200224023000 -0300" channel="MTV Live SD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200224023000 -0300" stop="20200224031500 -0300" channel="MTV Live SD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224031500 -0300" stop="20200224033500 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224033500 -0300" stop="20200224040000 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224040000 -0300" stop="20200224060000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224060000 -0300" stop="20200224064500 -0300" channel="MTV Live SD">
+    <title lang="pt">Wireless Festival 2018: Best Of The Us</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224064500 -0300" stop="20200224073000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224073000 -0300" stop="20200224100000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224100000 -0300" stop="20200224140000 -0300" channel="MTV Live SD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200224140000 -0300" stop="20200224150000 -0300" channel="MTV Live SD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224150000 -0300" stop="20200224154500 -0300" channel="MTV Live SD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224154500 -0300" stop="20200224160500 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224160500 -0300" stop="20200224163000 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224163000 -0300" stop="20200224171500 -0300" channel="MTV Live SD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224171500 -0300" stop="20200224180000 -0300" channel="MTV Live SD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200224180000 -0300" stop="20200224193000 -0300" channel="MTV Live SD">
+    <title lang="pt">Dua x Ed x Guetta</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224193000 -0300" stop="20200224200000 -0300" channel="MTV Live SD">
+    <title lang="pt">Zara Larsson: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224200000 -0300" stop="20200224220000 -0300" channel="MTV Live SD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200224220000 -0300" stop="20200224230000 -0300" channel="MTV Live SD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200224230000 -0300" stop="20200225003000 -0300" channel="MTV Live SD">
+    <title lang="pt">Dua x Ed x Guetta</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225003000 -0300" stop="20200225010000 -0300" channel="MTV Live SD">
+    <title lang="pt">Zara Larsson: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225010000 -0300" stop="20200225014500 -0300" channel="MTV Live SD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225014500 -0300" stop="20200225020500 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225020500 -0300" stop="20200225023000 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225023000 -0300" stop="20200225031500 -0300" channel="MTV Live SD">
+    <title lang="pt">Wireless Festival 2018: Best Of The Us</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225031500 -0300" stop="20200225040000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225040000 -0300" stop="20200225060000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225060000 -0300" stop="20200225064500 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225064500 -0300" stop="20200225073000 -0300" channel="MTV Live SD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200225073000 -0300" stop="20200225100000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225100000 -0300" stop="20200225140000 -0300" channel="MTV Live SD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225140000 -0300" stop="20200225150000 -0300" channel="MTV Live SD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225150000 -0300" stop="20200225154500 -0300" channel="MTV Live SD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225154500 -0300" stop="20200225163000 -0300" channel="MTV Live SD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200225163000 -0300" stop="20200225171500 -0300" channel="MTV Live SD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225171500 -0300" stop="20200225173500 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225173500 -0300" stop="20200225180000 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225180000 -0300" stop="20200225193000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Rewind: 2014</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225193000 -0300" stop="20200225200000 -0300" channel="MTV Live SD">
+    <title lang="pt">James Arthur and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225200000 -0300" stop="20200225220000 -0300" channel="MTV Live SD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225220000 -0300" stop="20200225230000 -0300" channel="MTV Live SD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200225230000 -0300" stop="20200226003000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Rewind: 2014</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226003000 -0300" stop="20200226010000 -0300" channel="MTV Live SD">
+    <title lang="pt">James Arthur and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226010000 -0300" stop="20200226014500 -0300" channel="MTV Live SD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226014500 -0300" stop="20200226023000 -0300" channel="MTV Live SD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200226023000 -0300" stop="20200226031500 -0300" channel="MTV Live SD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226031500 -0300" stop="20200226033500 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226033500 -0300" stop="20200226040000 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226040000 -0300" stop="20200226060000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226060000 -0300" stop="20200226064500 -0300" channel="MTV Live SD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226064500 -0300" stop="20200226070500 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226070500 -0300" stop="20200226073000 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226073000 -0300" stop="20200226100000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226100000 -0300" stop="20200226140000 -0300" channel="MTV Live SD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226140000 -0300" stop="20200226150000 -0300" channel="MTV Live SD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226150000 -0300" stop="20200226154500 -0300" channel="MTV Live SD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226154500 -0300" stop="20200226160500 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226160500 -0300" stop="20200226163000 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226163000 -0300" stop="20200226171500 -0300" channel="MTV Live SD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226171500 -0300" stop="20200226173500 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226173500 -0300" stop="20200226180000 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226180000 -0300" stop="20200226193000 -0300" channel="MTV Live SD">
+    <title lang="pt">Ella Mai's R+b Anthems</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226193000 -0300" stop="20200226200000 -0300" channel="MTV Live SD">
+    <title lang="pt">Diary Of The Vamps</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226200000 -0300" stop="20200226220000 -0300" channel="MTV Live SD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226220000 -0300" stop="20200226230000 -0300" channel="MTV Live SD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200226230000 -0300" stop="20200227003000 -0300" channel="MTV Live SD">
+    <title lang="pt">Ella Mai's R+b Anthems</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227003000 -0300" stop="20200227010000 -0300" channel="MTV Live SD">
+    <title lang="pt">Diary Of The Vamps</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227010000 -0300" stop="20200227014500 -0300" channel="MTV Live SD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227014500 -0300" stop="20200227020500 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227020500 -0300" stop="20200227023000 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227023000 -0300" stop="20200227031500 -0300" channel="MTV Live SD">
+    <title lang="pt">Wireless Festival 2018: Best Of The Us</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227031500 -0300" stop="20200227040000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227040000 -0300" stop="20200227060000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227060000 -0300" stop="20200227064500 -0300" channel="MTV Live SD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227064500 -0300" stop="20200227070500 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227070500 -0300" stop="20200227073000 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227073000 -0300" stop="20200227100000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227100000 -0300" stop="20200227140000 -0300" channel="MTV Live SD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227140000 -0300" stop="20200227150000 -0300" channel="MTV Live SD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227150000 -0300" stop="20200227154500 -0300" channel="MTV Live SD">
+    <title lang="pt">Jax Jones' Most Viewed Vids</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227154500 -0300" stop="20200227160500 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel and Friends</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227160500 -0300" stop="20200227163000 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227163000 -0300" stop="20200227171500 -0300" channel="MTV Live SD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227171500 -0300" stop="20200227180000 -0300" channel="MTV Live SD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200227180000 -0300" stop="20200227193000 -0300" channel="MTV Live SD">
+    <title lang="pt">Avicii X Garrix X Marshmello</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227193000 -0300" stop="20200227200000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Asks</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227200000 -0300" stop="20200227220000 -0300" channel="MTV Live SD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227220000 -0300" stop="20200227230000 -0300" channel="MTV Live SD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200227230000 -0300" stop="20200228003000 -0300" channel="MTV Live SD">
+    <title lang="pt">Avicii X Garrix X Marshmello</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228003000 -0300" stop="20200228010000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Asks</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228010000 -0300" stop="20200228014500 -0300" channel="MTV Live SD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228014500 -0300" stop="20200228023000 -0300" channel="MTV Live SD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200228023000 -0300" stop="20200228031500 -0300" channel="MTV Live SD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228031500 -0300" stop="20200228033500 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: Making The Video</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228033500 -0300" stop="20200228040000 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228040000 -0300" stop="20200228060000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228060000 -0300" stop="20200228064500 -0300" channel="MTV Live SD">
+    <title lang="pt">Wireless Festival 2018: Best Of The Us</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228064500 -0300" stop="20200228073000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Presents Gibraltar Calling</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228073000 -0300" stop="20200228100000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228100000 -0300" stop="20200228140000 -0300" channel="MTV Live SD">
+    <title lang="pt">High Definition Hits!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228140000 -0300" stop="20200228150000 -0300" channel="MTV Live SD">
+    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228150000 -0300" stop="20200228154500 -0300" channel="MTV Live SD">
+    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228154500 -0300" stop="20200228163000 -0300" channel="MTV Live SD">
+    <title lang="pt">Isle Of MTV: Malta 2017 Highlights</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20200228163000 -0300" stop="20200228171500 -0300" channel="MTV Live SD">
+    <title lang="pt">Shawn Mendes: MTV Unplugged</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228171500 -0300" stop="20200228173500 -0300" channel="MTV Live SD">
+    <title lang="pt">Mabel: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228173500 -0300" stop="20200228180000 -0300" channel="MTV Live SD">
+    <title lang="pt">Little Mix: MTV Live From Fusion Festival 2019</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228180000 -0300" stop="20200228193000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Rewind: 2013</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228193000 -0300" stop="20200228200000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Asks</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228200000 -0300" stop="20200228230000 -0300" channel="MTV Live SD">
+    <title lang="pt">Hot Right Now!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200228230000 -0300" stop="20200229003000 -0300" channel="MTV Live SD">
+    <title lang="pt">MTV Rewind: 2013</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200223000000 -0300" stop="20200223030000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN Knockout: Brent Primus x Chris Bungard - Ao Vivo</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20200223030000 -0300" stop="20200223040000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200223040000 -0300" stop="20200223050000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200223050000 -0300" stop="20200223070000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Rugby: País de Gales x França</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200223070000 -0300" stop="20200223090000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Chelsea x Tottenham</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200223090000 -0300" stop="20200223100000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200223100000 -0300" stop="20200223115000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Rugby: Itália x Escócia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200223115000 -0300" stop="20200223140000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Rugby: Inglaterra x Irlanda - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200223140000 -0300" stop="20200223160000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NBA: Philadelphia 76ers x Milwaukee Bucks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200223160000 -0300" stop="20200223170000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200223170000 -0300" stop="20200223200000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">XFL: New York Guardians x St. Louis Battlehawks - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200223200000 -0300" stop="20200223220000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Rugby: Inglaterra x Irlanda</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200223220000 -0300" stop="20200224000000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Arsenal x Everton</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224000000 -0300" stop="20200224010000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200224010000 -0300" stop="20200224023000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224023000 -0300" stop="20200224053000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Golfe: WGC - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Golfe</category>
+  </programme>
+  <programme start="20200224053000 -0300" stop="20200224071500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Leicester City x Manchester City</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224071500 -0300" stop="20200224090000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Chelsea x Tottenham</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224090000 -0300" stop="20200224103000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224103000 -0300" stop="20200224113000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224113000 -0300" stop="20200224123000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Leicester City x Manchester City</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224123000 -0300" stop="20200224133000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224133000 -0300" stop="20200224150000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224150000 -0300" stop="20200224173000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">XFL: New York Guardians x St. Louis Battlehawks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200224173000 -0300" stop="20200224200000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NBA: Boston Celtics x Los Angeles Lakers</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200224200000 -0300" stop="20200224203000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NBA Action</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200224203000 -0300" stop="20200224204500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Momento ESPN: No Brasil com Russell Wilson</title>
+    <desc lang="pt">O quarterback do Seattle Seahawks Russell Wilson em visita ao Brasil conheceu a nossa cultura, o calor do Rio de Janeiro e conheceu fãs muito loucos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224204500 -0300" stop="20200224210000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Cestou ESPN</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200224210000 -0300" stop="20200224210500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Abre o Jogo: Compacto NFL - O Melhor da Temporada</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224210500 -0300" stop="20200224220000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200224220000 -0300" stop="20200225000000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Rugby: País de Gales x França</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200225000000 -0300" stop="20200225003000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Show da Rodada do Campeonato Espanhol</title>
+    <desc lang="pt">Fique por dentro dos principais momentos da rodada de La Liga, o Campeonato Espanhol de futebol. A tabela de classificação, os gols mais bonitos, as melhores jogadas estão aqui(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225003000 -0300" stop="20200225010000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Arena Esports</title>
+    <desc lang="pt">Um giro pelos esportes eletrônicos: as principais competições e notícias do mundo dos games(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225010000 -0300" stop="20200225020000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225020000 -0300" stop="20200225030000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225030000 -0300" stop="20200225050000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN Filmes: 30 For 30: Celtics/Lakers - Parte 1</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225050000 -0300" stop="20200225070000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Rugby: Inglaterra x Irlanda</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200225070000 -0300" stop="20200225090000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Barcelona x Eibar</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200225090000 -0300" stop="20200225100000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225100000 -0300" stop="20200225120000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225120000 -0300" stop="20200225123000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Show da Rodada do Campeonato Espanhol</title>
+    <desc lang="pt">Fique por dentro dos principais momentos da rodada de La Liga, o Campeonato Espanhol de futebol. A tabela de classificação, os gols mais bonitos, as melhores jogadas estão aqui(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225123000 -0300" stop="20200225133000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225133000 -0300" stop="20200225143000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei)(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225143000 -0300" stop="20200225153000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200225153000 -0300" stop="20200225163000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200225163000 -0300" stop="20200225173000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200225173000 -0300" stop="20200225180000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225180000 -0300" stop="20200225210000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Bayern de Munique x Paderborn</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200225210000 -0300" stop="20200225230000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Basquete Universitário: SEC - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200225230000 -0300" stop="20200225233000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225233000 -0300" stop="20200226010000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226010000 -0300" stop="20200226020000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226020000 -0300" stop="20200226030000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226030000 -0300" stop="20200226050000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Wolverhampton x Norwich City</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200226050000 -0300" stop="20200226070000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Real Sociedad x Valencia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200226070000 -0300" stop="20200226090000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Arsenal x Everton</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200226090000 -0300" stop="20200226100000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226100000 -0300" stop="20200226113000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Bola da Vez: Fernando Fernandes, Tetracampeão Mundial de Paracanoagem</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20200226113000 -0300" stop="20200226120000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Peyton's Places</title>
+    <desc lang="pt">Ao lado de Jay Leno, Peyton Manning vai conhecer lugares ligados à NFL, trazendo os bastidores desse esporte tão amado nos Estados Unidos e que vem conquistando milhares de fãs ao redor do mundo(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226120000 -0300" stop="20200226123000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Peyton's Places</title>
+    <desc lang="pt">Ao lado de Jay Leno, Peyton Manning vai conhecer lugares ligados à NFL, trazendo os bastidores desse esporte tão amado nos Estados Unidos e que vem conquistando milhares de fãs ao redor do mundo(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226123000 -0300" stop="20200226133000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226133000 -0300" stop="20200226153000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Liverpool x West Ham United</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200226153000 -0300" stop="20200226180000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NHL: New York Rangers x New York Islanders</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20200226180000 -0300" stop="20200226190000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200226190000 -0300" stop="20200226193000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Espn Files: Chris Paul's Chapter 3 - Episódio 1</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226193000 -0300" stop="20200226210000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Bola da Vez: Fernando Fernandes, Tetracampeão Mundial de Paracanoagem</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20200226210000 -0300" stop="20200227000000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Spal x Juventus</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200227000000 -0300" stop="20200227010000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200227010000 -0300" stop="20200227020000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227020000 -0300" stop="20200227023000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227023000 -0300" stop="20200227023500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Special Olympics: 50 Inspirações</title>
+    <desc lang="pt">Um resumo com o melhor das olimpiadas especiais que mostram mais que atletas e superação!(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227023500 -0300" stop="20200227033000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227033000 -0300" stop="20200227060000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NBA: Dallas Mavericks x San Antonio Spurs</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200227060000 -0300" stop="20200227070000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200227070000 -0300" stop="20200227090000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Copa de La Reina</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Feminino</category>
+  </programme>
+  <programme start="20200227090000 -0300" stop="20200227100000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227100000 -0300" stop="20200227110000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227110000 -0300" stop="20200227123000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Cantera 5v5</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227123000 -0300" stop="20200227133000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227133000 -0300" stop="20200227153000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Rugby: País de Gales x França</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200227153000 -0300" stop="20200227163000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ESPN Filmes: 30 For 30: Celtics/Lakers - Parte 2</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227163000 -0300" stop="20200227190000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NBA: Boston Celtics x Utah Jazz</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200227190000 -0300" stop="20200227200000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200227200000 -0300" stop="20200227210000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200227210000 -0300" stop="20200227213000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">ATP World Tour Semanal</title>
+    <desc lang="pt">Revista semanal sobre o circuito mundial da ATP. Reportagens, matérias exclusivas, entrevistas e análises sobre o melhor do tênis profissional(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+  </programme>
+  <programme start="20200227213000 -0300" stop="20200227233000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Chelsea x Tottenham</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200227233000 -0300" stop="20200228000000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NBA Action</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200228000000 -0300" stop="20200228003000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Matchmaking</title>
+    <desc lang="pt">Informação, discussão e análises sobre os principais esportes eletrônicos da atualidade(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228003000 -0300" stop="20200228020000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228020000 -0300" stop="20200228030000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228030000 -0300" stop="20200228053000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NHL: Dallas Stars x Boston Bruins</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20200228053000 -0300" stop="20200228063000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200228063000 -0300" stop="20200228070000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Espn Files: Chris Paul's Chapter 3 - Episódio 1</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228070000 -0300" stop="20200228090000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Gil Vicente x Benfica</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228090000 -0300" stop="20200228100000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228100000 -0300" stop="20200228120000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Rugby: Itália x Escócia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200228120000 -0300" stop="20200228123000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Arena Esports</title>
+    <desc lang="pt">Um giro pelos esportes eletrônicos: as principais competições e notícias do mundo dos games(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228123000 -0300" stop="20200228133000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228133000 -0300" stop="20200228142500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200228142500 -0300" stop="20200228152000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200228152000 -0300" stop="20200228181500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Spal x Juventus</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228181500 -0300" stop="20200228184500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20200228184500 -0300" stop="20200228191500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Mundo Premier League</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228191500 -0300" stop="20200228194500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Prévia do Campeonato Espanhol</title>
+    <desc lang="pt">O programa apresenta a prévia da rodada do campeonato espanhol(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228194500 -0300" stop="20200228200000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Cestou ESPN</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228200000 -0300" stop="20200228200500 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Abre o Jogo: Compacto NFL - O Melhor da Temporada</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228200500 -0300" stop="20200228210000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200228210000 -0300" stop="20200229000000 -0300" channel="ESPN 2 HD">
+    <title lang="pt">NHL: Colorado Avalanche x Carolina Hurricanes - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20200223000000 -0300" stop="20200223030000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">ESPN Knockout: Brent Primus x Chris Bungard - Ao Vivo</title>
+    <desc lang="pt">O melhor do boxe internacional nos canais ESPN(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20200223030000 -0300" stop="20200223040000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200223040000 -0300" stop="20200223050000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200223050000 -0300" stop="20200223070000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Rugby: País de Gales x França</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200223070000 -0300" stop="20200223090000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Chelsea x Tottenham</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200223090000 -0300" stop="20200223100000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200223100000 -0300" stop="20200223115000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Rugby: Itália x Escócia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200223115000 -0300" stop="20200223140000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Rugby: Inglaterra x Irlanda - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200223140000 -0300" stop="20200223160000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">NBA: Philadelphia 76ers x Milwaukee Bucks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200223160000 -0300" stop="20200223170000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200223170000 -0300" stop="20200223200000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">XFL: New York Guardians x St. Louis Battlehawks - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200223200000 -0300" stop="20200223220000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Rugby: Inglaterra x Irlanda</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200223220000 -0300" stop="20200224000000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Arsenal x Everton</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224000000 -0300" stop="20200224010000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200224010000 -0300" stop="20200224023000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224023000 -0300" stop="20200224053000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Golfe: WGC - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Golfe</category>
+  </programme>
+  <programme start="20200224053000 -0300" stop="20200224071500 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Leicester City x Manchester City</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224071500 -0300" stop="20200224090000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Chelsea x Tottenham</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224090000 -0300" stop="20200224103000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224103000 -0300" stop="20200224113000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224113000 -0300" stop="20200224123000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Leicester City x Manchester City</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224123000 -0300" stop="20200224133000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224133000 -0300" stop="20200224150000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224150000 -0300" stop="20200224173000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">XFL: New York Guardians x St. Louis Battlehawks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200224173000 -0300" stop="20200224200000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">NBA: Boston Celtics x Los Angeles Lakers</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200224200000 -0300" stop="20200224203000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">NBA Action</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200224203000 -0300" stop="20200224204500 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Momento ESPN: No Brasil com Russell Wilson</title>
+    <desc lang="pt">O quarterback do Seattle Seahawks Russell Wilson em visita ao Brasil conheceu a nossa cultura, o calor do Rio de Janeiro e conheceu fãs muito loucos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224204500 -0300" stop="20200224210000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Cestou ESPN</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200224210000 -0300" stop="20200224210500 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Abre o Jogo: Compacto NFL - O Melhor da Temporada</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224210500 -0300" stop="20200224220000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200224220000 -0300" stop="20200225000000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Rugby: País de Gales x França</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200225000000 -0300" stop="20200225003000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Show da Rodada do Campeonato Espanhol</title>
+    <desc lang="pt">Fique por dentro dos principais momentos da rodada de La Liga, o Campeonato Espanhol de futebol. A tabela de classificação, os gols mais bonitos, as melhores jogadas estão aqui(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225003000 -0300" stop="20200225010000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Arena Esports</title>
+    <desc lang="pt">Um giro pelos esportes eletrônicos: as principais competições e notícias do mundo dos games(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225010000 -0300" stop="20200225020000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225020000 -0300" stop="20200225030000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225030000 -0300" stop="20200225050000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">ESPN Filmes: 30 For 30: Celtics/Lakers - Parte 1</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225050000 -0300" stop="20200225070000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Rugby: Inglaterra x Irlanda</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200225070000 -0300" stop="20200225090000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Barcelona x Eibar</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200225090000 -0300" stop="20200225100000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225100000 -0300" stop="20200225120000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225120000 -0300" stop="20200225123000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Show da Rodada do Campeonato Espanhol</title>
+    <desc lang="pt">Fique por dentro dos principais momentos da rodada de La Liga, o Campeonato Espanhol de futebol. A tabela de classificação, os gols mais bonitos, as melhores jogadas estão aqui(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225123000 -0300" stop="20200225133000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225133000 -0300" stop="20200225143000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei)(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225143000 -0300" stop="20200225153000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200225153000 -0300" stop="20200225163000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200225163000 -0300" stop="20200225173000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200225173000 -0300" stop="20200225180000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225180000 -0300" stop="20200225210000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Bayern de Munique x Paderborn</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200225210000 -0300" stop="20200225230000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Basquete Universitário: SEC - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200225230000 -0300" stop="20200225233000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225233000 -0300" stop="20200226010000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226010000 -0300" stop="20200226020000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226020000 -0300" stop="20200226030000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226030000 -0300" stop="20200226050000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Wolverhampton x Norwich City</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200226050000 -0300" stop="20200226070000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Real Sociedad x Valencia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200226070000 -0300" stop="20200226090000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Arsenal x Everton</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200226090000 -0300" stop="20200226100000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226100000 -0300" stop="20200226113000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Bola da Vez: Fernando Fernandes, Tetracampeão Mundial de Paracanoagem</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20200226113000 -0300" stop="20200226120000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Peyton's Places</title>
+    <desc lang="pt">Ao lado de Jay Leno, Peyton Manning vai conhecer lugares ligados à NFL, trazendo os bastidores desse esporte tão amado nos Estados Unidos e que vem conquistando milhares de fãs ao redor do mundo(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226120000 -0300" stop="20200226123000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Peyton's Places</title>
+    <desc lang="pt">Ao lado de Jay Leno, Peyton Manning vai conhecer lugares ligados à NFL, trazendo os bastidores desse esporte tão amado nos Estados Unidos e que vem conquistando milhares de fãs ao redor do mundo(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226123000 -0300" stop="20200226133000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226133000 -0300" stop="20200226153000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Liverpool x West Ham United</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200226153000 -0300" stop="20200226180000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">NHL: New York Rangers x New York Islanders</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20200226180000 -0300" stop="20200226190000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200226190000 -0300" stop="20200226193000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Espn Files: Chris Paul's Chapter 3 - Episódio 1</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226193000 -0300" stop="20200226210000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Bola da Vez: Fernando Fernandes, Tetracampeão Mundial de Paracanoagem</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20200226210000 -0300" stop="20200227000000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Spal x Juventus</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200227000000 -0300" stop="20200227010000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200227010000 -0300" stop="20200227020000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227020000 -0300" stop="20200227023000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227023000 -0300" stop="20200227023500 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Special Olympics: 50 Inspirações</title>
+    <desc lang="pt">Um resumo com o melhor das olimpiadas especiais que mostram mais que atletas e superação!(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227023500 -0300" stop="20200227033000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227033000 -0300" stop="20200227060000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">NBA: Dallas Mavericks x San Antonio Spurs</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200227060000 -0300" stop="20200227070000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200227070000 -0300" stop="20200227090000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Copa de La Reina</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Feminino</category>
+  </programme>
+  <programme start="20200227090000 -0300" stop="20200227100000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227100000 -0300" stop="20200227110000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227110000 -0300" stop="20200227123000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Cantera 5v5</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227123000 -0300" stop="20200227133000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227133000 -0300" stop="20200227153000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Rugby: País de Gales x França</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200227153000 -0300" stop="20200227163000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">ESPN Filmes: 30 For 30: Celtics/Lakers - Parte 2</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227163000 -0300" stop="20200227190000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">NBA: Boston Celtics x Utah Jazz</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200227190000 -0300" stop="20200227200000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200227200000 -0300" stop="20200227210000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200227210000 -0300" stop="20200227213000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">ATP World Tour Semanal</title>
+    <desc lang="pt">Revista semanal sobre o circuito mundial da ATP. Reportagens, matérias exclusivas, entrevistas e análises sobre o melhor do tênis profissional(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis</category>
+  </programme>
+  <programme start="20200227213000 -0300" stop="20200227233000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Chelsea x Tottenham</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200227233000 -0300" stop="20200228000000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">NBA Action</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200228000000 -0300" stop="20200228003000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Matchmaking</title>
+    <desc lang="pt">Informação, discussão e análises sobre os principais esportes eletrônicos da atualidade(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228003000 -0300" stop="20200228020000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228020000 -0300" stop="20200228030000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228030000 -0300" stop="20200228053000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">NHL: Dallas Stars x Boston Bruins</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20200228053000 -0300" stop="20200228063000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200228063000 -0300" stop="20200228070000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Espn Files: Chris Paul's Chapter 3 - Episódio 1</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228070000 -0300" stop="20200228090000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Gil Vicente x Benfica</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228090000 -0300" stop="20200228100000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228100000 -0300" stop="20200228120000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Rugby: Itália x Escócia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200228120000 -0300" stop="20200228123000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Arena Esports</title>
+    <desc lang="pt">Um giro pelos esportes eletrônicos: as principais competições e notícias do mundo dos games(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228123000 -0300" stop="20200228133000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228133000 -0300" stop="20200228142500 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200228142500 -0300" stop="20200228152000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200228152000 -0300" stop="20200228181500 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Spal x Juventus</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228181500 -0300" stop="20200228184500 -0300" channel="ESPN 2 SD">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20200228184500 -0300" stop="20200228191500 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Mundo Premier League</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228191500 -0300" stop="20200228194500 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Prévia do Campeonato Espanhol</title>
+    <desc lang="pt">O programa apresenta a prévia da rodada do campeonato espanhol(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228194500 -0300" stop="20200228200000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Cestou ESPN</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228200000 -0300" stop="20200228200500 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Abre o Jogo: Compacto NFL - O Melhor da Temporada</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228200500 -0300" stop="20200228210000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200228210000 -0300" stop="20200229000000 -0300" channel="ESPN 2 SD">
+    <title lang="pt">NHL: Colorado Avalanche x Carolina Hurricanes - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20200223013000 -0300" stop="20200223020000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NBA Action</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200223020000 -0300" stop="20200223040000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Derby County x Fulham</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200223040000 -0300" stop="20200223050000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei)(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200223050000 -0300" stop="20200223070000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN Knockout: Leah McCourt x Judith Ruis</title>
+    <desc lang="pt">O MMA Bellator invade as telas da ESPN(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20200223070000 -0300" stop="20200223090000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Barcelona x Eibar</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200223090000 -0300" stop="20200223093000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20200223093000 -0300" stop="20200223103000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200223103000 -0300" stop="20200223130000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NBA: Philadelphia 76ers x Milwaukee Bucks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200223130000 -0300" stop="20200223133000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NBA Action</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200223133000 -0300" stop="20200223143000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Compacto NFL: Detroit Lions x Green Bay Packers</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200223143000 -0300" stop="20200223163000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Rugby: Inglaterra x Irlanda</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200223163000 -0300" stop="20200223180000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Cantera 5v5</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200223180000 -0300" stop="20200223210000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Golfe: WGC - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Golfe</category>
+  </programme>
+  <programme start="20200223210000 -0300" stop="20200224000000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">XFL: New York Guardians x St. Louis Battlehawks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200224000000 -0300" stop="20200224020000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Rugby: Inglaterra x Irlanda</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200224020000 -0300" stop="20200224040000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Vitesse x PSV</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224040000 -0300" stop="20200224060000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Heracles Almelo x Ajax</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224060000 -0300" stop="20200224083000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NBA: Boston Celtics x Los Angeles Lakers</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200224083000 -0300" stop="20200224103000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Rugby: Itália x Escócia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200224103000 -0300" stop="20200224123000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN Knockout: Leah McCourt x Judith Ruis</title>
+    <desc lang="pt">O MMA Bellator invade as telas da ESPN(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20200224123000 -0300" stop="20200224143000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Rugby: País de Gales x França</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rugby</category>
+  </programme>
+  <programme start="20200224143000 -0300" stop="20200224163000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Chelsea x Tottenham</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200224163000 -0300" stop="20200224180000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224180000 -0300" stop="20200224183000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NBA Action</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200224183000 -0300" stop="20200224203000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN Filmes: 30 For 30: Celtics/Lakers - Parte 3</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200224203000 -0300" stop="20200224230000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">XFL: New York Guardians x St. Louis Battlehawks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200224230000 -0300" stop="20200225000000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200225000000 -0300" stop="20200225010000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225010000 -0300" stop="20200225013000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Show da Rodada do Campeonato Espanhol</title>
+    <desc lang="pt">Fique por dentro dos principais momentos da rodada de La Liga, o Campeonato Espanhol de futebol. A tabela de classificação, os gols mais bonitos, as melhores jogadas estão aqui(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225013000 -0300" stop="20200225023000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Compacto NFL: Baltimore Ravens x Seattle Seahawks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200225023000 -0300" stop="20200225043000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN Knockout: Leah McCourt x Judith Ruis</title>
+    <desc lang="pt">O MMA Bellator invade as telas da ESPN(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20200225043000 -0300" stop="20200225070000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">XFL: New York Guardians x St. Louis Battlehawks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200225070000 -0300" stop="20200225080000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225080000 -0300" stop="20200225100000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Levante x Real Madrid</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200225100000 -0300" stop="20200225103000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Show da Rodada do Campeonato Espanhol</title>
+    <desc lang="pt">Fique por dentro dos principais momentos da rodada de La Liga, o Campeonato Espanhol de futebol. A tabela de classificação, os gols mais bonitos, as melhores jogadas estão aqui(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200225103000 -0300" stop="20200225113000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Compacto NFL: Baltimore Ravens x Seattle Seahawks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200225113000 -0300" stop="20200225123000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei)(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225123000 -0300" stop="20200225153000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">XFL: New York Guardians x St. Louis Battlehawks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200225153000 -0300" stop="20200225155500 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Arena Esports</title>
+    <desc lang="pt">Um giro pelos esportes eletrônicos: as principais competições e notícias do mundo dos games(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225155500 -0300" stop="20200225180000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Copa de La Reina</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Feminino</category>
+  </programme>
+  <programme start="20200225180000 -0300" stop="20200225181500 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Cestou ESPN</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225181500 -0300" stop="20200225200000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Barcelona x Eibar</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200225200000 -0300" stop="20200225210000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei)(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200225210000 -0300" stop="20200226000000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Bayern de Munique x Paderborn</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200226000000 -0300" stop="20200226010000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226010000 -0300" stop="20200226013000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226013000 -0300" stop="20200226033000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Basquete Universitário: SEC</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200226033000 -0300" stop="20200226063000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NHL: New York Rangers x New York Islanders</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20200226063000 -0300" stop="20200226073000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226073000 -0300" stop="20200226080000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226080000 -0300" stop="20200226110000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Bayern de Munique x Paderborn</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200226110000 -0300" stop="20200226125500 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Gil Vicente x Benfica</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200226125500 -0300" stop="20200226145500 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Copa de La Reina</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Feminino</category>
+  </programme>
+  <programme start="20200226145500 -0300" stop="20200226170000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Copa de La Reina</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Feminino</category>
+  </programme>
+  <programme start="20200226170000 -0300" stop="20200226180000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei)(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200226180000 -0300" stop="20200226193000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN Filmes: 30 For 30: This Was The Xfl</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200226193000 -0300" stop="20200226203000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Compacto NFL: Baltimore Ravens x Seattle Seahawks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200226203000 -0300" stop="20200226230000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NHL: New York Rangers x New York Islanders</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20200226230000 -0300" stop="20200227000000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Compacto NFL: Baltimore Ravens x Pittsburgh Steelers</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200227000000 -0300" stop="20200227010000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227010000 -0300" stop="20200227040000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Spal x Juventus</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200227040000 -0300" stop="20200227060000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Copa de La Reina</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Feminino</category>
+  </programme>
+  <programme start="20200227060000 -0300" stop="20200227070000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227070000 -0300" stop="20200227093000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NBA: Dallas Mavericks x San Antonio Spurs</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200227093000 -0300" stop="20200227113000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Liverpool x West Ham United</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200227113000 -0300" stop="20200227140000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">NBA: Boston Celtics x Utah Jazz</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200227140000 -0300" stop="20200227170000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Spal x Juventus</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200227170000 -0300" stop="20200227183000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Bola da Vez: Fernando Fernandes, Tetracampeão Mundial de Paracanoagem</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20200227183000 -0300" stop="20200227190000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Matchmaking</title>
+    <desc lang="pt">Informação, discussão e análises sobre os principais esportes eletrônicos da atualidade(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200227190000 -0300" stop="20200227200000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN Filmes: Nine For IX: Let Them Wear Towels</title>
+    <desc lang="pt">Um mergulho profundo na história do esporte, de seus principais personagens. "ESPN Filmes" é uma faixa de programação inteiramente dedicada à exibição de documentários produzidos pela ESPN(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200227200000 -0300" stop="20200227220000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Basquete Universitário: SEC</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200227220000 -0300" stop="20200228000000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Millwall x Birmingham City</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228000000 -0300" stop="20200228010000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228010000 -0300" stop="20200228023000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Bola da Vez: Fernando Fernandes, Tetracampeão Mundial de Paracanoagem</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20200228023000 -0300" stop="20200228033000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200228033000 -0300" stop="20200228043000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200228043000 -0300" stop="20200228060000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228060000 -0300" stop="20200228070000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228070000 -0300" stop="20200228100000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Spal x Juventus</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228100000 -0300" stop="20200228113000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Bola da Vez: Fernando Fernandes, Tetracampeão Mundial de Paracanoagem</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20200228113000 -0300" stop="20200228123000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">ESPN Filmes: Nine For IX: Let Them Wear Towels</title>
+    <desc lang="pt">Um mergulho profundo na história do esporte, de seus principais personagens. "ESPN Filmes" é uma faixa de programação inteiramente dedicada à exibição de documentários produzidos pela ESPN(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200228123000 -0300" stop="20200228133000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Compacto NFL: Green Bay Packers x Kansas City Chiefs</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200228133000 -0300" stop="20200228143000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Compacto NFL: Baltimore Ravens x Seattle Seahawks</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20200228143000 -0300" stop="20200228153000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200228153000 -0300" stop="20200228163000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Moto: Isle of Man 2019</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20200228163000 -0300" stop="20200228183000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Barcelona x Eibar</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228183000 -0300" stop="20200228190000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Arena Esports</title>
+    <desc lang="pt">Um giro pelos esportes eletrônicos: as principais competições e notícias do mundo dos games(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200228190000 -0300" stop="20200228220000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Bayern de Munique x Paderborn</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200228220000 -0300" stop="20200229000000 -0300" channel="ESPN Extra HD">
+    <title lang="pt">Norwich City x Leicester City</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+</tv>
