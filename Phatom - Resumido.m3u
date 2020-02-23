@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://z4.vc/SV1" group-title="Canais | Abertos",Band SD
-http://psrv.io:80/2146686202/coreurl.me/22242
 #EXTINF:-1 tvg-logo="http://z4.vc/X0u" group-title="Canais | Abertos",Band SP HD
 http://psrv.io:80/2146686202/coreurl.me/18727
 #EXTINF:-1 tvg-logo="http://z4.vc/xaf" group-title="Canais | Abertos",Band SP SD
