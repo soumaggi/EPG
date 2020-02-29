@@ -1,27 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Max">
-    <display-name lang="pt">Max</display-name>
+  <channel id="Max HD">
+    <display-name lang="pt">Max HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Max Prime">
-    <display-name lang="pt">Max Prime</display-name>
+  <channel id="Max Prime HD">
+    <display-name lang="pt">Max Prime HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="HBO Plus HD">
-    <display-name lang="pt">HBO Plus HD</display-name>
+  <channel id="Max SD">
+    <display-name lang="pt">Max SD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="HBO Plus SD">
-    <display-name lang="pt">HBO Plus SD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="History Channel HD">
-    <display-name lang="pt">History Channel HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="History Channel SD">
-    <display-name lang="pt">History Channel SD</display-name>
+  <channel id="Max Prime SD">
+    <display-name lang="pt">Max Prime SD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Futura HD">
@@ -808,1133 +800,1706 @@
     <display-name lang="pt">Sextreme SD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <programme start="20200229002500 -0400" stop="20200229021000 -0400" channel="Max">
+  <programme start="20200229002500 -0400" stop="20200229021000 -0400" channel="Max HD">
     <title lang="pt">Uma Viagem Muito Louca</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229021000 -0400" stop="20200229034500 -0400" channel="Max">
+  <programme start="20200229021000 -0400" stop="20200229034500 -0400" channel="Max HD">
     <title lang="pt">Um Natal Muito Louco</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229034500 -0400" stop="20200229052800 -0400" channel="Max">
+  <programme start="20200229034500 -0400" stop="20200229052800 -0400" channel="Max HD">
     <title lang="pt">Vice Versa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229052800 -0400" stop="20200229073000 -0400" channel="Max">
+  <programme start="20200229052800 -0400" stop="20200229073000 -0400" channel="Max HD">
     <title lang="pt">Simone</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229073000 -0400" stop="20200229091500 -0400" channel="Max">
+  <programme start="20200229073000 -0400" stop="20200229091500 -0400" channel="Max HD">
     <title lang="pt">Onde Vivem os Monstros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229091500 -0400" stop="20200229110500 -0400" channel="Max">
+  <programme start="20200229091500 -0400" stop="20200229110500 -0400" channel="Max HD">
     <title lang="pt">Academia de Vampiros</title>
     <sub-title lang="pt">O Beijo das Sombras</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229110500 -0400" stop="20200229125500 -0400" channel="Max">
+  <programme start="20200229110500 -0400" stop="20200229125500 -0400" channel="Max HD">
     <title lang="pt">Mamãe é uma Espiã</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229125500 -0400" stop="20200229150200 -0400" channel="Max">
+  <programme start="20200229125500 -0400" stop="20200229150200 -0400" channel="Max HD">
     <title lang="pt">Quatro Amigas e um Jeans Viajante</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229150200 -0400" stop="20200229164500 -0400" channel="Max">
+  <programme start="20200229150200 -0400" stop="20200229164500 -0400" channel="Max HD">
     <title lang="pt">Esperar Para Sempre</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229164500 -0400" stop="20200229185500 -0400" channel="Max">
+  <programme start="20200229164500 -0400" stop="20200229185500 -0400" channel="Max HD">
     <title lang="pt">Abandonado no Altar</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229185500 -0400" stop="20200229210000 -0400" channel="Max">
+  <programme start="20200229185500 -0400" stop="20200229210000 -0400" channel="Max HD">
     <title lang="pt">Penetras Bons de Bico</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229210000 -0400" stop="20200229224800 -0400" channel="Max">
+  <programme start="20200229210000 -0400" stop="20200229224800 -0400" channel="Max HD">
     <title lang="pt">Se Beber, Não Case! Parte 3</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229224800 -0400" stop="20200301003800 -0400" channel="Max">
+  <programme start="20200229224800 -0400" stop="20200301003800 -0400" channel="Max HD">
     <title lang="pt">Mamãe é uma Espiã</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301003800 -0400" stop="20200301022500 -0400" channel="Max">
+  <programme start="20200301003800 -0400" stop="20200301022500 -0400" channel="Max HD">
     <title lang="pt">Procurando Monica Velour</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301022500 -0400" stop="20200301042200 -0400" channel="Max">
+  <programme start="20200301022500 -0400" stop="20200301042200 -0400" channel="Max HD">
     <title lang="pt">Uma Boa Mentira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301042200 -0400" stop="20200301060500 -0400" channel="Max">
+  <programme start="20200301042200 -0400" stop="20200301060500 -0400" channel="Max HD">
     <title lang="pt">A Gaivota</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301060500 -0400" stop="20200301080500 -0400" channel="Max">
+  <programme start="20200301060500 -0400" stop="20200301080500 -0400" channel="Max HD">
     <title lang="pt">Winter</title>
     <sub-title lang="pt">O Golfinho</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301080500 -0400" stop="20200301093500 -0400" channel="Max">
+  <programme start="20200301080500 -0400" stop="20200301093500 -0400" channel="Max HD">
     <title lang="pt">Como Comer Minhocas Fritas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301093500 -0400" stop="20200301112000 -0400" channel="Max">
+  <programme start="20200301093500 -0400" stop="20200301112000 -0400" channel="Max HD">
     <title lang="pt">A Herança de Mr. Deeds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301112000 -0400" stop="20200301130500 -0400" channel="Max">
+  <programme start="20200301112000 -0400" stop="20200301130500 -0400" channel="Max HD">
     <title lang="pt">Larry Crowne</title>
     <sub-title lang="pt">O Amor está de Volta</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301130500 -0400" stop="20200301150500 -0400" channel="Max">
+  <programme start="20200301130500 -0400" stop="20200301150500 -0400" channel="Max HD">
     <title lang="pt">Golpe Baixo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301150500 -0400" stop="20200301170000 -0400" channel="Max">
+  <programme start="20200301150500 -0400" stop="20200301170000 -0400" channel="Max HD">
     <title lang="pt">Um Bom Partido</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301170000 -0400" stop="20200301183500 -0400" channel="Max">
+  <programme start="20200301170000 -0400" stop="20200301183500 -0400" channel="Max HD">
     <title lang="pt">Projeto X</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301183500 -0400" stop="20200301210000 -0400" channel="Max">
+  <programme start="20200301183500 -0400" stop="20200301210000 -0400" channel="Max HD">
     <title lang="pt">Amor e a Máfia</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301210000 -0400" stop="20200301230000 -0400" channel="Max">
+  <programme start="20200301210000 -0400" stop="20200301230000 -0400" channel="Max HD">
     <title lang="pt">Caçador de Recompensas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301230000 -0400" stop="20200302004500 -0400" channel="Max">
+  <programme start="20200301230000 -0400" stop="20200302004500 -0400" channel="Max HD">
     <title lang="pt">Chapado &amp; Poderoso</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302004500 -0400" stop="20200302022000 -0400" channel="Max">
+  <programme start="20200302004500 -0400" stop="20200302022000 -0400" channel="Max HD">
     <title lang="pt">Casamento Real</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302022000 -0400" stop="20200302035500 -0400" channel="Max">
+  <programme start="20200302022000 -0400" stop="20200302035500 -0400" channel="Max HD">
     <title lang="pt">Um Dia Perfeito</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302035500 -0400" stop="20200302060500 -0400" channel="Max">
+  <programme start="20200302035500 -0400" stop="20200302060500 -0400" channel="Max HD">
     <title lang="pt">As Confissões de Schmidt</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302060500 -0400" stop="20200302073500 -0400" channel="Max">
+  <programme start="20200302060500 -0400" stop="20200302073500 -0400" channel="Max HD">
     <title lang="pt">O Mistério de Hailey Dean: 2 + 2 = Assassinato</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302073500 -0400" stop="20200302090500 -0400" channel="Max">
+  <programme start="20200302073500 -0400" stop="20200302090500 -0400" channel="Max HD">
     <title lang="pt">Buddy, Um Amor de Gorila</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302090500 -0400" stop="20200302110500 -0400" channel="Max">
+  <programme start="20200302090500 -0400" stop="20200302110500 -0400" channel="Max HD">
     <title lang="pt">Os Goonies</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302110500 -0400" stop="20200302131000 -0400" channel="Max">
+  <programme start="20200302110500 -0400" stop="20200302131000 -0400" channel="Max HD">
     <title lang="pt">O Espaço Entre Nós</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302131000 -0400" stop="20200302150500 -0400" channel="Max">
+  <programme start="20200302131000 -0400" stop="20200302150500 -0400" channel="Max HD">
     <title lang="pt">Curtindo a Liberdade</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302150500 -0400" stop="20200302170000 -0400" channel="Max">
+  <programme start="20200302150500 -0400" stop="20200302170000 -0400" channel="Max HD">
     <title lang="pt">Querido John</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302170000 -0400" stop="20200302185000 -0400" channel="Max">
+  <programme start="20200302170000 -0400" stop="20200302185000 -0400" channel="Max HD">
     <title lang="pt">Onde Está a Vovó?</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302185000 -0400" stop="20200302210000 -0400" channel="Max">
+  <programme start="20200302185000 -0400" stop="20200302210000 -0400" channel="Max HD">
     <title lang="pt">Podres de Ricos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302210000 -0400" stop="20200302224000 -0400" channel="Max">
+  <programme start="20200302210000 -0400" stop="20200302224000 -0400" channel="Max HD">
     <title lang="pt">Os Aloprados</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302224000 -0400" stop="20200303002000 -0400" channel="Max">
+  <programme start="20200302224000 -0400" stop="20200303002000 -0400" channel="Max HD">
     <title lang="pt">Para Maiores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303002000 -0400" stop="20200303015500 -0400" channel="Max">
+  <programme start="20200303002000 -0400" stop="20200303015500 -0400" channel="Max HD">
     <title lang="pt">Um Natal Muito Louco</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303015500 -0400" stop="20200303033500 -0400" channel="Max">
+  <programme start="20200303015500 -0400" stop="20200303033500 -0400" channel="Max HD">
     <title lang="pt">Impulsividade</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303033500 -0400" stop="20200303051000 -0400" channel="Max">
+  <programme start="20200303033500 -0400" stop="20200303051000 -0400" channel="Max HD">
     <title lang="pt">Um Ninja da Pesada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303051000 -0400" stop="20200303064000 -0400" channel="Max">
+  <programme start="20200303051000 -0400" stop="20200303064000 -0400" channel="Max HD">
     <title lang="pt">O Mistério De Hailey Dean: Encontro Mortal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303064000 -0400" stop="20200303081500 -0400" channel="Max">
+  <programme start="20200303064000 -0400" stop="20200303081500 -0400" channel="Max HD">
     <title lang="pt">A História Sem Fim 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303081500 -0400" stop="20200303102000 -0400" channel="Max">
+  <programme start="20200303081500 -0400" stop="20200303102000 -0400" channel="Max HD">
     <title lang="pt">303</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303102000 -0400" stop="20200303121000 -0400" channel="Max">
+  <programme start="20200303102000 -0400" stop="20200303121000 -0400" channel="Max HD">
     <title lang="pt">Tudo Que uma Garota Quer</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303121000 -0400" stop="20200303135500 -0400" channel="Max">
+  <programme start="20200303121000 -0400" stop="20200303135500 -0400" channel="Max HD">
     <title lang="pt">Bons Costumes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303135500 -0400" stop="20200303154000 -0400" channel="Max">
+  <programme start="20200303135500 -0400" stop="20200303154000 -0400" channel="Max HD">
     <title lang="pt">Te Peguei!</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303154000 -0400" stop="20200303173000 -0400" channel="Max">
+  <programme start="20200303154000 -0400" stop="20200303173000 -0400" channel="Max HD">
     <title lang="pt">A Feiticeira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303173000 -0400" stop="20200303191000 -0400" channel="Max">
+  <programme start="20200303173000 -0400" stop="20200303191000 -0400" channel="Max HD">
     <title lang="pt">Coisa de Mulher</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303191000 -0400" stop="20200303210000 -0400" channel="Max">
+  <programme start="20200303191000 -0400" stop="20200303210000 -0400" channel="Max HD">
     <title lang="pt">Ópera Aberta</title>
     <sub-title lang="pt">Os Pescadores de Pérolas</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303210000 -0400" stop="20200303224000 -0400" channel="Max">
+  <programme start="20200303210000 -0400" stop="20200303224000 -0400" channel="Max HD">
     <title lang="pt">Esperar Para Sempre</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303224000 -0400" stop="20200304002500 -0400" channel="Max">
+  <programme start="20200303224000 -0400" stop="20200304002500 -0400" channel="Max HD">
     <title lang="pt">Te Peguei!</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304002500 -0400" stop="20200304021000 -0400" channel="Max">
+  <programme start="20200304002500 -0400" stop="20200304021000 -0400" channel="Max HD">
     <title lang="pt">Ano Um</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304021000 -0400" stop="20200304035500 -0400" channel="Max">
+  <programme start="20200304021000 -0400" stop="20200304035500 -0400" channel="Max HD">
     <title lang="pt">Sou Espião</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304035500 -0400" stop="20200304055000 -0400" channel="Max">
+  <programme start="20200304035500 -0400" stop="20200304055000 -0400" channel="Max HD">
     <title lang="pt">Dave</title>
     <sub-title lang="pt">Presidente por um Dia</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304055000 -0400" stop="20200304075000 -0400" channel="Max">
+  <programme start="20200304055000 -0400" stop="20200304075000 -0400" channel="Max HD">
     <title lang="pt">Karatê Kid 3</title>
     <sub-title lang="pt">O Desafio Final</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304075000 -0400" stop="20200304101500 -0400" channel="Max">
+  <programme start="20200304075000 -0400" stop="20200304101500 -0400" channel="Max HD">
     <title lang="pt">Karate Kid</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304101500 -0400" stop="20200304115500 -0400" channel="Max">
+  <programme start="20200304101500 -0400" stop="20200304115500 -0400" channel="Max HD">
     <title lang="pt">Show Dogs: O Agente Canino</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304115500 -0400" stop="20200304134500 -0400" channel="Max">
+  <programme start="20200304115500 -0400" stop="20200304134500 -0400" channel="Max HD">
     <title lang="pt">Alma da Festa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304134500 -0400" stop="20200304155000 -0400" channel="Max">
+  <programme start="20200304134500 -0400" stop="20200304155000 -0400" channel="Max HD">
     <title lang="pt">Abandonado no Altar</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304155000 -0400" stop="20200304173500 -0400" channel="Max">
+  <programme start="20200304155000 -0400" stop="20200304173500 -0400" channel="Max HD">
     <title lang="pt">Onda de Crimes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304173500 -0400" stop="20200304192500 -0400" channel="Max">
+  <programme start="20200304173500 -0400" stop="20200304192500 -0400" channel="Max HD">
     <title lang="pt">Ópera Aberta</title>
     <sub-title lang="pt">Os Pescadores de Pérolas</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304192500 -0400" stop="20200304210000 -0400" channel="Max">
+  <programme start="20200304192500 -0400" stop="20200304210000 -0400" channel="Max HD">
     <title lang="pt">Os Especialistas de Emprego</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304210000 -0400" stop="20200304225000 -0400" channel="Max">
+  <programme start="20200304210000 -0400" stop="20200304225000 -0400" channel="Max HD">
     <title lang="pt">Gente Grande</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304225000 -0400" stop="20200305004000 -0400" channel="Max">
+  <programme start="20200304225000 -0400" stop="20200305004000 -0400" channel="Max HD">
     <title lang="pt">Alma da Festa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305004000 -0400" stop="20200305022500 -0400" channel="Max">
+  <programme start="20200305004000 -0400" stop="20200305022500 -0400" channel="Max HD">
     <title lang="pt">Ladrão de Diamantes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305022500 -0400" stop="20200305043000 -0400" channel="Max">
+  <programme start="20200305022500 -0400" stop="20200305043000 -0400" channel="Max HD">
     <title lang="pt">Doce Novembro</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305043000 -0400" stop="20200305055000 -0400" channel="Max">
+  <programme start="20200305043000 -0400" stop="20200305055000 -0400" channel="Max HD">
     <title lang="pt">O Cisne Apaixonado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305055000 -0400" stop="20200305072300 -0400" channel="Max">
+  <programme start="20200305055000 -0400" stop="20200305072300 -0400" channel="Max HD">
     <title lang="pt">Confissões de uma Noiva</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305072300 -0400" stop="20200305091000 -0400" channel="Max">
+  <programme start="20200305072300 -0400" stop="20200305091000 -0400" channel="Max HD">
     <title lang="pt">Um Cupido Caiu do Céu</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305091000 -0400" stop="20200305104500 -0400" channel="Max">
+  <programme start="20200305091000 -0400" stop="20200305104500 -0400" channel="Max HD">
     <title lang="pt">Um Dia Perfeito</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305104500 -0400" stop="20200305123000 -0400" channel="Max">
+  <programme start="20200305104500 -0400" stop="20200305123000 -0400" channel="Max HD">
     <title lang="pt">Assassinato Por Acidente</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305123000 -0400" stop="20200305140500 -0400" channel="Max">
+  <programme start="20200305123000 -0400" stop="20200305140500 -0400" channel="Max HD">
     <title lang="pt">O Golpe</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305140500 -0400" stop="20200305155000 -0400" channel="Max">
+  <programme start="20200305140500 -0400" stop="20200305155000 -0400" channel="Max HD">
     <title lang="pt">Larry Crowne</title>
     <sub-title lang="pt">O Amor está de Volta</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305155000 -0400" stop="20200305174000 -0400" channel="Max">
+  <programme start="20200305155000 -0400" stop="20200305174000 -0400" channel="Max HD">
     <title lang="pt">Mamãe é uma Espiã</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305174000 -0400" stop="20200305192500 -0400" channel="Max">
+  <programme start="20200305174000 -0400" stop="20200305192500 -0400" channel="Max HD">
     <title lang="pt">Eu, Meu Irmão e Nossa Namorada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305192500 -0400" stop="20200305210000 -0400" channel="Max">
+  <programme start="20200305192500 -0400" stop="20200305210000 -0400" channel="Max HD">
     <title lang="pt">Projeto X</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305210000 -0400" stop="20200305225500 -0400" channel="Max">
+  <programme start="20200305210000 -0400" stop="20200305225500 -0400" channel="Max HD">
     <title lang="pt">Juntas No Crime</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305225500 -0400" stop="20200306003000 -0400" channel="Max">
+  <programme start="20200305225500 -0400" stop="20200306003000 -0400" channel="Max HD">
     <title lang="pt">Minha Querida Confraria</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306003000 -0400" stop="20200306021000 -0400" channel="Max">
+  <programme start="20200306003000 -0400" stop="20200306021000 -0400" channel="Max HD">
     <title lang="pt">Amigos Inseparáveis</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306021000 -0400" stop="20200306035000 -0400" channel="Max">
+  <programme start="20200306021000 -0400" stop="20200306035000 -0400" channel="Max HD">
     <title lang="pt">Os Homens que Encaravam Cabras</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306035000 -0400" stop="20200306044000 -0400" channel="Max">
+  <programme start="20200306035000 -0400" stop="20200306044000 -0400" channel="Max HD">
     <title lang="pt">O Sermão da Montanha</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306044000 -0400" stop="20200306065000 -0400" channel="Max">
+  <programme start="20200306044000 -0400" stop="20200306065000 -0400" channel="Max HD">
     <title lang="pt">Karatê Kid</title>
     <sub-title lang="pt">A Hora da Verdade</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306065000 -0400" stop="20200306084000 -0400" channel="Max">
+  <programme start="20200306065000 -0400" stop="20200306084000 -0400" channel="Max HD">
     <title lang="pt">Máfia no Divã</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306084000 -0400" stop="20200306102000 -0400" channel="Max">
+  <programme start="20200306084000 -0400" stop="20200306102000 -0400" channel="Max HD">
     <title lang="pt">A Máfia Volta ao Divã</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306102000 -0400" stop="20200306115000 -0400" channel="Max">
+  <programme start="20200306102000 -0400" stop="20200306115000 -0400" channel="Max HD">
     <title lang="pt">Casamento Real</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306115000 -0400" stop="20200306134500 -0400" channel="Max">
+  <programme start="20200306115000 -0400" stop="20200306134500 -0400" channel="Max HD">
     <title lang="pt">Querido John</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306134500 -0400" stop="20200306153500 -0400" channel="Max">
+  <programme start="20200306134500 -0400" stop="20200306153500 -0400" channel="Max HD">
     <title lang="pt">Um Bom Partido</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306153500 -0400" stop="20200306173000 -0400" channel="Max">
+  <programme start="20200306153500 -0400" stop="20200306173000 -0400" channel="Max HD">
     <title lang="pt">Caçador de Recompensas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306173000 -0400" stop="20200306192000 -0400" channel="Max">
+  <programme start="20200306173000 -0400" stop="20200306192000 -0400" channel="Max HD">
     <title lang="pt">Chapado &amp; Poderoso</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306192000 -0400" stop="20200306210000 -0400" channel="Max">
+  <programme start="20200306192000 -0400" stop="20200306210000 -0400" channel="Max HD">
     <title lang="pt">A Hora da Mudança</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306210000 -0400" stop="20200306231000 -0400" channel="Max">
+  <programme start="20200306210000 -0400" stop="20200306231000 -0400" channel="Max HD">
     <title lang="pt">Podres de Ricos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306231000 -0400" stop="20200307005000 -0400" channel="Max">
+  <programme start="20200306231000 -0400" stop="20200307005000 -0400" channel="Max HD">
     <title lang="pt">Onda de Crimes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229000000 -0400" stop="20200229005200 -0400" channel="Max Prime">
+  <programme start="20200229000000 -0400" stop="20200229005200 -0400" channel="Max Prime HD">
     <title lang="pt">Strike Back</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229005200 -0400" stop="20200229025000 -0400" channel="Max Prime">
+  <programme start="20200229005200 -0400" stop="20200229025000 -0400" channel="Max Prime HD">
     <title lang="pt">Venom</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229025000 -0400" stop="20200229051500 -0400" channel="Max Prime">
+  <programme start="20200229025000 -0400" stop="20200229051500 -0400" channel="Max Prime HD">
     <title lang="pt">Anjos e Demônios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229051500 -0400" stop="20200229072000 -0400" channel="Max Prime">
+  <programme start="20200229051500 -0400" stop="20200229072000 -0400" channel="Max Prime HD">
     <title lang="pt">Stealth</title>
     <sub-title lang="pt">Ameaça Invisível</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229072000 -0400" stop="20200229092500 -0400" channel="Max Prime">
+  <programme start="20200229072000 -0400" stop="20200229092500 -0400" channel="Max Prime HD">
     <title lang="pt">Parker</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229092500 -0400" stop="20200229111100 -0400" channel="Max Prime">
+  <programme start="20200229092500 -0400" stop="20200229111100 -0400" channel="Max Prime HD">
     <title lang="pt">Busca sem Limites</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229111100 -0400" stop="20200229133700 -0400" channel="Max Prime">
+  <programme start="20200229111100 -0400" stop="20200229133700 -0400" channel="Max Prime HD">
     <title lang="pt">Covil de Ladrões</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229133700 -0400" stop="20200229161500 -0400" channel="Max Prime">
+  <programme start="20200229133700 -0400" stop="20200229161500 -0400" channel="Max Prime HD">
     <title lang="pt">Batman</title>
     <sub-title lang="pt">O Cavaleiro das Trevas</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229161500 -0400" stop="20200229181300 -0400" channel="Max Prime">
+  <programme start="20200229161500 -0400" stop="20200229181300 -0400" channel="Max Prime HD">
     <title lang="pt">O Acordo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229181300 -0400" stop="20200229201500 -0400" channel="Max Prime">
+  <programme start="20200229181300 -0400" stop="20200229201500 -0400" channel="Max Prime HD">
     <title lang="pt">Millennium: A Garota na Teia de Aranha</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229201500 -0400" stop="20200229220000 -0400" channel="Max Prime">
+  <programme start="20200229201500 -0400" stop="20200229220000 -0400" channel="Max Prime HD">
     <title lang="pt">Busca sem Limites</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200229220000 -0400" stop="20200301002500 -0400" channel="Max Prime">
+  <programme start="20200229220000 -0400" stop="20200301002500 -0400" channel="Max Prime HD">
     <title lang="pt">Covil de Ladrões</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301002500 -0400" stop="20200301015800 -0400" channel="Max Prime">
+  <programme start="20200301002500 -0400" stop="20200301015800 -0400" channel="Max Prime HD">
     <title lang="pt">Garotas Selvagens 3</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301015800 -0400" stop="20200301040000 -0400" channel="Max Prime">
+  <programme start="20200301015800 -0400" stop="20200301040000 -0400" channel="Max Prime HD">
     <title lang="pt">Striptease</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301040000 -0400" stop="20200301063100 -0400" channel="Max Prime">
+  <programme start="20200301040000 -0400" stop="20200301063100 -0400" channel="Max Prime HD">
     <title lang="pt">Advogado do Diabo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301063100 -0400" stop="20200301083000 -0400" channel="Max Prime">
+  <programme start="20200301063100 -0400" stop="20200301083000 -0400" channel="Max Prime HD">
     <title lang="pt">O Novo Pesadelo</title>
     <sub-title lang="pt">O Retorno de Freddy Krueger</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301083000 -0400" stop="20200301100700 -0400" channel="Max Prime">
+  <programme start="20200301083000 -0400" stop="20200301100700 -0400" channel="Max Prime HD">
     <title lang="pt">Ecos na Escuridão</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301100700 -0400" stop="20200301115000 -0400" channel="Max Prime">
+  <programme start="20200301100700 -0400" stop="20200301115000 -0400" channel="Max Prime HD">
     <title lang="pt">A Freira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301115000 -0400" stop="20200301134000 -0400" channel="Max Prime">
+  <programme start="20200301115000 -0400" stop="20200301134000 -0400" channel="Max Prime HD">
     <title lang="pt">Buscando\u2026</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301134000 -0400" stop="20200301160000 -0400" channel="Max Prime">
+  <programme start="20200301134000 -0400" stop="20200301160000 -0400" channel="Max Prime HD">
     <title lang="pt">Todo Dinheiro Do Mundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301160000 -0400" stop="20200301182500 -0400" channel="Max Prime">
+  <programme start="20200301160000 -0400" stop="20200301182500 -0400" channel="Max Prime HD">
     <title lang="pt">A Grande Jogada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301182500 -0400" stop="20200301202000 -0400" channel="Max Prime">
+  <programme start="20200301182500 -0400" stop="20200301202000 -0400" channel="Max Prime HD">
     <title lang="pt">O Presente</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301202000 -0400" stop="20200301220000 -0400" channel="Max Prime">
+  <programme start="20200301202000 -0400" stop="20200301220000 -0400" channel="Max Prime HD">
     <title lang="pt">Floresta Maldita</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301220000 -0400" stop="20200301234300 -0400" channel="Max Prime">
+  <programme start="20200301220000 -0400" stop="20200301234300 -0400" channel="Max Prime HD">
     <title lang="pt">A Freira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200301234300 -0400" stop="20200302015600 -0400" channel="Max Prime">
+  <programme start="20200301234300 -0400" stop="20200302015600 -0400" channel="Max Prime HD">
     <title lang="pt">Drácula de Bram Stoker</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302015600 -0400" stop="20200302033000 -0400" channel="Max Prime">
+  <programme start="20200302015600 -0400" stop="20200302033000 -0400" channel="Max Prime HD">
     <title lang="pt">A Hora do Pesadelo 5</title>
     <sub-title lang="pt">O Maior Horror de Freddy</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302033000 -0400" stop="20200302051500 -0400" channel="Max Prime">
+  <programme start="20200302033000 -0400" stop="20200302051500 -0400" channel="Max Prime HD">
     <title lang="pt">Freddy Vs. Jason</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302051500 -0400" stop="20200302064800 -0400" channel="Max Prime">
+  <programme start="20200302051500 -0400" stop="20200302064800 -0400" channel="Max Prime HD">
     <title lang="pt">Tubarão Tóxico</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302064800 -0400" stop="20200302082700 -0400" channel="Max Prime">
+  <programme start="20200302064800 -0400" stop="20200302082700 -0400" channel="Max Prime HD">
     <title lang="pt">Pânico No Lago: O Legado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302082700 -0400" stop="20200302100300 -0400" channel="Max Prime">
+  <programme start="20200302082700 -0400" stop="20200302100300 -0400" channel="Max Prime HD">
     <title lang="pt">Navio Fantasma</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302100300 -0400" stop="20200302115500 -0400" channel="Max Prime">
+  <programme start="20200302100300 -0400" stop="20200302115500 -0400" channel="Max Prime HD">
     <title lang="pt">Serpentes a Bordo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302115500 -0400" stop="20200302134000 -0400" channel="Max Prime">
+  <programme start="20200302115500 -0400" stop="20200302134000 -0400" channel="Max Prime HD">
     <title lang="pt">Invasores</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302134000 -0400" stop="20200302154000 -0400" channel="Max Prime">
+  <programme start="20200302134000 -0400" stop="20200302154000 -0400" channel="Max Prime HD">
     <title lang="pt">Distrito 9</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302154000 -0400" stop="20200302180200 -0400" channel="Max Prime">
+  <programme start="20200302154000 -0400" stop="20200302180200 -0400" channel="Max Prime HD">
     <title lang="pt">Valerian e a Cidade dos Mil Planetas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302180200 -0400" stop="20200302190000 -0400" channel="Max Prime">
+  <programme start="20200302180200 -0400" stop="20200302190000 -0400" channel="Max Prime HD">
     <title lang="pt">Babel SP</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302190000 -0400" stop="20200302200000 -0400" channel="Max Prime">
+  <programme start="20200302190000 -0400" stop="20200302200000 -0400" channel="Max Prime HD">
     <title lang="pt">Babel SP</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302200000 -0400" stop="20200302220600 -0400" channel="Max Prime">
+  <programme start="20200302200000 -0400" stop="20200302220600 -0400" channel="Max Prime HD">
     <title lang="pt">Nocaute</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200302220600 -0400" stop="20200303000200 -0400" channel="Max Prime">
+  <programme start="20200302220600 -0400" stop="20200303000200 -0400" channel="Max Prime HD">
     <title lang="pt">Mãos de Pedra</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303000200 -0400" stop="20200303023900 -0400" channel="Max Prime">
+  <programme start="20200303000200 -0400" stop="20200303023900 -0400" channel="Max Prime HD">
     <title lang="pt">Batman</title>
     <sub-title lang="pt">O Cavaleiro das Trevas</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303023900 -0400" stop="20200303042500 -0400" channel="Max Prime">
+  <programme start="20200303023900 -0400" stop="20200303042500 -0400" channel="Max Prime HD">
     <title lang="pt">Cidade das Sombras</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303042500 -0400" stop="20200303060200 -0400" channel="Max Prime">
+  <programme start="20200303042500 -0400" stop="20200303060200 -0400" channel="Max Prime HD">
     <title lang="pt">A Casa dos Pássaros Mortos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303060200 -0400" stop="20200303074200 -0400" channel="Max Prime">
+  <programme start="20200303060200 -0400" stop="20200303074200 -0400" channel="Max Prime HD">
     <title lang="pt">Nunca Diga Seu Nome</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303074200 -0400" stop="20200303092700 -0400" channel="Max Prime">
+  <programme start="20200303074200 -0400" stop="20200303092700 -0400" channel="Max Prime HD">
     <title lang="pt">A Colheita do Mal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303092700 -0400" stop="20200303111000 -0400" channel="Max Prime">
+  <programme start="20200303092700 -0400" stop="20200303111000 -0400" channel="Max Prime HD">
     <title lang="pt">A Marca do Medo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303111000 -0400" stop="20200303130700 -0400" channel="Max Prime">
+  <programme start="20200303111000 -0400" stop="20200303130700 -0400" channel="Max Prime HD">
     <title lang="pt">O Ritual</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303130700 -0400" stop="20200303152000 -0400" channel="Max Prime">
+  <programme start="20200303130700 -0400" stop="20200303152000 -0400" channel="Max Prime HD">
     <title lang="pt">Hereditário</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303152000 -0400" stop="20200303171300 -0400" channel="Max Prime">
+  <programme start="20200303152000 -0400" stop="20200303171300 -0400" channel="Max Prime HD">
     <title lang="pt">O Presente</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303171300 -0400" stop="20200303193000 -0400" channel="Max Prime">
+  <programme start="20200303171300 -0400" stop="20200303193000 -0400" channel="Max Prime HD">
     <title lang="pt">Todo Dinheiro Do Mundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303193000 -0400" stop="20200303210800 -0400" channel="Max Prime">
+  <programme start="20200303193000 -0400" stop="20200303210800 -0400" channel="Max Prime HD">
     <title lang="pt">15h17: Trem Para Paris</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303210800 -0400" stop="20200303220000 -0400" channel="Max Prime">
+  <programme start="20200303210800 -0400" stop="20200303220000 -0400" channel="Max Prime HD">
     <title lang="pt">Strike Back</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303220000 -0400" stop="20200303225500 -0400" channel="Max Prime">
+  <programme start="20200303220000 -0400" stop="20200303225500 -0400" channel="Max Prime HD">
     <title lang="pt">Strike Back</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200303225500 -0400" stop="20200304010900 -0400" channel="Max Prime">
+  <programme start="20200303225500 -0400" stop="20200304010900 -0400" channel="Max Prime HD">
     <title lang="pt">Hereditário</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304010900 -0400" stop="20200304024500 -0400" channel="Max Prime">
+  <programme start="20200304010900 -0400" stop="20200304024500 -0400" channel="Max Prime HD">
     <title lang="pt">A Hora do Pesadelo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304024500 -0400" stop="20200304041500 -0400" channel="Max Prime">
+  <programme start="20200304024500 -0400" stop="20200304041500 -0400" channel="Max Prime HD">
     <title lang="pt">A Hora do Pesadelo 2</title>
     <sub-title lang="pt">A Vingança De Freddy</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304041500 -0400" stop="20200304054800 -0400" channel="Max Prime">
+  <programme start="20200304041500 -0400" stop="20200304054800 -0400" channel="Max Prime HD">
     <title lang="pt">À Queima Roupa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304054800 -0400" stop="20200304071700 -0400" channel="Max Prime">
+  <programme start="20200304054800 -0400" stop="20200304071700 -0400" channel="Max Prime HD">
     <title lang="pt">Tubarões No Rio Mississippi</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304071700 -0400" stop="20200304091500 -0400" channel="Max Prime">
+  <programme start="20200304071700 -0400" stop="20200304091500 -0400" channel="Max Prime HD">
     <title lang="pt">Distrito 9</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304091500 -0400" stop="20200304114000 -0400" channel="Max Prime">
+  <programme start="20200304091500 -0400" stop="20200304114000 -0400" channel="Max Prime HD">
     <title lang="pt">Jogador Nº 1</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304114000 -0400" stop="20200304133800 -0400" channel="Max Prime">
+  <programme start="20200304114000 -0400" stop="20200304133800 -0400" channel="Max Prime HD">
     <title lang="pt">Venom</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304133800 -0400" stop="20200304153700 -0400" channel="Max Prime">
+  <programme start="20200304133800 -0400" stop="20200304153700 -0400" channel="Max Prime HD">
     <title lang="pt">Megatubarão</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304153700 -0400" stop="20200304180200 -0400" channel="Max Prime">
+  <programme start="20200304153700 -0400" stop="20200304180200 -0400" channel="Max Prime HD">
     <title lang="pt">Jogador Nº 1</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304180200 -0400" stop="20200304200000 -0400" channel="Max Prime">
+  <programme start="20200304180200 -0400" stop="20200304200000 -0400" channel="Max Prime HD">
     <title lang="pt">Venom</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304200000 -0400" stop="20200304220000 -0400" channel="Max Prime">
+  <programme start="20200304200000 -0400" stop="20200304220000 -0400" channel="Max Prime HD">
     <title lang="pt">Megatubarão</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304220000 -0400" stop="20200304233000 -0400" channel="Max Prime">
+  <programme start="20200304220000 -0400" stop="20200304233000 -0400" channel="Max Prime HD">
     <title lang="pt">Os Estranhos: Caçada Noturna</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200304233000 -0400" stop="20200305011800 -0400" channel="Max Prime">
+  <programme start="20200304233000 -0400" stop="20200305011800 -0400" channel="Max Prime HD">
     <title lang="pt">Buscando\u2026</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305011800 -0400" stop="20200305024700 -0400" channel="Max Prime">
+  <programme start="20200305011800 -0400" stop="20200305024700 -0400" channel="Max Prime HD">
     <title lang="pt">Garotas Selvagens 3</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305024700 -0400" stop="20200305043000 -0400" channel="Max Prime">
+  <programme start="20200305024700 -0400" stop="20200305043000 -0400" channel="Max Prime HD">
     <title lang="pt">Vale do Pecado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305043000 -0400" stop="20200305053600 -0400" channel="Max Prime">
+  <programme start="20200305043000 -0400" stop="20200305053600 -0400" channel="Max Prime HD">
     <title lang="pt">Action Figures 2: Adrenalina ao Extremo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305053600 -0400" stop="20200305072000 -0400" channel="Max Prime">
+  <programme start="20200305053600 -0400" stop="20200305072000 -0400" channel="Max Prime HD">
     <title lang="pt">O Agente</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305072000 -0400" stop="20200305092500 -0400" channel="Max Prime">
+  <programme start="20200305072000 -0400" stop="20200305092500 -0400" channel="Max Prime HD">
     <title lang="pt">O Protetor 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305092500 -0400" stop="20200305112300 -0400" channel="Max Prime">
+  <programme start="20200305092500 -0400" stop="20200305112300 -0400" channel="Max Prime HD">
     <title lang="pt">Onze Homens e um Segredo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305112300 -0400" stop="20200305133000 -0400" channel="Max Prime">
+  <programme start="20200305112300 -0400" stop="20200305133000 -0400" channel="Max Prime HD">
     <title lang="pt">Doze Homens e Outro Segredo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305133000 -0400" stop="20200305153800 -0400" channel="Max Prime">
+  <programme start="20200305133000 -0400" stop="20200305153800 -0400" channel="Max Prime HD">
     <title lang="pt">Treze Homens e um Novo Segredo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305153800 -0400" stop="20200305180500 -0400" channel="Max Prime">
+  <programme start="20200305153800 -0400" stop="20200305180500 -0400" channel="Max Prime HD">
     <title lang="pt">A Grande Jogada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305180500 -0400" stop="20200305201400 -0400" channel="Max Prime">
+  <programme start="20200305180500 -0400" stop="20200305201400 -0400" channel="Max Prime HD">
     <title lang="pt">Meu Nome não é Johnny</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305201400 -0400" stop="20200305210500 -0400" channel="Max Prime">
+  <programme start="20200305201400 -0400" stop="20200305210500 -0400" channel="Max Prime HD">
     <title lang="pt">Strike Back</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305210500 -0400" stop="20200305220000 -0400" channel="Max Prime">
+  <programme start="20200305210500 -0400" stop="20200305220000 -0400" channel="Max Prime HD">
     <title lang="pt">Strike Back</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200305220000 -0400" stop="20200306000600 -0400" channel="Max Prime">
+  <programme start="20200305220000 -0400" stop="20200306000600 -0400" channel="Max Prime HD">
     <title lang="pt">O Protetor 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306000600 -0400" stop="20200306020000 -0400" channel="Max Prime">
+  <programme start="20200306000600 -0400" stop="20200306020000 -0400" channel="Max Prime HD">
     <title lang="pt">Garotas Selvagens</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306020000 -0400" stop="20200306034000 -0400" channel="Max Prime">
+  <programme start="20200306020000 -0400" stop="20200306034000 -0400" channel="Max Prime HD">
     <title lang="pt">Bem-vinda, Estranha</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306034000 -0400" stop="20200306044700 -0400" channel="Max Prime">
+  <programme start="20200306034000 -0400" stop="20200306044700 -0400" channel="Max Prime HD">
     <title lang="pt">Action Figures 2: Adrenalina ao Extremo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306044700 -0400" stop="20200306063500 -0400" channel="Max Prime">
+  <programme start="20200306044700 -0400" stop="20200306063500 -0400" channel="Max Prime HD">
     <title lang="pt">Gladiator, O Desafio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306063500 -0400" stop="20200306083800 -0400" channel="Max Prime">
+  <programme start="20200306063500 -0400" stop="20200306083800 -0400" channel="Max Prime HD">
     <title lang="pt">Estranha Obsessão</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306083800 -0400" stop="20200306103100 -0400" channel="Max Prime">
+  <programme start="20200306083800 -0400" stop="20200306103100 -0400" channel="Max Prime HD">
     <title lang="pt">Os Reis de Dogtown</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306103100 -0400" stop="20200306123200 -0400" channel="Max Prime">
+  <programme start="20200306103100 -0400" stop="20200306123200 -0400" channel="Max Prime HD">
     <title lang="pt">O Ritual</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306123200 -0400" stop="20200306141500 -0400" channel="Max Prime">
+  <programme start="20200306123200 -0400" stop="20200306141500 -0400" channel="Max Prime HD">
     <title lang="pt">A Freira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306141500 -0400" stop="20200306160000 -0400" channel="Max Prime">
+  <programme start="20200306141500 -0400" stop="20200306160000 -0400" channel="Max Prime HD">
     <title lang="pt">A Marca do Medo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306160000 -0400" stop="20200306173500 -0400" channel="Max Prime">
+  <programme start="20200306160000 -0400" stop="20200306173500 -0400" channel="Max Prime HD">
     <title lang="pt">Tara Maldita</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306173500 -0400" stop="20200306194800 -0400" channel="Max Prime">
+  <programme start="20200306173500 -0400" stop="20200306194800 -0400" channel="Max Prime HD">
     <title lang="pt">Hereditário</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306194800 -0400" stop="20200306212600 -0400" channel="Max Prime">
+  <programme start="20200306194800 -0400" stop="20200306212600 -0400" channel="Max Prime HD">
     <title lang="pt">Floresta Maldita</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306212600 -0400" stop="20200306230800 -0400" channel="Max Prime">
+  <programme start="20200306212600 -0400" stop="20200306230800 -0400" channel="Max Prime HD">
     <title lang="pt">A Freira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200306230800 -0400" stop="20200307000000 -0400" channel="Max Prime">
+  <programme start="20200306230800 -0400" stop="20200307000000 -0400" channel="Max Prime HD">
     <title lang="pt">Strike Back</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229002500 -0400" stop="20200229021000 -0400" channel="Max SD">
+    <title lang="pt">Uma Viagem Muito Louca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229021000 -0400" stop="20200229034500 -0400" channel="Max SD">
+    <title lang="pt">Um Natal Muito Louco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229034500 -0400" stop="20200229052800 -0400" channel="Max SD">
+    <title lang="pt">Vice Versa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229052800 -0400" stop="20200229073000 -0400" channel="Max SD">
+    <title lang="pt">Simone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229073000 -0400" stop="20200229091500 -0400" channel="Max SD">
+    <title lang="pt">Onde Vivem os Monstros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229091500 -0400" stop="20200229110500 -0400" channel="Max SD">
+    <title lang="pt">Academia de Vampiros</title>
+    <sub-title lang="pt">O Beijo das Sombras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229110500 -0400" stop="20200229125500 -0400" channel="Max SD">
+    <title lang="pt">Mamãe é uma Espiã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229125500 -0400" stop="20200229150200 -0400" channel="Max SD">
+    <title lang="pt">Quatro Amigas e um Jeans Viajante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229150200 -0400" stop="20200229164500 -0400" channel="Max SD">
+    <title lang="pt">Esperar Para Sempre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229164500 -0400" stop="20200229185500 -0400" channel="Max SD">
+    <title lang="pt">Abandonado no Altar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229185500 -0400" stop="20200229210000 -0400" channel="Max SD">
+    <title lang="pt">Penetras Bons de Bico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229210000 -0400" stop="20200229224800 -0400" channel="Max SD">
+    <title lang="pt">Se Beber, Não Case! Parte 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229224800 -0400" stop="20200301003800 -0400" channel="Max SD">
+    <title lang="pt">Mamãe é uma Espiã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301003800 -0400" stop="20200301022500 -0400" channel="Max SD">
+    <title lang="pt">Procurando Monica Velour</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301022500 -0400" stop="20200301042200 -0400" channel="Max SD">
+    <title lang="pt">Uma Boa Mentira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301042200 -0400" stop="20200301060500 -0400" channel="Max SD">
+    <title lang="pt">A Gaivota</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301060500 -0400" stop="20200301080500 -0400" channel="Max SD">
+    <title lang="pt">Winter</title>
+    <sub-title lang="pt">O Golfinho</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301080500 -0400" stop="20200301093500 -0400" channel="Max SD">
+    <title lang="pt">Como Comer Minhocas Fritas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301093500 -0400" stop="20200301112000 -0400" channel="Max SD">
+    <title lang="pt">A Herança de Mr. Deeds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301112000 -0400" stop="20200301130500 -0400" channel="Max SD">
+    <title lang="pt">Larry Crowne</title>
+    <sub-title lang="pt">O Amor está de Volta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301130500 -0400" stop="20200301150500 -0400" channel="Max SD">
+    <title lang="pt">Golpe Baixo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301150500 -0400" stop="20200301170000 -0400" channel="Max SD">
+    <title lang="pt">Um Bom Partido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301170000 -0400" stop="20200301183500 -0400" channel="Max SD">
+    <title lang="pt">Projeto X</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301183500 -0400" stop="20200301210000 -0400" channel="Max SD">
+    <title lang="pt">Amor e a Máfia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301210000 -0400" stop="20200301230000 -0400" channel="Max SD">
+    <title lang="pt">Caçador de Recompensas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301230000 -0400" stop="20200302004500 -0400" channel="Max SD">
+    <title lang="pt">Chapado &amp; Poderoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302004500 -0400" stop="20200302022000 -0400" channel="Max SD">
+    <title lang="pt">Casamento Real</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302022000 -0400" stop="20200302035500 -0400" channel="Max SD">
+    <title lang="pt">Um Dia Perfeito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302035500 -0400" stop="20200302060500 -0400" channel="Max SD">
+    <title lang="pt">As Confissões de Schmidt</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302060500 -0400" stop="20200302073500 -0400" channel="Max SD">
+    <title lang="pt">O Mistério de Hailey Dean: 2 + 2 = Assassinato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302073500 -0400" stop="20200302090500 -0400" channel="Max SD">
+    <title lang="pt">Buddy, Um Amor de Gorila</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302090500 -0400" stop="20200302110500 -0400" channel="Max SD">
+    <title lang="pt">Os Goonies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302110500 -0400" stop="20200302131000 -0400" channel="Max SD">
+    <title lang="pt">O Espaço Entre Nós</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302131000 -0400" stop="20200302150500 -0400" channel="Max SD">
+    <title lang="pt">Curtindo a Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302150500 -0400" stop="20200302170000 -0400" channel="Max SD">
+    <title lang="pt">Querido John</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302170000 -0400" stop="20200302185000 -0400" channel="Max SD">
+    <title lang="pt">Onde Está a Vovó?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302185000 -0400" stop="20200302210000 -0400" channel="Max SD">
+    <title lang="pt">Podres de Ricos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302210000 -0400" stop="20200302224000 -0400" channel="Max SD">
+    <title lang="pt">Os Aloprados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200302224000 -0400" stop="20200303002000 -0400" channel="Max SD">
+    <title lang="pt">Para Maiores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303002000 -0400" stop="20200303015500 -0400" channel="Max SD">
+    <title lang="pt">Um Natal Muito Louco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303015500 -0400" stop="20200303033500 -0400" channel="Max SD">
+    <title lang="pt">Impulsividade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303033500 -0400" stop="20200303051000 -0400" channel="Max SD">
+    <title lang="pt">Um Ninja da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303051000 -0400" stop="20200303064000 -0400" channel="Max SD">
+    <title lang="pt">O Mistério De Hailey Dean: Encontro Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303064000 -0400" stop="20200303081500 -0400" channel="Max SD">
+    <title lang="pt">A História Sem Fim 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303081500 -0400" stop="20200303102000 -0400" channel="Max SD">
+    <title lang="pt">303</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303102000 -0400" stop="20200303121000 -0400" channel="Max SD">
+    <title lang="pt">Tudo Que uma Garota Quer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303121000 -0400" stop="20200303135500 -0400" channel="Max SD">
+    <title lang="pt">Bons Costumes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303135500 -0400" stop="20200303154000 -0400" channel="Max SD">
+    <title lang="pt">Te Peguei!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303154000 -0400" stop="20200303173000 -0400" channel="Max SD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303173000 -0400" stop="20200303191000 -0400" channel="Max SD">
+    <title lang="pt">Coisa de Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303191000 -0400" stop="20200303210000 -0400" channel="Max SD">
+    <title lang="pt">Ópera Aberta</title>
+    <sub-title lang="pt">Os Pescadores de Pérolas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303210000 -0400" stop="20200303224000 -0400" channel="Max SD">
+    <title lang="pt">Esperar Para Sempre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200303224000 -0400" stop="20200304002500 -0400" channel="Max SD">
+    <title lang="pt">Te Peguei!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304002500 -0400" stop="20200304021000 -0400" channel="Max SD">
+    <title lang="pt">Ano Um</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304021000 -0400" stop="20200304035500 -0400" channel="Max SD">
+    <title lang="pt">Sou Espião</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304035500 -0400" stop="20200304055000 -0400" channel="Max SD">
+    <title lang="pt">Dave</title>
+    <sub-title lang="pt">Presidente por um Dia</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304055000 -0400" stop="20200304075000 -0400" channel="Max SD">
+    <title lang="pt">Karatê Kid 3</title>
+    <sub-title lang="pt">O Desafio Final</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304075000 -0400" stop="20200304101500 -0400" channel="Max SD">
+    <title lang="pt">Karate Kid</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304101500 -0400" stop="20200304115500 -0400" channel="Max SD">
+    <title lang="pt">Show Dogs: O Agente Canino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304115500 -0400" stop="20200304134500 -0400" channel="Max SD">
+    <title lang="pt">Alma da Festa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304134500 -0400" stop="20200304155000 -0400" channel="Max SD">
+    <title lang="pt">Abandonado no Altar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304155000 -0400" stop="20200304173500 -0400" channel="Max SD">
+    <title lang="pt">Onda de Crimes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304173500 -0400" stop="20200304192500 -0400" channel="Max SD">
+    <title lang="pt">Ópera Aberta</title>
+    <sub-title lang="pt">Os Pescadores de Pérolas</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304192500 -0400" stop="20200304210000 -0400" channel="Max SD">
+    <title lang="pt">Os Especialistas de Emprego</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304210000 -0400" stop="20200304225000 -0400" channel="Max SD">
+    <title lang="pt">Gente Grande</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304225000 -0400" stop="20200305004000 -0400" channel="Max SD">
+    <title lang="pt">Alma da Festa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305004000 -0400" stop="20200305022500 -0400" channel="Max SD">
+    <title lang="pt">Ladrão de Diamantes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305022500 -0400" stop="20200305043000 -0400" channel="Max SD">
+    <title lang="pt">Doce Novembro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305043000 -0400" stop="20200305055000 -0400" channel="Max SD">
+    <title lang="pt">O Cisne Apaixonado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305055000 -0400" stop="20200305072300 -0400" channel="Max SD">
+    <title lang="pt">Confissões de uma Noiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305072300 -0400" stop="20200305091000 -0400" channel="Max SD">
+    <title lang="pt">Um Cupido Caiu do Céu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305091000 -0400" stop="20200305104500 -0400" channel="Max SD">
+    <title lang="pt">Um Dia Perfeito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305104500 -0400" stop="20200305123000 -0400" channel="Max SD">
+    <title lang="pt">Assassinato Por Acidente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305123000 -0400" stop="20200305140500 -0400" channel="Max SD">
+    <title lang="pt">O Golpe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305140500 -0400" stop="20200305155000 -0400" channel="Max SD">
+    <title lang="pt">Larry Crowne</title>
+    <sub-title lang="pt">O Amor está de Volta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305155000 -0400" stop="20200305174000 -0400" channel="Max SD">
+    <title lang="pt">Mamãe é uma Espiã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305174000 -0400" stop="20200305192500 -0400" channel="Max SD">
+    <title lang="pt">Eu, Meu Irmão e Nossa Namorada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305192500 -0400" stop="20200305210000 -0400" channel="Max SD">
+    <title lang="pt">Projeto X</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305210000 -0400" stop="20200305225500 -0400" channel="Max SD">
+    <title lang="pt">Juntas No Crime</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200305225500 -0400" stop="20200306003000 -0400" channel="Max SD">
+    <title lang="pt">Minha Querida Confraria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306003000 -0400" stop="20200306021000 -0400" channel="Max SD">
+    <title lang="pt">Amigos Inseparáveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306021000 -0400" stop="20200306035000 -0400" channel="Max SD">
+    <title lang="pt">Os Homens que Encaravam Cabras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306035000 -0400" stop="20200306044000 -0400" channel="Max SD">
+    <title lang="pt">O Sermão da Montanha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306044000 -0400" stop="20200306065000 -0400" channel="Max SD">
+    <title lang="pt">Karatê Kid</title>
+    <sub-title lang="pt">A Hora da Verdade</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306065000 -0400" stop="20200306084000 -0400" channel="Max SD">
+    <title lang="pt">Máfia no Divã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306084000 -0400" stop="20200306102000 -0400" channel="Max SD">
+    <title lang="pt">A Máfia Volta ao Divã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306102000 -0400" stop="20200306115000 -0400" channel="Max SD">
+    <title lang="pt">Casamento Real</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306115000 -0400" stop="20200306134500 -0400" channel="Max SD">
+    <title lang="pt">Querido John</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306134500 -0400" stop="20200306153500 -0400" channel="Max SD">
+    <title lang="pt">Um Bom Partido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306153500 -0400" stop="20200306173000 -0400" channel="Max SD">
+    <title lang="pt">Caçador de Recompensas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306173000 -0400" stop="20200306192000 -0400" channel="Max SD">
+    <title lang="pt">Chapado &amp; Poderoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306192000 -0400" stop="20200306210000 -0400" channel="Max SD">
+    <title lang="pt">A Hora da Mudança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306210000 -0400" stop="20200306231000 -0400" channel="Max SD">
+    <title lang="pt">Podres de Ricos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200306231000 -0400" stop="20200307005000 -0400" channel="Max SD">
+    <title lang="pt">Onda de Crimes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
