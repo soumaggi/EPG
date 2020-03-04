@@ -12,9 +12,11 @@ http://psrv.io:80/78167984453/snakeplay/27884
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://z4.vc/j1K" ,AXN HD
 http://psrv.io:80/78167984453/snakeplay/18730
 #EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP SD" tvg-logo="http://z4.vc/xaf",Band SP SD
-http://psrv.io:80/78167984453/snakeplay/18728
+http://psrv.io:80/78167984453/snakeplay/22242
 #EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP HD" tvg-logo="http://z4.vc/X0u" ,Band SP HD
-http://psrv.io:80/78167984453/snakeplay/18727
+http://psrv.io:80/78167984453/snakeplay/25249
+#EXTINF:-1 tvg-id="" tvg-name="BAND [4K]" tvg-logo="http://z4.vc/ocG" ,BAND [4K]
+http://psrv.io:80/78167984453/snakeplay/26179
 #EXTINF:-1 tvg-id="BandNews HD" tvg-name="BandNews HD" tvg-logo="http://z4.vc/COC" ,BandNews HD
 http://psrv.io:80/78167984453/snakeplay/18725
 #EXTINF:-1 tvg-id="BandSports HD" tvg-name="BandSports HD" tvg-logo="http://z4.vc/0ev" ,BandSports HD
