@@ -377,6 +377,10 @@ http://ppns.io:80/95377148/6153/18533
 http://ppns.io:80/95377148/6153/18725
 #EXTINF:-1 tvg-logo="http://z4.vc/mps" group-title="Canais | Notícias",BandNews SD
 http://ppns.io:80/95377148/6153/18726
+#EXTINF:-1 tvg-logo="http://z4.vc/77a" group-title="Canais | Notícias",CNN Brasil HD
+http://ppns.io:80/95377148/6153/47358
+#EXTINF:-1 tvg-logo="http://z4.vc/Ibt" group-title="Canais | Notícias",CNN Brasil SD
+http://ppns.io:80/95377148/6153/47359
 #EXTINF:-1 tvg-logo="http://z4.vc/4gV" group-title="Canais | Notícias",Globo News HD
 http://ppns.io:80/95377148/6153/18651
 #EXTINF:-1 tvg-logo="http://z4.vc/lKc" group-title="Canais | Notícias",Globo News SD
