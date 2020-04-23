@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37127
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36990
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/41530
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Abertos",Canção Nova
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/63630
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Abertos",Canal Brasil
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37122
+#EXTINF:-1 tvg-id="EPTV Ribeirão" tvg-name="EPTV Ribeirão" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",EPTV Ribeirão
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/40514
+#EXTINF:-1 tvg-id="EPTV Ribeirão HD" tvg-name="EPTV Ribeirão HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",EPTV Ribeirão HD
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/38640
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/40074
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37090
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37361
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37051
+#EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV HD
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36947
+#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="Rede Vida HD" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Abertos",Rede Vida HD
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37011
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV!
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37012
+#EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV! HD
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36946
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37048
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36945
+#EXTINF:-1 tvg-id="100% Vida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Abertos",TV Aparecida
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37003
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida HD" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Abertos",TV Aparecida HD
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/41341
+#EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | Abertos",TV Cultura HD
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/61961
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",TV Cultura
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/40073
+#EXTINF:-1 tvg-logo="http://z4.vc/ARG" group-title="Canais | Abertos",TV Gazeta SP HD
+http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/40120
+
+
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37130
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
@@ -21,14 +67,10 @@ http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37132
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36991
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36993
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37127
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36990
+
 #EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37126
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/41530
+
 #EXTINF:-1 tvg-id="" tvg-name="[SHOW] Banda Calypso" tvg-logo="https://i.imgur.com/kblGYAL.png" group-title="Shows",[SHOW] Banda Calypso
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/39787
 #EXTINF:-1 tvg-id="" tvg-name="[SHOW] Banda Forrozão das Antigas" tvg-logo="https://i.imgur.com/kblGYAL.png" group-title="Shows",[SHOW] Banda Forrozão das Antigas
@@ -47,8 +89,6 @@ http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36988
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37123
 #EXTINF:-1 tvg-id="" tvg-name="[SHOW] Cabaré - Eduardo Costa e Leonardo" tvg-logo="https://i.imgur.com/kblGYAL.png" group-title="Shows",[SHOW] Cabaré - Eduardo Costa e Leonardo
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/39768
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Abertos",Canal Brasil
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37122
 #EXTINF:-1 tvg-id="Canção Nova HD" tvg-name="Canção Nova HD" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Religioso",Canção Nova HD
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37023
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network
@@ -69,8 +109,7 @@ http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36986
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37118
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central HD
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36925
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/40073
+
 #EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Variedades",Curta!
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37117
 #EXTINF:-1 tvg-id="" tvg-name="[SHOW] David Guetta" tvg-logo="https://i.imgur.com/kblGYAL.png" group-title="Shows",[SHOW] David Guetta
@@ -115,10 +154,6 @@ http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37108
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36920
 #EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="EPTV Campinas" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",EPTV Campinas
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/40248
-#EXTINF:-1 tvg-id="EPTV Ribeirão" tvg-name="EPTV Ribeirão" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",EPTV Ribeirão
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/40514
-#EXTINF:-1 tvg-id="EPTV Ribeirão HD" tvg-name="EPTV Ribeirão HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",EPTV Ribeirão HD
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/38640
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes",ESPN
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37105
 #EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN 2 HD
@@ -173,14 +208,12 @@ http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36971
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36970
 #EXTINF:-1 tvg-id="" tvg-name="[SHOW] Frank Aguiar" tvg-logo="https://i.imgur.com/kblGYAL.png" group-title="Shows",[SHOW] Frank Aguiar
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/39788
-#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/40074
+
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37097
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX HD
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36969
-#EXTINF:-1 tvg-id="Gazeta HD" tvg-name="Gazeta HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Variedades",Gazeta HD
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/40120
+
 #EXTINF:-1 tvg-id="100% Vida" tvg-name="Globo Anhanguera" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Anhanguera
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/38966
 #EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="TV Bahia HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",TV Bahia HD
@@ -229,10 +262,6 @@ http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/42961
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/42972
 #EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="RPC Foz do Iguaçu HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",RPC Foz do Iguaçu HD
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/42974
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37090
-#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37361
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Anhanguera
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/42962
 #EXTINF:-1 tvg-id="GNT HD" tvg-name="Globo TV Anhanguera HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV Anhanguera HD
@@ -431,16 +460,13 @@ http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/42572
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/39784
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre HD" tvg-name="RBS TV Porto Alegre HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",RBS TV Porto Alegre HD
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/40252
-#EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV HD
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36947
 #EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RecordTV Minas " tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Minas 
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/41362
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/41529
 #EXTINF:-1 tvg-id="Record News HD" tvg-name="Record News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News HD
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37050
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37051
+
 #EXTINF:-1 tvg-id="" tvg-name="RecordTV Bahia HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Bahia HD
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/42624
 #EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RecordTV Brasilia" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Brasilia
@@ -453,16 +479,7 @@ http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/42637
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/42628
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/nDzoCw3.png" group-title="Canais | Religioso",Rede Brasil
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37013
-#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="Rede Vida HD" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Religioso",Rede Vida HD
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37011
-#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV!
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37012
-#EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV! HD
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36946
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37048
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36945
+
 #EXTINF:-1 tvg-id="SBT Interior SP" tvg-name="SBT SP Interior" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT SP Interior
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/42912
 #EXTINF:-1 tvg-id="" tvg-name="[SHOW] Show da Viola" tvg-logo="https://i.imgur.com/kblGYAL.png" group-title="Shows",[SHOW] Show da Viola
@@ -547,10 +564,7 @@ http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/36933
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37033
 #EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="https://i.imgur.com/qxeEe8p.png" group-title="Canais | Variedades",TruTV
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37032
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso",TV Aparecida
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/37003
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida HD" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso",TV Aparecida HD
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/41341
+
 #EXTINF:-1 tvg-id="" tvg-name="TV Câmara" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21e5d497fe0f1fc302afd7f02082730.jpg" group-title="Canais | Variedades",TV Câmara
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/40189
 #EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://i.imgur.com/oSZZKxP.png" group-title="Canais | Abertos",TV Escola
@@ -4181,8 +4195,7 @@ http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/57814
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/61970
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT SP SD
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/61958
-#EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | Abertos",Cultura HD
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/61961
+
 #EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RecordTV Belém HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Belém HD
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/57811
 #EXTINF:-1 tvg-id="RecordTV Rio Preto" tvg-name="RecordTV Rio Preto HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV Rio Preto HD
@@ -5087,8 +5100,6 @@ http://tv.factoryiptv.com:80/movie/aa329dfkjb0L/n0t9zIm9LYT/63524.mkv
 http://tv.factoryiptv.com:80/movie/aa329dfkjb0L/n0t9zIm9LYT/63525.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O Guarda Costas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbUiIu4357JQ4FBCtRJovHNv1gi.jpg" group-title="Filmes | Drama/Suspense/Romance",O Guarda Costas
 http://tv.factoryiptv.com:80/movie/aa329dfkjb0L/n0t9zIm9LYT/63526.mp4
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Religioso",Canção Nova
-http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/63630
 #EXTINF:-1 tvg-id="True TV HD" tvg-name="True TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Canais | Filmes e Series",True TV HD
 http://tv.factoryiptv.com:80/aa329dfkjb0L/n0t9zIm9LYT/63649
 #EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais | Filmes e Series",TCM HD
