@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canais | Abertos",Band SP SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37127
+#EXTINF:-1 group-title="Canais | Abertos",Band SP HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41530
+#EXTINF:-1 group-title="Canais | Abertos",Canção Nova HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37023
+#EXTINF:-1 group-title="Canais | Abertos",TV Cultura SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40073
+#EXTINF:-1 group-title="Canais | Abertos",TV Cultura HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/61961
+#EXTINF:-1 group-title="Canais | Abertos",Futura HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40074
+#EXTINF:-1 group-title="Canais | Abertos",TV Gazeta HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40120
+#EXTINF:-1 group-title="Canais | Abertos",Globo EPTV Ribeirao Preto SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40514
+#EXTINF:-1 group-title="Canais | Abertos",Globo EPTV Ribeirao Preto HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/38640
+#EXTINF:-1 group-title="Canais | Abertos",Globo SP SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37090
+#EXTINF:-1 group-title="Canais | Abertos",Globo SP HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37361
+#EXTINF:-1 group-title="Canais | Abertos",RecordTV SP SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37051
+#EXTINF:-1 group-title="Canais | Abertos",RecordTV SP HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36947
+#EXTINF:-1 group-title="Canais | Abertos",Rede Brasil HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37013
+#EXTINF:-1 group-title="Canais | Abertos",Rede Vida HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37011
+#EXTINF:-1 group-title="Canais | Abertos",RedeTV! SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37012
+#EXTINF:-1 group-title="Canais | Abertos",RedeTV! HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36946
+#EXTINF:-1 group-title="Canais | Abertos",SBT SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37048
+#EXTINF:-1 group-title="Canais | Abertos",SBT HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36945
+#EXTINF:-1 group-title="Canais | Abertos",TV Aparecida SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37003
+#EXTINF:-1 group-title="Canais | Abertos",TV Aparecida HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41341
+#EXTINF:-1 group-title="Canais | Abertos",TV Pai Eterno HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/64548
+
+
 #EXTINF:-1 group-title="Canais | Filmes e Series",A&E
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37130
 #EXTINF:-1 group-title="Canais | Filmes e Series",A&E HD
@@ -7,8 +53,6 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36929
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41087
 #EXTINF:-1 group-title="Canais | Filmes e Series",AMC HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36928
-
-
 #EXTINF:-1 group-title="Canais | Documentarios",Animal Planet
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37128
 #EXTINF:-1 group-title="Canais | Documentarios",Animal Planet HD
@@ -21,14 +65,8 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37132
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36991
 #EXTINF:-1 tgroup-title="Canais | Infantil",BabyTV
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36993
-#EXTINF:-1 group-title="Canais | Abertos",Band
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37127
-#EXTINF:-1 group-title="Canais | Abertos",Band HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36990
 #EXTINF:-1 group-title="Canais | Noticias",BandNews
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37126
-#EXTINF:-1 group-title="Canais | Abertos",Band SP HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41530
 #EXTINF:-1 group-title="Canais | Noticias",BandNews HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42411
 #EXTINF:-1 group-title="Canais | Esportes",BandSports
@@ -41,10 +79,6 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37131
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36988
 #EXTINF:-1 group-title="Canais | Infantil",Boomerang
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37123
-#EXTINF:-1 group-title="Canais | Abertos",Canal Brasil
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37122
-#EXTINF:-1 group-title="Canais | Abertos",Canção Nova HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37023
 #EXTINF:-1 group-title="Canais | Infantil",Cartoon Network
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37121
 #EXTINF:-1 group-title="Canais | Infantil",Cartoon Network HD
@@ -61,8 +95,6 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36986
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37118
 #EXTINF:-1 group-title="Canais | Variedades",Comedy Central HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36925
-#EXTINF:-1 group-title="Canais | Abertos",Cultura
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40073
 #EXTINF:-1 group-title="Canais | Variedades",Curta!
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37117
 #EXTINF:-1 group-title="Canais | Documentarios",Discovery Channel
@@ -101,10 +133,6 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37109
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37108
 #EXTINF:-1 group-title="Canais | Variedades",E! HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36920
-#EXTINF:-1 group-title="Canais | Abertos",EPTV Ribeirão
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40514
-#EXTINF:-1 group-title="Canais | Abertos",EPTV Ribeirão HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/38640
 #EXTINF:-1 group-title="Canais | Esportes",ESPN
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37105
 #EXTINF:-1 group-title="Canais | Esportes",ESPN 2 HD
@@ -153,23 +181,15 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37098
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36971
 #EXTINF:-1 group-title="Canais | Esportes",FoxSports HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36970
-#EXTINF:-1 group-title="Canais | Abertos",Futura
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40074
 #EXTINF:-1 group-title="Canais | Filmes e Series",FX
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37097
 #EXTINF:-1 group-title="Canais | Filmes e Series",FX HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36969
-#EXTINF:-1 group-title="Canais | Abertos",Gazeta HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40120
-#EXTINF:-1 group-title="Canais | Abertos",Globo SP
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37090
-#EXTINF:-1 group-title="Canais | Abertos",Globo SP HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37361
 #EXTINF:-1 group-title="Canais | Noticias",GloboNews
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37093
 #EXTINF:-1 group-title="Canais | Noticias",GloboNews HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36917
-#EXTINF:-1 group-title="Canais | Abertos",Mais GloboSat HD
+#EXTINF:-1 group-title="Canais | Variedades",Mais GloboSat HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36916
 #EXTINF:-1 group-title="Canais | Infantil",Gloob
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37089
@@ -309,26 +329,10 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37016
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36948
 #EXTINF:-1 group-title="Canais | Filmes e Series",Prime Box Brazil
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37053
-#EXTINF:-1 group-title="Canais | Abertos",RecordTV HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36947
 #EXTINF:-1 group-title="Canais | Noticias",Record News
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41529
 #EXTINF:-1 group-title="Canais | Noticias",Record News HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37050
-#EXTINF:-1 group-title="Canais | Abertos",RecordTV
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37051
-#EXTINF:-1 group-title="Canais | Abertos",Rede Brasil
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37013
-#EXTINF:-1 group-title="Canais | Abertos",Rede Vida HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37011
-#EXTINF:-1 group-title="Canais | Abertos",RedeTV!
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37012
-#EXTINF:-1 group-title="Canais | Abertos",RedeTV! HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36946
-#EXTINF:-1 group-title="Canais | Abertos",SBT
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37048
-#EXTINF:-1 group-title="Canais | Abertos",SBT HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36945
 #EXTINF:-1 group-title="Canais | Filmes e Series",Sony Channel
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37007
 #EXTINF:-1 group-title="Canais | Filmes e Series",Sony Channel HD
@@ -403,10 +407,6 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36933
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37033
 #EXTINF:-1 group-title="Canais | Variedades",TruTV
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37032
-#EXTINF:-1 group-title="Canais | Abertos",TV Aparecida
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37003
-#EXTINF:-1 group-title="Canais | Abertos",TV Aparecida HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41341
 #EXTINF:-1 group-title="Canais | Infantil",TV Ra Tim Bum
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37015
 #EXTINF:-1group-title="Canais | Filmes e Series",Universal TV
@@ -441,14 +441,10 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/57387
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/57388
 #EXTINF:-1 group-title="Canais | Esportes",Esporte Interativo HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/61879
-#EXTINF:-1 group-title="Canais | Abertos",Cultura HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/61961
 #EXTINF:-1 group-title="Canais | Esportes",ESPN 2
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/62745
 #EXTINF:-1 group-title="Canais | Documentarios",Discovery Civilization
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/50539
-#EXTINF:-1 group-title="Canais | Abertos",TV GAZETA SP HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/60201
 #EXTINF:-1 group-title="Canais | Variedades",PlayTV
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63410
 #EXTINF:-1 group-title="Canais | Variedades",PlayTV HD
@@ -457,43 +453,39 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63411
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63649
 #EXTINF:-1 group-title="Canais | Filmes e Series",TCM HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63644
-#EXTINF:-1 tvg-id="ESPN Plus" tvg-name="ESPN Plus" tvg-logo="https://i.imgur.com/RuxbPjb.png" group-title="Canais | Esportes",ESPN Plus
+#EXTINF:-1 group-title="Canais | Esportes",ESPN Plus
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63626
-#EXTINF:-1 tvg-id="ESPN Plus SD" tvg-name="ESPN Plus SD" tvg-logo="https://i.imgur.com/RuxbPjb.png" group-title="Canais | Esportes",ESPN Plus SD
+#EXTINF:-1 group-title="Canais | Esportes",ESPN Plus SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63628
-#EXTINF:-1 tvg-id="Music Box Brazil HD" tvg-name="Music Box Brazil HD" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil HD
+#EXTINF:-1 group-title="Canais | Variedades",Music Box Brazil HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63651
-#EXTINF:-1 tvg-id="Curta! HD" tvg-name="Curta! HD" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Variedades",Curta! HD
+#EXTINF:-1 group-title="Canais | Variedades",Curta! HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63646
-#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1 HD
+#EXTINF:-1 group-title="Canais | Variedades",Arte 1 HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63637
-#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Abertos",Canal Brasil HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63636
-#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais GloboSat" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Mais GloboSat
+#EXTINF:-1 group-title="Canais | Variedades",Mais GloboSat
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63629
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang HD
+#EXTINF:-1 group-title="Canais | Infantil",Boomerang HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63627
-#EXTINF:-1 tvg-id="BabyTV HD" tvg-name="BabyTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV HD
+#EXTINF:-1 group-title="Canais | Infantil",BabyTV HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63634
-#EXTINF:-1 tvg-id="Tooncast HD" tvg-name="Tooncast HD" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil",Tooncast HD
+#EXTINF:-1 group-title="Canais | Infantil",Tooncast HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63647
-#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho
+#EXTINF:-1 group-title="Canais | Infantil",Gloobinho
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63720
-#EXTINF:-1 tvg-id="TV Ra Tim Bum HD" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",TV Ra Tim Bum HD
+#EXTINF:-1 group-title="Canais | Infantil",TV Ra Tim Bum HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63786
-#EXTINF:-1 tvg-id="Fox News HD" tvg-name="Fox News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Canais | Noticias",Fox News HD
+#EXTINF:-1 group-title="Canais | Noticias",Fox News HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63652
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery World
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/64498
-#EXTINF:-1 group-title="Canais | Abertos",TV Pai Eterno HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/64548
-#EXTINF:-1 tvg-id="Premiere 8 HD" tvg-name="Premiere 8 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 8 HD
+#EXTINF:-1group-title="Canais | Esportes",Premiere 8 HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/64657
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL
+#EXTINF:-1 group-title="Canais | Noticias",CNN BRASIL
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65040
-#EXTINF:-1 tvg-id="CNN BRASIL HD" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL HD
+#EXTINF:-1 group-title="Canais | Noticias",CNN BRASIL HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65039
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65114
-#EXTINF:-1 tvg-id="Premiere Internacional" tvg-name="Premiere Internacional" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Internacional
+#EXTINF:-1 group-title="Canais | Esportes",Premiere Internacional
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65280
