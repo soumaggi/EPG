@@ -11,7 +11,7 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40073
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/61961
 #EXTINF:-1 group-title="Canais | Abertos",Futura HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40074
-#EXTINF:-1 group-title="Canais | Abertos",TV Gazeta HD
+#EXTINF:-1 group-title="Canais | Abertos",TV Gazeta SP HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40120
 #EXTINF:-1 group-title="Canais | Abertos",Globo EPTV Ribeirao Preto SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40514
@@ -25,8 +25,6 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37361
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37051
 #EXTINF:-1 group-title="Canais | Abertos",RecordTV SP HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36947
-#EXTINF:-1 group-title="Canais | Abertos",Rede Brasil HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37013
 #EXTINF:-1 group-title="Canais | Abertos",Rede Vida HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37011
 #EXTINF:-1 group-title="Canais | Abertos",RedeTV! SD
@@ -71,9 +69,9 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36920
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37102
 #EXTINF:-1 group-title="Canais | Variedades",Food Network HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36919
-#EXTINF:-1 group-title="Canais | Variedades",FoxLife SD
+#EXTINF:-1 group-title="Canais | Variedades",Fox Life SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37100
-#EXTINF:-1 group-title="Canais | Variedades",FoxLife HD
+#EXTINF:-1 group-title="Canais | Variedades",Fox Life HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36918
 #EXTINF:-1 group-title="Canais | Variedades",GNT SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37088
@@ -99,18 +97,20 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40518
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37070
 #EXTINF:-1 group-title="Canais | Variedades",Multishow HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36957
-#EXTINF:-1 group-title="Canais | Variedades",Music Box Brazil SD
+#EXTINF:-1 group-title="Canais | Variedades",Music Box Brasil SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37069
-#EXTINF:-1 group-title="Canais | Variedades",Music Box Brazil HD
+#EXTINF:-1 group-title="Canais | Variedades",Music Box Brasil HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63651
 #EXTINF:-1 group-title="Canais | Variedades",Off SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37063
 #EXTINF:-1 group-title="Canais | Variedades",Off HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36954
-#EXTINF:-1 group-title="Canais | Variedades",PlayTV SD
+#EXTINF:-1 group-title="Canais | Variedades",Play TV SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63410
-#EXTINF:-1 group-title="Canais | Variedades",PlayTV HD
+#EXTINF:-1 group-title="Canais | Variedades",Play TV HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63411
+#EXTINF:-1 group-title="Canais | Variedades",Prime Box Brasil SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37053
 #EXTINF:-1 group-title="Canais | Variedades",Smithsonian Channel SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/57388
 #EXTINF:-1 group-title="Canais | Variedades",Smithsonian Channel HD
@@ -155,7 +155,7 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37101
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36972
 #EXTINF:-1 group-title="Canais | Filmes e Series",Fox Premium 1 SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37335
-#EXTINF:-1 group-title="Canais | Filmes e Series",Fox Premium 1  HD
+#EXTINF:-1 group-title="Canais | Filmes e Series",Fox Premium 1 HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36974
 #EXTINF:-1 group-title="Canais | Filmes e Series",Fox Premium 2 SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37336
@@ -257,9 +257,9 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36935
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37035
 #EXTINF:-1 group-title="Canais | Filmes e Series",TNT HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36934
-#EXTINF:-1 group-title="Canais | Filmes e Series",TNT Séries SD
+#EXTINF:-1 group-title="Canais | Filmes e Series",TNT Series SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37034
-#EXTINF:-1 group-title="Canais | Filmes e Series",TNT Séries HD
+#EXTINF:-1 group-title="Canais | Filmes e Series",TNT Series HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36933
 #EXTINF:-1group-title="Canais | Filmes e Series",Universal TV SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37027
@@ -269,14 +269,58 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36932
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36996
 #EXTINF:-1 group-title="Canais | Filmes e Series",Warner Channel HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36930
-
-
-
-
-#EXTINF:-1 group-title="Canais | Documentarios",Animal Planet
+#EXTINF:-1 group-title="Canais | Documentarios",Animal Planet SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37128
 #EXTINF:-1 group-title="Canais | Documentarios",Animal Planet HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36992
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Channel SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37116
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Channel HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36985
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Civilization HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/50539
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery H&H SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36984
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery H&H HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37115
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Science SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/51002
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Science HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36922
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Theater HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36983
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Turbo SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37112
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Turbo HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36982
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery World SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/64498
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery World HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36981
+#EXTINF:-1 group-title="Canais | Documentarios",Film&Arts SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41374
+#EXTINF:-1 group-title="Canais | Documentarios",History SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37081
+#EXTINF:-1 group-title="Canais | Documentarios",History HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36960
+#EXTINF:-1 group-title="Canais | Documentarios",History 2 SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42915
+#EXTINF:-1 group-title="Canais | Documentarios",History 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36961
+#EXTINF:-1 group-title="Canais | Documentarios",ID: Investigação Discovery SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37114
+#EXTINF:-1 group-title="Canais | Documentarios",ID: Investigação Discovery HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36959
+#EXTINF:-1 group-title="Canais | Documentarios",National Geographic SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37068
+#EXTINF:-1 group-title="Canais | Documentarios",National Geographic HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36956
+#EXTINF:-1 group-title="Canais | Documentarios",National Geographic Wild SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37066
+#EXTINF:-1 group-title="Canais | Documentarios",National Geographic Wild HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36955
+
+
 #EXTINF:-1 tgroup-title="Canais | Infantil",BabyTV
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36993
 #EXTINF:-1 group-title="Canais | Noticias",BandNews
@@ -297,28 +341,10 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36927
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37119
 #EXTINF:-1 group-title="Canais | Esportes",Combate HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36986
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery Channel
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37116
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery Channel HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36985
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery Home & Health
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36984
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery Home & Health HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37115
 #EXTINF:-1 group-title="Canais | Infantil",Discovery Kids
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37113
 #EXTINF:-1 group-title="Canais | Infantil",Discovery Kids HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36923
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery Science HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36922
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery Theater HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36983
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery Turbo
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37112
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery Turbo HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36982
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery World HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36981
 #EXTINF:-1 group-title="Canais | Infantil",Disney Channel
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37111
 #EXTINF:-1 group-title="Canais | Infantil",Disney Channel HD
@@ -343,8 +369,6 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41977
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42910
 #EXTINF:-1 group-title="Canais | Esportes",ESPN HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36977
-#EXTINF:-1 group-title="Canais | Documentarios",Film&Arts
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41374
 #EXTINF:-1 group-title="Canais | Esportes",Fish TV
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37103
 #EXTINF:-1 group-title="Canais | Esportes",Fish TV HD
@@ -367,30 +391,10 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37089
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36915
 #EXTINF:-1 group-title="Canais | Infantil",Gloobinho HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/38969
-#EXTINF:-1 group-title="Canais | Documentarios",History
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37081
-#EXTINF:-1 group-title="Canais | Documentarios",History 2
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42915
-#EXTINF:-1 group-title="Canais | Documentarios",History 2 HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36961
-#EXTINF:-1 group-title="Canais | Documentarios",History HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36960
-#EXTINF:-1 group-title="Canais | Documentarios",ID: Investigação Discovery
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37114
-#EXTINF:-1 group-title="Canais | Documentarios",ID: Investigação Discovery HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36959
 #EXTINF:-1 group-title="Canais | Infantil",NatGeo Kids
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37067
 #EXTINF:-1 group-title="Canais | Infantil",NatGeo Kids HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36909
-#EXTINF:-1 group-title="Canais | Documentarios",National Geographic Wild
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37066
-#EXTINF:-1 group-title="Canais | Documentarios",National Geographic Wild HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36955
-#EXTINF:-1 group-title="Canais | Documentarios",National Geographic
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37068
-#EXTINF:-1 group-title="Canais | Documentarios",National Geographic HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36956
 #EXTINF:-1 group-title="Canais | Infantil",Nick
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37064
 #EXTINF:-1 group-title="Canais | Infantil",Nick HD
@@ -429,8 +433,6 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36905
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37016
 #EXTINF:-1 group-title="Canais | Esportes",Premiere Clubes HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36948
-#EXTINF:-1 group-title="Canais | Variedades",Prime Box Brazil
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37053
 #EXTINF:-1 group-title="Canais | Noticias",Record News
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41529
 #EXTINF:-1 group-title="Canais | Noticias",Record News HD
@@ -455,16 +457,12 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37015
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/50613
 #EXTINF:-1 group-title="Canais | Esportes",BandSports HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/50612
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery Science
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/51002
 #EXTINF:-1 group-title="Canais | Esportes",Premiere 8
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/54120
 #EXTINF:-1 group-title="Canais | Esportes",Esporte Interativo HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/61879
 #EXTINF:-1 group-title="Canais | Esportes",ESPN 2
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/62745
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery Civilization
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/50539
 #EXTINF:-1 group-title="Canais | Esportes",ESPN Plus
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63626
 #EXTINF:-1 group-title="Canais | Esportes",ESPN Plus SD
@@ -481,8 +479,6 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63720
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63786
 #EXTINF:-1 group-title="Canais | Noticias",Fox News HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63652
-#EXTINF:-1 group-title="Canais | Documentarios",Discovery World
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/64498
 #EXTINF:-1group-title="Canais | Esportes",Premiere 8 HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/64657
 #EXTINF:-1 group-title="Canais | Noticias",CNN BRASIL
