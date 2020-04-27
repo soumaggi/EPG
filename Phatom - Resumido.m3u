@@ -409,7 +409,7 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36977
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/62745
 #EXTINF:-1 group-title="Canais | Esportes",ESPN 2 HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36976
-#EXTINF:-1 group-title="Canais | Esportes",ESPN Plus
+#EXTINF:-1 group-title="Canais | Esportes",ESPN Plus SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63626
 #EXTINF:-1 group-title="Canais | Esportes",ESPN Plus SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63628
@@ -481,3 +481,13 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36943
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37006
 #EXTINF:-1 group-title="Canais | Esportes",SporTV 3 HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36942
+#EXTINF:-1 group-title="Canais | Adultos",Playboy SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/51258
+#EXTINF:-1 group-title="Canais | Adultos",Playboy HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/62901
+#EXTINF:-1 group-title="Canais | Adultos",Venus SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/62828
+#EXTINF:-1 group-title="Canais | Adultos",Sextreme SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/62835
+#EXTINF:-1 group-title="Canais | Adultos",SexyHot SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/62837
