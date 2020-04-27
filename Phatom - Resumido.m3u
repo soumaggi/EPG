@@ -335,9 +335,9 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36927
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37113
 #EXTINF:-1 group-title="Canais | Infantil",Discovery Kids HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36923
-#EXTINF:-1 group-title="Canais | Infantil",Disney Channel SD
+#EXTINF:-1 group-title="Canais | Infantil",Disney SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37111
-#EXTINF:-1 group-title="Canais | Infantil",Disney Channel HD
+#EXTINF:-1 group-title="Canais | Infantil",Disney HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36921
 #EXTINF:-1 group-title="Canais | Infantil",Disney Junior SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37110
@@ -361,9 +361,9 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36909
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37064
 #EXTINF:-1 group-title="Canais | Infantil",Nick HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36907
-#EXTINF:-1 group-title="Canais | Infantil",Nick Jr. SD
+#EXTINF:-1 group-title="Canais | Infantil",Nick Jr SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37065
-#EXTINF:-1 group-title="Canais | Infantil",Nick Jr. HD
+#EXTINF:-1 group-title="Canais | Infantil",Nick Jr HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36908
 #EXTINF:-1 group-title="Canais | Infantil",PlayKids HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41359
@@ -371,121 +371,113 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41359
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37033
 #EXTINF:-1 group-title="Canais | Infantil",Tooncast HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63647
-#EXTINF:-1 group-title="Canais | Infantil",TV Ra Tim Bum SD
+#EXTINF:-1 group-title="Canais | Infantil",TV Ra-Tim-Bum SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37015
-#EXTINF:-1 group-title="Canais | Infantil",TV Ra Tim Bum HD
+#EXTINF:-1 group-title="Canais | Infantil",TV Ra-Tim-Bum HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63786
-
-
-
-
-#EXTINF:-1 group-title="Canais | Noticias",BandNews
+#EXTINF:-1 group-title="Canais | Noticias",BandNews SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37126
 #EXTINF:-1 group-title="Canais | Noticias",BandNews HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42411
-#EXTINF:-1 group-title="Canais | Esportes",BandSports
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37125
-#EXTINF:-1 group-title="Canais | Esportes",BandSports HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36989
-#EXTINF:-1 group-title="Canais | Esportes",Combate
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37119
-#EXTINF:-1 group-title="Canais | Esportes",Combate HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36986
-#EXTINF:-1 group-title="Canais | Esportes",ESPN
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37105
-#EXTINF:-1 group-title="Canais | Esportes",ESPN 2 HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36976
-#EXTINF:-1 group-title="Canais | Esportes",ESPN Brasil
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37104
-#EXTINF:-1 group-title="Canais | Esportes",ESPN Brasil HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36978
-#EXTINF:-1 group-title="Canais | Esportes",ESPN Extra
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41977
-#EXTINF:-1 group-title="Canais | Esportes",ESPN Extra HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42910
-#EXTINF:-1 group-title="Canais | Esportes",ESPN HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36977
-#EXTINF:-1 group-title="Canais | Esportes",Fish TV
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37103
-#EXTINF:-1 group-title="Canais | Esportes",Fish TV HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42911
-#EXTINF:-1 group-title="Canais | Esportes",FoxSports
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37099
-#EXTINF:-1 group-title="Canais | Esportes",FoxSports 2
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37098
-#EXTINF:-1 group-title="Canais | Esportes",FoxSports 2 HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36971
-#EXTINF:-1 group-title="Canais | Esportes",FoxSports HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36970
-#EXTINF:-1 group-title="Canais | Noticias",GloboNews
+#EXTINF:-1 group-title="Canais | Noticias",CNN Brasil SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65040
+#EXTINF:-1 group-title="Canais | Noticias",CNN Brasil HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65039
+#EXTINF:-1 group-title="Canais | Noticias",Globo News SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37093
-#EXTINF:-1 group-title="Canais | Noticias",GloboNews HD
+#EXTINF:-1 group-title="Canais | Noticias",Globo News HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36917
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 2
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37060
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 2 HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36952
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 3
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37059
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 3 HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36951
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 4
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37058
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 4 HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36950
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 5
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37057
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 5 HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36949
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 6
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37056
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 6 HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36906
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 7
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37017
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 7 HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36905
-#EXTINF:-1 group-title="Canais | Esportes",Premiere Clubes
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37016
-#EXTINF:-1 group-title="Canais | Esportes",Premiere Clubes HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36948
-#EXTINF:-1 group-title="Canais | Noticias",Record News
+#EXTINF:-1 group-title="Canais | Noticias",Record News SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41529
 #EXTINF:-1 group-title="Canais | Noticias",Record News HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37050
-#EXTINF:-1 group-title="Canais | Esportes",SporTV
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37256
-#EXTINF:-1 group-title="Canais | Esportes",SporTV 2
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37044
-#EXTINF:-1 group-title="Canais | Esportes",SporTV 2 HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36943
-#EXTINF:-1 group-title="Canais | Esportes",SporTV 3
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37006
-#EXTINF:-1 group-title="Canais | Esportes",SporTV 3 HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36942
-#EXTINF:-1 group-title="Canais | Esportes",SporTV HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37255
-#EXTINF:-1 group-title="Canais | Esportes",BandSports
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/50613
+#EXTINF:-1 group-title="Canais | Noticias",Fox News HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63652
+#EXTINF:-1 group-title="Canais | Esportes",BandSports SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37125
 #EXTINF:-1 group-title="Canais | Esportes",BandSports HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/50612
-#EXTINF:-1 group-title="Canais | Esportes",Premiere 8
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/54120
-#EXTINF:-1 group-title="Canais | Esportes",Esporte Interativo HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/61879
-#EXTINF:-1 group-title="Canais | Esportes",ESPN 2
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36989
+#EXTINF:-1 group-title="Canais | Esportes",Combate SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37119
+#EXTINF:-1 group-title="Canais | Esportes",Combate HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36986
+#EXTINF:-1 group-title="Canais | Esportes",ESPN SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37105
+#EXTINF:-1 group-title="Canais | Esportes",ESPN HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36977
+#EXTINF:-1 group-title="Canais | Esportes",ESPN 2 SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/62745
+#EXTINF:-1 group-title="Canais | Esportes",ESPN 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36976
 #EXTINF:-1 group-title="Canais | Esportes",ESPN Plus
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63626
 #EXTINF:-1 group-title="Canais | Esportes",ESPN Plus SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63628
-#EXTINF:-1 group-title="Canais | Noticias",Fox News HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63652
-#EXTINF:-1group-title="Canais | Esportes",Premiere 8 HD
+#EXTINF:-1 group-title="Canais | Esportes",ESPN Brasil SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37104
+#EXTINF:-1 group-title="Canais | Esportes",ESPN Brasil HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36978
+#EXTINF:-1 group-title="Canais | Esportes",ESPN Extra SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41977
+#EXTINF:-1 group-title="Canais | Esportes",ESPN Extra HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42910
+#EXTINF:-1 group-title="Canais | Esportes",Esporte Interativo HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/61879
+#EXTINF:-1 group-title="Canais | Esportes",Fish TV SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37103
+#EXTINF:-1 group-title="Canais | Esportes",Fish TV HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42911
+#EXTINF:-1 group-title="Canais | Esportes",Fox Sports SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37099
+#EXTINF:-1 group-title="Canais | Esportes",Fox Sports HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36970
+#EXTINF:-1 group-title="Canais | Esportes",Fox Sports 2 SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37098
+#EXTINF:-1 group-title="Canais | Esportes",Fox Sports 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36971
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 2 SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37060
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36952
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 3 SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37059
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 3 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36951
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 4 SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37058
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 4 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36950
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 5 SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37057
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 5 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36949
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 6 SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37056
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 6 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36906
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 7 SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37017
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 7 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36905
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 8 SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/54120
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 8 HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/64657
-#EXTINF:-1 group-title="Canais | Noticias",CNN BRASIL
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65040
-#EXTINF:-1 group-title="Canais | Noticias",CNN BRASIL HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65039
-#EXTINF:-1 group-title="Canais | Esportes",Premiere Internacional
+#EXTINF:-1 group-title="Canais | Esportes",Premiere Internacional SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65280
+#EXTINF:-1 group-title="Canais | Esportes",Premiere Clubes SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37016
+#EXTINF:-1 group-title="Canais | Esportes",Premiere Clubes HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36948
+#EXTINF:-1 group-title="Canais | Esportes",SporTV SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37256
+#EXTINF:-1 group-title="Canais | Esportes",SporTV HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37255
+#EXTINF:-1 group-title="Canais | Esportes",SporTV 2 SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37044
+#EXTINF:-1 group-title="Canais | Esportes",SporTV 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36943
+#EXTINF:-1 group-title="Canais | Esportes",SporTV 3 SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37006
+#EXTINF:-1 group-title="Canais | Esportes",SporTV 3 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36942
