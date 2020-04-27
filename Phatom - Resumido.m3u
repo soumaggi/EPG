@@ -1,579 +1,499 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://z4.vc/X0u" group-title="Canais | Abertos",Band SP HD
-http://ppns.io:80/95377148/6153/18727
-#EXTINF:-1 tvg-logo="http://z4.vc/xaf" group-title="Canais | Abertos",Band SP SD
-http://ppns.io:80/95377148/6153/18728
-#EXTINF:-1 tvg-logo="http://z4.vc/0Tm" group-title="Canais | Abertos",Cancao Nova SD
-http://ppns.io:80/95377148/6153/18713
-#EXTINF:-1 tvg-logo="http://z4.vc/a9U" group-title="Canais | Abertos",Futura HD
-http://ppns.io:80/95377148/6153/18655
-#EXTINF:-1 tvg-logo="http://z4.vc/XaX" group-title="Canais | Abertos",Futura SD
-http://ppns.io:80/95377148/6153/18656
-#EXTINF:-1 tvg-logo="http://z4.vc/pqb" group-title="Canais | Abertos",Globo EPTV Ribeirao Preto HD
-http://ppns.io:80/95377148/6153/18430
-#EXTINF:-1 tvg-logo="http://z4.vc/5Uj" group-title="Canais | Abertos",Globo EPTV Ribeirao Preto SD
-http://ppns.io:80/95377148/6153/18429
-#EXTINF:-1 tvg-logo="http://z4.vc/Vlx" group-title="Canais | Abertos",Globo SP HD
-http://ppns.io:80/95377148/6153/18410
-#EXTINF:-1 tvg-logo="http://z4.vc/tlB" group-title="Canais | Abertos",Globo SP SD
-http://ppns.io:80/95377148/6153/18411
-#EXTINF:-1 tvg-logo="http://z4.vc/MsE" group-title="Canais | Abertos",RecordTV SP HD
-http://ppns.io:80/95377148/6153/18575
-#EXTINF:-1 tvg-logo="http://z4.vc/BKM" group-title="Canais | Abertos",RecordTV SP SD
-http://ppns.io:80/95377148/6153/18579
-#EXTINF:-1 tvg-logo="http://z4.vc/rJP" group-title="Canais | Abertos",Rede Vida HD
-http://ppns.io:80/95377148/6153/18504
-#EXTINF:-1 tvg-logo="http://z4.vc/DPy" group-title="Canais | Abertos",Rede Vida SD
-http://ppns.io:80/95377148/6153/18571
-#EXTINF:-1 tvg-logo="http://z4.vc/heG" group-title="Canais | Abertos",RedeTV! HD
-http://ppns.io:80/95377148/6153/18572
-#EXTINF:-1 tvg-logo="http://z4.vc/lHy" group-title="Canais | Abertos",RedeTV! SD
-http://ppns.io:80/95377148/6153/18573
-#EXTINF:-1 tvg-logo="http://z4.vc/G2I" group-title="Canais | Abertos",SBT HD
-http://ppns.io:80/95377148/6153/18569
-#EXTINF:-1 tvg-logo="http://z4.vc/MSJ" group-title="Canais | Abertos",SBT SD
-http://ppns.io:80/95377148/6153/18570
-#EXTINF:-1 tvg-logo="http://z4.vc/Bti" group-title="Canais | Abertos",TV Aparecida FHD
-http://ppns.io:80/95377148/6153/25199
-#EXTINF:-1 tvg-logo="http://z4.vc/0Eb" group-title="Canais | Abertos",TV Aparecida SD
-http://ppns.io:80/95377148/6153/18530
-#EXTINF:-1 tvg-logo="http://z4.vc/BEU" group-title="Canais | Abertos",TV Cultura HD
-http://ppns.io:80/95377148/6153/18505
-#EXTINF:-1 tvg-logo="http://z4.vc/7FM" group-title="Canais | Abertos",TV Cultura SD
-http://ppns.io:80/95377148/6153/18506
-#EXTINF:-1 tvg-logo="http://z4.vc/ARG" group-title="Canais | Abertos",TV Gazeta SP HD
-http://ppns.io:80/95377148/6153/18526
-#EXTINF:-1 tvg-logo="http://z4.vc/SDH" group-title="Canais | Variedades",A&E HD
-http://ppns.io:80/95377148/6153/18738
-#EXTINF:-1 tvg-logo="http://z4.vc/o9i" group-title="Canais | Variedades",A&E SD
-http://ppns.io:80/95377148/6153/18739
-#EXTINF:-1 tvg-logo="http://z4.vc/PAl" group-title="Canais | Variedades",Bis HD
-http://ppns.io:80/95377148/6153/18721
-#EXTINF:-1 tvg-logo="http://z4.vc/ybv" group-title="Canais | Variedades",Bis SD
-http://ppns.io:80/95377148/6153/18722
-#EXTINF:-1 tvg-logo="http://z4.vc/qUw" group-title="Canais | Variedades",Comedy Central HD
-http://ppns.io:80/95377148/6153/18705
-#EXTINF:-1 tvg-logo="http://z4.vc/RrZ" group-title="Canais | Variedades",Comedy Central SD
-http://ppns.io:80/95377148/6153/18706
-#EXTINF:-1 tvg-logo="http://z4.vc/GnA" group-title="Canais | Variedades",Curta! HD
-http://ppns.io:80/95377148/6153/18703
-#EXTINF:-1 tvg-logo="http://z4.vc/fVn" group-title="Canais | Variedades",Curta! SD
-http://ppns.io:80/95377148/6153/18704
-#EXTINF:-1 tvg-logo="http://z4.vc/nXL" group-title="Canais | Variedades",Discovery H&H HD
-http://ppns.io:80/95377148/6153/18697
-#EXTINF:-1 tvg-logo="http://z4.vc/91r" group-title="Canais | Variedades",Discovery H&H SD
-http://ppns.io:80/95377148/6153/18698
-#EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais | Variedades",Discovery Turbo HD
-http://ppns.io:80/95377148/6153/18689
-#EXTINF:-1 tvg-logo="http://z4.vc/Vy0" group-title="Canais | Variedades",Discovery Turbo SD
-http://ppns.io:80/95377148/6153/18690
-#EXTINF:-1 tvg-logo="http://z4.vc/6nk" group-title="Canais | Variedades",Dog TV HD
-http://ppns.io:80/95377148/6153/28000
-#EXTINF:-1 tvg-logo="http://z4.vc/PCy" group-title="Canais | Variedades",E! HD
-http://ppns.io:80/95377148/6153/18681
-#EXTINF:-1 tvg-logo="http://z4.vc/Z05" group-title="Canais | Variedades",E! SD
-http://ppns.io:80/95377148/6153/18682
-#EXTINF:-1 tvg-logo="http://z4.vc/T5S" group-title="Canais | Variedades",Film & Arts SD
-http://ppns.io:80/95377148/6153/18497
-#EXTINF:-1 tvg-logo="http://z4.vc/VxE" group-title="Canais | Variedades",Fish TV HD
-http://ppns.io:80/95377148/6153/18671
-#EXTINF:-1 tvg-logo="http://z4.vc/Rxi" group-title="Canais | Variedades",Fish TV SD
-http://ppns.io:80/95377148/6153/18672
-#EXTINF:-1 tvg-logo="http://z4.vc/fYt" group-title="Canais | Variedades",Food Network HD
-http://ppns.io:80/95377148/6153/18669
-#EXTINF:-1 tvg-logo="http://z4.vc/2cT" group-title="Canais | Variedades",Food Network SD
-http://ppns.io:80/95377148/6153/18670
-#EXTINF:-1 tvg-logo="http://z4.vc/9pz" group-title="Canais | Variedades",Fox Life HD
-http://ppns.io:80/95377148/6153/18665
-#EXTINF:-1 tvg-logo="http://z4.vc/E0q" group-title="Canais | Variedades",Fox Life SD
-http://ppns.io:80/95377148/6153/18666
-#EXTINF:-1 tvg-logo="http://z4.vc/KG5" group-title="Canais | Variedades",GloboSat SD
-http://ppns.io:80/95377148/6153/22311
-#EXTINF:-1 tvg-logo="http://z4.vc/6ya" group-title="Canais | Variedades",GNT HD
-http://ppns.io:80/95377148/6153/18645
-#EXTINF:-1 tvg-logo="http://z4.vc/Dat" group-title="Canais | Variedades",GNT SD
-http://ppns.io:80/95377148/6153/18646
-#EXTINF:-1 tvg-logo="http://z4.vc/q6F" group-title="Canais | Variedades",ID: Investigacao Discovery HD
-http://ppns.io:80/95377148/6153/18629
-#EXTINF:-1 tvg-logo="http://z4.vc/dAy" group-title="Canais | Variedades",ID: Investigacao Discovery SD
-http://ppns.io:80/95377148/6153/18630
-#EXTINF:-1 tvg-logo="http://z4.vc/a4s" group-title="Canais | Variedades",Lifetime HD
-http://ppns.io:80/95377148/6153/18627
-#EXTINF:-1 tvg-logo="http://z4.vc/Eyw" group-title="Canais | Variedades",Lifetime SD
-http://ppns.io:80/95377148/6153/18628
-#EXTINF:-1 tvg-logo="http://z4.vc/0yY" group-title="Canais | Variedades",Mais GloboSat HD
-http://ppns.io:80/95377148/6153/18625
-#EXTINF:-1 tvg-logo="http://z4.vc/QSP" group-title="Canais | Variedades",Mais GloboSat SD
-http://ppns.io:80/95377148/6153/18626
-#EXTINF:-1 tvg-logo="http://z4.vc/sTl" group-title="Canais | Variedades",MTV HD
-http://ppns.io:80/95377148/6153/18615
-#EXTINF:-1 tvg-logo="http://z4.vc/u8U" group-title="Canais | Variedades",MTV Live HD
-http://ppns.io:80/95377148/6153/18507
-#EXTINF:-1 tvg-logo="http://z4.vc/JCl" group-title="Canais | Variedades",MTV Live SD
-http://ppns.io:80/95377148/6153/18508
-#EXTINF:-1 tvg-logo="http://z4.vc/MWq" group-title="Canais | Variedades",MTV SD
-http://ppns.io:80/95377148/6153/18616
-#EXTINF:-1 tvg-logo="http://z4.vc/Oev" group-title="Canais | Variedades",Multishow HD
-http://ppns.io:80/95377148/6153/18613
-#EXTINF:-1 tvg-logo="http://z4.vc/0j3" group-title="Canais | Variedades",Multishow SD
-http://ppns.io:80/95377148/6153/18614
-#EXTINF:-1 tvg-logo="http://z4.vc/odD" group-title="Canais | Variedades",Music Box Brasil HD
-http://ppns.io:80/95377148/6153/18611
-#EXTINF:-1 tvg-logo="http://z4.vc/SEn" group-title="Canais | Variedades",Music Box Brasil SD
-http://ppns.io:80/95377148/6153/18612
-#EXTINF:-1 tvg-logo="http://z4.vc/L2Z" group-title="Canais | Variedades",OFF HD
-http://ppns.io:80/95377148/6153/18598
-#EXTINF:-1 tvg-logo="http://z4.vc/dGv" group-title="Canais | Variedades",OFF SD
-http://ppns.io:80/95377148/6153/18599
-#EXTINF:-1 tvg-logo="http://z4.vc/jN0" group-title="Canais | Variedades",Play TV SD
-http://ppns.io:80/95377148/6153/22288
-#EXTINF:-1 tvg-logo="http://z4.vc/JY2" group-title="Canais | Variedades",Prime Box Brazil HD
-http://ppns.io:80/95377148/6153/18580
-#EXTINF:-1 tvg-logo="http://z4.vc/3WB" group-title="Canais | Variedades",Prime Box Brazil SD
-http://ppns.io:80/95377148/6153/18581
-#EXTINF:-1 tvg-logo="http://z4.vc/fUs" group-title="Canais | Variedades",TLC HD
-http://ppns.io:80/95377148/6153/18538
-#EXTINF:-1 tvg-logo="http://z4.vc/r69" group-title="Canais | Variedades",TLC SD
-http://ppns.io:80/95377148/6153/18539
-#EXTINF:-1 tvg-logo="http://z4.vc/6fr" group-title="Canais | Variedades",VH1 HD
-http://ppns.io:80/95377148/6153/18518
-#EXTINF:-1 tvg-logo="http://z4.vc/Xhe" group-title="Canais | Variedades",VH1 MegaHits SD
-http://ppns.io:80/95377148/6153/18517
-#EXTINF:-1 tvg-logo="http://z4.vc/KZh" group-title="Canais | Variedades",VH1 SD
-http://ppns.io:80/95377148/6153/22252
-#EXTINF:-1 tvg-logo="http://z4.vc/LVI" group-title="Canais | Variedades",Viva HD
-http://ppns.io:80/95377148/6153/18515
-#EXTINF:-1 tvg-logo="http://z4.vc/Pte" group-title="Canais | Variedades",Viva SD
-http://ppns.io:80/95377148/6153/18516
-#EXTINF:-1 tvg-logo="http://z4.vc/6Z3" group-title="Canais | Variedades",Woohoo HD
-http://ppns.io:80/95377148/6153/18511
-#EXTINF:-1 tvg-logo="http://z4.vc/fUJ" group-title="Canais | Variedades",Woohoo SD
-http://ppns.io:80/95377148/6153/18512
-#EXTINF:-1 tvg-logo="http://z4.vc/5Gw" group-title="Canais | Filmes e Séries",AMC HD
-http://ppns.io:80/95377148/6153/18736
-#EXTINF:-1 tvg-logo="http://z4.vc/6ZV" group-title="Canais | Filmes e Séries",AMC SD
-http://ppns.io:80/95377148/6153/18737
-#EXTINF:-1 tvg-logo="http://z4.vc/j1K" group-title="Canais | Filmes e Séries",AXN HD
-http://ppns.io:80/95377148/6153/18730
-#EXTINF:-1 tvg-logo="http://z4.vc/qfK" group-title="Canais | Filmes e Séries",AXN SD
-http://ppns.io:80/95377148/6153/18731
-#EXTINF:-1 tvg-logo="http://z4.vc/GsJ" group-title="Canais | Filmes e Séries",Canal Brasil HD
-http://ppns.io:80/95377148/6153/18716
-#EXTINF:-1 tvg-logo="http://z4.vc/kWm" group-title="Canais | Filmes e Séries",Canal Brasil SD
-http://ppns.io:80/95377148/6153/18717
-#EXTINF:-1 tvg-logo="http://z4.vc/Lo1" group-title="Canais | Filmes e Séries",Cinemax HD
-http://ppns.io:80/95377148/6153/18709
-#EXTINF:-1 tvg-logo="http://z4.vc/ZLC" group-title="Canais | Filmes e Séries",Cinemax SD
-http://ppns.io:80/95377148/6153/18710
-#EXTINF:-1 tvg-logo="http://z4.vc/DUZ" group-title="Canais | Filmes e Séries",Fox HD
-http://ppns.io:80/95377148/6153/18667
-#EXTINF:-1 tvg-logo="http://z4.vc/OcS" group-title="Canais | Filmes e Séries",Fox SD
-http://ppns.io:80/95377148/6153/18668
-#EXTINF:-1 tvg-logo="http://z4.vc/AQ5" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
-http://ppns.io:80/95377148/6153/18663
-#EXTINF:-1 tvg-logo="http://z4.vc/TCc" group-title="Canais | Filmes e Séries",Fox Premium 1 SD
-http://ppns.io:80/95377148/6153/18664
-#EXTINF:-1 tvg-logo="http://z4.vc/g8Q" group-title="Canais | Filmes e Séries",Fox Premium 2 HD
-http://ppns.io:80/95377148/6153/18661
-#EXTINF:-1 tvg-logo="http://z4.vc/cw8" group-title="Canais | Filmes e Séries",Fox Premium 2 SD
-http://ppns.io:80/95377148/6153/18662
-#EXTINF:-1 tvg-logo="http://z4.vc/OsR" group-title="Canais | Filmes e Séries",FX HD
-http://ppns.io:80/95377148/6153/18653
-#EXTINF:-1 tvg-logo="http://z4.vc/OYf" group-title="Canais | Filmes e Séries",FX SD
-http://ppns.io:80/95377148/6153/18654
-#EXTINF:-1 tvg-logo="http://z4.vc/0PM" group-title="Canais | Filmes e Séries",HBO 2 HD
-http://ppns.io:80/95377148/6153/18640
-#EXTINF:-1 tvg-logo="http://z4.vc/zwf" group-title="Canais | Filmes e Séries",HBO 2 SD
-http://ppns.io:80/95377148/6153/18641
-#EXTINF:-1 tvg-logo="http://z4.vc/JtC" group-title="Canais | Filmes e Séries",HBO Family HD
-http://ppns.io:80/95377148/6153/18638
-#EXTINF:-1 tvg-logo="http://z4.vc/vKg" group-title="Canais | Filmes e Séries",HBO Family SD
-http://ppns.io:80/95377148/6153/18639
-#EXTINF:-1 tvg-logo="http://z4.vc/z1Y" group-title="Canais | Filmes e Séries",HBO HD
-http://ppns.io:80/95377148/6153/18637
-#EXTINF:-1 tvg-logo="http://z4.vc/ncl" group-title="Canais | Filmes e Séries",HBO SD
-http://ppns.io:80/95377148/6153/18642
-#EXTINF:-1 tvg-logo="http://z4.vc/oZI" group-title="Canais | Filmes e Séries",HBO Plus HD
-http://ppns.io:80/95377148/6153/18635
-#EXTINF:-1 tvg-logo="http://z4.vc/Gg9" group-title="Canais | Filmes e Séries",HBO Plus SD
-http://ppns.io:80/95377148/6153/18636
-#EXTINF:-1 tvg-logo="http://z4.vc/ICL" group-title="Canais | Filmes e Séries",HBO Signature HD
-http://ppns.io:80/95377148/6153/18633
-#EXTINF:-1 tvg-logo="http://z4.vc/CPt" group-title="Canais | Filmes e Séries",HBO Signature SD
-http://ppns.io:80/95377148/6153/18634
-#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Mundi HD
-http://ppns.io:80/95377148/6153/18623
-#EXTINF:-1 tvg-logo="http://z4.vc/fwU" group-title="Canais | Filmes e Séries",Max Prime HD
-http://ppns.io:80/95377148/6153/18621
-#EXTINF:-1 tvg-logo="http://z4.vc/cv2" group-title="Canais | Filmes e Séries",Max Prime SD
-http://ppns.io:80/95377148/6153/18622
-#EXTINF:-1 tvg-logo="http://z4.vc/CmH" group-title="Canais | Filmes e Séries",Max SD
-http://ppns.io:80/95377148/6153/18624
-#EXTINF:-1 tvg-logo="http://z4.vc/KR2" group-title="Canais | Filmes e Séries",Megapix HD
-http://ppns.io:80/95377148/6153/18617
-#EXTINF:-1 tvg-logo="http://z4.vc/g9W" group-title="Canais | Filmes e Séries",Megapix SD
-http://ppns.io:80/95377148/6153/18618
-#EXTINF:-1 tvg-logo="http://z4.vc/QY7" group-title="Canais | Filmes e Séries",Paramount Channel HD
-http://ppns.io:80/95377148/6153/18596
-#EXTINF:-1 tvg-logo="http://z4.vc/G8C" group-title="Canais | Filmes e Séries",Paramount Channel SD
-http://ppns.io:80/95377148/6153/18597
-#EXTINF:-1 tvg-logo="http://z4.vc/hkn" group-title="Canais | Filmes e Séries",Sony HD
-http://ppns.io:80/95377148/6153/18714
-#EXTINF:-1 tvg-logo="http://z4.vc/npa" group-title="Canais | Filmes e Séries",Sony SD
-http://ppns.io:80/95377148/6153/18715
-#EXTINF:-1 tvg-logo="http://z4.vc/EPt" group-title="Canais | Filmes e Séries",Space HD
-http://ppns.io:80/95377148/6153/18564
-#EXTINF:-1 tvg-logo="http://z4.vc/zXZ" group-title="Canais | Filmes e Séries",Space SD
-http://ppns.io:80/95377148/6153/18565
-#EXTINF:-1 tvg-logo="http://z4.vc/IU1" group-title="Canais | Filmes e Séries",Studio Universal HD
-http://ppns.io:80/95377148/6153/18556
-#EXTINF:-1 tvg-logo="http://z4.vc/6ft" group-title="Canais | Filmes e Séries",Studio Universal SD
-http://ppns.io:80/95377148/6153/18557
-#EXTINF:-1 tvg-logo="http://z4.vc/yWZ" group-title="Canais | Filmes e Séries",Syfy HD
-http://ppns.io:80/95377148/6153/18566
-#EXTINF:-1 tvg-logo="http://z4.vc/yZB" group-title="Canais | Filmes e Séries",Syfy SD
-http://ppns.io:80/95377148/6153/18567
-#EXTINF:-1 tvg-logo="http://z4.vc/lL4" group-title="Canais | Filmes e Séries",TBS HD
-http://ppns.io:80/95377148/6153/18554
-#EXTINF:-1 tvg-logo="http://z4.vc/6rM" group-title="Canais | Filmes e Séries",TBS SD
-http://ppns.io:80/95377148/6153/18555
-#EXTINF:-1 tvg-logo="http://z4.vc/9cn" group-title="Canais | Filmes e Séries",TCM SD
-http://ppns.io:80/95377148/6153/18553
-#EXTINF:-1 tvg-logo="http://z4.vc/wYg" group-title="Canais | Filmes e Séries",Telecine Action HD
-http://ppns.io:80/95377148/6153/18551
-#EXTINF:-1 tvg-logo="http://z4.vc/2ne" group-title="Canais | Filmes e Séries",Telecine Action SD
-http://ppns.io:80/95377148/6153/18552
-#EXTINF:-1 tvg-logo="http://z4.vc/cuv" group-title="Canais | Filmes e Séries",Telecine Cult HD
-http://ppns.io:80/95377148/6153/18549
-#EXTINF:-1 tvg-logo="http://z4.vc/BeC" group-title="Canais | Filmes e Séries",Telecine Cult SD
-http://ppns.io:80/95377148/6153/18550
-#EXTINF:-1 tvg-logo="http://z4.vc/7vJ" group-title="Canais | Filmes e Séries",Telecine Fun HD
-http://ppns.io:80/95377148/6153/18547
-#EXTINF:-1 tvg-logo="http://z4.vc/dpl" group-title="Canais | Filmes e Séries",Telecine Fun SD
-http://ppns.io:80/95377148/6153/18548
-#EXTINF:-1 tvg-logo="http://z4.vc/8dT" group-title="Canais | Filmes e Séries",Telecine Pipoca HD
-http://ppns.io:80/95377148/6153/18545
-#EXTINF:-1 tvg-logo="http://z4.vc/qp8" group-title="Canais | Filmes e Séries",Telecine Pipoca SD
-http://ppns.io:80/95377148/6153/18546
-#EXTINF:-1 tvg-logo="http://z4.vc/RwJ" group-title="Canais | Filmes e Séries",Telecine Premium HD
-http://ppns.io:80/95377148/6153/18543
-#EXTINF:-1 tvg-logo="http://z4.vc/jgo" group-title="Canais | Filmes e Séries",Telecine Premium SD
-http://ppns.io:80/95377148/6153/18544
-#EXTINF:-1 tvg-logo="http://z4.vc/jJj" group-title="Canais | Filmes e Séries",Telecine Touch HD
-http://ppns.io:80/95377148/6153/18541
-#EXTINF:-1 tvg-logo="http://z4.vc/c1M" group-title="Canais | Filmes e Séries",Telecine Touch SD
-http://ppns.io:80/95377148/6153/18542
-#EXTINF:-1 tvg-logo="http://z4.vc/C6Y" group-title="Canais | Filmes e Séries",TNT HD
-http://ppns.io:80/95377148/6153/18536
-#EXTINF:-1 tvg-logo="http://z4.vc/VGk" group-title="Canais | Filmes e Séries",TNT SD
-http://ppns.io:80/95377148/6153/18537
-#EXTINF:-1 tvg-logo="http://z4.vc/CVR" group-title="Canais | Filmes e Séries",TNT Series HD
-http://ppns.io:80/95377148/6153/18534
-#EXTINF:-1 tvg-logo="http://z4.vc/gQ3" group-title="Canais | Filmes e Séries",TNT Series SD
-http://ppns.io:80/95377148/6153/18535
-#EXTINF:-1 tvg-logo="http://z4.vc/0j9" group-title="Canais | Filmes e Séries",Universal Channel HD
-http://ppns.io:80/95377148/6153/18520
-#EXTINF:-1 tvg-logo="http://z4.vc/wGT" group-title="Canais | Filmes e Séries",Universal Channel SD
-http://ppns.io:80/95377148/6153/18521
-#EXTINF:-1 tvg-logo="http://z4.vc/W7o" group-title="Canais | Filmes e Séries",Warner Channel HD
-http://ppns.io:80/95377148/6153/18513
-#EXTINF:-1 tvg-logo="http://z4.vc/QRs" group-title="Canais | Filmes e Séries",Warner Channel SD
-http://ppns.io:80/95377148/6153/18514
-#EXTINF:-1 tvg-logo="http://z4.vc/BZz" group-title="Canais | Documentários",Animal Planet HD
-http://ppns.io:80/95377148/6153/18734
-#EXTINF:-1 tvg-logo="http://z4.vc/fjU" group-title="Canais | Documentários",Animal Planet SD
-http://ppns.io:80/95377148/6153/18735
-#EXTINF:-1 tvg-logo="http://z4.vc/Vfq" group-title="Canais | Documentários",Arte 1 HD
-http://ppns.io:80/95377148/6153/27884
-#EXTINF:-1 tvg-logo="http://z4.vc/8td" group-title="Canais | Documentários",Arte 1 SD
-http://ppns.io:80/95377148/6153/18733
-#EXTINF:-1 tvg-logo="http://z4.vc/W6B" group-title="Canais | Documentários",Discovery Channel HD
-http://ppns.io:80/95377148/6153/18701
-#EXTINF:-1 tvg-logo="http://z4.vc/4mU" group-title="Canais | Documentários",Discovery Channel SD
-http://ppns.io:80/95377148/6153/18702
-#EXTINF:-1 tvg-logo="http://z4.vc/rQr" group-title="Canais | Documentários",Discovery Science HD
-http://ppns.io:80/95377148/6153/18693
-#EXTINF:-1 tvg-logo="http://z4.vc/fV1" group-title="Canais | Documentários",Discovery Science SD
-http://ppns.io:80/95377148/6153/18694
-#EXTINF:-1 tvg-logo="http://z4.vc/FSs" group-title="Canais | Documentários",Discovery Theater HD
-http://ppns.io:80/95377148/6153/18691
-#EXTINF:-1 tvg-logo="http://z4.vc/9oW" group-title="Canais | Documentários",Discovery Theater SD
-http://ppns.io:80/95377148/6153/18692
-#EXTINF:-1 tvg-logo="http://z4.vc/SxE" group-title="Canais | Documentários",Discovery World HD
-http://ppns.io:80/95377148/6153/18687
-#EXTINF:-1 tvg-logo="http://z4.vc/x5l" group-title="Canais | Documentários",Discovery World SD
-http://ppns.io:80/95377148/6153/18688
-#EXTINF:-1 tvg-logo="http://z4.vc/prI" group-title="Canais | Documentários",H2 HD
-http://ppns.io:80/95377148/6153/18643
-#EXTINF:-1 tvg-logo="http://z4.vc/Izg" group-title="Canais | Documentários",H2 SD
-http://ppns.io:80/95377148/6153/22309
-#EXTINF:-1 tvg-logo="http://z4.vc/hEz" group-title="Canais | Documentários",History Channel HD
-http://ppns.io:80/95377148/6153/18631
-#EXTINF:-1 tvg-logo="http://z4.vc/GaY" group-title="Canais | Documentários",History Channel SD
-http://ppns.io:80/95377148/6153/18632
-#EXTINF:-1 tvg-logo="http://z4.vc/Vzb" group-title="Canais | Documentários",NatGeo Wild HD
-http://ppns.io:80/95377148/6153/18606
-#EXTINF:-1 tvg-logo="http://z4.vc/qtJ" group-title="Canais | Documentários",NatGeo Wild SD
-http://ppns.io:80/95377148/6153/18605
-#EXTINF:-1 tvg-logo="http://z4.vc/NlH" group-title="Canais | Documentários",National Geographic HD
-http://ppns.io:80/95377148/6153/18609
-#EXTINF:-1 tvg-logo="http://z4.vc/uNC" group-title="Canais | Documentários",National Geographic SD
-http://ppns.io:80/95377148/6153/18610
-#EXTINF:-1 tvg-logo="http://z4.vc/SHx" group-title="Canais | Documentários",TruTV HD
-http://ppns.io:80/95377148/6153/18522
-#EXTINF:-1 tvg-logo="http://z4.vc/67c" group-title="Canais | Documentários",TruTV SD
-http://ppns.io:80/95377148/6153/18523
-#EXTINF:-1 tvg-logo="http://z4.vc/k3q" group-title="Canais | Infantis",BabyTV SD
-http://ppns.io:80/95377148/6153/18729
-#EXTINF:-1 tvg-logo="http://z4.vc/BLS" group-title="Canais | Infantis",Boomerang HD
-http://ppns.io:80/95377148/6153/18718
-#EXTINF:-1 tvg-logo="http://z4.vc/H1Y" group-title="Canais | Infantis",Boomerang SD
-http://ppns.io:80/95377148/6153/18719
-#EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais | Infantis",Cartoon Network HD
-http://ppns.io:80/95377148/6153/18711
-#EXTINF:-1 tvg-logo="http://z4.vc/BjV" group-title="Canais | Infantis",Cartoon Network SD
-http://ppns.io:80/95377148/6153/18712
-#EXTINF:-1 tvg-logo="http://z4.vc/p3E" group-title="Canais | Infantis",Discovery Kids HD
-http://ppns.io:80/95377148/6153/18695
-#EXTINF:-1 tvg-logo="http://z4.vc/s9P" group-title="Canais | Infantis",Discovery Kids SD
-http://ppns.io:80/95377148/6153/18696
-#EXTINF:-1 tvg-logo="http://z4.vc/COA" group-title="Canais | Infantis",Disney HD
-http://ppns.io:80/95377148/6153/18685
-#EXTINF:-1 tvg-logo="http://z4.vc/67y" group-title="Canais | Infantis",Disney Junior HD
-http://ppns.io:80/95377148/6153/18509
-#EXTINF:-1 tvg-logo="http://z4.vc/3Vd" group-title="Canais | Infantis",Disney Junior SD
-http://ppns.io:80/95377148/6153/18684
-#EXTINF:-1 tvg-logo="http://z4.vc/Vjj" group-title="Canais | Infantis",Disney SD
-http://ppns.io:80/95377148/6153/18686
-#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais | Infantis",Disney XD SD
-http://ppns.io:80/95377148/6153/22321
-#EXTINF:-1 tvg-logo="http://z4.vc/uDI" group-title="Canais | Infantis",Gloob HD
-http://ppns.io:80/95377148/6153/18649
-#EXTINF:-1 tvg-logo="http://z4.vc/K5g" group-title="Canais | Infantis",Gloob SD
-http://ppns.io:80/95377148/6153/18650
-#EXTINF:-1 tvg-logo="http://z4.vc/sf3" group-title="Canais | Infantis",Gloobinho HD
-http://ppns.io:80/95377148/6153/18648
-#EXTINF:-1 tvg-logo="http://z4.vc/QOP" group-title="Canais | Infantis",Gloobinho SD
-http://ppns.io:80/95377148/6153/18647
-#EXTINF:-1 tvg-logo="http://z4.vc/4kC" group-title="Canais | Infantis",NatGeo Kids HD
-http://ppns.io:80/95377148/6153/18607
-#EXTINF:-1 tvg-logo="http://z4.vc/3yZ" group-title="Canais | Infantis",NatGeo Kids SD
-http://ppns.io:80/95377148/6153/18608
-#EXTINF:-1 tvg-logo="http://z4.vc/Xp5" group-title="Canais | Infantis",Nick Jr HD
-http://ppns.io:80/95377148/6153/18602
-#EXTINF:-1 tvg-logo="http://z4.vc/kuz" group-title="Canais | Infantis",Nick Jr SD
-http://ppns.io:80/95377148/6153/18603
-#EXTINF:-1 tvg-logo="http://z4.vc/6RD" group-title="Canais | Infantis",Nickelodeon HD
-http://ppns.io:80/95377148/6153/18600
-#EXTINF:-1 tvg-logo="http://z4.vc/Ad6" group-title="Canais | Infantis",Nickelodeon SD
-http://ppns.io:80/95377148/6153/18601
-#EXTINF:-1 tvg-logo="http://z4.vc/zrG" group-title="Canais | Infantis",PlayKids HD
-http://ppns.io:80/95377148/6153/18499
-#EXTINF:-1 tvg-logo="http://z4.vc/z3I" group-title="Canais | Infantis",PlayKids SD
-http://ppns.io:80/95377148/6153/18498
-#EXTINF:-1 tvg-logo="http://z4.vc/7YA" group-title="Canais | Infantis",Tooncast SD
-http://ppns.io:80/95377148/6153/18533
-#EXTINF:-1 tvg-logo="http://z4.vc/COC" group-title="Canais | Notícias",BandNews HD
-http://ppns.io:80/95377148/6153/18725
-#EXTINF:-1 tvg-logo="http://z4.vc/mps" group-title="Canais | Notícias",BandNews SD
-http://ppns.io:80/95377148/6153/18726
-#EXTINF:-1 tvg-logo="http://z4.vc/77a" group-title="Canais | Notícias",CNN Brasil HD
-http://ppns.io:80/95377148/6153/47358
-#EXTINF:-1 tvg-logo="http://z4.vc/Ibt" group-title="Canais | Notícias",CNN Brasil SD
-http://ppns.io:80/95377148/6153/47359
-#EXTINF:-1 tvg-logo="http://z4.vc/4gV" group-title="Canais | Notícias",Globo News HD
-http://ppns.io:80/95377148/6153/18651
-#EXTINF:-1 tvg-logo="http://z4.vc/lKc" group-title="Canais | Notícias",Globo News SD
-http://ppns.io:80/95377148/6153/18652
-#EXTINF:-1 tvg-logo="http://z4.vc/Ncd" group-title="Canais | Notícias",Record News HD
-http://ppns.io:80/95377148/6153/18577
-#EXTINF:-1 tvg-logo="http://z4.vc/JOU" group-title="Canais | Notícias",Record News SD
-http://ppns.io:80/95377148/6153/18578
-#EXTINF:-1 tvg-logo="http://z4.vc/0ev" group-title="Canais | Esportes",BandSports HD
-http://ppns.io:80/95377148/6153/18723
-#EXTINF:-1 tvg-logo="http://z4.vc/ral" group-title="Canais | Esportes",BandSports SD
-http://ppns.io:80/95377148/6153/18724
-#EXTINF:-1 tvg-logo="http://z4.vc/ids" group-title="Canais | Esportes",Combate HD
-http://ppns.io:80/95377148/6153/18707
-#EXTINF:-1 tvg-logo="http://z4.vc/jLd" group-title="Canais | Esportes",Combate SD
-http://ppns.io:80/95377148/6153/18708
-#EXTINF:-1 tvg-logo="http://z4.vc/gWv" group-title="Canais | Esportes",ESPN HD
-http://ppns.io:80/95377148/6153/18673
-#EXTINF:-1 tvg-logo="http://z4.vc/yGS" group-title="Canais | Esportes",ESPN SD
-http://ppns.io:80/95377148/6153/18680
-#EXTINF:-1 tvg-logo="http://z4.vc/krr" group-title="Canais | Esportes",ESPN 2 HD
-http://ppns.io:80/95377148/6153/18678
-#EXTINF:-1 tvg-logo="http://z4.vc/J6U" group-title="Canais | Esportes",ESPN 2 SD
-http://ppns.io:80/95377148/6153/18679
-#EXTINF:-1 tvg-logo="http://z4.vc/hvU" group-title="Canais | Esportes",ESPN Brasil HD
-http://ppns.io:80/95377148/6153/18676
-#EXTINF:-1 tvg-logo="http://z4.vc/S1E" group-title="Canais | Esportes",ESPN Brasil SD
-http://ppns.io:80/95377148/6153/18677
-#EXTINF:-1 tvg-logo="http://z4.vc/1xn" group-title="Canais | Esportes",ESPN Extra HD
-http://ppns.io:80/95377148/6153/18674
-#EXTINF:-1 tvg-logo="http://z4.vc/dzo" group-title="Canais | Esportes",ESPN Extra SD
-http://ppns.io:80/95377148/6153/18675
-#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports HD
-http://ppns.io:80/95377148/6153/18659
-#EXTINF:-1 tvg-logo="http://z4.vc/LEj" group-title="Canais | Esportes",Fox Sports SD
-http://ppns.io:80/95377148/6153/18660
-#EXTINF:-1 tvg-logo="http://z4.vc/pne" group-title="Canais | Esportes",Fox Sports 2 HD
-http://ppns.io:80/95377148/6153/18657
-#EXTINF:-1 tvg-logo="http://z4.vc/Rei" group-title="Canais | Esportes",Fox Sports 2 SD
-http://ppns.io:80/95377148/6153/18658
-#EXTINF:-1 tvg-logo="http://z4.vc/7TJ" group-title="Canais | Esportes",Premiere 2 HD
-http://ppns.io:80/95377148/6153/18594
-#EXTINF:-1 tvg-logo="http://z4.vc/Dw5" group-title="Canais | Esportes",Premiere 2 SD
-http://ppns.io:80/95377148/6153/18595
-#EXTINF:-1 tvg-logo="http://z4.vc/Eov" group-title="Canais | Esportes",Premiere 3 HD
-http://ppns.io:80/95377148/6153/18592
-#EXTINF:-1 tvg-logo="http://z4.vc/pYW" group-title="Canais | Esportes",Premiere 3 SD
-http://ppns.io:80/95377148/6153/18593
-#EXTINF:-1 tvg-logo="http://z4.vc/3yh" group-title="Canais | Esportes",Premiere 4 HD
-http://ppns.io:80/95377148/6153/18590
-#EXTINF:-1 tvg-logo="http://z4.vc/rHH" group-title="Canais | Esportes",Premiere 4 SD
-http://ppns.io:80/95377148/6153/18591
-#EXTINF:-1 tvg-logo="http://z4.vc/mTm" group-title="Canais | Esportes",Premiere 5 HD
-http://ppns.io:80/95377148/6153/18588
-#EXTINF:-1 tvg-logo="http://z4.vc/EKB" group-title="Canais | Esportes",Premiere 5 SD
-http://ppns.io:80/95377148/6153/18589
-#EXTINF:-1 tvg-logo="http://z4.vc/6nM" group-title="Canais | Esportes",Premiere 6 HD
-http://ppns.io:80/95377148/6153/18586
-#EXTINF:-1 tvg-logo="http://z4.vc/QT6" group-title="Canais | Esportes",Premiere 6 SD
-http://ppns.io:80/95377148/6153/18587
-#EXTINF:-1 tvg-logo="http://z4.vc/xrN" group-title="Canais | Esportes",Premiere 7 HD
-http://ppns.io:80/95377148/6153/18584
-#EXTINF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Esportes",Premiere 7 SD
-http://ppns.io:80/95377148/6153/18585
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Premiere 8 SD
-http://ppns.io:80/95377148/6153/28064
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Premiere 9 SD
-http://ppns.io:80/95377148/6153/28063
-#EXTINF:-1 tvg-logo="http://z4.vc/A2U" group-title="Canais | Esportes",Premiere Clubes FHD
-http://ppns.io:80/95377148/6153/18766
-#EXTINF:-1 tvg-logo="http://z4.vc/CQb" group-title="Canais | Esportes",Premiere Clubes HD
-http://ppns.io:80/95377148/6153/18582
-#EXTINF:-1 tvg-logo="http://z4.vc/URo" group-title="Canais | Esportes",Premiere Clubes SD
-http://ppns.io:80/95377148/6153/18583
-#EXTINF:-1 tvg-logo="http://z4.vc/ftu" group-title="Canais | Esportes",SporTV FHD
-http://ppns.io:80/95377148/6153/18761
-#EXTINF:-1 tvg-logo="http://z4.vc/ygd" group-title="Canais | Esportes",SporTV HD
-http://ppns.io:80/95377148/6153/18558
-#EXTINF:-1 tvg-logo="http://z4.vc/Ffl" group-title="Canais | Esportes",SporTV SD
-http://ppns.io:80/95377148/6153/18563
-#EXTINF:-1 tvg-logo="http://z4.vc/7lY" group-title="Canais | Esportes",SporTV 2 HD
-http://ppns.io:80/95377148/6153/18561
-#EXTINF:-1 tvg-logo="http://z4.vc/P0b" group-title="Canais | Esportes",SporTV 2 SD
-http://ppns.io:80/95377148/6153/18562
-#EXTINF:-1 tvg-logo="http://z4.vc/PUQ" group-title="Canais | Esportes",SporTV 3 HD
-http://ppns.io:80/95377148/6153/18559
-#EXTINF:-1 tvg-logo="http://z4.vc/GGG" group-title="Canais | Esportes",SporTV 3 SD
-http://ppns.io:80/95377148/6153/18560
-#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN  CHANNEL 1
-http://ppns.io:80/95377148/6153/26195
-#EXTINF:-1 tvg-logo="http://z4.vc/Pjc" group-title="Canais | Esportes",DAZN CHANNEL 2
-http://ppns.io:80/95377148/6153/26197
-#EXTINF:-1 tvg-logo="http://z4.vc/Wp3" group-title="Canais | Esportes",DAZN CHANNEL 3
-http://ppns.io:80/95377148/6153/26196
-#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN CHANNEL 4
-http://ppns.io:80/95377148/6153/28387
-#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN CHANNEL 5
-http://ppns.io:80/95377148/6153/28388
-#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Esportes",DAZN CHANNEL 6
-http://ppns.io:80/95377148/6153/28389
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 01 [Champions League]
-http://ppns.io:80/95377148/6153/28380
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 02 [Champions League]
-http://ppns.io:80/95377148/6153/28381
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 03 [Champions League]
-http://ppns.io:80/95377148/6153/28382
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 04 [Champions League]
-http://ppns.io:80/95377148/6153/28383
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 05 [Champions League]
-http://ppns.io:80/95377148/6153/28384
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Ei Plus 06 [Champions League]
-http://ppns.io:80/95377148/6153/28385
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",EI Plus 1 HD
-http://ppns.io:80/95377148/6153/22978
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",EI Plus 1 SD
-http://ppns.io:80/95377148/6153/26194
-#EXTINF:-1 tvg-logo="http://z4.vc/Nz4" group-title="Canais | Adultos",PlayBoy HD
-http://ppns.io:80/95377148/6153/18787
-#EXTINF:-1 tvg-logo="http://z4.vc/XJB" group-title="Canais | Adultos",PlayBoy SD
-http://ppns.io:80/95377148/6153/18488
-#EXTINF:-1 tvg-logo="http://z4.vc/HoO" group-title="Canais | Adultos",Sextreme SD
-http://ppns.io:80/95377148/6153/18486
-#EXTINF:-1 tvg-logo="http://z4.vc/svx" group-title="Canais | Adultos",SexyHot HD
-http://ppns.io:80/95377148/6153/18485
-#EXTINF:-1 tvg-logo="http://z4.vc/ktw" group-title="Canais | Adultos",SexyHot SD
-http://ppns.io:80/95377148/6153/22275
-#EXTINF:-1 tvg-logo="http://z4.vc/azC" group-title="Canais | Adultos",Venus HD
-http://ppns.io:80/95377148/6153/18484
-#EXTINF:-1 tvg-logo="http://z4.vc/4tq" group-title="Canais | Adultos",Blue Hustler
-http://ppns.io:80/95377148/6153/27133
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",Redlight HD
-http://ppns.io:80/95377148/6153/27886
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",AST TV 1
-http://ppns.io:80/95377148/6153/27887
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",AST TV2
-http://ppns.io:80/95377148/6153/29032
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",BLUE HUSTLER
-http://ppns.io:80/95377148/6153/33381
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",BRAZZERS EUROPE
-http://ppns.io:80/95377148/6153/33382
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",CANDY
-http://ppns.io:80/95377148/6153/33383
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",CENTOXCENTO
-http://ppns.io:80/95377148/6153/33384
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",DORCEL TV
-http://ppns.io:80/95377148/6153/33385
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",EROXX
-http://ppns.io:80/95377148/6153/33386
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",PASSION
-http://ppns.io:80/95377148/6153/33387
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",PENTHOUSE BLACK
-http://ppns.io:80/95377148/6153/33388
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",PENTHOUSE QUICKIES
-http://ppns.io:80/95377148/6153/33389
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",PINK-O
-http://ppns.io:80/95377148/6153/33390
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",PRIVATE HD
-http://ppns.io:80/95377148/6153/33392
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",RUSNOCH
-http://ppns.io:80/95377148/6153/33394
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",SCT
-http://ppns.io:80/95377148/6153/33395
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",SEXT6SENSO
-http://ppns.io:80/95377148/6153/33396
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",SHALUN TV
-http://ppns.io:80/95377148/6153/33398
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",VIVID RED
-http://ppns.io:80/95377148/6153/33400
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 001
-http://ppns.io:80/95377148/6153/27890
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 002
-http://ppns.io:80/95377148/6153/27889
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 003
-http://ppns.io:80/95377148/6153/27888
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 004
-http://ppns.io:80/95377148/6153/27879
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 005
-http://ppns.io:80/95377148/6153/27878
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 006
-http://ppns.io:80/95377148/6153/27870
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 007
-http://ppns.io:80/95377148/6153/27869
-#EXTINF:-1 tvg-logo="http://z4.vc/vwE" group-title="Canais | Adultos",ADULT 008
-http://ppns.io:80/95377148/6153/27141
-#EXTINF:-1 tvg-logo="http://z4.vc/XLG" group-title="Canais | Adultos",ADULT 009
-http://ppns.io:80/95377148/6153/27140
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 010
-http://ppns.io:80/95377148/6153/27138
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 011
-http://ppns.io:80/95377148/6153/27137
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 012
-http://ppns.io:80/95377148/6153/27134
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 013
-http://ppns.io:80/95377148/6153/22447
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",ADULT 015
-http://ppns.io:80/95377148/6153/29378
+#EXTINF:-1 group-title="Canais | Filmes e Series",A&E
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37130
+#EXTINF:-1 group-title="Canais | Filmes e Series",A&E HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36929
+#EXTINF:-1 group-title="Canais | Filmes e Series",AMC
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41087
+#EXTINF:-1 group-title="Canais | Filmes e Series",AMC HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36928
+
+
+#EXTINF:-1 group-title="Canais | Documentarios",Animal Planet
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37128
+#EXTINF:-1 group-title="Canais | Documentarios",Animal Planet HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36992
+#EXTINF:-1 group-title="Canais | Variedades",Arte 1
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37133
+#EXTINF:-1 group-title="Canais | Filmes e Series",AXN
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37132
+#EXTINF:-1 group-title="Canais | Filmes e Series",AXN HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36991
+#EXTINF:-1 tgroup-title="Canais | Infantil",BabyTV
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36993
+#EXTINF:-1 group-title="Canais | Abertos",Band
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37127
+#EXTINF:-1 group-title="Canais | Abertos",Band HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36990
+#EXTINF:-1 group-title="Canais | Noticias",BandNews
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37126
+#EXTINF:-1 group-title="Canais | Abertos",Band SP HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41530
+#EXTINF:-1 group-title="Canais | Noticias",BandNews HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42411
+#EXTINF:-1 group-title="Canais | Esportes",BandSports
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37125
+#EXTINF:-1 group-title="Canais | Esportes",BandSports HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36989
+#EXTINF:-1 group-title="Canais | Variedades",BIS
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37131
+#EXTINF:-1 group-title="Canais | Variedades",BIS HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36988
+#EXTINF:-1 group-title="Canais | Infantil",Boomerang
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37123
+#EXTINF:-1 group-title="Canais | Abertos",Canal Brasil
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37122
+#EXTINF:-1 group-title="Canais | Abertos",Canção Nova HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37023
+#EXTINF:-1 group-title="Canais | Infantil",Cartoon Network
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37121
+#EXTINF:-1 group-title="Canais | Infantil",Cartoon Network HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36927
+#EXTINF:-1 group-title="Canais | Filmes e Series",Cinemax
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37120
+#EXTINF:-1 group-title="Canais | Filmes e Series",Cinemax HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36926
+#EXTINF:-1 group-title="Canais | Esportes",Combate
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37119
+#EXTINF:-1 group-title="Canais | Esportes",Combate HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36986
+#EXTINF:-1 group-title="Canais | Variedades",Comedy Central
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37118
+#EXTINF:-1 group-title="Canais | Variedades",Comedy Central HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36925
+#EXTINF:-1 group-title="Canais | Abertos",Cultura
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40073
+#EXTINF:-1 group-title="Canais | Variedades",Curta!
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37117
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Channel
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37116
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Channel HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36985
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Home & Health
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36984
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Home & Health HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37115
+#EXTINF:-1 group-title="Canais | Infantil",Discovery Kids
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37113
+#EXTINF:-1 group-title="Canais | Infantil",Discovery Kids HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36923
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Science HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36922
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Theater HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36983
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Turbo
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37112
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Turbo HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36982
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery World HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36981
+#EXTINF:-1 group-title="Canais | Infantil",Disney Channel
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37111
+#EXTINF:-1 group-title="Canais | Infantil",Disney Channel HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36921
+#EXTINF:-1 group-title="Canais | Infantil",Disney Junior
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37110
+#EXTINF:-1 group-title="Canais | Infantil",Disney Junior HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40517
+#EXTINF:-1 group-title="Canais | Infantil",Disney XD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37109
+#EXTINF:-1 group-title="Canais | Variedades",E!
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37108
+#EXTINF:-1 group-title="Canais | Variedades",E! HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36920
+#EXTINF:-1 group-title="Canais | Abertos",EPTV Ribeirão
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40514
+#EXTINF:-1 group-title="Canais | Abertos",EPTV Ribeirão HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/38640
+#EXTINF:-1 group-title="Canais | Esportes",ESPN
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37105
+#EXTINF:-1 group-title="Canais | Esportes",ESPN 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36976
+#EXTINF:-1 group-title="Canais | Esportes",ESPN Brasil
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37104
+#EXTINF:-1 group-title="Canais | Esportes",ESPN Brasil HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36978
+#EXTINF:-1 group-title="Canais | Esportes",ESPN Extra
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41977
+#EXTINF:-1 group-title="Canais | Esportes",ESPN Extra HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42910
+#EXTINF:-1 group-title="Canais | Esportes",ESPN HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36977
+#EXTINF:-1 group-title="Canais | Filmes e Series",Film&Arts
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41374
+#EXTINF:-1 group-title="Canais | Esportes",Fish TV
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37103
+#EXTINF:-1 group-title="Canais | Esportes",Fish TV HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42911
+#EXTINF:-1 group-title="Canais | Variedades",Food Network
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37102
+#EXTINF:-1 group-title="Canais | Variedades",Food Network HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36919
+#EXTINF:-1 group-title="Canais | Filmes e Series",Fox Channel
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37101
+#EXTINF:-1 group-title="Canais | Filmes e Series",Fox Channel HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36972
+#EXTINF:-1 group-title="Canais | Filmes e Series",Fox Premium 1
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37335
+#EXTINF:-1 group-title="Canais | Filmes e Series",Fox Premium 1  HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36974
+#EXTINF:-1 group-title="Canais | Filmes e Series",Fox Premium 2
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37336
+#EXTINF:-1 group-title="Canais | Filmes e Series",Fox Premium 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36973
+#EXTINF:-1 group-title="Canais | Variedades",FoxLife
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37100
+#EXTINF:-1 group-title="Canais | Variedades",FoxLife HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36918
+#EXTINF:-1 group-title="Canais | Esportes",FoxSports
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37099
+#EXTINF:-1 group-title="Canais | Esportes",FoxSports 2
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37098
+#EXTINF:-1 group-title="Canais | Esportes",FoxSports 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36971
+#EXTINF:-1 group-title="Canais | Esportes",FoxSports HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36970
+#EXTINF:-1 group-title="Canais | Abertos",Futura
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40074
+#EXTINF:-1 group-title="Canais | Filmes e Series",FX
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37097
+#EXTINF:-1 group-title="Canais | Filmes e Series",FX HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36969
+#EXTINF:-1 group-title="Canais | Abertos",Gazeta HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40120
+#EXTINF:-1 group-title="Canais | Abertos",Globo SP
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37090
+#EXTINF:-1 group-title="Canais | Abertos",Globo SP HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37361
+#EXTINF:-1 group-title="Canais | Noticias",GloboNews
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37093
+#EXTINF:-1 group-title="Canais | Noticias",GloboNews HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36917
+#EXTINF:-1 group-title="Canais | Abertos",Mais GloboSat HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36916
+#EXTINF:-1 group-title="Canais | Infantil",Gloob
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37089
+#EXTINF:-1 group-title="Canais | Infantil",Gloob HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36915
+#EXTINF:-1 group-title="Canais | Infantil",Gloobinho HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/38969
+#EXTINF:-1 group-title="Canais | Variedades",GNT
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37088
+#EXTINF:-1 group-title="Canais | Variedades",GNT HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36967
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO 2
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37086
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36966
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Family
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37085
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Family HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36965
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36964
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Plus
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37084
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Plus E
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37083
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Plus HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36963
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Signature
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37082
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Signature HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36962
+#EXTINF:-1 group-title="Canais | Documentarios",History
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37081
+#EXTINF:-1 group-title="Canais | Documentarios",History 2
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42915
+#EXTINF:-1 group-title="Canais | Documentarios",History 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36961
+#EXTINF:-1 group-title="Canais | Documentarios",History HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36960
+#EXTINF:-1 group-title="Canais | Documentarios",ID: Investigação Discovery
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37114
+#EXTINF:-1 group-title="Canais | Documentarios",ID: Investigação Discovery HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36959
+#EXTINF:-1 group-title="Canais | Variedades",Lifetime
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37077
+#EXTINF:-1 group-title="Canais | Variedades",Lifetime HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36914
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Mundi
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37076
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Mundi HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36913
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Xtreme E
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37074
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Xtreme HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36912
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO POP
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37073
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO POP HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36911
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Xtreme
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37075
+#EXTINF:-1 group-title="Canais | Filmes e Series",Megapix
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37072
+#EXTINF:-1 group-title="Canais | Filmes e Series",Megapix HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36958
+#EXTINF:-1 group-title="Canais | Variedades",MTV
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37071
+#EXTINF:-1 group-title="Canais | Variedades",MTV HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36910
+#EXTINF:-1 group-title="Canais | Variedades",MTV Live
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40519
+#EXTINF:-1 group-title="Canais | Variedades",MTV Live HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/40518
+#EXTINF:-1 group-title="Canais | Variedades",Multishow
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37070
+#EXTINF:-1 group-title="Canais | Variedades",Multishow HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36957
+#EXTINF:-1 group-title="Canais | Variedades",Music Box Brazil
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37069
+#EXTINF:-1 group-title="Canais | Infantil",NatGeo Kids
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37067
+#EXTINF:-1 group-title="Canais | Infantil",NatGeo Kids HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36909
+#EXTINF:-1 group-title="Canais | Documentarios",National Geographic Wild
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37066
+#EXTINF:-1 group-title="Canais | Documentarios",National Geographic Wild HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36955
+#EXTINF:-1 group-title="Canais | Documentarios",National Geographic
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37068
+#EXTINF:-1 group-title="Canais | Documentarios",National Geographic HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36956
+#EXTINF:-1 group-title="Canais | Infantil",Nick
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37064
+#EXTINF:-1 group-title="Canais | Infantil",Nick HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36907
+#EXTINF:-1 group-title="Canais | Infantil",Nick Jr.
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37065
+#EXTINF:-1 group-title="Canais | Infantil",Nick Jr. HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36908
+#EXTINF:-1 group-title="Canais | Variedades",Off
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37063
+#EXTINF:-1 group-title="Canais | Variedades",Off HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36954
+#EXTINF:-1 group-title="Canais | Filmes e Series",Paramount Channel
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37062
+#EXTINF:-1 group-title="Canais | Filmes e Series",Paramount Channel HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36953
+#EXTINF:-1 group-title="Canais | Infantil",PlayKids HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41359
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 2
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37060
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36952
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 3
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37059
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 3 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36951
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 4
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37058
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 4 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36950
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 5
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37057
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 5 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36949
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 6
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37056
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 6 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36906
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 7
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37017
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 7 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36905
+#EXTINF:-1 group-title="Canais | Esportes",Premiere Clubes
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37016
+#EXTINF:-1 group-title="Canais | Esportes",Premiere Clubes HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36948
+#EXTINF:-1 group-title="Canais | Filmes e Series",Prime Box Brazil
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37053
+#EXTINF:-1 group-title="Canais | Abertos",RecordTV HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36947
+#EXTINF:-1 group-title="Canais | Noticias",Record News
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41529
+#EXTINF:-1 group-title="Canais | Noticias",Record News HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37050
+#EXTINF:-1 group-title="Canais | Abertos",RecordTV
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37051
+#EXTINF:-1 group-title="Canais | Abertos",Rede Brasil
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37013
+#EXTINF:-1 group-title="Canais | Abertos",Rede Vida HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37011
+#EXTINF:-1 group-title="Canais | Abertos",RedeTV!
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37012
+#EXTINF:-1 group-title="Canais | Abertos",RedeTV! HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36946
+#EXTINF:-1 group-title="Canais | Abertos",SBT
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37048
+#EXTINF:-1 group-title="Canais | Abertos",SBT HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36945
+#EXTINF:-1 group-title="Canais | Filmes e Series",Sony Channel
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37007
+#EXTINF:-1 group-title="Canais | Filmes e Series",Sony Channel HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36987
+#EXTINF:-1 group-title="Canais | Filmes e Series",Space
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37046
+#EXTINF:-1 group-title="Canais | Filmes e Series",Space HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36944
+#EXTINF:-1 group-title="Canais | Esportes",SporTV
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37256
+#EXTINF:-1 group-title="Canais | Esportes",SporTV 2
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37044
+#EXTINF:-1 group-title="Canais | Esportes",SporTV 2 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36943
+#EXTINF:-1 group-title="Canais | Esportes",SporTV 3
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37006
+#EXTINF:-1 group-title="Canais | Esportes",SporTV 3 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36942
+#EXTINF:-1 group-title="Canais | Esportes",SporTV HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37255
+#EXTINF:-1 group-title="Canais | Filmes e Series",Studio Universal
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37043
+#EXTINF:-1 group-title="Canais | Filmes e Series",Studio Universal HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36904
+#EXTINF:-1 group-title="Canais | Filmes e Series",Syfy
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37042
+#EXTINF:-1 group-title="Canais | Filmes e Series",Syfy HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36903
+#EXTINF:-1 group-title="Canais | Variedades",TBS
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37041
+#EXTINF:-1 group-title="Canais | Variedades",TBS HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36940
+#EXTINF:-1 group-title="Canais | Filmes e Series",TCM
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37037
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Action
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37040
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Action HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36939
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Cult
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37039
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Cult HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36901
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Fun
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37005
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Fun HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36938
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Pipoca
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37038
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Pipoca HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36937
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Premium
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36994
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Premium HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36936
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Touch
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36995
+#EXTINF:-1 group-title="Canais | Filmes e Series",Telecine Touch HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36935
+#EXTINF:-1 group-title="Canais | Variedades",TLC HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36902
+#EXTINF:-1 group-title="Canais | Variedades",TLC
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37036
+#EXTINF:-1 group-title="Canais | Filmes e Series",TNT
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37035
+#EXTINF:-1 group-title="Canais | Filmes e Series",TNT HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36934
+#EXTINF:-1 group-title="Canais | Filmes e Series",TNT Séries
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37034
+#EXTINF:-1 group-title="Canais | Filmes e Series",TNT Séries HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36933
+#EXTINF:-1 group-title="Canais | Infantil",Tooncast
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37033
+#EXTINF:-1 group-title="Canais | Variedades",TruTV
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37032
+#EXTINF:-1 group-title="Canais | Abertos",TV Aparecida
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37003
+#EXTINF:-1 group-title="Canais | Abertos",TV Aparecida HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41341
+#EXTINF:-1 group-title="Canais | Infantil",TV Ra Tim Bum
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37015
+#EXTINF:-1group-title="Canais | Filmes e Series",Universal TV
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37027
+#EXTINF:-1 group-title="Canais | Filmes e Series",Universal TV HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36932
+#EXTINF:-1 group-title="Canais | Variedades",VH1 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36900
+#EXTINF:-1 group-title="Canais | Variedades",Viva
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36997
+#EXTINF:-1 group-title="Canais | Variedades",Viva HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36931
+#EXTINF:-1 group-title="Canais | Filmes e Series",Warner Channel
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36996
+#EXTINF:-1 group-title="Canais | Filmes e Series",Warner Channel HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36930
+#EXTINF:-1 group-title="Canais | Variedades",Woohoo
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37025
+#EXTINF:-1 group-title="Canais | Variedades",Woohoo HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36899
+#EXTINF:-1 group-title="Canais | Esportes",BandSports
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/50613
+#EXTINF:-1 group-title="Canais | Esportes",BandSports HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/50612
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Science
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/51002
+#EXTINF:-1 group-title="Canais | Esportes",Premiere 8
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/54120
+#EXTINF:-1 group-title="Canais | Variedades",Smithsonian Channel HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/57387
+#EXTINF:-1 group-title="Canais | Variedades",Smithsonian Channel
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/57388
+#EXTINF:-1 group-title="Canais | Esportes",Esporte Interativo HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/61879
+#EXTINF:-1 group-title="Canais | Abertos",Cultura HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/61961
+#EXTINF:-1 group-title="Canais | Esportes",ESPN 2
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/62745
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery Civilization
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/50539
+#EXTINF:-1 group-title="Canais | Abertos",TV GAZETA SP HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/60201
+#EXTINF:-1 group-title="Canais | Variedades",PlayTV
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63410
+#EXTINF:-1 group-title="Canais | Variedades",PlayTV HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63411
+#EXTINF:-1 group-title="Canais | Filmes e Series",True TV HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63649
+#EXTINF:-1 group-title="Canais | Filmes e Series",TCM HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63644
+#EXTINF:-1 tvg-id="ESPN Plus" tvg-name="ESPN Plus" tvg-logo="https://i.imgur.com/RuxbPjb.png" group-title="Canais | Esportes",ESPN Plus
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63626
+#EXTINF:-1 tvg-id="ESPN Plus SD" tvg-name="ESPN Plus SD" tvg-logo="https://i.imgur.com/RuxbPjb.png" group-title="Canais | Esportes",ESPN Plus SD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63628
+#EXTINF:-1 tvg-id="Music Box Brazil HD" tvg-name="Music Box Brazil HD" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63651
+#EXTINF:-1 tvg-id="Curta! HD" tvg-name="Curta! HD" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Variedades",Curta! HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63646
+#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63637
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Abertos",Canal Brasil HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63636
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais GloboSat" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",Mais GloboSat
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63629
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63627
+#EXTINF:-1 tvg-id="BabyTV HD" tvg-name="BabyTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63634
+#EXTINF:-1 tvg-id="Tooncast HD" tvg-name="Tooncast HD" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil",Tooncast HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63647
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63720
+#EXTINF:-1 tvg-id="TV Ra Tim Bum HD" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",TV Ra Tim Bum HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63786
+#EXTINF:-1 tvg-id="Fox News HD" tvg-name="Fox News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Canais | Noticias",Fox News HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63652
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/64498
+#EXTINF:-1 group-title="Canais | Abertos",TV Pai Eterno HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/64548
+#EXTINF:-1 tvg-id="Premiere 8 HD" tvg-name="Premiere 8 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 8 HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/64657
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65040
+#EXTINF:-1 tvg-id="CNN BRASIL HD" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65039
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65114
+#EXTINF:-1 tvg-id="Premiere Internacional" tvg-name="Premiere Internacional" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Internacional
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65280
