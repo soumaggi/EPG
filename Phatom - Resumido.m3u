@@ -181,8 +181,6 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36965
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37084
 #EXTINF:-1 group-title="Canais | Filmes e Series",HBO Plus HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36963
-#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Plus E
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37083
 #EXTINF:-1 group-title="Canais | Filmes e Series",HBO Signature SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37082
 #EXTINF:-1 group-title="Canais | Filmes e Series",HBO Signature HD
@@ -191,15 +189,13 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36962
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37076
 #EXTINF:-1 group-title="Canais | Filmes e Series",HBO Mundi HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36913
-#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Xtreme E SD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37074
 #EXTINF:-1 group-title="Canais | Filmes e Series",HBO Xtreme SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37075
 #EXTINF:-1 group-title="Canais | Filmes e Series",HBO Xtreme HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36912
-#EXTINF:-1 group-title="Canais | Filmes e Series",HBO POP SD
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Pop SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37073
-#EXTINF:-1 group-title="Canais | Filmes e Series",HBO POP HD
+#EXTINF:-1 group-title="Canais | Filmes e Series",HBO Pop HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36911
 #EXTINF:-1 group-title="Canais | Filmes e Series",Megapix SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37072
@@ -261,9 +257,9 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36934
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37034
 #EXTINF:-1 group-title="Canais | Filmes e Series",TNT Series HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36933
-#EXTINF:-1group-title="Canais | Filmes e Series",Universal Channel SD
+#EXTINF:-1group-title="Canais | Filmes e Series",Universal Channel TV SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37027
-#EXTINF:-1 group-title="Canais | Filmes e Series",Universal Channel HD
+#EXTINF:-1 group-title="Canais | Filmes e Series",Universal Channel TV HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36932
 #EXTINF:-1 group-title="Canais | Filmes e Series",Warner Channel SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36996
@@ -383,6 +379,8 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/42411
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65040
 #EXTINF:-1 group-title="Canais | Noticias",CNN Brasil HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/65039
+#EXTINF:-1 group-title="Canais | Noticias",Fox News HD
+http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63652
 #EXTINF:-1 group-title="Canais | Noticias",Globo News SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37093
 #EXTINF:-1 group-title="Canais | Noticias",Globo News HD
@@ -391,8 +389,6 @@ http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/36917
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/41529
 #EXTINF:-1 group-title="Canais | Noticias",Record News HD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37050
-#EXTINF:-1 group-title="Canais | Noticias",Fox News HD
-http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/63652
 #EXTINF:-1 group-title="Canais | Esportes",BandSports SD
 http://tv.factoryiptv.com:80/yqNW0Sdem2/factoryiptv/37125
 #EXTINF:-1 group-title="Canais | Esportes",BandSports HD
