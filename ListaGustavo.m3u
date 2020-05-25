@@ -643,12 +643,6 @@ http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37123.m3u8
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37126.m3u8
 #EXTINF:-1 tvg-id="Gloobinho HD" tvg-name="Gloobinho HD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/38969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Câmeras Ao Vivo | Naha Airport" tvg-logo="https://i.imgur.com/znq3hoQ.jpg" group-title="Câmeras | Ao Vivo", Câmeras Ao Vivo | Naha Airport
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/40109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Câmeras Ao Vivo | Cascavel Panorâmica" tvg-logo="https://i.imgur.com/znq3hoQ.jpg" group-title="Câmeras | Ao Vivo", Câmeras Ao Vivo | Cascavel Panorâmica
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/40116.m3u8
-#EXTINF:-1 tvg-id="Food Network FHD" tvg-name="Food Network FHD" tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Full HD",Food Network FHD
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/40257.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayKids HD" tvg-logo="https://sydneyseast.kidsizeliving.com.au/dotAsset/f281f444-3ec8-4b01-826c-4287a7649bc6.png" group-title="Canais | Infantil",PlayKids HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/41359.m3u8
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD [ALT]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",A&E HD [ALT]
@@ -979,64 +973,10 @@ http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/41529.m3u8
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/42411.m3u8
 #EXTINF:-1 tvg-id="Disney XD HD" tvg-name="Disney XD HD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",Disney XD HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/50717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirão - Libertadores - Copa do Brasil" tvg-logo="https://i.imgur.com/HbYTpF5.jpg" group-title="Programações de Jogos",Brasileirão - Libertadores - Copa do Brasil
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere League - Principais Jogos" tvg-logo="https://i.imgur.com/rdiV05y.jpg" group-title="Programações de Jogos",Premiere League - Principais Jogos
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62097.m3u8
 #EXTINF:-1 tvg-id="TV Brasil 2" tvg-name="TV Brasil 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Noticias",TV Brasil 2
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62133.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Grande ABC" tvg-logo="http://www.ligamineiradebocha.com.br/ligamineiradebocha.com.br/wp-content/uploads/2018/08/26166881_319817988520573_4159030231189388110_n-678x381.png" group-title="Canais | Noticias",TV Grande ABC
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Câmeras Ao Vivo | Tigres - San Diego Zoo" tvg-logo="https://i.imgur.com/znq3hoQ.jpg" group-title="Câmeras | Ao Vivo", Câmeras Ao Vivo | Tigres - San Diego Zoo
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Câmeras Ao Vivo | Elefantes - San Diego Zoo" tvg-logo="https://i.imgur.com/znq3hoQ.jpg" group-title="Câmeras | Ao Vivo", Câmeras Ao Vivo | Elefantes - San Diego Zoo
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Câmeras Ao Vivo | Pinguins - San Diego Zoo" tvg-logo="https://i.imgur.com/znq3hoQ.jpg" group-title="Câmeras | Ao Vivo", Câmeras Ao Vivo | Pinguins - San Diego Zoo
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Câmeras Ao Vivo | Mykonos" tvg-logo="https://i.imgur.com/znq3hoQ.jpg" group-title="Câmeras | Ao Vivo", Câmeras Ao Vivo | Mykonos
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Câmeras Ao Vivo | Aspen Mountain" tvg-logo="https://i.imgur.com/znq3hoQ.jpg" group-title="Câmeras | Ao Vivo", Câmeras Ao Vivo | Aspen Mountain
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [01]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [01]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [02]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [02]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [03]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [03]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [04]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [04]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [05]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [05]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [06]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [06]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [07]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [07]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [08]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [08]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [09]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [09]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [10]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [10]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [11]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [11]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [12]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [12]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [13]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [13]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [14]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [14]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [15]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [15]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [16]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [16]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [17]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [17]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [18]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [18]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [19]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [19]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinha [20]" tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png" group-title="Canais | Pegadinha",Pegadinha [20]
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62966.m3u8
 #EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63627.m3u8
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Noticias",TV Brasil
