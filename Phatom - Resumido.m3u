@@ -91,9 +91,9 @@ http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/68527.m3u8
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36919.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",Food Network SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37102.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",FoxLife HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",Fox Life HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36918.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",FoxLife SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",Fox Life SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37100.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36967.m3u8
@@ -115,9 +115,9 @@ http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/63629.m3u8
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36910.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37071.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brasil HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brasil SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/63651.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Variedades",Music Box Brazil SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37069.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36957.m3u8
@@ -235,9 +235,9 @@ http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37072.m3u8
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36953.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Filmes e Series",Paramount Channel SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37062.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Filmes e Series",Prime Box Brazil HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Filmes e Series",Prime Box Brasil HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/68532.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Filmes e Series",Prime Box Brazil SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Filmes e Series",Prime Box Brasil SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37053.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36987.m3u8
@@ -287,13 +287,13 @@ http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36995.m3u8
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36934.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37035.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Séries HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Series HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36933.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Séries SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Series SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37034.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36932.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal Channel SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37027.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36930.m3u8
@@ -333,17 +333,17 @@ http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37081.m3u8
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36961.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",H2 SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/42915.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Canais | Documentarios",ID: Investigação Discovery HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Canais | Documentarios",ID: Investigacao Discovery HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36959.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Canais | Documentarios",ID: Investigação Discovery SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Canais | Documentarios",ID: Investigacao Discovery SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37114.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",National Geographic HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36956.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",National Geographic SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37068.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild HD
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",NatGeo Wild HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36955.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild SD
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",NatGeo Wild SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37066.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/63634.m3u8
@@ -361,9 +361,9 @@ http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37121.m3u8
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36923.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37113.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36921.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37111.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",Disney XD HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/50717.m3u8
@@ -439,13 +439,13 @@ http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/61879.m3u8
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/42911.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes",Fish TV SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37103.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",Fox Sports HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36970.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",Fox Sports SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37099.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",Fox Sports 2 HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36971.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",Fox Sports 2 SD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/37098.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2 HD
 http://tv.minhalista.me:80/live/kD8jrPE/blind23b9/36952.m3u8
