@@ -433,6 +433,26 @@ http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37044.m3u8
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/36942.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",SporTV 3 SD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37006.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews HD
+http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/42411.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews SD
+http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37126.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN Brasil HD
+http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/65039.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN Brasil SD
+http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/65040.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Canais | Noticias",Fox News HD
+http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63652.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews HD
+http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/36917.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews SD
+http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37093.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",RecordNews HD
+http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37050.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",RecordNews SD
+http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/41529.m3u8
+#EXTINF:-1 tvg-logo="https://static.biologianet.com/2020/03/covid.jpg" group-title="Canais | Noticias",Info COVID-19
+http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/67456.m3u8
 #EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/36907.m3u8
 #EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr. HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick Jr. HD
@@ -441,16 +461,12 @@ http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/36908.m3u8
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/36909.m3u8
 #EXTINF:-1 tvg-id="Gloob  HD" tvg-name="Gloob HD" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/36915.m3u8
-#EXTINF:-1 tvg-id="GloboNews HD" tvg-name="GloboNews HD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews HD
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/36917.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Disney Channel HD" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/36921.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/36923.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/36927.m3u8
-#EXTINF:-1 tvg-id="Record News HD" tvg-name="Record News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News HD
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37050.m3u8
 #EXTINF:-1 tvg-id="TV Ra Tim Bum HD" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",TV Ra Tim Bum HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63786.m3u8
 #EXTINF:-1 tvg-id="[XX] Sextream HD" tvg-name="[XX] Sextream HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sextremeb.png" group-title="Canais | Adultos",[XX] Sextream HD
@@ -625,8 +641,6 @@ http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37065.m3u8
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37067.m3u8
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37089.m3u8
-#EXTINF:-1 tvg-id="GloboNews" tvg-name="GloboNews" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37093.m3u8
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",Disney XD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37109.m3u8
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/HNCqSdX.png" group-title="Canais | Infantil",Disney Junior
@@ -639,8 +653,6 @@ http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37113.m3u8
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37121.m3u8
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37123.m3u8
-#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/37126.m3u8
 #EXTINF:-1 tvg-id="Gloobinho HD" tvg-name="Gloobinho HD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/38969.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PlayKids HD" tvg-logo="https://sydneyseast.kidsizeliving.com.au/dotAsset/f281f444-3ec8-4b01-826c-4287a7649bc6.png" group-title="Canais | Infantil",PlayKids HD
@@ -967,38 +979,16 @@ http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/51155.m3u8
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63097.m3u8
 #EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="Disney Junior HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Infantil",Disney Junior HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/40517.m3u8
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/41529.m3u8
-#EXTINF:-1 tvg-id="BandNews HD" tvg-name="BandNews HD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews HD
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/42411.m3u8
 #EXTINF:-1 tvg-id="Disney XD HD" tvg-name="Disney XD HD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",Disney XD HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/50717.m3u8
-#EXTINF:-1 tvg-id="TV Brasil 2" tvg-name="TV Brasil 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Noticias",TV Brasil 2
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Grande ABC" tvg-logo="http://www.ligamineiradebocha.com.br/ligamineiradebocha.com.br/wp-content/uploads/2018/08/26166881_319817988520573_4159030231189388110_n-678x381.png" group-title="Canais | Noticias",TV Grande ABC
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/62135.m3u8
 #EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil",Boomerang HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63627.m3u8
-#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Noticias",TV Brasil
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63632.m3u8
 #EXTINF:-1 tvg-id="BabyTV HD" tvg-name="BabyTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63634.m3u8
 #EXTINF:-1 tvg-id="Tooncast HD" tvg-name="Tooncast HD" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil",Tooncast HD
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63647.m3u8
-#EXTINF:-1 tvg-id="Fox News HD" tvg-name="Fox News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Canais | Noticias",Fox News HD
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63652.m3u8
-#EXTINF:-1 tvg-id="Record News ES" tvg-name="Record News ES" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News ES
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63687.m3u8
-#EXTINF:-1 tvg-id="Record News ES HD" tvg-name="Record News ES HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News ES HD
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63688.m3u8
-#EXTINF:-1 tvg-id="Record News SC HD" tvg-name="Record News SC HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News SC HD
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63690.m3u8
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/63720.m3u8
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/65040.m3u8
-#EXTINF:-1 tvg-id="CNN BRASIL HD" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL HD
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/65039.m3u8
 #EXTINF:-1 tvg-id="FiqueEmCasa 1" tvg-name="FiqueEmCasa 1" tvg-logo="https://image.flaticon.com/icons/png/512/69/69524.png" group-title="Canais | Quarentena",FiqueEmCasa 1
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/65244.m3u8
 #EXTINF:-1 tvg-id="FiqueEmCasa 2" tvg-name="FiqueEmCasa 2" tvg-logo="https://image.flaticon.com/icons/png/512/69/69524.png" group-title="Canais | Quarentena",FiqueEmCasa 2
@@ -1099,8 +1089,6 @@ http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/65539.m3u8
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/65540.m3u8
 #EXTINF:-1 tvg-id="FiqueEmCasa 10" tvg-name="FiqueEmCasa 10" tvg-logo="https://image.flaticon.com/icons/png/512/69/69524.png" group-title="Canais | Quarentena",FiqueEmCasa 10
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/65541.m3u8
-#EXTINF:-1 tvg-id="Info COVID-19" tvg-name="Info COVID-19" tvg-logo="https://static.biologianet.com/2020/03/covid.jpg" group-title="Canais | Noticias",Info COVID-19
-http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/67456.m3u8
 #EXTINF:-1 tvg-id="Fox Premium 2 HD LEG" tvg-name="Fox Premium 2 HD LEG" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Legendados ",Fox Premium 2 HD LEG
 http://tv.minhalista.me:80/live/Vj2asg7/blind23b9/68118.m3u8
 #EXTINF:-1 tvg-id="Fox Premium 1 HD LEG" tvg-name="Fox Premium 1 HD LEG" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Legendados ",Fox Premium 1 HD LEG
