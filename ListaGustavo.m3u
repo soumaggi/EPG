@@ -13,9 +13,9 @@ http://tv.minhalista.me:80/gustavo2701/blindurl/63636
 http://tv.minhalista.me:80/gustavo2701/blindurl/37122
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Abertos",Canção Nova HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/37023
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | Abertos",Cultura HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | Abertos",TV Cultura HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/61961
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",TV Cultura SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/40073
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Abertos",EPTV Ribeirão HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/38640
@@ -25,7 +25,7 @@ http://tv.minhalista.me:80/gustavo2701/blindurl/40514
 http://tv.minhalista.me:80/gustavo2701/blindurl/68530
 #EXTINF:-1 tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/40074
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="Canais | Abertos",Gazeta HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="Canais | Abertos",TV Gazeta SP HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/60201
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/37361
@@ -39,9 +39,9 @@ http://tv.minhalista.me:80/gustavo2701/blindurl/37013
 http://tv.minhalista.me:80/gustavo2701/blindurl/36946
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV! SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/37012
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV SP HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/36947
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV SP SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/37051
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/36945
@@ -61,7 +61,7 @@ http://tv.minhalista.me:80/gustavo2701/blindurl/37003
 http://tv.minhalista.me:80/gustavo2701/blindurl/36931
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Abertos",Viva SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/36997
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1 HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/37133
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",BIS HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/36988
@@ -75,9 +75,9 @@ http://tv.minhalista.me:80/gustavo2701/blindurl/37118
 http://tv.minhalista.me:80/gustavo2701/blindurl/63646
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Variedades",Curta! SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/37117
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="Canais | Variedades",DogTV HD
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="Canais | Variedades",Dog TV HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/63767
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="Canais | Variedades",DogTV SD
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="Canais | Variedades",Dog TV SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/68529
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yN8C90X.png" group-title="Canais | Variedades",E! HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/36920
@@ -175,9 +175,9 @@ http://tv.minhalista.me:80/gustavo2701/blindurl/37132
 http://tv.minhalista.me:80/gustavo2701/blindurl/36926
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais | Filmes e Series",Cinemax SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/37120
-#EXTINF:-1 tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Filmes e Series",Film&Arts HD
+#EXTINF:-1 tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Filmes e Series",Film & Arts HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/68536
-#EXTINF:-1 tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Filmes e Series",Film&Arts SD
+#EXTINF:-1 tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Filmes e Series",Film & Arts SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/41374
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/36972
@@ -325,9 +325,9 @@ http://tv.minhalista.me:80/gustavo2701/blindurl/36982
 http://tv.minhalista.me:80/gustavo2701/blindurl/37112
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",Discovery World HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/36981
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History Channel HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/36960
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",History Channel SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/37081
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",H2 HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/36961
@@ -503,13 +503,13 @@ http://tv.minhalista.me:80/gustavo2701/blindurl/65039
 http://tv.minhalista.me:80/gustavo2701/blindurl/65040
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Canais | Noticias",Fox News HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/63652
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",Globo News HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/36917
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",Globo News SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/37093
-#EXTINF:-1 tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",RecordNews HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News HD
 http://tv.minhalista.me:80/gustavo2701/blindurl/37050
-#EXTINF:-1 tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",RecordNews SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News SD
 http://tv.minhalista.me:80/gustavo2701/blindurl/41529
 #EXTINF:-1 tvg-logo="https://static.biologianet.com/2020/03/covid.jpg" group-title="Canais | Noticias",Info COVID-19
 http://tv.minhalista.me:80/gustavo2701/blindurl/67456
