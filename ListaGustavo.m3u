@@ -65,7 +65,7 @@ http://psrv.io:80/08453490068/snakeplay/18722
 http://psrv.io:80/08453490068/snakeplay/18705
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="http://z4.vc/RrZ" group-title="Canais | Variedades",Comedy Central SD
 http://psrv.io:80/08453490068/snakeplay/18706
-#EXTINF:-1 tvg-logo="http://z4.vc/fVn" group-title="Canais | Variedades",Curta! SD
+#EXTINF:-1 tvg-id="Curta! HD" tvg-logo="http://z4.vc/fVn" group-title="Canais | Variedades",Curta! SD
 http://psrv.io:80/08453490068/snakeplay/18704
 #EXTINF:-1 tvg-logo="http://z4.vc/nXL" group-title="Canais | Variedades",Discovery H&H HD
 http://psrv.io:80/08453490068/snakeplay/18697
@@ -221,14 +221,6 @@ http://psrv.io:80/08453490068/snakeplay/18634
 http://psrv.io:80/08453490068/snakeplay/45144
 #EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Xtreme SD
 http://psrv.io:80/08453490068/snakeplay/45146
-#EXTINF:-1 tvg-logo="http://z4.vc/fwU" group-title="Canais | Filmes e Séries",Max Prime HD
-http://psrv.io:80/08453490068/snakeplay/18621
-#EXTINF:-1 tvg-id="Max Prime HD" tvg-logo="http://z4.vc/cv2" group-title="Canais | Filmes e Séries",Max Prime SD
-http://psrv.io:80/08453490068/snakeplay/18622
-#EXTINF:-1 tvg-logo="http://z4.vc/amW" group-title="Canais | Filmes e Séries",Max HD
-http://psrv.io:80/08453490068/snakeplay/18819
-#EXTINF:-1 tvg-id="Max HD" tvg-logo="http://z4.vc/CmH" group-title="Canais | Filmes e Séries",Max SD
-http://psrv.io:80/08453490068/snakeplay/18624
 #EXTINF:-1 tvg-logo="http://z4.vc/KR2" group-title="Canais | Filmes e Séries",Megapix HD
 http://psrv.io:80/08453490068/snakeplay/18617
 #EXTINF:-1 tvg-id="Megapix HD" tvg-logo="http://z4.vc/g9W" group-title="Canais | Filmes e Séries",Megapix SD
@@ -301,7 +293,7 @@ http://psrv.io:80/08453490068/snakeplay/18513
 http://psrv.io:80/08453490068/snakeplay/18514
 #EXTINF:-1 tvg-logo="http://z4.vc/BZz" group-title="Canais | Documentários",Animal Planet HD
 http://psrv.io:80/08453490068/snakeplay/18734
-#EXTINF:-1 tvg-id="Animal PLanet HD" tvg-logo="http://z4.vc/fjU" group-title="Canais | Documentários",Animal Planet SD
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="http://z4.vc/fjU" group-title="Canais | Documentários",Animal Planet SD
 http://psrv.io:80/08453490068/snakeplay/18735
 #EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 HD
 http://psrv.io:80/08453490068/snakeplay/18855
@@ -503,7 +495,7 @@ http://psrv.io:80/08453490068/snakeplay/33397
 http://psrv.io:80/08453490068/snakeplay/18486
 #EXTINF:-1 tvg-logo="http://z4.vc/svx" group-title="Canais | Adultos",SexyHot HD
 http://psrv.io:80/08453490068/snakeplay/18485
-#EXTINF:-1 tvg-id="SextHot HD" tvg-logo="http://z4.vc/ktw" group-title="Canais | Adultos",SexyHot SD
+#EXTINF:-1 tvg-id="SexyHot HD" tvg-logo="http://z4.vc/ktw" group-title="Canais | Adultos",SexyHot SD
 http://psrv.io:80/08453490068/snakeplay/22275
 #EXTINF:-1 tvg-logo="http://z4.vc/azC" group-title="Canais | Adultos",Venus HD
 http://psrv.io:80/08453490068/snakeplay/18484
