@@ -69,7 +69,7 @@ http://psrv.io:80/08453490068/snakeplay/18706
 http://psrv.io:80/08453490068/snakeplay/18704
 #EXTINF:-1 tvg-logo="http://z4.vc/nXL" group-title="Canais | Variedades",Discovery H&H HD
 http://psrv.io:80/08453490068/snakeplay/18697
-#EXTINF:-1 tvg-id="H&H HD" tvg-logo="http://z4.vc/91r" group-title="Canais | Variedades",Discovery H&H SD
+#EXTINF:-1 tvg-id="Discovery H&H HD" tvg-logo="http://z4.vc/91r" group-title="Canais | Variedades",Discovery H&H SD
 http://psrv.io:80/08453490068/snakeplay/18698
 #EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais | Variedades",Discovery Turbo HD
 http://psrv.io:80/08453490068/snakeplay/18689
@@ -159,145 +159,145 @@ http://psrv.io:80/08453490068/snakeplay/49631
 http://psrv.io:80/08453490068/snakeplay/18512
 #EXTINF:-1 tvg-logo="http://z4.vc/5Gw" group-title="Canais | Filmes e Séries",AMC HD
 http://psrv.io:80/08453490068/snakeplay/18736
-#EXTINF:-1 tvg-logo="http://z4.vc/6ZV" group-title="Canais | Filmes e Séries",AMC SD
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://z4.vc/6ZV" group-title="Canais | Filmes e Séries",AMC SD
 http://psrv.io:80/08453490068/snakeplay/18737
 #EXTINF:-1 tvg-logo="http://z4.vc/j1K" group-title="Canais | Filmes e Séries",AXN HD
 http://psrv.io:80/08453490068/snakeplay/18730
-#EXTINF:-1 tvg-logo="http://z4.vc/qfK" group-title="Canais | Filmes e Séries",AXN SD
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://z4.vc/qfK" group-title="Canais | Filmes e Séries",AXN SD
 http://psrv.io:80/08453490068/snakeplay/18731
 #EXTINF:-1 tvg-logo="http://z4.vc/GsJ" group-title="Canais | Filmes e Séries",Canal Brasil HD
 http://psrv.io:80/08453490068/snakeplay/18716
-#EXTINF:-1 tvg-logo="http://z4.vc/kWm" group-title="Canais | Filmes e Séries",Canal Brasil SD
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-logo="http://z4.vc/kWm" group-title="Canais | Filmes e Séries",Canal Brasil SD
 http://psrv.io:80/08453490068/snakeplay/18717
 #EXTINF:-1 tvg-logo="http://z4.vc/Lo1" group-title="Canais | Filmes e Séries",Cinemax HD
 http://psrv.io:80/08453490068/snakeplay/18709
-#EXTINF:-1 tvg-logo="http://z4.vc/ZLC" group-title="Canais | Filmes e Séries",Cinemax SD
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="http://z4.vc/ZLC" group-title="Canais | Filmes e Séries",Cinemax SD
 http://psrv.io:80/08453490068/snakeplay/18710
 #EXTINF:-1 tvg-logo="http://z4.vc/DUZ" group-title="Canais | Filmes e Séries",Fox HD
 http://psrv.io:80/08453490068/snakeplay/18667
-#EXTINF:-1 tvg-logo="http://z4.vc/OcS" group-title="Canais | Filmes e Séries",Fox SD
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z4.vc/OcS" group-title="Canais | Filmes e Séries",Fox SD
 http://psrv.io:80/08453490068/snakeplay/18668
 #EXTINF:-1 tvg-logo="http://z4.vc/AQ5" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
 http://psrv.io:80/08453490068/snakeplay/18663
-#EXTINF:-1 tvg-logo="http://z4.vc/TCc" group-title="Canais | Filmes e Séries",Fox Premium 1 SD
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-logo="http://z4.vc/TCc" group-title="Canais | Filmes e Séries",Fox Premium 1 SD
 http://psrv.io:80/08453490068/snakeplay/18664
 #EXTINF:-1 tvg-logo="http://z4.vc/g8Q" group-title="Canais | Filmes e Séries",Fox Premium 2 HD
 http://psrv.io:80/08453490068/snakeplay/18661
-#EXTINF:-1 tvg-logo="http://z4.vc/cw8" group-title="Canais | Filmes e Séries",Fox Premium 2 SD
+#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-logo="http://z4.vc/cw8" group-title="Canais | Filmes e Séries",Fox Premium 2 SD
 http://psrv.io:80/08453490068/snakeplay/18662
 #EXTINF:-1 tvg-logo="http://z4.vc/OsR" group-title="Canais | Filmes e Séries",FX HD
 http://psrv.io:80/08453490068/snakeplay/18653
-#EXTINF:-1 tvg-logo="http://z4.vc/GEc" group-title="Canais | Filmes e Séries",FX SD
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://z4.vc/GEc" group-title="Canais | Filmes e Séries",FX SD
 http://psrv.io:80/08453490068/snakeplay/22233
 #EXTINF:-1 tvg-logo="http://z4.vc/z1Y" group-title="Canais | Filmes e Séries",HBO HD
 http://psrv.io:80/08453490068/snakeplay/18637
-#EXTINF:-1 tvg-logo="http://z4.vc/ncl" group-title="Canais | Filmes e Séries",HBO SD
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://z4.vc/ncl" group-title="Canais | Filmes e Séries",HBO SD
 http://psrv.io:80/08453490068/snakeplay/18642
 #EXTINF:-1 tvg-logo="http://z4.vc/0PM" group-title="Canais | Filmes e Séries",HBO 2 HD
 http://psrv.io:80/08453490068/snakeplay/18640
-#EXTINF:-1 tvg-logo="http://z4.vc/zwf" group-title="Canais | Filmes e Séries",HBO 2 SD
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="http://z4.vc/zwf" group-title="Canais | Filmes e Séries",HBO 2 SD
 http://psrv.io:80/08453490068/snakeplay/18641
 #EXTINF:-1 tvg-logo="http://z4.vc/JtC" group-title="Canais | Filmes e Séries",HBO Family HD
 http://psrv.io:80/08453490068/snakeplay/18638
-#EXTINF:-1 tvg-logo="http://z4.vc/vKg" group-title="Canais | Filmes e Séries",HBO Family SD
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="http://z4.vc/vKg" group-title="Canais | Filmes e Séries",HBO Family SD
 http://psrv.io:80/08453490068/snakeplay/18639
 #EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Mundi HD
 http://psrv.io:80/08453490068/snakeplay/18623
-#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Mundi SD
+#EXTINF:-1 tvg-id="HBO Mundi HD" tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Mundi SD
 http://psrv.io:80/08453490068/snakeplay/45135
 #EXTINF:-1 tvg-logo="http://z4.vc/oZI" group-title="Canais | Filmes e Séries",HBO Plus HD
 http://psrv.io:80/08453490068/snakeplay/18635
-#EXTINF:-1 tvg-logo="http://z4.vc/Gg9" group-title="Canais | Filmes e Séries",HBO Plus SD
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-logo="http://z4.vc/Gg9" group-title="Canais | Filmes e Séries",HBO Plus SD
 http://psrv.io:80/08453490068/snakeplay/18636
-#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Pop SD
-http://psrv.io:80/08453490068/snakeplay/45147
 #EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Pop HD
 http://psrv.io:80/08453490068/snakeplay/45148
+#EXTINF:-1 tvg-id="HBO Pop HD" tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Pop SD
+http://psrv.io:80/08453490068/snakeplay/45147
 #EXTINF:-1 tvg-logo="http://z4.vc/ICL" group-title="Canais | Filmes e Séries",HBO Signature HD
 http://psrv.io:80/08453490068/snakeplay/18633
-#EXTINF:-1 tvg-logo="http://z4.vc/CPt" group-title="Canais | Filmes e Séries",HBO Signature SD
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="http://z4.vc/CPt" group-title="Canais | Filmes e Séries",HBO Signature SD
 http://psrv.io:80/08453490068/snakeplay/18634
 #EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Xtreme HD
 http://psrv.io:80/08453490068/snakeplay/45144
-#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Xtreme SD
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Xtreme SD
 http://psrv.io:80/08453490068/snakeplay/45146
 #EXTINF:-1 tvg-logo="http://z4.vc/fwU" group-title="Canais | Filmes e Séries",Max Prime HD
 http://psrv.io:80/08453490068/snakeplay/18621
-#EXTINF:-1 tvg-logo="http://z4.vc/cv2" group-title="Canais | Filmes e Séries",Max Prime SD
+#EXTINF:-1 tvg-id="Max Prime HD" tvg-logo="http://z4.vc/cv2" group-title="Canais | Filmes e Séries",Max Prime SD
 http://psrv.io:80/08453490068/snakeplay/18622
 #EXTINF:-1 tvg-logo="http://z4.vc/amW" group-title="Canais | Filmes e Séries",Max HD
 http://psrv.io:80/08453490068/snakeplay/18819
-#EXTINF:-1 tvg-logo="http://z4.vc/CmH" group-title="Canais | Filmes e Séries",Max SD
+#EXTINF:-1 tvg-id="Max HD" tvg-logo="http://z4.vc/CmH" group-title="Canais | Filmes e Séries",Max SD
 http://psrv.io:80/08453490068/snakeplay/18624
 #EXTINF:-1 tvg-logo="http://z4.vc/KR2" group-title="Canais | Filmes e Séries",Megapix HD
 http://psrv.io:80/08453490068/snakeplay/18617
-#EXTINF:-1 tvg-logo="http://z4.vc/g9W" group-title="Canais | Filmes e Séries",Megapix SD
+#EXTINF:-1 tvg-id="Megapix HD" tvg-logo="http://z4.vc/g9W" group-title="Canais | Filmes e Séries",Megapix SD
 http://psrv.io:80/08453490068/snakeplay/18618
 #EXTINF:-1 tvg-logo="http://z4.vc/QY7" group-title="Canais | Filmes e Séries",Paramount Channel HD
 http://psrv.io:80/08453490068/snakeplay/18596
-#EXTINF:-1 tvg-logo="http://z4.vc/G8C" group-title="Canais | Filmes e Séries",Paramount Channel SD
+#EXTINF:-1 tvg-id="Paramount Channel HD" tvg-logo="http://z4.vc/G8C" group-title="Canais | Filmes e Séries",Paramount Channel SD
 http://psrv.io:80/08453490068/snakeplay/18597
 #EXTINF:-1 tvg-logo="http://z4.vc/hkn" group-title="Canais | Filmes e Séries",Sony HD
 http://psrv.io:80/08453490068/snakeplay/18714
-#EXTINF:-1 tvg-logo="http://z4.vc/npa" group-title="Canais | Filmes e Séries",Sony SD
+#EXTINF:-1 tvg-id="Sony HD" tvg-logo="http://z4.vc/npa" group-title="Canais | Filmes e Séries",Sony SD
 http://psrv.io:80/08453490068/snakeplay/18715
 #EXTINF:-1 tvg-logo="http://z4.vc/EPt" group-title="Canais | Filmes e Séries",Space HD
 http://psrv.io:80/08453490068/snakeplay/18564
-#EXTINF:-1 tvg-logo="http://z4.vc/zXZ" group-title="Canais | Filmes e Séries",Space SD
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="http://z4.vc/zXZ" group-title="Canais | Filmes e Séries",Space SD
 http://psrv.io:80/08453490068/snakeplay/18565
 #EXTINF:-1 tvg-logo="http://z4.vc/IU1" group-title="Canais | Filmes e Séries",Studio Universal HD
 http://psrv.io:80/08453490068/snakeplay/18556
-#EXTINF:-1 tvg-logo="http://z4.vc/6ft" group-title="Canais | Filmes e Séries",Studio Universal SD
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="http://z4.vc/6ft" group-title="Canais | Filmes e Séries",Studio Universal SD
 http://psrv.io:80/08453490068/snakeplay/18557
 #EXTINF:-1 tvg-logo="http://z4.vc/yWZ" group-title="Canais | Filmes e Séries",Syfy HD
 http://psrv.io:80/08453490068/snakeplay/18566
-#EXTINF:-1 tvg-logo="http://z4.vc/yZB" group-title="Canais | Filmes e Séries",Syfy SD
+#EXTINF:-1 tvg-id="Syfy HD" tvg-logo="http://z4.vc/yZB" group-title="Canais | Filmes e Séries",Syfy SD
 http://psrv.io:80/08453490068/snakeplay/18567
 #EXTINF:-1 tvg-logo="http://z4.vc/lL4" group-title="Canais | Filmes e Séries",TBS HD
 http://psrv.io:80/08453490068/snakeplay/18554
-#EXTINF:-1 tvg-logo="http://z4.vc/6rM" group-title="Canais | Filmes e Séries",TBS SD
+#EXTINF:-1 tvg-id="TBS HD" tvg-logo="http://z4.vc/6rM" group-title="Canais | Filmes e Séries",TBS SD
 http://psrv.io:80/08453490068/snakeplay/18555
-#EXTINF:-1 tvg-logo="http://z4.vc/9cn" group-title="Canais | Filmes e Séries",TCM SD
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="http://z4.vc/9cn" group-title="Canais | Filmes e Séries",TCM SD
 http://psrv.io:80/08453490068/snakeplay/18553
 #EXTINF:-1 tvg-logo="http://z4.vc/wYg" group-title="Canais | Filmes e Séries",Telecine Action HD
 http://psrv.io:80/08453490068/snakeplay/18551
-#EXTINF:-1 tvg-logo="http://z4.vc/2ne" group-title="Canais | Filmes e Séries",Telecine Action SD
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-logo="http://z4.vc/2ne" group-title="Canais | Filmes e Séries",Telecine Action SD
 http://psrv.io:80/08453490068/snakeplay/18552
 #EXTINF:-1 tvg-logo="http://z4.vc/cuv" group-title="Canais | Filmes e Séries",Telecine Cult HD
 http://psrv.io:80/08453490068/snakeplay/18549
-#EXTINF:-1 tvg-logo="http://z4.vc/BeC" group-title="Canais | Filmes e Séries",Telecine Cult SD
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-logo="http://z4.vc/BeC" group-title="Canais | Filmes e Séries",Telecine Cult SD
 http://psrv.io:80/08453490068/snakeplay/18550
 #EXTINF:-1 tvg-logo="http://z4.vc/7vJ" group-title="Canais | Filmes e Séries",Telecine Fun HD
 http://psrv.io:80/08453490068/snakeplay/18547
-#EXTINF:-1 tvg-logo="http://z4.vc/dpl" group-title="Canais | Filmes e Séries",Telecine Fun SD
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-logo="http://z4.vc/dpl" group-title="Canais | Filmes e Séries",Telecine Fun SD
 http://psrv.io:80/08453490068/snakeplay/18548
 #EXTINF:-1 tvg-logo="http://z4.vc/8dT" group-title="Canais | Filmes e Séries",Telecine Pipoca HD
 http://psrv.io:80/08453490068/snakeplay/18545
-#EXTINF:-1 tvg-logo="http://z4.vc/qp8" group-title="Canais | Filmes e Séries",Telecine Pipoca SD
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-logo="http://z4.vc/qp8" group-title="Canais | Filmes e Séries",Telecine Pipoca SD
 http://psrv.io:80/08453490068/snakeplay/18546
 #EXTINF:-1 tvg-logo="http://z4.vc/RwJ" group-title="Canais | Filmes e Séries",Telecine Premium HD
 http://psrv.io:80/08453490068/snakeplay/18543
-#EXTINF:-1 tvg-logo="http://z4.vc/jgo" group-title="Canais | Filmes e Séries",Telecine Premium SD
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-logo="http://z4.vc/jgo" group-title="Canais | Filmes e Séries",Telecine Premium SD
 http://psrv.io:80/08453490068/snakeplay/18544
 #EXTINF:-1 tvg-logo="http://z4.vc/jJj" group-title="Canais | Filmes e Séries",Telecine Touch HD
 http://psrv.io:80/08453490068/snakeplay/18541
-#EXTINF:-1 tvg-logo="http://z4.vc/c1M" group-title="Canais | Filmes e Séries",Telecine Touch SD
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-logo="http://z4.vc/c1M" group-title="Canais | Filmes e Séries",Telecine Touch SD
 http://psrv.io:80/08453490068/snakeplay/18542
 #EXTINF:-1 tvg-logo="http://z4.vc/C6Y" group-title="Canais | Filmes e Séries",TNT HD
 http://psrv.io:80/08453490068/snakeplay/18536
-#EXTINF:-1 tvg-logo="http://z4.vc/VGk" group-title="Canais | Filmes e Séries",TNT SD
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="http://z4.vc/VGk" group-title="Canais | Filmes e Séries",TNT SD
 http://psrv.io:80/08453490068/snakeplay/18537
 #EXTINF:-1 tvg-logo="http://z4.vc/CVR" group-title="Canais | Filmes e Séries",TNT Series HD
 http://psrv.io:80/08453490068/snakeplay/18534
-#EXTINF:-1 tvg-logo="http://z4.vc/gQ3" group-title="Canais | Filmes e Séries",TNT Series SD
+#EXTINF:-1 tvg-id="TNT Series HD" tvg-logo="http://z4.vc/gQ3" group-title="Canais | Filmes e Séries",TNT Series SD
 http://psrv.io:80/08453490068/snakeplay/18535
 #EXTINF:-1 tvg-logo="http://z4.vc/0j9" group-title="Canais | Filmes e Séries",Universal Channel HD
 http://psrv.io:80/08453490068/snakeplay/18520
-#EXTINF:-1 tvg-logo="http://z4.vc/HlB" group-title="Canais | Filmes e Séries",Universal Channel SD
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-logo="http://z4.vc/HlB" group-title="Canais | Filmes e Séries",Universal Channel SD
 http://psrv.io:80/08453490068/snakeplay/22253
 #EXTINF:-1 tvg-logo="http://z4.vc/W7o" group-title="Canais | Filmes e Séries",Warner Channel HD
 http://psrv.io:80/08453490068/snakeplay/18513
-#EXTINF:-1 tvg-logo="http://z4.vc/QRs" group-title="Canais | Filmes e Séries",Warner Channel SD
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="http://z4.vc/QRs" group-title="Canais | Filmes e Séries",Warner Channel SD
 http://psrv.io:80/08453490068/snakeplay/18514
 #EXTINF:-1 tvg-logo="http://z4.vc/BZz" group-title="Canais | Documentários",Animal Planet HD
 http://psrv.io:80/08453490068/snakeplay/18734
