@@ -231,6 +231,11 @@
     <icon src="https://www.lineup.tv.br/canais/hbo2.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
+ <channel id="HBO Family HD">
+    <display-name lang="pt">HBO Family HD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/hbofamily.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <programme start="20200706002200 -0300" stop="20200706004700 -0300" channel="Fox Premium 1 HD">
     <title lang="pt">Prata da Casa - S1E5</title>
   </programme>
@@ -31352,5 +31357,361 @@
   <programme start="20200711234500 -0300" stop="20200712012500 -0300" channel="HBO 2 HD">
     <title lang="pt">22 Milhas</title>
     <desc lang="pt">O agente da CIA James Silva deve assegurar a fuga da Indonésia de um misterioso oficial com informações importantes para uma base aérea a 22 milhas de distância antes que o inimigo os alcancem.(n)</desc>
+  </programme>
+    <programme start="20200706015700 -0300" stop="20200706033100 -0300" channel="HBO Family HD">
+    <title lang="pt">Licença para Casar</title>
+    <desc lang="pt">Um casal pretende se casar, mas a tradicional igreja da família dela apenas realizará a cerimônia se ambos passarem por um curso de preparação de noivos. Mas as aulas ultrajantes, põe em risco o relacionamento entre eles.(n)</desc>
+  </programme>
+  <programme start="20200706033100 -0300" stop="20200706050000 -0300" channel="HBO Family HD">
+    <title lang="pt">Casamento Real</title>
+    <desc lang="pt">O Rei da Voldavia quer encontrar uma noiva para o filho, Príncipe Sebastian, a tempo de uma importante celebração nacional. Ele então contrata Kate, uma especialista em formar casais, mas ela se complica ao se apaixonar pelo herdeiro do trono.(n)</desc>
+  </programme>
+  <programme start="20200706050000 -0300" stop="20200706063100 -0300" channel="HBO Family HD">
+    <title lang="pt">Babá de Natal</title>
+    <desc lang="pt">lly é uma mulher de carreira, esperta e jovem, que precisa de um novo emprego. Samantha é uma executiva/mãe do ramo da publicidade da movimentada Beverly Hills.(n)</desc>
+  </programme>
+  <programme start="20200706063100 -0300" stop="20200706074800 -0300" channel="HBO Family HD">
+    <title lang="pt">O Cisne Apaixonado</title>
+    <desc lang="pt">Louis é um cisne que não tem voz, e por isso vive infeliz por não poder contar seus sentimentos à bela cisne, Serena. Mas com a ajuda de um novo amigo, ele vai aprender a ler, escrever e a tocar trompete, para poder se comunicar.(n)</desc>
+  </programme>
+  <programme start="20200706074800 -0300" stop="20200706091000 -0300" channel="HBO Family HD">
+    <title lang="pt">9 - A Salvação</title>
+    <desc lang="pt">Quando o boneco 9 ganha vida, ele encontra-se em um mundo pós-apocalíptico, no qual os humanos foram dizimados.(n)</desc>
+  </programme>
+  <programme start="20200706091000 -0300" stop="20200706104900 -0300" channel="HBO Family HD">
+    <title lang="pt">A Lenda dos Guardiões</title>
+    <desc lang="pt">Quando uma jovem coruja é sequestrada por um exército malvado, deverá escapar junto com seus novos amigos para buscar os lendários Guardiões e acabar com a ameaça.(n)</desc>
+  </programme>
+  <programme start="20200706104900 -0300" stop="20200706122100 -0300" channel="HBO Family HD">
+    <title lang="pt">Nancy Drew e O Mistério da Escada</title>
+    <desc lang="pt">Baseado na saga literária da detetive Nancy Drew, este filme segue as aventuras da intrépida jovem enquanto tenta resolver o mistério dos eventos aparentemente paranormais que acontecem na casa de sua vizinha Flora.(n)</desc>
+  </programme>
+  <programme start="20200706122100 -0300" stop="20200706134800 -0300" channel="HBO Family HD">
+    <title lang="pt">Os Jovens Titãs em Ação! Nos Cinemas</title>
+    <desc lang="pt">Todos os grandes super-heróis de DC já estrelaram seus próprios filmes... Exceto pelos Jovens Titãs. Para remediar a situação, Robin e o time viajam para Hollywood para achar um diretor.(n)</desc>
+  </programme>
+  <programme start="20200706134800 -0300" stop="20200706155800 -0300" channel="HBO Family HD">
+    <title lang="pt">Karatê Kid - A Hora da Verdade</title>
+    <desc lang="pt">Daniel e sua mãe se mudam de Nova Jersey para o sul da Califórnia, mas Daniel não consegue se adaptar à nova vida.(n)</desc>
+  </programme>
+  <programme start="20200706155800 -0300" stop="20200706182100 -0300" channel="HBO Family HD">
+    <title lang="pt">Karate Kid</title>
+    <desc lang="pt">Dre é obrigado a se mudar para um novo país após sua mãe aceitar um emprego em Pequim. Ele começa a se interessar por Meiying, mas acaba levando uma surra do valentão da escola. A vida de Dre se torna um inferno até que ele encontra o sr. Han.(n)</desc>
+  </programme>
+  <programme start="20200706182100 -0300" stop="20200706200000 -0300" channel="HBO Family HD">
+    <title lang="pt">A Lenda dos Guardiões</title>
+    <desc lang="pt">Quando uma jovem coruja é sequestrada por um exército malvado, deverá escapar junto com seus novos amigos para buscar os lendários Guardiões e acabar com a ameaça.(n)</desc>
+  </programme>
+  <programme start="20200706200000 -0300" stop="20200706214400 -0300" channel="HBO Family HD">
+    <title lang="pt">Os Futeboleiros</title>
+    <desc lang="pt">Francisco e seu time de futebol vão mal das pernas: caso não vença uma de três partidas, a equipe será desfeita.(n)</desc>
+  </programme>
+  <programme start="20200706214400 -0300" stop="20200706231600 -0300" channel="HBO Family HD">
+    <title lang="pt">Nancy Drew e O Mistério da Escada</title>
+    <desc lang="pt">Baseado na saga literária da detetive Nancy Drew, este filme segue as aventuras da intrépida jovem enquanto tenta resolver o mistério dos eventos aparentemente paranormais que acontecem na casa de sua vizinha Flora.(n)</desc>
+  </programme>
+  <programme start="20200706231600 -0300" stop="20200707011000 -0300" channel="HBO Family HD">
+    <title lang="pt">Já estou com Saudades</title>
+    <desc lang="pt">Duas mulheres com uma forte amizade recebem notícias que mudarão suas vidas para sempre; enquanto uma é diagnosticada com câncer de mama, a outra descobre que está grávida.(n)</desc>
+  </programme>
+  <programme start="20200707011000 -0300" stop="20200707031000 -0300" channel="HBO Family HD">
+    <title lang="pt">Divinos Segredos</title>
+    <desc lang="pt">Dramaturga reclama de sua infância em entrevista e é raptada por sua mãe e amigas. Durante a trama há flashs do passado das diversas mulheres do grupo.(n)</desc>
+  </programme>
+  <programme start="20200707031000 -0300" stop="20200707034200 -0300" channel="HBO Family HD">
+    <title lang="pt">O Que Aconteceu em 11 de Setembro</title>
+    <desc lang="pt">A HBO se junta ao 9/11 Tribute Museum para oferecer uma maneira mais fácil para as crianças aprenderem sobre os ataques de 11 de setembro e seu impacto na cidade.(n)</desc>
+  </programme>
+  <programme start="20200707034200 -0300" stop="20200707052300 -0300" channel="HBO Family HD">
+    <title lang="pt">Nancy Drew - E o Mistério de Hollywood</title>
+    <desc lang="pt">Nancy Drew, uma detetive adolescente que segue seu pai numa viagem de negócios a Los Angeles. Lá, ela descobre pistas que podem levá-la a solucionar o misterioso assassinato envolvendo uma grande estrela de cinema.(n)</desc>
+  </programme>
+  <programme start="20200707052300 -0300" stop="20200707070800 -0300" channel="HBO Family HD">
+    <title lang="pt">Os Futeboleiros</title>
+    <desc lang="pt">Francisco e seu time de futebol vão mal das pernas: caso não vença uma de três partidas, a equipe será desfeita.(n)</desc>
+  </programme>
+  <programme start="20200707070800 -0300" stop="20200707083800 -0300" channel="HBO Family HD">
+    <title lang="pt">O Anjo da Guarda</title>
+    <desc lang="pt">Acreditando que seus pais não lhe dão atenção, garoto decide fugir de casa e ir em busca dos pais ideais, onde passará pela mais incríveis aventuras.(n)</desc>
+  </programme>
+  <programme start="20200707083800 -0300" stop="20200707100500 -0300" channel="HBO Family HD">
+    <title lang="pt">Dally e Spanky: Uma Amizade Improvável</title>
+    <desc lang="pt">Addy e Ella são meias-irmãs com muito pouco em comum. Mas após a morte de seu pai, Addy se aproxima de Ella graças à curiosa amizade formada entre o pequeno Jack Russell Terrier da família.(n)</desc>
+  </programme>
+  <programme start="20200707100500 -0300" stop="20200707112200 -0300" channel="HBO Family HD">
+    <title lang="pt">O Bicho Vai Pegar 3</title>
+    <desc lang="pt">Os amigos de Boog preferem cuidar de obrigações familiares a participar de sua viagem. Boog, fica desapontado e resolve fazer a viagem sozinho. Assim, ele vai parar dentro de um picadeiro de circo.(n)</desc>
+  </programme>
+  <programme start="20200707112200 -0300" stop="20200707125600 -0300" channel="HBO Family HD">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <desc lang="pt">O esquilo Surly e seus amigos vivem no bem-bom numa loja de nozes abandonada. Certo dia, após um acidente, precisam deixar seu lar e voltar para as árvores do Liberty Park.(n)</desc>
+  </programme>
+  <programme start="20200707125600 -0300" stop="20200707144500 -0300" channel="HBO Family HD">
+    <title lang="pt">Caçadora de Gigantes</title>
+    <desc lang="pt">Bárbara Thorson é uma garota rebelde e solitária que prefere o mundo de calabouços e dragões ao mundo real.(n)</desc>
+  </programme>
+  <programme start="20200707144500 -0300" stop="20200707164000 -0300" channel="HBO Family HD">
+    <title lang="pt">Winter - O Golfinho</title>
+    <desc lang="pt">Winter, O Golfinho  é inspirado na impressionante história real de um corajoso golfinho e da compaixão de estranhos que se uniram para salvar sua vida.(n)</desc>
+  </programme>
+  <programme start="20200707164000 -0300" stop="20200707181500 -0300" channel="HBO Family HD">
+    <title lang="pt">Show Dogs: O Agente Canino</title>
+    <desc lang="pt">Max, um cachorro policial machão, se junta a Frank, um humano agente do FBI, e se infiltra todo enfeitado num prestigioso concurso de cães para desmascarar uma gangue de contrabando de animais.(n)</desc>
+  </programme>
+  <programme start="20200707181500 -0300" stop="20200707190700 -0300" channel="HBO Family HD">
+    <title lang="pt">Missões de Vida - S1E2</title>
+    <desc lang="pt">Missões de Vida é uma série que retrata pessoas que têm missões muito fortes, que se dedicam de corpo e alma, durante uma vida inteira, para resolver um problema social.(n)</desc>
+  </programme>
+  <programme start="20200707190700 -0300" stop="20200707200000 -0300" channel="HBO Family HD">
+    <title lang="pt">Missões de Vida - S1E3</title>
+    <desc lang="pt">Missões de Vida é uma série que retrata pessoas que têm missões muito fortes, que se dedicam de corpo e alma, durante uma vida inteira, para resolver um problema social.(n)</desc>
+  </programme>
+  <programme start="20200707200000 -0300" stop="20200707213300 -0300" channel="HBO Family HD">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <desc lang="pt">O esquilo Surly e seus amigos vivem no bem-bom numa loja de nozes abandonada. Certo dia, após um acidente, precisam deixar seu lar e voltar para as árvores do Liberty Park.(n)</desc>
+  </programme>
+  <programme start="20200707213300 -0300" stop="20200707232300 -0300" channel="HBO Family HD">
+    <title lang="pt">Caçadora de Gigantes</title>
+    <desc lang="pt">Bárbara Thorson é uma garota rebelde e solitária que prefere o mundo de calabouços e dragões ao mundo real.(n)</desc>
+  </programme>
+  <programme start="20200707232300 -0300" stop="20200708011800 -0300" channel="HBO Family HD">
+    <title lang="pt">Winter - O Golfinho</title>
+    <desc lang="pt">Winter, O Golfinho  é inspirado na impressionante história real de um corajoso golfinho e da compaixão de estranhos que se uniram para salvar sua vida.(n)</desc>
+  </programme>
+  <programme start="20200708011800 -0300" stop="20200708030000 -0300" channel="HBO Family HD">
+    <title lang="pt">Vice Versa</title>
+    <desc lang="pt">Após viagem de negócios à Tailândia, funcionário de loja de departamentos volta trazendo uma caveira, escondida em sua bagagem pôr  contrabandistas.(n)</desc>
+  </programme>
+  <programme start="20200708030000 -0300" stop="20200708043400 -0300" channel="HBO Family HD">
+    <title lang="pt">As Grandes Aventuras de Pee Wee</title>
+    <desc lang="pt">Pee-Wee Herman tem sua cobiçada bicicleta vermelha e branca roubada, desesperado recorre à ajuda de uma vidente para descobrir o paradeiro de seu adorado veículo de duas rodas e embarca em uma louca aventura.(n)</desc>
+  </programme>
+  <programme start="20200708043400 -0300" stop="20200708060000 -0300" channel="HBO Family HD">
+    <title lang="pt">Uma Pitada de Amor</title>
+    <desc lang="pt">Carly e Jason, dois ambiciosos chefs, se reencontram na disputa de um famoso programa de cozinha e devem decidir entre dar prioridade às suas carreiras ou dar uma oportunidade ao romance.(n)</desc>
+  </programme>
+  <programme start="20200708060000 -0300" stop="20200708075500 -0300" channel="HBO Family HD">
+    <title lang="pt">Os Goonies</title>
+    <desc lang="pt">Escrito por Steven Spielberg. Protagonizado por um grupo de amigos que partirá em uma aventura através de cavernas subterrâneas e navios afundados em busca de um tesouro pirata.(n)</desc>
+  </programme>
+  <programme start="20200708075500 -0300" stop="20200708093500 -0300" channel="HBO Family HD">
+    <title lang="pt">Um Duende em Nova York</title>
+    <desc lang="pt">Um conto de Natal moderno que lança uma nova e irreverente luz sobre o Pólo Norte. Buddy tem um espírito de natal gigante como ele. Mas, ele também é o mais desastrado dos duendes. Ele descobre que é humano e resolve achar seu pai em NY.(n)</desc>
+  </programme>
+  <programme start="20200708093500 -0300" stop="20200708110800 -0300" channel="HBO Family HD">
+    <title lang="pt">O Destino Indomável</title>
+    <desc lang="pt">Lily acredita que sua vida social está arruinada quando é obrigada a passar o verão em um rancho com sua tia que ama a natureza. Lá, ela conhece um grupo de amigos e um cavalo chamado Pistachio, e juntos eles embarcam na aventura de suas vidas.(n)</desc>
+  </programme>
+  <programme start="20200708110800 -0300" stop="20200708124700 -0300" channel="HBO Family HD">
+    <title lang="pt">A Lenda dos Guardiões</title>
+    <desc lang="pt">Quando uma jovem coruja é sequestrada por um exército malvado, deverá escapar junto com seus novos amigos para buscar os lendários Guardiões e acabar com a ameaça.(n)</desc>
+  </programme>
+  <programme start="20200708124700 -0300" stop="20200708144800 -0300" channel="HBO Family HD">
+    <title lang="pt">Quatro Amigas e um Jeans Viajante</title>
+    <desc lang="pt">Quatro amigas vão às compras e encontram uma calça jeans que, estranhamente cabe em todas. Acreditando que ela seja mágica, por se adequar aos corpos diferentes, decidem comprá-la e iniciar uma irmandade em torno da calça.(n)</desc>
+  </programme>
+  <programme start="20200708144800 -0300" stop="20200708163200 -0300" channel="HBO Family HD">
+    <title lang="pt">DUFF: Você Conhece, Tem ou É</title>
+    <desc lang="pt">A percepção que Bianca tinha sobre sua vida social desmorona quando descobre que é considerada a mais feia do seu grupo de amigas. Decidida a mudar sua imagem, recorre aos conselhos de Wesley, um atraente esportista de sua escola.(n)</desc>
+  </programme>
+  <programme start="20200708163200 -0300" stop="20200708180200 -0300" channel="HBO Family HD">
+    <title lang="pt">O Gigante de Ferro</title>
+    <desc lang="pt">Final dos anos 50. Hogarth, 9 anos, é fascinado por ficção científica. Ao saber que um gigante caiu do céu ,perto do lago, ele não sossega até resgatá-lo. O robô alienígena é gentil e quer aprender tudo sobre os humanos.(n)</desc>
+  </programme>
+  <programme start="20200708180200 -0300" stop="20200708185500 -0300" channel="HBO Family HD">
+    <title lang="pt">Missões de Vida - S1E3</title>
+    <desc lang="pt">Missões de Vida é uma série que retrata pessoas que têm missões muito fortes, que se dedicam de corpo e alma, durante uma vida inteira, para resolver um problema social.(n)</desc>
+  </programme>
+  <programme start="20200708185500 -0300" stop="20200708193000 -0300" channel="HBO Family HD">
+    <title lang="pt">Clubversão Latino - S1E11</title>
+    <desc lang="pt">Músicos latinos que conquistaram notoriedade em seus países e no mundo se reúnem com artistas brasileiros para criar, em apenas um dia, uma nova versão de uma música emblemática.(n)</desc>
+  </programme>
+  <programme start="20200708193000 -0300" stop="20200708200600 -0300" channel="HBO Family HD">
+    <title lang="pt">Clubversão Latino - S1E12</title>
+    <desc lang="pt">Músicos latinos que conquistaram notoriedade em seus países e no mundo se reúnem com artistas brasileiros para criar, em apenas um dia, uma nova versão de uma música emblemática.(n)</desc>
+  </programme>
+  <programme start="20200708200600 -0300" stop="20200708214600 -0300" channel="HBO Family HD">
+    <title lang="pt">A Lenda dos Guardiões</title>
+    <desc lang="pt">Quando uma jovem coruja é sequestrada por um exército malvado, deverá escapar junto com seus novos amigos para buscar os lendários Guardiões e acabar com a ameaça.(n)</desc>
+  </programme>
+  <programme start="20200708214600 -0300" stop="20200708233200 -0300" channel="HBO Family HD">
+    <title lang="pt">O Verão da Minha Vida</title>
+    <desc lang="pt">Duncan é um adolescente tímido que não está indo muito bem na casa de verão do padrasto, um homem insuportável e muito duro com ele. Inesperadamente, encontrará um lugar maravilhoso, onde será mais feliz com amigos incomparáveis.(n)</desc>
+  </programme>
+  <programme start="20200708233200 -0300" stop="20200709012100 -0300" channel="HBO Family HD">
+    <title lang="pt">Casi Divas</title>
+    <desc lang="pt">Quatro mulheres de lugares diferentes do México vão se dedicar a conseguir o papel principal no novo filme de Alejando Mateos, o maior produtor de cinema do país.(n)</desc>
+  </programme>
+  <programme start="20200709012100 -0300" stop="20200709030500 -0300" channel="HBO Family HD">
+    <title lang="pt">DUFF: Você Conhece, Tem ou É</title>
+    <desc lang="pt">A percepção que Bianca tinha sobre sua vida social desmorona quando descobre que é considerada a mais feia do seu grupo de amigas. Decidida a mudar sua imagem, recorre aos conselhos de Wesley, um atraente esportista de sua escola.(n)</desc>
+  </programme>
+  <programme start="20200709030500 -0300" stop="20200709045700 -0300" channel="HBO Family HD">
+    <title lang="pt">Lições Para Toda a Vida</title>
+    <desc lang="pt">Garoto tímido vai passar o verão na fazenda de dois tios que ele mal conhece. Segredos do passado fazem com que o garoto se aproxime cada vez mais deles.(n)</desc>
+  </programme>
+  <programme start="20200709045700 -0300" stop="20200709070700 -0300" channel="HBO Family HD">
+    <title lang="pt">Karatê Kid - A Hora da Verdade</title>
+    <desc lang="pt">Daniel e sua mãe se mudam de Nova Jersey para o sul da Califórnia, mas Daniel não consegue se adaptar à nova vida.(n)</desc>
+  </programme>
+  <programme start="20200709070700 -0300" stop="20200709083300 -0300" channel="HBO Family HD">
+    <title lang="pt">Os Jovens Titãs em Ação! Nos Cinemas</title>
+    <desc lang="pt">Todos os grandes super-heróis de DC já estrelaram seus próprios filmes... Exceto pelos Jovens Titãs. Para remediar a situação, Robin e o time viajam para Hollywood para achar um diretor.(n)</desc>
+  </programme>
+  <programme start="20200709083300 -0300" stop="20200709100300 -0300" channel="HBO Family HD">
+    <title lang="pt">O Anjo da Guarda</title>
+    <desc lang="pt">Acreditando que seus pais não lhe dão atenção, garoto decide fugir de casa e ir em busca dos pais ideais, onde passará pela mais incríveis aventuras.(n)</desc>
+  </programme>
+  <programme start="20200709100300 -0300" stop="20200709113600 -0300" channel="HBO Family HD">
+    <title lang="pt">A Fuga do Planeta Terra</title>
+    <desc lang="pt">Scorch Supernova é o maior herói do planeta Baab. Especialista em missões impossíveis, é famoso em todo o universo. Ele um dia tenta socorrer o sombrio e perigoso planeta Terra e acaba capturado. Gary, seu tímido irmão, precisará resgatá-lo.(n)</desc>
+  </programme>
+  <programme start="20200709113600 -0300" stop="20200709131700 -0300" channel="HBO Family HD">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <desc lang="pt">Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro.(n)</desc>
+  </programme>
+  <programme start="20200709131700 -0300" stop="20200709145900 -0300" channel="HBO Family HD">
+    <title lang="pt">Férias no Trailer</title>
+    <desc lang="pt">Desejando descansar, um homem decide levar sua família para uma viagem pelo Colorado a bordo de um trailer. Só que sua família não gosta da idéia.(n)</desc>
+  </programme>
+  <programme start="20200709145900 -0300" stop="20200709170100 -0300" channel="HBO Family HD">
+    <title lang="pt">Quatro Amigas e um Jeans Viajante</title>
+    <desc lang="pt">Quatro amigas vão às compras e encontram uma calça jeans que, estranhamente cabe em todas. Acreditando que ela seja mágica, por se adequar aos corpos diferentes, decidem comprá-la e iniciar uma irmandade em torno da calça.(n)</desc>
+  </programme>
+  <programme start="20200709170100 -0300" stop="20200709182800 -0300" channel="HBO Family HD">
+    <title lang="pt">Os Jovens Titãs em Ação! Nos Cinemas</title>
+    <desc lang="pt">Todos os grandes super-heróis de DC já estrelaram seus próprios filmes... Exceto pelos Jovens Titãs. Para remediar a situação, Robin e o time viajam para Hollywood para achar um diretor.(n)</desc>
+  </programme>
+  <programme start="20200709182800 -0300" stop="20200709200000 -0300" channel="HBO Family HD">
+    <title lang="pt">A Fuga do Planeta Terra</title>
+    <desc lang="pt">Scorch Supernova é o maior herói do planeta Baab. Especialista em missões impossíveis, é famoso em todo o universo. Ele um dia tenta socorrer o sombrio e perigoso planeta Terra e acaba capturado. Gary, seu tímido irmão, precisará resgatá-lo.(n)</desc>
+  </programme>
+  <programme start="20200709200000 -0300" stop="20200709212000 -0300" channel="HBO Family HD">
+    <title lang="pt">Liga da Justiça: Os Cinco Fatais</title>
+    <desc lang="pt">O destino da Terra está por um fio quando um grupo de criminosos com o poder de viajar no tempo chega a Metrópolis em busca da nova Lanterna Verde, Jessica Cruz, para libertar os criminosos Imperatriz Esmeralda e Validus.(n)</desc>
+  </programme>
+  <programme start="20200709212000 -0300" stop="20200709230000 -0300" channel="HBO Family HD">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <desc lang="pt">Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro.(n)</desc>
+  </programme>
+  <programme start="20200709230000 -0300" stop="20200710010300 -0300" channel="HBO Family HD">
+    <title lang="pt">Preto ou Branco</title>
+    <desc lang="pt">Elliot é um avô que cria sua neta Eloise após a trágica morte de sua mãe. Os problemas começam quando Rowena, a avó paterna da menina, exige a custódia de Eloise e começa uma disputa entre as duas famílias.(n)</desc>
+  </programme>
+  <programme start="20200710010300 -0300" stop="20200710024100 -0300" channel="HBO Family HD">
+    <title lang="pt">Dennis, O Pimentinha</title>
+    <desc lang="pt">Dennis é um garoto muito inteligente e inquieto que sempre está metido em confusões. O vizinho dele, Sr. Wilson, costuma ser vítima de suas travessuras. Tudo se complica quando um marginal sequestra o garoto.(n)</desc>
+  </programme>
+  <programme start="20200710024100 -0300" stop="20200710031300 -0300" channel="HBO Family HD">
+    <title lang="pt">O Que Aconteceu em 11 de Setembro</title>
+    <desc lang="pt">A HBO se junta ao 9/11 Tribute Museum para oferecer uma maneira mais fácil para as crianças aprenderem sobre os ataques de 11 de setembro e seu impacto na cidade.(n)</desc>
+  </programme>
+  <programme start="20200710031300 -0300" stop="20200710050300 -0300" channel="HBO Family HD">
+    <title lang="pt">Karatê Kid 4 - A Nova Aventura</title>
+    <desc lang="pt">Nesta nova aventura, o mestre em artes marciais Mr. Miyagy vai ajudar a neta de um velho amigo dos tempos da guerra.(n)</desc>
+  </programme>
+  <programme start="20200710050300 -0300" stop="20200710062300 -0300" channel="HBO Family HD">
+    <title lang="pt">Liga da Justiça: Os Cinco Fatais</title>
+    <desc lang="pt">O destino da Terra está por um fio quando um grupo de criminosos com o poder de viajar no tempo chega a Metrópolis em busca da nova Lanterna Verde, Jessica Cruz, para libertar os criminosos Imperatriz Esmeralda e Validus.(n)</desc>
+  </programme>
+  <programme start="20200710062300 -0300" stop="20200710080500 -0300" channel="HBO Family HD">
+    <title lang="pt">Nancy Drew - E o Mistério de Hollywood</title>
+    <desc lang="pt">Nancy Drew, uma detetive adolescente que segue seu pai numa viagem de negócios a Los Angeles. Lá, ela descobre pistas que podem levá-la a solucionar o misterioso assassinato envolvendo uma grande estrela de cinema.(n)</desc>
+  </programme>
+  <programme start="20200710080500 -0300" stop="20200710094000 -0300" channel="HBO Family HD">
+    <title lang="pt">Licença para Casar</title>
+    <desc lang="pt">Um casal pretende se casar, mas a tradicional igreja da família dela apenas realizará a cerimônia se ambos passarem por um curso de preparação de noivos. Mas as aulas ultrajantes, põe em risco o relacionamento entre eles.(n)</desc>
+  </programme>
+  <programme start="20200710094000 -0300" stop="20200710112700 -0300" channel="HBO Family HD">
+    <title lang="pt">Pokémon: Detetive Pikachu</title>
+    <desc lang="pt">Um jovem não muito fã dos Pokémon acaba se unindo a um adorável e engraçado Pikachu com a extraordinária capacidade de se comunicar apenas com ele para sair em busca de seu pai desaparecido.(n)</desc>
+  </programme>
+  <programme start="20200710112700 -0300" stop="20200710132000 -0300" channel="HBO Family HD">
+    <title lang="pt">Agente 86</title>
+    <desc lang="pt">Depois do ataque à sede da CONTROL, agência secreta de espionagem norte-americana, o Agente 86, Maxwell Smart, e a sexy Agente 99 deverão salvar o mundo do mal gerado pela KAOS, a agência rival.(n)</desc>
+  </programme>
+  <programme start="20200710132000 -0300" stop="20200710145000 -0300" channel="HBO Family HD">
+    <title lang="pt">Casamento Real</title>
+    <desc lang="pt">O Rei da Voldavia quer encontrar uma noiva para o filho, Príncipe Sebastian, a tempo de uma importante celebração nacional. Ele então contrata Kate, uma especialista em formar casais, mas ela se complica ao se apaixonar pelo herdeiro do trono.(n)</desc>
+  </programme>
+  <programme start="20200710145000 -0300" stop="20200710163800 -0300" channel="HBO Family HD">
+    <title lang="pt">Sem Reservas</title>
+    <desc lang="pt">Kate Armstrong é a chef de um restaurante famoso. O mundo dela se transforma quando passa a cuidar da sua sobrinha Zoe e conhece Nick Palme, um novo cozinheiro do restaurante.(n)</desc>
+  </programme>
+  <programme start="20200710163800 -0300" stop="20200710181300 -0300" channel="HBO Family HD">
+    <title lang="pt">Show Dogs: O Agente Canino</title>
+    <desc lang="pt">Max, um cachorro policial machão, se junta a Frank, um humano agente do FBI, e se infiltra todo enfeitado num prestigioso concurso de cães para desmascarar uma gangue de contrabando de animais.(n)</desc>
+  </programme>
+  <programme start="20200710181300 -0300" stop="20200710200000 -0300" channel="HBO Family HD">
+    <title lang="pt">Pokémon: Detetive Pikachu</title>
+    <desc lang="pt">Um jovem não muito fã dos Pokémon acaba se unindo a um adorável e engraçado Pikachu com a extraordinária capacidade de se comunicar apenas com ele para sair em busca de seu pai desaparecido.(n)</desc>
+  </programme>
+  <programme start="20200710200000 -0300" stop="20200710215800 -0300" channel="HBO Family HD">
+    <title lang="pt">MIB - Homens de Preto Internacional</title>
+    <desc lang="pt">É uma hora difícil para o mundo. Com a ameaça de uma arma de destruição em massa, mais a suspeita de um informante dentro da Homens de Preto, a nova recruta, Agente M, e seu supervisor, Agente H, correm contra o tempo para manter a paz planetária.(n)</desc>
+  </programme>
+  <programme start="20200710215800 -0300" stop="20200710235100 -0300" channel="HBO Family HD">
+    <title lang="pt">Agente 86</title>
+    <desc lang="pt">Depois do ataque à sede da CONTROL, agência secreta de espionagem norte-americana, o Agente 86, Maxwell Smart, e a sexy Agente 99 deverão salvar o mundo do mal gerado pela KAOS, a agência rival.(n)</desc>
+  </programme>
+  <programme start="20200710235100 -0300" stop="20200711011900 -0300" channel="HBO Family HD">
+    <title lang="pt">O Mistério de Hailey Dean: 2 + 2 = Assassinato</title>
+    <desc lang="pt">Hailey assiste ao recital da sobrinha na escola apenas para descobrir que o amado professor de música desapareceu. Hailey logo descobre vários segredos surpreendentes entre os funcionários.(n)</desc>
+  </programme>
+  <programme start="20200711011900 -0300" stop="20200711031700 -0300" channel="HBO Family HD">
+    <title lang="pt">MIB - Homens de Preto Internacional</title>
+    <desc lang="pt">É uma hora difícil para o mundo. Com a ameaça de uma arma de destruição em massa, mais a suspeita de um informante dentro da Homens de Preto, a nova recruta, Agente M, e seu supervisor, Agente H, correm contra o tempo para manter a paz planetária.(n)</desc>
+  </programme>
+  <programme start="20200711031700 -0300" stop="20200711050600 -0300" channel="HBO Family HD">
+    <title lang="pt">Idênticos: Dois Destinos Cruzados Por Um Sonho</title>
+    <desc lang="pt">Em 1935, época da Grande Depressão, um casal do Alabama se vê obrigado a separar seus filhos gêmeos recém-nascidos porque só podem criar um. Mas a vida e a música se encarregam de uni-los muitos anos depois.(n)</desc>
+  </programme>
+  <programme start="20200711050600 -0300" stop="20200711064100 -0300" channel="HBO Family HD">
+    <title lang="pt">Show Dogs: O Agente Canino</title>
+    <desc lang="pt">Max, um cachorro policial machão, se junta a Frank, um humano agente do FBI, e se infiltra todo enfeitado num prestigioso concurso de cães para desmascarar uma gangue de contrabando de animais.(n)</desc>
+  </programme>
+  <programme start="20200711064100 -0300" stop="20200711081200 -0300" channel="HBO Family HD">
+    <title lang="pt">Babá de Natal</title>
+    <desc lang="pt">lly é uma mulher de carreira, esperta e jovem, que precisa de um novo emprego. Samantha é uma executiva/mãe do ramo da publicidade da movimentada Beverly Hills.(n)</desc>
+  </programme>
+  <programme start="20200711081200 -0300" stop="20200711094600 -0300" channel="HBO Family HD">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <desc lang="pt">O esquilo Surly e seus amigos vivem no bem-bom numa loja de nozes abandonada. Certo dia, após um acidente, precisam deixar seu lar e voltar para as árvores do Liberty Park.(n)</desc>
+  </programme>
+  <programme start="20200711094600 -0300" stop="20200711111500 -0300" channel="HBO Family HD">
+    <title lang="pt">O Bicho Vai Pegar</title>
+    <desc lang="pt">Boog é um urso pardo domesticado, feliz e sem qualquer instinto de sobrevivência. Mas sua vida muda quando conhece Elliot, um alce magro que o convence a sair de casa para experimentar o sabor da natureza.(n)</desc>
+  </programme>
+  <programme start="20200711111500 -0300" stop="20200711125500 -0300" channel="HBO Family HD">
+    <title lang="pt">Pé Pequeno</title>
+    <desc lang="pt">Um Yet, mas conheido como abominável homem das neves, está convencido de que as criações indescritíveis conhecidas como "humanos" realmente existem.(n)</desc>
+  </programme>
+  <programme start="20200711125500 -0300" stop="20200711143500 -0300" channel="HBO Family HD">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <desc lang="pt">Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro.(n)</desc>
+  </programme>
+  <programme start="20200711143500 -0300" stop="20200711163700 -0300" channel="HBO Family HD">
+    <title lang="pt">Mais Que Vencedores</title>
+    <desc lang="pt">Após uma crise econômica esvaziar a cidade em que vive e desfazer seus sonhos de ser campeão, um treinador de basquete do ensino médio se voluntaria para treinar um adolescente problemático em corridas de longa distância.(n)</desc>
+  </programme>
+  <programme start="20200711163700 -0300" stop="20200711182600 -0300" channel="HBO Family HD">
+    <title lang="pt">Caçadora de Gigantes</title>
+    <desc lang="pt">Bárbara Thorson é uma garota rebelde e solitária que prefere o mundo de calabouços e dragões ao mundo real.(n)</desc>
+  </programme>
+  <programme start="20200711182600 -0300" stop="20200711200000 -0300" channel="HBO Family HD">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <desc lang="pt">O esquilo Surly e seus amigos vivem no bem-bom numa loja de nozes abandonada. Certo dia, após um acidente, precisam deixar seu lar e voltar para as árvores do Liberty Park.(n)</desc>
+  </programme>
+  <programme start="20200711200000 -0300" stop="20200711214000 -0300" channel="HBO Family HD">
+    <title lang="pt">Pé Pequeno</title>
+    <desc lang="pt">Um Yet, mas conheido como abominável homem das neves, está convencido de que as criações indescritíveis conhecidas como "humanos" realmente existem.(n)</desc>
+  </programme>
+  <programme start="20200711214000 -0300" stop="20200711232100 -0300" channel="HBO Family HD">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <desc lang="pt">Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro.(n)</desc>
+  </programme>
+  <programme start="20200711232100 -0300" stop="20200712011600 -0300" channel="HBO Family HD">
+    <title lang="pt">A Incrível História de Adaline</title>
+    <desc lang="pt">Adaline Bowman nasceu na virada do século XX. Ela tinha uma vida normal até sofrer um grave acidente de carro. Desde então, ela, milagrosamente, não consegue mais envelhecer, se tornando um ser imortal com a aparência de 29 anos.(n)</desc>
   </programme>
 </tv>
