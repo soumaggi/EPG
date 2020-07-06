@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Band HD" tvg-logo="http://z4.vc/SV1" group-title="Canais | Abertos",Band SD
 http://psrv.io:80/08453490068/snakeplay/22242
-#EXTINF:-1 tvg-id="Band SD" tvg-logo="http://z4.vc/X0u" group-title="Canais | Abertos",Band SP HD
+#EXTINF:-1 tvg-logo="http://z4.vc/X0u" group-title="Canais | Abertos",Band SP HD
 http://psrv.io:80/08453490068/snakeplay/18727
-#EXTINF:-1 tvg-id="Band SD" tvg-logo="http://z4.vc/xaf" group-title="Canais | Abertos",Band SP SD
+#EXTINF:-1 tvg-id="Band SP HD" tvg-logo="http://z4.vc/xaf" group-title="Canais | Abertos",Band SP SD
 http://psrv.io:80/08453490068/snakeplay/18728
 #EXTINF:-1 tvg-logo="http://z4.vc/0Tm" group-title="Canais | Abertos",Cancao Nova HD
 http://psrv.io:80/08453490068/snakeplay/48700
 #EXTINF:-1 tvg-id="Cancao Nova HD" tvg-logo="http://z4.vc/0Tm" group-title="Canais | Abertos",Cancao Nova SD
 http://psrv.io:80/08453490068/snakeplay/18713
-#EXTINF:-1 tvg-logo="http://z4.vc/BEU" group-title="Canais | Abertos",Cultura HD
+#EXTINF:-1 tvg-logo="http://z4.vc/BEU" group-title="Canais | Abertos",TV Cultura HD
 http://psrv.io:80/08453490068/snakeplay/18505
-#EXTINF:-1 tvg-id="Cultura HD" tvg-logo="http://z4.vc/7FM" group-title="Canais | Abertos",Cultura SD
+#EXTINF:-1 tvg-id="TV Cultura HD" tvg-logo="http://z4.vc/7FM" group-title="Canais | Abertos",TV Cultura SD
 http://psrv.io:80/08453490068/snakeplay/18506
-#EXTINF:-1 tvg-logo="http://z4.vc/pqb" group-title="Canais | Abertos",EPTV Ribeirao Preto HD
+#EXTINF:-1 tvg-logo="http://z4.vc/pqb" group-title="Canais | Abertos",EPTV Ribeirão HD
 http://psrv.io:80/08453490068/snakeplay/18430
-#EXTINF:-1 tvg-id="EPTV Ribeirao Preto HD" tvg-logo="http://z4.vc/5Uj" group-title="Canais | Abertos",EPTV Ribeirao Preto SD
+#EXTINF:-1 tvg-id="EPTV Ribeirão HD" tvg-logo="http://z4.vc/5Uj" group-title="Canais | Abertos",EPTV Ribeirão SD
 http://psrv.io:80/08453490068/snakeplay/18429
 #EXTINF:-1 tvg-logo="http://z4.vc/XaX" group-title="Canais | Abertos",Futura HD
 http://psrv.io:80/08453490068/snakeplay/28198
@@ -29,7 +29,7 @@ http://psrv.io:80/08453490068/snakeplay/18410
 http://psrv.io:80/08453490068/snakeplay/18411
 #EXTINF:-1 tvg-logo="http://z4.vc/MsE" group-title="Canais | Abertos",RecordTV SP HD
 http://psrv.io:80/08453490068/snakeplay/18575
-#EXTINF:-1 tvg-id="RecordTV HD" tvg-logo="http://z4.vc/BKM" group-title="Canais | Abertos",RecordTV SP SD
+#EXTINF:-1 tvg-id="RecordTV SP HD" tvg-logo="http://z4.vc/BKM" group-title="Canais | Abertos",RecordTV SP SD
 http://psrv.io:80/08453490068/snakeplay/18579
 #EXTINF:-1 tvg-logo="http://z4.vc/RnA" group-title="Canais | Abertos",Rede Brasil SD
 http://psrv.io:80/08453490068/snakeplay/18574
@@ -343,7 +343,7 @@ http://psrv.io:80/08453490068/snakeplay/18718
 http://psrv.io:80/08453490068/snakeplay/18719
 #EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais | Infantis",Cartoon Network HD
 http://psrv.io:80/08453490068/snakeplay/18711
-#EXTINF:-1 Cartoon Network HD" tvg-logo="http://z4.vc/BjV" group-title="Canais | Infantis",Cartoon Network SD
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="http://z4.vc/BjV" group-title="Canais | Infantis",Cartoon Network SD
 http://psrv.io:80/08453490068/snakeplay/18712
 #EXTINF:-1 tvg-logo="http://z4.vc/N8Y" group-title="Canais | Infantis",Discovery Kids HD
 http://psrv.io:80/08453490068/snakeplay/22325
@@ -475,7 +475,7 @@ http://psrv.io:80/08453490068/snakeplay/18726
 http://psrv.io:80/08453490068/snakeplay/47358
 #EXTINF:-1 tvg-id="CNN Brasil HD" tvg-logo="http://z4.vc/Ibt" group-title="Canais | Notícias",CNN Brasil SD
 http://psrv.io:80/08453490068/snakeplay/47359
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",CNN Internacional
+#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",CNN Internacional HD
 http://psrv.io:80/08453490068/snakeplay/26438
 #EXTINF:-1 tvg-logo="http://z4.vc/4gV" group-title="Canais | Notícias",Globo News HD
 http://psrv.io:80/08453490068/snakeplay/18651
