@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Band SD" tvg-logo="http://z4.vc/SV1" group-title="Canais | Abertos",Band SD
+#EXTINF:-1 tvg-id="Band HD" tvg-logo="http://z4.vc/SV1" group-title="Canais | Abertos",Band SD
 http://psrv.io:80/08453490068/snakeplay/22242
 #EXTINF:-1 tvg-id="Band SD" tvg-logo="http://z4.vc/X0u" group-title="Canais | Abertos",Band SP HD
 http://psrv.io:80/08453490068/snakeplay/18727
@@ -205,9 +205,9 @@ http://psrv.io:80/08453490068/snakeplay/18639
 http://psrv.io:80/08453490068/snakeplay/18623
 #EXTINF:-1 tvg-id="HBO Mundi HD" tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Mundi SD
 http://psrv.io:80/08453490068/snakeplay/45135
-#EXTINF:-1 tvg-logo="http://z4.vc/oZI" group-title="Canais | Filmes e Séries",HBO Plus HD
+#EXTINF:-1 tvg-logo="http://z4.vc/oZI" group-title="Canais | Filmes e Séries",HBO + HD
 http://psrv.io:80/08453490068/snakeplay/18635
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-logo="http://z4.vc/Gg9" group-title="Canais | Filmes e Séries",HBO Plus SD
+#EXTINF:-1 tvg-id="HBO + HD" tvg-logo="http://z4.vc/Gg9" group-title="Canais | Filmes e Séries",HBO + SD
 http://psrv.io:80/08453490068/snakeplay/18636
 #EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | Filmes e Séries",HBO Pop HD
 http://psrv.io:80/08453490068/snakeplay/45148
