@@ -5,7 +5,7 @@ http://srvx.io:80/08453490068/snakeplay/42976
 http://srvx.io:80/08453490068/snakeplay/1896
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP HD
 http://srvx.io:80/08453490068/snakeplay/1895
-#EXTINF:-1 tvg-logo="http://a5.vc/rkF" group-title="Canais | Abertos",Cancao Nova SD
+#EXTINF:-1 tvg-id="Cancao Nova HD" tvg-logo="http://a5.vc/rkF" group-title="Canais | Abertos",Cancao Nova SD
 http://srvx.io:80/08453490068/snakeplay/1881
 #EXTINF:-1 tvg-logo="http://a5.vc/8XD" group-title="Canais | Abertos",TV Cultura HD
 http://srvx.io:80/08453490068/snakeplay/1674
@@ -29,7 +29,7 @@ http://srvx.io:80/08453490068/snakeplay/1615
 http://srvx.io:80/08453490068/snakeplay/1743
 #EXTINF:-1 tvg-id="RecordTV SP HD" tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP SD
 http://srvx.io:80/08453490068/snakeplay/1747
-#EXTINF:-1 tvg-logo="http://a5.vc/XSK" group-title="Canais | Abertos",Rede Brasil SD
+#EXTINF:-1 tvg-id="Rede Brasil HD" tvg-logo="http://a5.vc/XSK" group-title="Canais | Abertos",Rede Brasil SD
 http://srvx.io:80/08453490068/snakeplay/1742
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Abertos",Rede Vida HD
 http://srvx.io:80/08453490068/snakeplay/1673
