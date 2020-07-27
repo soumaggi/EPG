@@ -325,7 +325,7 @@ http://srvx.io:80/08453490068/snakeplay/1859
 http://srvx.io:80/08453490068/snakeplay/1860
 #EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World HD
 http://srvx.io:80/08453490068/snakeplay/1855
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World SD
+#EXTINF:-1 tvg-id="Discovery world HD" tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World SD
 http://srvx.io:80/08453490068/snakeplay/1856
 #EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 HD
 http://srvx.io:80/08453490068/snakeplay/1811
@@ -347,151 +347,151 @@ http://srvx.io:80/08453490068/snakeplay/1773
 http://srvx.io:80/08453490068/snakeplay/1690
 #EXTINF:-1 tvg-id="TruTV HD" tvg-logo="http://a5.vc/UcW" group-title="Canais | Documentários",TruTV SD
 http://srvx.io:80/08453490068/snakeplay/1691
-#EXTINF:-1 tvg-logo="http://a5.vc/Te6" group-title="Canais | Infantis",BabyTV SD
+#EXTINF:-1 tvg-id="BabyTV HD" tvg-logo="http://a5.vc/Te6" group-title="Canais | Infantis",BabyTV SD
 http://srvx.io:80/08453490068/snakeplay/1897
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews HD
-http://srvx.io:80/08453490068/snakeplay/1893
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews SD
-http://srvx.io:80/08453490068/snakeplay/1894
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",BandSports HD
-http://srvx.io:80/08453490068/snakeplay/1891
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",BandSports SD
-http://srvx.io:80/08453490068/snakeplay/1892
 #EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang HD
 http://srvx.io:80/08453490068/snakeplay/1886
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang SD
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang SD
 http://srvx.io:80/08453490068/snakeplay/1887
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network HD
 http://srvx.io:80/08453490068/snakeplay/1879
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network SD
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network SD
 http://srvx.io:80/08453490068/snakeplay/1880
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil HD
-http://srvx.io:80/08453490068/snakeplay/41606
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil SD
-http://srvx.io:80/08453490068/snakeplay/41607
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate HD
-http://srvx.io:80/08453490068/snakeplay/1875
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate SD
-http://srvx.io:80/08453490068/snakeplay/1876
 #EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids HD
 http://srvx.io:80/08453490068/snakeplay/1863
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids SD
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids SD
 http://srvx.io:80/08453490068/snakeplay/1864
 #EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel HD
 http://srvx.io:80/08453490068/snakeplay/1853
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel SD
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel SD
 http://srvx.io:80/08453490068/snakeplay/1854
 #EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior HD
 http://srvx.io:80/08453490068/snakeplay/1678
-#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior SD
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior SD
 http://srvx.io:80/08453490068/snakeplay/1852
 #EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis",Disney XD HD
 http://srvx.io:80/08453490068/snakeplay/43773
-#EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis",Disney XD SD
+#EXTINF:-1 tvg-id="Disney XD HD" tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis",Disney XD SD
 http://srvx.io:80/08453490068/snakeplay/1851
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 HD
-http://srvx.io:80/08453490068/snakeplay/1846
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 SD
-http://srvx.io:80/08453490068/snakeplay/1847
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil HD
-http://srvx.io:80/08453490068/snakeplay/1844
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil SD
-http://srvx.io:80/08453490068/snakeplay/1845
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra HD
-http://srvx.io:80/08453490068/snakeplay/1842
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra SD
-http://srvx.io:80/08453490068/snakeplay/1843
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN HD
-http://srvx.io:80/08453490068/snakeplay/1841
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN SD
-http://srvx.io:80/08453490068/snakeplay/1848
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 HD
-http://srvx.io:80/08453490068/snakeplay/1825
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 SD
-http://srvx.io:80/08453490068/snakeplay/1826
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports HD
-http://srvx.io:80/08453490068/snakeplay/1827
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports SD
-http://srvx.io:80/08453490068/snakeplay/1828
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News HD
-http://srvx.io:80/08453490068/snakeplay/1819
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News SD
-http://srvx.io:80/08453490068/snakeplay/1820
 #EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob HD
 http://srvx.io:80/08453490068/snakeplay/1817
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob SD
+#EXTINF:-1 tvg-id="Gloob HD" tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob SD
 http://srvx.io:80/08453490068/snakeplay/1818
 #EXTINF:-1 tvg-logo="http://a5.vc/5dW" group-title="Canais | Infantis",Gloobinho HD
 http://srvx.io:80/08453490068/snakeplay/1816
-#EXTINF:-1 tvg-logo="http://a5.vc/5dW" group-title="Canais | Infantis",Gloobinho SD
+#EXTINF:-1 tvg-id="Gloobinho HD" tvg-logo="http://a5.vc/5dW" group-title="Canais | Infantis",Gloobinho SD
 http://srvx.io:80/08453490068/snakeplay/1815
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",NatGeo Kids HD
 http://srvx.io:80/08453490068/snakeplay/1775
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",NatGeo Kids SD
+#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",NatGeo Kids SD
 http://srvx.io:80/08453490068/snakeplay/1776
 #EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick HD
 http://srvx.io:80/08453490068/snakeplay/1768
+#EXTINF:-1 tvg-id="Nick HD" tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick SD
+http://srvx.io:80/08453490068/snakeplay/1769
 #EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr HD
 http://srvx.io:80/08453490068/snakeplay/1770
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr SD
+#EXTINF:-1 tvg-id="Nick Jr HD" tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr SD
 http://srvx.io:80/08453490068/snakeplay/1771
-#EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick SD
-http://srvx.io:80/08453490068/snakeplay/1769
 #EXTINF:-1 tvg-logo="http://a5.vc/UJY" group-title="Canais | Infantis",PlayKids HD
 http://srvx.io:80/08453490068/snakeplay/1668
-#EXTINF:-1 tvg-logo="http://a5.vc/UJY" group-title="Canais | Infantis",PlayKids SD
+#EXTINF:-1 tvg-id="PlayKids HD" tvg-logo="http://a5.vc/UJY" group-title="Canais | Infantis",PlayKids SD
 http://srvx.io:80/08453490068/snakeplay/1667
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 HD
-http://srvx.io:80/08453490068/snakeplay/1762
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 SD
-http://srvx.io:80/08453490068/snakeplay/1763
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 HD
-http://srvx.io:80/08453490068/snakeplay/1760
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 SD
-http://srvx.io:80/08453490068/snakeplay/1761
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 HD
-http://srvx.io:80/08453490068/snakeplay/1758
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 SD
-http://srvx.io:80/08453490068/snakeplay/1759
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 HD
-http://srvx.io:80/08453490068/snakeplay/1756
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 SD
-http://srvx.io:80/08453490068/snakeplay/1757
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 HD
-http://srvx.io:80/08453490068/snakeplay/1754
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 SD
-http://srvx.io:80/08453490068/snakeplay/1755
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 HD
-http://srvx.io:80/08453490068/snakeplay/1752
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 SD
-http://srvx.io:80/08453490068/snakeplay/1753
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
-http://srvx.io:80/08453490068/snakeplay/1750
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
-http://srvx.io:80/08453490068/snakeplay/1751
-#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News HD
-http://srvx.io:80/08453490068/snakeplay/1745
-#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News SD
-http://srvx.io:80/08453490068/snakeplay/1746
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 HD
-http://srvx.io:80/08453490068/snakeplay/1729
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 SD
-http://srvx.io:80/08453490068/snakeplay/1730
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 HD
-http://srvx.io:80/08453490068/snakeplay/1727
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 SD
-http://srvx.io:80/08453490068/snakeplay/1728
-#EXTINF:-1 tvg-logo="" group-title="Canais | SporTV",SporTV HD
-http://srvx.io:80/08453490068/snakeplay/1726
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV SD
-http://srvx.io:80/08453490068/snakeplay/1731
 #EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis",Tooncast HD
 http://srvx.io:80/08453490068/snakeplay/2316
-#EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis",Tooncast SD
+#EXTINF:-1 tvg-id="Tooncast HD" tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis",Tooncast SD
 http://srvx.io:80/08453490068/snakeplay/1701
 #EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",TV Ra Tim Bum HD
 http://srvx.io:80/08453490068/snakeplay/1692
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum SD
+#EXTINF:-1 tvg-id="TV Ra Tim Bum HD" tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum SD
 http://srvx.io:80/08453490068/snakeplay/1693
-#EXTINF:-1 tvg-logo="http://a5.vc/aVc" group-title="Canais | Infantis",ZooMoo SD
+#EXTINF:-1 tvg-id="ZooMoo HD" tvg-logo="http://a5.vc/aVc" group-title="Canais | Infantis",ZooMoo SD
 http://srvx.io:80/08453490068/snakeplay/1653
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews HD
+http://srvx.io:80/08453490068/snakeplay/1893
+#EXTINF:-1 tvg-id="BandNews HD" tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews SD
+http://srvx.io:80/08453490068/snakeplay/1894
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil HD
+http://srvx.io:80/08453490068/snakeplay/41606
+#EXTINF:-1 CNN Brasil HD" tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil SD
+http://srvx.io:80/08453490068/snakeplay/41607
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News HD
+http://srvx.io:80/08453490068/snakeplay/1819
+#EXTINF:-1 tvg-id="Globo News HD" tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News SD
+http://srvx.io:80/08453490068/snakeplay/1820
+#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News HD
+http://srvx.io:80/08453490068/snakeplay/1745
+#EXTINF:-1 tvg-id="Record News HD" tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News SD
+http://srvx.io:80/08453490068/snakeplay/1746
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",BandSports HD
+http://srvx.io:80/08453490068/snakeplay/1891
+#EXTINF:-1 tvg-id="BandSports HD" tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",BandSports SD
+http://srvx.io:80/08453490068/snakeplay/1892
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate HD
+http://srvx.io:80/08453490068/snakeplay/1875
+#EXTINF:-1 tvg-id="Combate HD" tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate SD
+http://srvx.io:80/08453490068/snakeplay/1876
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | Esportes",ESPN HD
+http://srvx.io:80/08453490068/snakeplay/1841
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="http://a5.vc/8lJ" group-title="Canais | Esportes",ESPN SD
+http://srvx.io:80/08453490068/snakeplay/1848
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | Esportes",ESPN 2 HD
+http://srvx.io:80/08453490068/snakeplay/1846
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-logo="http://a5.vc/KCw" group-title="Canais | Esportes",ESPN 2 SD
+http://srvx.io:80/08453490068/snakeplay/1847
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | Esportes",ESPN Brasil HD
+http://srvx.io:80/08453490068/snakeplay/1844
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-logo="http://a5.vc/YpF" group-title="Canais | Esportes",ESPN Brasil SD
+http://srvx.io:80/08453490068/snakeplay/1845
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | Esportes",ESPN Extra HD
+http://srvx.io:80/08453490068/snakeplay/1842
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-logo="http://a5.vc/i1l" group-title="Canais | Esportes",ESPN Extra SD
+http://srvx.io:80/08453490068/snakeplay/1843
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports HD
+http://srvx.io:80/08453490068/snakeplay/1827
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports SD
+http://srvx.io:80/08453490068/snakeplay/1828
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 HD
+http://srvx.io:80/08453490068/snakeplay/1825
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 SD
+http://srvx.io:80/08453490068/snakeplay/1826
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 2 HD
+http://srvx.io:80/08453490068/snakeplay/1762
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 2 SD
+http://srvx.io:80/08453490068/snakeplay/1763
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 3 HD
+http://srvx.io:80/08453490068/snakeplay/1760
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 3 SD
+http://srvx.io:80/08453490068/snakeplay/1761
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 4 HD
+http://srvx.io:80/08453490068/snakeplay/1758
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 4 SD
+http://srvx.io:80/08453490068/snakeplay/1759
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 5 HD
+http://srvx.io:80/08453490068/snakeplay/1756
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 5 SD
+http://srvx.io:80/08453490068/snakeplay/1757
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 6 HD
+http://srvx.io:80/08453490068/snakeplay/1754
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 6 SD
+http://srvx.io:80/08453490068/snakeplay/1755
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 7 HD
+http://srvx.io:80/08453490068/snakeplay/1752
+#EXTINF:-1 tvg-id="Premiere 7 HD" tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 7 SD
+http://srvx.io:80/08453490068/snakeplay/1753
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere Clubes HD
+http://srvx.io:80/08453490068/snakeplay/1750
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere Clubes SD
+http://srvx.io:80/08453490068/snakeplay/1751
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | Esportes",SporTV HD
+http://srvx.io:80/08453490068/snakeplay/1726
+#EXTINF:-1 tvg-id="SporTV HD" tvg-logo="http://a5.vc/cii" group-title="Canais | Esportes",SporTV SD
+http://srvx.io:80/08453490068/snakeplay/1731
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | Esportes",SporTV 2 HD
+http://srvx.io:80/08453490068/snakeplay/1729
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-logo="http://a5.vc/YO7" group-title="Canais | Esportes",SporTV 2 SD
+http://srvx.io:80/08453490068/snakeplay/1730
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | Esportes",SporTV 3 HD
+http://srvx.io:80/08453490068/snakeplay/1727
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-logo="http://a5.vc/ybu" group-title="Canais | Esportes",SporTV 3 SD
+http://srvx.io:80/08453490068/snakeplay/1728
