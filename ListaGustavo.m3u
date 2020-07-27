@@ -223,7 +223,7 @@ http://srvx.io:80/08453490068/snakeplay/1787
 http://srvx.io:80/08453490068/snakeplay/1788
 #EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | Filmes e Séries",HBO Signature HD
 http://srvx.io:80/08453490068/snakeplay/1801
-#EXTINF:-1 tvg-id="Hbo Signature HD" tvg-logo="http://a5.vc/2N4" group-title="Canais | Filmes e Séries",HBO Signature SD
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="http://a5.vc/2N4" group-title="Canais | Filmes e Séries",HBO Signature SD
 http://srvx.io:80/08453490068/snakeplay/1802
 #EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",HBO Xtreme HD
 http://srvx.io:80/08453490068/snakeplay/1789
@@ -255,7 +255,7 @@ http://srvx.io:80/08453490068/snakeplay/1724
 http://srvx.io:80/08453490068/snakeplay/1725
 #EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Syfy HD
 http://srvx.io:80/08453490068/snakeplay/1734
-#EXTINF:-1 tvg-id="SyFy HD" tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",Syfy SD
+#EXTINF:-1 tvg-id="Syfy HD" tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",Syfy SD
 http://srvx.io:80/08453490068/snakeplay/1735
 #EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TBS HD
 http://srvx.io:80/08453490068/snakeplay/1722
@@ -265,7 +265,7 @@ http://srvx.io:80/08453490068/snakeplay/1723
 http://srvx.io:80/08453490068/snakeplay/1721
 #EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Telecine Action HD
 http://srvx.io:80/08453490068/snakeplay/1719
-#EXTINF:-1 tvg-id=Telecine Action HD" tvg-logo="http://a5.vc/BsL" group-title="Canais | Filmes e Séries",Telecine Action SD
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-logo="http://a5.vc/BsL" group-title="Canais | Filmes e Séries",Telecine Action SD
 http://srvx.io:80/08453490068/snakeplay/1720
 #EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Filmes e Séries",Telecine Cult HD
 http://srvx.io:80/08453490068/snakeplay/1717
@@ -305,12 +305,48 @@ http://srvx.io:80/08453490068/snakeplay/1681
 http://srvx.io:80/08453490068/snakeplay/1682
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet HD
 http://srvx.io:80/08453490068/snakeplay/1902
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet SD
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet SD
 http://srvx.io:80/08453490068/snakeplay/1903
 #EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 HD
 http://srvx.io:80/08453490068/snakeplay/1900
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 SD
+#EXTINF:-1 tvg-id="Arte 1 HD" tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 SD
 http://srvx.io:80/08453490068/snakeplay/1901
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel HD
+http://srvx.io:80/08453490068/snakeplay/1869
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel SD
+http://srvx.io:80/08453490068/snakeplay/1870
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science HD
+http://srvx.io:80/08453490068/snakeplay/1861
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science SD
+http://srvx.io:80/08453490068/snakeplay/1862
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater HD
+http://srvx.io:80/08453490068/snakeplay/1859
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater SD
+http://srvx.io:80/08453490068/snakeplay/1860
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World HD
+http://srvx.io:80/08453490068/snakeplay/1855
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World SD
+http://srvx.io:80/08453490068/snakeplay/1856
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 HD
+http://srvx.io:80/08453490068/snakeplay/1811
+#EXTINF:-1 tvg-id="H2 HD" tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 SD
+http://srvx.io:80/08453490068/snakeplay/1812
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History Channel HD
+http://srvx.io:80/08453490068/snakeplay/1799
+#EXTINF:-1 tvg-id="History Channel HD" tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History Channel SD
+http://srvx.io:80/08453490068/snakeplay/1800
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic HD
+http://srvx.io:80/08453490068/snakeplay/1777
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic SD
+http://srvx.io:80/08453490068/snakeplay/1778
+#EXTINF:-1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários",National Geographic Wild HD
+http://srvx.io:80/08453490068/snakeplay/1774
+#EXTINF:-1 tvg-id="National Geographic Wild HD" tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários",National Geographic Wild SD
+http://srvx.io:80/08453490068/snakeplay/1773
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",TruTV HD
+http://srvx.io:80/08453490068/snakeplay/1690
+#EXTINF:-1 tvg-id="TruTV HD" tvg-logo="http://a5.vc/UcW" group-title="Canais | Documentários",TruTV SD
+http://srvx.io:80/08453490068/snakeplay/1691
 #EXTINF:-1 tvg-logo="http://a5.vc/Te6" group-title="Canais | Infantis",BabyTV SD
 http://srvx.io:80/08453490068/snakeplay/1897
 #EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews HD
@@ -337,26 +373,10 @@ http://srvx.io:80/08453490068/snakeplay/41607
 http://srvx.io:80/08453490068/snakeplay/1875
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate SD
 http://srvx.io:80/08453490068/snakeplay/1876
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel HD
-http://srvx.io:80/08453490068/snakeplay/1869
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel SD
-http://srvx.io:80/08453490068/snakeplay/1870
 #EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids HD
 http://srvx.io:80/08453490068/snakeplay/1863
 #EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids SD
 http://srvx.io:80/08453490068/snakeplay/1864
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science HD
-http://srvx.io:80/08453490068/snakeplay/1861
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science SD
-http://srvx.io:80/08453490068/snakeplay/1862
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater HD
-http://srvx.io:80/08453490068/snakeplay/1859
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater SD
-http://srvx.io:80/08453490068/snakeplay/1860
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World HD
-http://srvx.io:80/08453490068/snakeplay/1855
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World SD
-http://srvx.io:80/08453490068/snakeplay/1856
 #EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel HD
 http://srvx.io:80/08453490068/snakeplay/1853
 #EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel SD
@@ -405,26 +425,10 @@ http://srvx.io:80/08453490068/snakeplay/1818
 http://srvx.io:80/08453490068/snakeplay/1816
 #EXTINF:-1 tvg-logo="http://a5.vc/5dW" group-title="Canais | Infantis",Gloobinho SD
 http://srvx.io:80/08453490068/snakeplay/1815
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 HD
-http://srvx.io:80/08453490068/snakeplay/1811
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 SD
-http://srvx.io:80/08453490068/snakeplay/1812
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History Channel HD
-http://srvx.io:80/08453490068/snakeplay/1799
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History Channel SD
-http://srvx.io:80/08453490068/snakeplay/1800
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",NatGeo Kids HD
 http://srvx.io:80/08453490068/snakeplay/1775
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",NatGeo Kids SD
 http://srvx.io:80/08453490068/snakeplay/1776
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic HD
-http://srvx.io:80/08453490068/snakeplay/1777
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic SD
-http://srvx.io:80/08453490068/snakeplay/1778
-#EXTINF:-1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários",National Geographic Wild HD
-http://srvx.io:80/08453490068/snakeplay/1774
-#EXTINF:-1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários",National Geographic Wild SD
-http://srvx.io:80/08453490068/snakeplay/1773
 #EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick HD
 http://srvx.io:80/08453490068/snakeplay/1768
 #EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr HD
@@ -485,10 +489,6 @@ http://srvx.io:80/08453490068/snakeplay/1731
 http://srvx.io:80/08453490068/snakeplay/2316
 #EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis",Tooncast SD
 http://srvx.io:80/08453490068/snakeplay/1701
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",TruTV HD
-http://srvx.io:80/08453490068/snakeplay/1690
-#EXTINF:-1 tvg-logo="http://a5.vc/UcW" group-title="Canais | Documentários",TruTV SD
-http://srvx.io:80/08453490068/snakeplay/1691
 #EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",TV Ra Tim Bum HD
 http://srvx.io:80/08453490068/snakeplay/1692
 #EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum SD
