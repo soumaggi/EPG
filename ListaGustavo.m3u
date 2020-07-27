@@ -63,7 +63,7 @@ http://srvx.io:80/08453490068/snakeplay/1906
 http://srvx.io:80/08453490068/snakeplay/1907
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS HD
 http://srvx.io:80/08453490068/snakeplay/1889
-#EXTINF:-1 tvg-id="BIS HD" tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS SD
+#EXTINF:-1 tvg-id="Bis HD" tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS SD
 http://srvx.io:80/08453490068/snakeplay/1890
 #EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central HD
 http://srvx.io:80/08453490068/snakeplay/1873
@@ -81,15 +81,15 @@ http://srvx.io:80/08453490068/snakeplay/1866
 http://srvx.io:80/08453490068/snakeplay/1857
 #EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo SD
 http://srvx.io:80/08453490068/snakeplay/1858
-#EXTINF:-1 tvg-logo="http://a5.vc/GPZ" group-title="Canais | Variedades",DogTV HD
+#EXTINF:-1 tvg-logo="http://a5.vc/GPZ" group-title="Canais | Variedades",Dog TV HD
 http://srvx.io:80/08453490068/snakeplay/33341
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! HD
 http://srvx.io:80/08453490068/snakeplay/1849
 #EXTINF:-1 tvg-id="E! HD" tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! SD
 http://srvx.io:80/08453490068/snakeplay/1850
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHM0JCEb1Q7vQ/company-logo_200_200/0?e=2159024400&v=beta&t=jUXTxRAyKzNXzkW0xDnrF8Tg1e1BSjpCvoDHe-1Xx3A" group-title="Canais | Variedades",Fashion TV HD
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHM0JCEb1Q7vQ/company-logo_200_200/0?e=2159024400&v=beta&t=jUXTxRAyKzNXzkW0xDnrF8Tg1e1BSjpCvoDHe-1Xx3A" group-title="Canais | Variedades",FashionTV Brasil HD
 http://srvx.io:80/08453490068/snakeplay/48236
-#EXTINF:-1 tvg-id="Fashion TV HD" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHM0JCEb1Q7vQ/company-logo_200_200/0?e=2159024400&v=beta&t=jUXTxRAyKzNXzkW0xDnrF8Tg1e1BSjpCvoDHe-1Xx3A" group-title="Canais | Variedades",Fashion TV SD
+#EXTINF:-1 tvg-id="FashionTV Brasil HD" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHM0JCEb1Q7vQ/company-logo_200_200/0?e=2159024400&v=beta&t=jUXTxRAyKzNXzkW0xDnrF8Tg1e1BSjpCvoDHe-1Xx3A" group-title="Canais | Variedades",FashionTV Brasil SD
 http://srvx.io:80/08453490068/snakeplay/48237
 #EXTINF:-1 tvg-id="Film & Arts HD" tvg-logo="http://a5.vc/Hxi" group-title="Canais | Variedades",Film & Arts SD
 http://srvx.io:80/08453490068/snakeplay/1666
@@ -103,7 +103,7 @@ http://srvx.io:80/08453490068/snakeplay/1837
 http://srvx.io:80/08453490068/snakeplay/1838
 #EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life HD
 http://srvx.io:80/08453490068/snakeplay/1833
-#EXTINF:-1 tvg-id="Fox Live HD" tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life SD
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life SD
 http://srvx.io:80/08453490068/snakeplay/1834
 #EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT HD
 http://srvx.io:80/08453490068/snakeplay/1813
@@ -141,7 +141,7 @@ http://srvx.io:80/08453490068/snakeplay/1779
 http://srvx.io:80/08453490068/snakeplay/1780
 #EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",Off HD
 http://srvx.io:80/08453490068/snakeplay/1766
-#EXTINF:-1 tvg-id="Off HD" tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",Off SD
+#EXTINF:-1 tvg-id="OFF HD" tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",Off SD
 http://srvx.io:80/08453490068/snakeplay/1767
 #EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brasil HD
 http://srvx.io:80/08453490068/snakeplay/1748
@@ -163,7 +163,7 @@ http://srvx.io:80/08453490068/snakeplay/1687
 http://srvx.io:80/08453490068/snakeplay/1685
 #EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo HD
 http://srvx.io:80/08453490068/snakeplay/1679
-#EXTINF:-1 tvg-id="WooHoo HD" tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo SD
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo SD
 http://srvx.io:80/08453490068/snakeplay/1680
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC HD
 http://srvx.io:80/08453490068/snakeplay/1904
@@ -339,9 +339,9 @@ http://srvx.io:80/08453490068/snakeplay/1800
 http://srvx.io:80/08453490068/snakeplay/1777
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic SD
 http://srvx.io:80/08453490068/snakeplay/1778
-#EXTINF:-1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários",National Geographic Wild HD
+#EXTINF:-1 tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários",NatGeo Wild HD
 http://srvx.io:80/08453490068/snakeplay/1774
-#EXTINF:-1 tvg-id="National Geographic Wild HD" tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários",National Geographic Wild SD
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-logo="http://a5.vc/Vsq" group-title="Canais | Documentários",NatGeo Wild SD
 http://srvx.io:80/08453490068/snakeplay/1773
 #EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",TruTV HD
 http://srvx.io:80/08453490068/snakeplay/1690
@@ -413,7 +413,7 @@ http://srvx.io:80/08453490068/snakeplay/1893
 http://srvx.io:80/08453490068/snakeplay/1894
 #EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil HD
 http://srvx.io:80/08453490068/snakeplay/41606
-#EXTINF:-1 CNN Brasil HD" tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil SD
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil SD
 http://srvx.io:80/08453490068/snakeplay/41607
 #EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News HD
 http://srvx.io:80/08453490068/snakeplay/1819
@@ -461,7 +461,7 @@ http://srvx.io:80/08453490068/snakeplay/1762
 http://srvx.io:80/08453490068/snakeplay/1763
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 3 HD
 http://srvx.io:80/08453490068/snakeplay/1760
-#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 3 SD
+#EXTINF:-1 tvg-id="Premiere 3 hd" tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 3 SD
 http://srvx.io:80/08453490068/snakeplay/1761
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Esportes",Premiere 4 HD
 http://srvx.io:80/08453490068/snakeplay/1758
@@ -495,9 +495,9 @@ http://srvx.io:80/08453490068/snakeplay/1730
 http://srvx.io:80/08453490068/snakeplay/1727
 #EXTINF:-1 tvg-id="SporTV 3 HD" tvg-logo="http://a5.vc/ybu" group-title="Canais | Esportes",SporTV 3 SD
 http://srvx.io:80/08453490068/snakeplay/1728
-#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",Playboy TV HD
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",Playboy HD
 http://srvx.io:80/08453490068/snakeplay/1649
-#EXTINF:-1 tvg-id="Playboy TV HD" tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",PlayboyTV SD
+#EXTINF:-1 tvg-id="Playboy HD" tvg-logo="http://a5.vc/NE0" group-title="Canais | Adultos",Playboy SD
 http://srvx.io:80/08453490068/snakeplay/1650
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",Sex Prive HD
 http://srvx.io:80/08453490068/snakeplay/30591
