@@ -190,8 +190,8 @@
     <icon src="https://www.net.com.br/imagens/logo/love_nature_hd-2256_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Travel Box Brazil HD ">
-    <display-name lang="pt">Travel Box Brazil HD </display-name>
+  <channel id="Travel Box Brazil HD">
+    <display-name lang="pt">Travel Box Brazil HD</display-name>
     <icon src="https://www.net.com.br/imagens/logo/travel_box_Brazil_hd-2261_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
@@ -205,8 +205,8 @@
     <icon src="https://www.net.com.br/imagens/logo/combate-487_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="ESPN Brazil HD">
-    <display-name lang="pt">ESPN Brazil HD</display-name>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="pt">ESPN Brasil HD</display-name>
     <icon src="https://www.net.com.br/imagens/logo/espn_Brazil-1049_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
@@ -355,11 +355,6 @@
     <icon src="https://www.net.com.br/imagens/logo/megapix-532_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Paramount Channel HD">
-    <display-name lang="pt">Paramount Channel HD</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/paramount_network-1025_95x39.png" />
-    <url>http://www.netcombo.com.br</url>
-  </channel>
   <channel id="Canal Sony HD">
     <display-name lang="pt">Canal Sony HD</display-name>
     <icon src="https://www.net.com.br/imagens/logo/Canal Sony-1008_95x39.png" />
@@ -455,8 +450,8 @@
     <icon src="https://www.net.com.br/imagens/logo/amc-1618_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Canal Brazil HD">
-    <display-name lang="pt">Canal Brazil HD</display-name>
+  <channel id="Canal Brasil HD">
+    <display-name lang="pt">Canal Brasil HD</display-name>
     <icon src="https://www.net.com.br/imagens/logo/canal_Brazil_hd_-2299_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
@@ -465,9 +460,9 @@
     <icon src="https://www.net.com.br/imagens/logo/film&amp;arts_hd-2224_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Smithsonia HD">
-    <display-name lang="pt">Smithsonia HD</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/smithsonian_hd-2286_95x39.png" />
+  <channel id="Smithsonian HD">
+    <display-name lang="pt">Smithsonian HD</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/Smithsoniann_hd-2286_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Animal Planet HD">
@@ -590,13 +585,13 @@
     <icon src="https://www.net.com.br/imagens/logo/Disney Channel_channel-488_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Disney Channel Junior HD">
-    <display-name lang="pt">Disney Channel Junior HD</display-name>
+  <channel id="Disney Junior HD">
+    <display-name lang="pt">Disney Junior HD</display-name>
     <icon src="https://www.net.com.br/imagens/logo/Disney Channel_jr-1281_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Disney Channel XD HD">
-    <display-name lang="pt">Disney Channel XD HD</display-name>
+  <channel id="Disney XD HD">
+    <display-name lang="pt">Disney XD HD</display-name>
     <icon src="https://www.net.com.br/imagens/logo/Disney Channel_xd-445_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
@@ -15598,7 +15593,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914000000 +0200" stop="20200914010000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914000000 +0200" stop="20200914010000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Prime Home Decor</title>
     <desc lang="pt">Programa de vendas de artigos de decoração.(n)</desc>
     <category lang="pt">Televendas</category>
@@ -15606,7 +15601,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914010000 +0200" stop="20200914020000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914010000 +0200" stop="20200914020000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Prime Home Decor</title>
     <desc lang="pt">Programa de vendas de artigos de decoração.(n)</desc>
     <category lang="pt">Televendas</category>
@@ -15614,7 +15609,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914020000 +0200" stop="20200914030000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914020000 +0200" stop="20200914030000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Prime Home Decor</title>
     <desc lang="pt">Programa de vendas de artigos de decoração.(n)</desc>
     <category lang="pt">Televendas</category>
@@ -15622,7 +15617,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914030000 +0200" stop="20200914032500 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914030000 +0200" stop="20200914032500 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Profundo Scuba Diving</title>
     <desc lang="pt">Key Largo Horizon: Seguimos mergulhando na Flórida Keys, explorando os melhores pontos de mergulho com a Horizon divers.(n)</desc>
     <credits>
@@ -15633,7 +15628,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914032500 +0200" stop="20200914035000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914032500 +0200" stop="20200914035000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Profundo Scuba Diving</title>
     <desc lang="pt">Key Largo Horizon: No segundo dia de mergulho em Key Largo exploramos o naufrágio de um grande navio, ainda inteiro no fundo do mar que ainda esconde muitos mistérios.(n)</desc>
     <credits>
@@ -15644,7 +15639,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914035000 +0200" stop="20200914041500 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914035000 +0200" stop="20200914041500 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Profundo Scuba Diving</title>
     <desc lang="pt">Key Largo Horizon: Mergulhamos em recifes de coral repletos de vida marinha e muitas cores.(n)</desc>
     <credits>
@@ -15655,7 +15650,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914041500 +0200" stop="20200914042500 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914041500 +0200" stop="20200914042500 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">3em3</title>
     <desc lang="pt">Chega de viajar sem sair de casa! Três ideias, três minutos e um empurrão na escolha do seu próximo destino. Não interessa se é pra onde você vai sempre ou um se é um novo destino.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -15663,7 +15658,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914042500 +0200" stop="20200914042800 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914042500 +0200" stop="20200914042800 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Destinos Imperdíveis</title>
     <desc lang="pt">Mickey’s Very Merry Christmas Party - Qualquer época do ano é boa pra visitar os parques da Disney Channel. Mas, se você quiser visitar os parques com uma atmosfera ainda mais mágica, vá em novembro e dezembro.(n)</desc>
     <credits>
@@ -15674,7 +15669,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914042800 +0200" stop="20200914043000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914042800 +0200" stop="20200914043000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">No Ar</title>
     <sub-title lang="pt">Shot</sub-title>
     <desc lang="pt">Passar para os filhos o amor pelo voo é prioridade para Carlos ''Alemão'' e Marcinha, de No Ar.(n)</desc>
@@ -15686,7 +15681,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914043000 +0200" stop="20200914050000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914043000 +0200" stop="20200914050000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Terroir Brazil</title>
     <sub-title lang="pt">Comida é Arte?</sub-title>
     <desc lang="pt">Queijo: O chef Joca Pontes apresenta suas receitas e Josimar encontra um personagem que é quase patrimônio imaterial de Pernambuco: Grandão do queijo.(n)</desc>
@@ -15698,7 +15693,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914050000 +0200" stop="20200914053000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914050000 +0200" stop="20200914053000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Destino Br Empreendedor</title>
     <desc lang="pt">O queijo Canastra é um dos mais legítimos representantes da culinária mineira.(n)</desc>
     <credits>
@@ -15709,7 +15704,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20200914053000 +0200" stop="20200914060000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914053000 +0200" stop="20200914060000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Destino Portugal</title>
     <desc lang="pt">O Destino Portugal é a nossa conexão luso-Brazileira! É apresentada por Luiz Plácido, que mostra tudo sobre Portugal, com dicas dicas, paisagens, cultura e lugares incríveis.(n)</desc>
     <category lang="pt">Aventura</category>
@@ -15717,7 +15712,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914060000 +0200" stop="20200914063000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914060000 +0200" stop="20200914063000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Sonho Americano</title>
     <desc lang="pt">Dois Brazileiros chegam a NY, para cruzar a América, de moto, em busca de histórias de outros Brazileiros que possam dar dicas interessantes para viajantes do nosso país.(n)</desc>
     <credits>
@@ -15728,7 +15723,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20200914063000 +0200" stop="20200914070000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914063000 +0200" stop="20200914070000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Estradas do Mundo</title>
     <desc lang="pt">Em busca do objetivo de chegar ao Alaska, Fernando, Daltro e Miguel seguem sozinhos e começam a enfrentar os primeiros desafios nas remotas fronteiras da América do Sul.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -15736,7 +15731,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914070000 +0200" stop="20200914073000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914070000 +0200" stop="20200914073000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Luzes, Cores e Formas</title>
     <desc lang="pt">Tita: Nascida em Caxias (MA) , xilogravurista, residente em Hamburgo, Alemanha, é dona de um estilo muito particular.(n)</desc>
     <credits>
@@ -15747,7 +15742,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914073000 +0200" stop="20200914080000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914073000 +0200" stop="20200914080000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">1 Remo Uma Busca</title>
     <desc lang="pt">Costa Rica, muito surf, muitas praias paradisíacas e muita água de coco, Andre Torelly vai em busca de surfar de SUP Pavones a segunda onda mais longa do mundo, mas para conseguir será uma aventura inesquecível.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -15755,7 +15750,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914080000 +0200" stop="20200914083000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914080000 +0200" stop="20200914083000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Pela Costa do Delta</title>
     <desc lang="pt">Chegamos em Cajueiro da Praia, considerada um verdadeiro paraíso ecológico devido a sua diversidade de fauna e flora.(n)</desc>
     <credits>
@@ -15766,7 +15761,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914083000 +0200" stop="20200914090000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914083000 +0200" stop="20200914090000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Destino Br Empreendedor</title>
     <desc lang="pt">Nas proximidades da região metropolitana de Fortaleza, existe um oásis montanhoso de matas exuberantes, clima ameno e umidade contrastante à caatinga que domina o entorno.(n)</desc>
     <credits>
@@ -15777,7 +15772,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20200914090000 +0200" stop="20200914092500 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914090000 +0200" stop="20200914092500 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Mobylas</title>
     <desc lang="pt">MOBY ENDURO: Num kartódromo do interior de São Paulo, os Tongnhas alucinam ao fazer uma competição de enduro entre eles.(n)</desc>
     <credits>
@@ -15788,7 +15783,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914092500 +0200" stop="20200914093000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914092500 +0200" stop="20200914093000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">3em3</title>
     <desc lang="pt">Chega de viajar sem sair de casa! Três ideias, três minutos e um empurrão na escolha do seu próximo destino. Não interessa se é pra onde você vai sempre ou um se é um novo destino.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -15796,7 +15791,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914093000 +0200" stop="20200914100000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914093000 +0200" stop="20200914100000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Missão Por Aí</title>
     <desc lang="pt">No quinto episódio do ''Missão por aí'', Matheus e seu pai visitam um mirante em San Pedro de Atacama e que possui uma cruz em homenagem a João Paulo II.(n)</desc>
     <credits>
@@ -15807,7 +15802,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914100000 +0200" stop="20200914105000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914100000 +0200" stop="20200914105000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Descaminhos Da Coxilha Rica</title>
     <desc lang="pt">A obra conta a história desta importante região do Planalto Catarinense.(n)</desc>
     <credits>
@@ -15818,7 +15813,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914105000 +0200" stop="20200914110000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914105000 +0200" stop="20200914110000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">3em3</title>
     <desc lang="pt">Chega de viajar sem sair de casa! Três ideias, três minutos e um empurrão na escolha do seu próximo destino. Não interessa se é pra onde você vai sempre ou um se é um novo destino.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -15826,7 +15821,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914110000 +0200" stop="20200914111000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914110000 +0200" stop="20200914111000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Contrafluxo</title>
     <desc lang="pt">Sebastian é um portenho que deixou o trabalho exaustivo e estressante no cinema publicitário de Buenos Aires para cuidar da uma pousada de campo em Colonia del Sacramento no Uruguay.(n)</desc>
     <credits>
@@ -15837,7 +15832,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914111000 +0200" stop="20200914113500 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914111000 +0200" stop="20200914113500 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Destino Incomum</title>
     <sub-title lang="pt">Luzes do Norte</sub-title>
     <desc lang="pt">ma serie de viagens a destinos inusitados e fora do eixo turístico tradicional! Os mochileiros Henrique e Ricardo exploram através da história, cultura local e paisagens incríveis.(n)</desc>
@@ -15846,7 +15841,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914113500 +0200" stop="20200914114000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914113500 +0200" stop="20200914114000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Tca 50 Anos</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <credits>
@@ -15857,7 +15852,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914114000 +0200" stop="20200914115700 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914114000 +0200" stop="20200914115700 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Ilex, A Busca Pelo Sabor</title>
     <desc lang="pt">Erva-mate em prol da saúde: a erva-mate se expande no mercado acada ano. A tradição da bebida quente se complementa com o mate gelado na beira da praia.(n)</desc>
     <credits>
@@ -15868,7 +15863,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914115700 +0200" stop="20200914120000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914115700 +0200" stop="20200914120000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Beleza Brazileira</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <credits>
@@ -15879,7 +15874,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914120000 +0200" stop="20200914122500 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914120000 +0200" stop="20200914122500 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Destino Incomum</title>
     <sub-title lang="pt">Luzes do Norte</sub-title>
     <desc lang="pt">ma serie de viagens a destinos inusitados e fora do eixo turístico tradicional! Os mochileiros Henrique e Ricardo exploram através da história, cultura local e paisagens incríveis.(n)</desc>
@@ -15888,7 +15883,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914122500 +0200" stop="20200914123000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914122500 +0200" stop="20200914123000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">3em3</title>
     <desc lang="pt">Chega de viajar sem sair de casa! Três ideias, três minutos e um empurrão na escolha do seu próximo destino. Não interessa se é pra onde você vai sempre ou um se é um novo destino.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -15896,7 +15891,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914123000 +0200" stop="20200914130000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914123000 +0200" stop="20200914130000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Cris Pelo Mundo</title>
     <desc lang="pt">A família Cris Pelo Mundo continua em Salzburgo, na Áustria e surpreende com dicas para as inúmeras opções que a cidade apresenta.(n)</desc>
     <credits>
@@ -15910,7 +15905,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914130000 +0200" stop="20200914133000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914130000 +0200" stop="20200914133000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Estradas do Mundo</title>
     <desc lang="pt">Chegou a hora de curtir os Estados Unidos. Fernando, Daltro e Miguel aproveitam a terra do Tio Sam para recarregar as energias e recebem a visita de suas esposas.(n)</desc>
     <credits>
@@ -15921,7 +15916,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914133000 +0200" stop="20200914140000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914133000 +0200" stop="20200914140000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Estradas do Mundo</title>
     <desc lang="pt">Após recarregar as energias nos Estados Unidos, Fernando, Daltro e Miguel cruzam e se encantam com as belezas do Canadá, até chegar à fronteira com o Alaska.(n)</desc>
     <credits>
@@ -15932,7 +15927,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914140000 +0200" stop="20200914141500 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914140000 +0200" stop="20200914141500 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Patty Leone Top Travels</title>
     <desc lang="pt">Grandiosa o maior navio da MSC: Grandiosa é o maior e mais novo navio de cruzeiro da MSC.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -15940,7 +15935,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914141500 +0200" stop="20200914142000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914141500 +0200" stop="20200914142000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Tca 50 Anos</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <credits>
@@ -15951,7 +15946,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914142000 +0200" stop="20200914143000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914142000 +0200" stop="20200914143000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">3em3</title>
     <desc lang="pt">Chega de viajar sem sair de casa! Três ideias, três minutos e um empurrão na escolha do seu próximo destino. Não interessa se é pra onde você vai sempre ou um se é um novo destino.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -15959,7 +15954,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914143000 +0200" stop="20200914150000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914143000 +0200" stop="20200914150000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Garimpando</title>
     <desc lang="pt">Marcelo e sua família vão até a ilha de Alcatraz famoso presídio do passado em São Francisco e percorrem lugares icônicos da cidade.(n)</desc>
     <credits>
@@ -15970,7 +15965,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914150000 +0200" stop="20200914153000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914150000 +0200" stop="20200914153000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Destino Portugal</title>
     <desc lang="pt">Em nosso sétimo programa da segunda temporada iremos voltar a explorar vilas e aldeias e uma cidade em especial, Espinho, que tem uma peculiaridade.(n)</desc>
     <credits>
@@ -15981,7 +15976,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914153000 +0200" stop="20200914160000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914153000 +0200" stop="20200914160000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Mar Brazil</title>
     <desc lang="pt">Este episódio mostra como o turismo descontrolado predatório deturpa a identidade local, descaracterizando ícones do nosso litoral, como os jangadeiros da Praia de Mucuripe em Fortaleza.(n)</desc>
     <credits>
@@ -15992,7 +15987,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914160000 +0200" stop="20200914163000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914160000 +0200" stop="20200914163000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Cris Pelo Mundo</title>
     <desc lang="pt">Se você tem viagem marcada para a Áustria, em especial para a região de Salzburgo, você precisa incluir no seu roteiro a belíssima Hallstatt, em Dachstein Salzkammergut.(n)</desc>
     <credits>
@@ -16006,7 +16001,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914163000 +0200" stop="20200914164500 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914163000 +0200" stop="20200914164500 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Bora</title>
     <desc lang="pt">A Família Grilo chega em Iles de Saintes, uma ilha francesa onde não se entende uma palavra do que falam.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -16014,7 +16009,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914164500 +0200" stop="20200914170000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914164500 +0200" stop="20200914170000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Patty Leone Top Travels</title>
     <desc lang="pt">Las Vegas é uma cidade cheia de vida. Bares e restaurantes se espalham pela cidade. Os hotéis são os maiores do mundo.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -16022,7 +16017,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914170000 +0200" stop="20200914173000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914170000 +0200" stop="20200914173000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Garimpando</title>
     <desc lang="pt">Marcelo Sampaio coloca o pé na estrada para explorar o interior paulista, de São Paulo a Ribeirão Preto.(n)</desc>
     <credits>
@@ -16033,7 +16028,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914173000 +0200" stop="20200914180000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914173000 +0200" stop="20200914180000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Garimpando</title>
     <desc lang="pt">O Garimpando começa em  Ribeirão Preto visitando um local mais que especial, a casa onde viveu Cândido Portinari.(n)</desc>
     <credits>
@@ -16044,7 +16039,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914180000 +0200" stop="20200914183000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914180000 +0200" stop="20200914183000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Estradas do Mundo</title>
     <desc lang="pt">Fernando e seus amigos chegam ao Equador e descobrem um País muito estruturado e visitam a Linha do Equador.(n)</desc>
     <credits>
@@ -16055,7 +16050,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914183000 +0200" stop="20200914190000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914183000 +0200" stop="20200914190000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Sonho Americano</title>
     <desc lang="pt">Os viajantes motociclistas partem de NY e chegam a Newark, onde um Brazileiro vai mostrar que é possível se sentir no Brazil em todos os sentidos.(n)</desc>
     <credits>
@@ -16066,7 +16061,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20200914190000 +0200" stop="20200914193000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914190000 +0200" stop="20200914193000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Luzes, Cores e Formas</title>
     <desc lang="pt">Fernando Mendonça: Nascido em Bacurituba (MA) em 1962, pintor que na década de 80 rompe com academicismo e constrói na sua obra um olhar expressionista sobre o cotidiano.(n)</desc>
     <credits>
@@ -16077,7 +16072,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914193000 +0200" stop="20200914200000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914193000 +0200" stop="20200914200000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Especial Salton 110 Anos</title>
     <desc lang="pt">Especial para comemorar os 110 anos da Vinícola Salton, de Bento Gonçalves. Líder nacional em todos as regiões na categoria de espumantes.(n)</desc>
     <credits>
@@ -16088,7 +16083,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914200000 +0200" stop="20200914203000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914200000 +0200" stop="20200914203000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Destino Br Empreendedor</title>
     <desc lang="pt">Nas proximidades da região metropolitana de Fortaleza, existe um oásis montanhoso de matas exuberantes, clima ameno e umidade contrastante à caatinga que domina o entorno.(n)</desc>
     <credits>
@@ -16099,7 +16094,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20200914203000 +0200" stop="20200914204500 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914203000 +0200" stop="20200914204500 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Pra Viagem</title>
     <desc lang="pt">Pegamos a estrada em direção ao sul do Chile, destino final: Pucón. Cidade que reservas muitas aventuras. A primeira é uma trilha na neve dentro do parque nacional Huerquehue, fizemos a trilha clássica dos 3 lagos.(n)</desc>
     <credits>
@@ -16110,7 +16105,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914204500 +0200" stop="20200914210000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914204500 +0200" stop="20200914210000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">As Laranjinhas Mundo Afora</title>
     <desc lang="pt">Na viagem para Flórida a segunda parada foi em Jacksonville onde conheceram um museu super divertido de ciência e história chamado MOSH.(n)</desc>
     <credits>
@@ -16121,7 +16116,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914210000 +0200" stop="20200914213000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914210000 +0200" stop="20200914213000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Sankofa: A África que te Habita</title>
     <desc lang="pt">Em sua jornada percorrendo locais de memória da escravidão, Cesar e Mauricio chegam ao Togo, onde recebem um amuleto.(n)</desc>
     <credits>
@@ -16135,7 +16130,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914213000 +0200" stop="20200914214700 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914213000 +0200" stop="20200914214700 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Ilex, A Busca Pelo Sabor</title>
     <desc lang="pt">Erva, do mate à cerveja: a erva-mate, tão conhecida do chimarrão, tem propriedades equivalentes à camellia sinensis e um potencial gustativo que atingiu a inserção no mercado cervejeiro.(n)</desc>
     <credits>
@@ -16146,7 +16141,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914214700 +0200" stop="20200914215000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914214700 +0200" stop="20200914215000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Beleza Brazileira</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <credits>
@@ -16157,7 +16152,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914215000 +0200" stop="20200914220000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914215000 +0200" stop="20200914220000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">3em3</title>
     <desc lang="pt">Chega de viajar sem sair de casa! Três ideias, três minutos e um empurrão na escolha do seu próximo destino. Não interessa se é pra onde você vai sempre ou um se é um novo destino.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -16165,7 +16160,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914220000 +0200" stop="20200914223000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914220000 +0200" stop="20200914223000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Vinhos BR</title>
     <desc lang="pt">As vinícolas DON LAURINDO e ALMAÚNICA pertencem à família Brandelli. A primeira, construída nas terras adquiridas por Cézar Brandelli em 1946.(n)</desc>
     <credits>
@@ -16179,7 +16174,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914223000 +0200" stop="20200914230000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914223000 +0200" stop="20200914230000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Aventuras do Richard</title>
     <desc lang="pt">Richard Rasmussen descobre as belezas da fauna, da flora e da cultura das mais diversas regiões. A cada episódio, uma nova aventura!(n)</desc>
     <category lang="pt">Aventura</category>
@@ -16187,7 +16182,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914230000 +0200" stop="20200915000000 +0200" channel="Travel Box Brazil HD ">
+  <programme start="20200914230000 +0200" stop="20200915000000 +0200" channel="Travel Box Brazil HD">
     <title lang="pt">Prime Home Decor</title>
     <desc lang="pt">Programa de vendas de artigos de decoração.(n)</desc>
     <category lang="pt">Televendas</category>
@@ -16526,15 +16521,15 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914003000 +0200" stop="20200914013000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914003000 +0200" stop="20200914013000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Resenha de Casa: Família Ortiz</title>
-    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brazil.(n)</desc>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil.(n)</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914013000 +0200" stop="20200914031500 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914013000 +0200" stop="20200914031500 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Sparta Rotterdam x Ajax</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Futebol</category>
@@ -16542,7 +16537,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914031500 +0200" stop="20200914041500 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914031500 +0200" stop="20200914041500 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor.(n)</desc>
     <category lang="pt">Esportivo</category>
@@ -16550,7 +16545,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914041500 +0200" stop="20200914061500 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914041500 +0200" stop="20200914061500 +0200" channel="ESPN Brasil HD">
     <title lang="pt">West Bromwich x Leicester City</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Futebol</category>
@@ -16558,15 +16553,15 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914061500 +0200" stop="20200914071500 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914061500 +0200" stop="20200914071500 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Bola da Vez: Ramon Menezes, Técnico do Vasco</title>
-    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brazil, sob o comando de André Plihal.(n)</desc>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.(n)</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914071500 +0200" stop="20200914090000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914071500 +0200" stop="20200914090000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Copa da Alemanha</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Futebol</category>
@@ -16574,7 +16569,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914090000 +0200" stop="20200914100000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914090000 +0200" stop="20200914100000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor.(n)</desc>
     <category lang="pt">Esportivo</category>
@@ -16582,7 +16577,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914100000 +0200" stop="20200914110000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914100000 +0200" stop="20200914110000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Linha de Passe: Mesa-redonda</title>
     <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
     <category lang="pt">Esportivo</category>
@@ -16590,7 +16585,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914110000 +0200" stop="20200914120000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914110000 +0200" stop="20200914120000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Sportscenter</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
@@ -16599,7 +16594,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914120000 +0200" stop="20200914143000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914120000 +0200" stop="20200914143000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Bate-Bola Debate</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte.(n)</desc>
@@ -16608,7 +16603,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914143000 +0200" stop="20200914153500 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914143000 +0200" stop="20200914153500 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Futebol no Mundo</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.(n)</desc>
@@ -16617,7 +16612,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914153500 +0200" stop="20200914174000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914153500 +0200" stop="20200914174000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Duisburg x Borussia Dortmund</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Futebol</category>
@@ -16625,7 +16620,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914174000 +0200" stop="20200914200000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914174000 +0200" stop="20200914200000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Futebol na Veia</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada.(n)</desc>
@@ -16634,7 +16629,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914200000 +0200" stop="20200914210000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914200000 +0200" stop="20200914210000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Sportscenter</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
@@ -16643,7 +16638,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914210000 +0200" stop="20200914220000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914210000 +0200" stop="20200914220000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Sportscenter</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
@@ -16652,7 +16647,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914220000 +0200" stop="20200914230000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914220000 +0200" stop="20200914230000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Linha de Passe: Mesa-redonda</title>
     <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
     <category lang="pt">Esportivo</category>
@@ -16660,7 +16655,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914230000 +0200" stop="20200915000000 +0200" channel="ESPN Brazil HD">
+  <programme start="20200914230000 +0200" stop="20200915000000 +0200" channel="ESPN Brasil HD">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor.(n)</desc>
     <category lang="pt">Esportivo</category>
@@ -18258,7 +18253,7 @@
   </programme>
   <programme start="20200914200000 +0200" stop="20200914210000 +0200" channel="ESPN 2 HD">
     <title lang="pt">Resenha de Casa: Família Ortiz</title>
-    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brazil.(n)</desc>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil.(n)</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -18323,7 +18318,7 @@
   </programme>
   <programme start="20200914173000 +0200" stop="20200914183000 +0200" channel="ESPN Extra HD">
     <title lang="pt">Resenha de Casa: Família Ortiz</title>
-    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brazil.(n)</desc>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil.(n)</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -18363,7 +18358,7 @@
   </programme>
   <programme start="20200914233000 +0200" stop="20200915003000 +0200" channel="ESPN Extra HD">
     <title lang="pt">Resenha de Casa: Família Ortiz</title>
-    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brazil.(n)</desc>
+    <desc lang="pt">Sexta é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: jogadores e ex-jogadores de futebol. Toda sexta, às 21h30, na ESPN Brasil.(n)</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -29394,7 +29389,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20200914013500 +0200" stop="20200914033000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914013500 +0200" stop="20200914033000 +0200" channel="Canal Brasil HD">
     <title lang="pt">Casa de Areia</title>
     <desc lang="pt">Em 1910, Áurea parte com a mãe rumo às terras compradas pelo marido. Ao chegar, descobre que a propriedade fica em meio a um labirinto de areia, sem indício de civilização por perto.(n)</desc>
     <credits>
@@ -29414,7 +29409,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914033000 +0200" stop="20200914051500 +0200" channel="Canal Brazil HD">
+  <programme start="20200914033000 +0200" stop="20200914051500 +0200" channel="Canal Brasil HD">
     <title lang="pt">Os Bons Tempos Voltaram, Vamos Gozar Outra Vez</title>
     <desc lang="pt">Comédia erótica em dois episódios:.(n)</desc>
     <credits>
@@ -29435,7 +29430,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914051500 +0200" stop="20200914052500 +0200" channel="Canal Brazil HD">
+  <programme start="20200914051500 +0200" stop="20200914052500 +0200" channel="Canal Brasil HD">
     <title lang="pt">Rocky &amp; Hudson</title>
     <sub-title lang="pt">Os Caubóis Gays</sub-title>
     <desc lang="pt">Rocky e Hudson tornam-se celebridades após o lançamento do filme americano sobre dois caubóis gays. Eles então rumam para Hollywood em busca do prêmio que lhes pertence por direito.(n)</desc>
@@ -29453,7 +29448,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20200914052500 +0200" stop="20200914070000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914052500 +0200" stop="20200914070000 +0200" channel="Canal Brasil HD">
     <title lang="pt">Querida Mamãe</title>
     <desc lang="pt">A médica Heloísa sofre de infelicidade crônica, tendo problemas com o marido e a mãe. Após se separar, ela se envolve com a paciente Leda, mas a relação sofrerá com o preconceito dos que a cercam.(n)</desc>
     <credits>
@@ -29473,7 +29468,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914070000 +0200" stop="20200914073000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914070000 +0200" stop="20200914073000 +0200" channel="Canal Brasil HD">
     <title lang="pt">Maratona Serra Pelada</title>
     <sub-title lang="pt">A Saga do Ouro</sub-title>
     <desc lang="pt">Série adaptada do filme “Serra Pelada”, de Heitor Dhalia. Juliano e Joaquim são dois amigos de infância que enxergam no garimpo de Serra Pelada a possibilidade de uma vida mais confortável.(n)</desc>
@@ -29487,7 +29482,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200914073000 +0200" stop="20200914075000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914073000 +0200" stop="20200914075000 +0200" channel="Canal Brasil HD">
     <title lang="pt">Maratona Serra Pelada</title>
     <sub-title lang="pt">A Saga do Ouro</sub-title>
     <desc lang="pt">Série adaptada do filme “Serra Pelada”. Juliano se envolve com Tereza, mulher de um poderoso coronel do garimpo. Joaquim quer voltar para casa, mas a sede de poder do amigo o impede.(n)</desc>
@@ -29501,7 +29496,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200914075000 +0200" stop="20200914082000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914075000 +0200" stop="20200914082000 +0200" channel="Canal Brasil HD">
     <title lang="pt">Maratona Serra Pelada</title>
     <sub-title lang="pt">A Saga do Ouro</sub-title>
     <desc lang="pt">Série adaptada do filme “Serra Pelada”, de Heitor Dhalia. A disputa de poder entre Carvalho e Juliano altera a hierarquia do garimpo. Joaquim é confrontado por Juliano.(n)</desc>
@@ -29515,7 +29510,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200914082000 +0200" stop="20200914085500 +0200" channel="Canal Brazil HD">
+  <programme start="20200914082000 +0200" stop="20200914085500 +0200" channel="Canal Brasil HD">
     <title lang="pt">Maratona Serra Pelada</title>
     <sub-title lang="pt">A Saga do Ouro</sub-title>
     <desc lang="pt">Série adaptada do filme “Serra Pelada”, de Heitor Dhalia. No episódio final da saga, Joaquim vê a promessa de uma vida melhor escapar pelas mãos e planeja a sua vingança contra Juliano.(n)</desc>
@@ -29529,7 +29524,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200914085500 +0200" stop="20200914104500 +0200" channel="Canal Brazil HD">
+  <programme start="20200914085500 +0200" stop="20200914104500 +0200" channel="Canal Brasil HD">
     <title lang="pt">O Jeca e a Égua Milagrosa</title>
     <desc lang="pt">Numa cidade do interior, dois fazendeiros à procura de votos fazem de tudo para se elegerem prefeito. Um deles, num ato extremo, diz que sua égua é dotada de fantásticos e milagrosos poderes da cura.(n)</desc>
     <credits>
@@ -29547,7 +29542,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914104500 +0200" stop="20200914123000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914104500 +0200" stop="20200914123000 +0200" channel="Canal Brasil HD">
     <title lang="pt">Pedro Sob a Cama</title>
     <desc lang="pt">Pedro é um menino que não fala, abandonado pelo pai por conta de uma tragédia. Quando o pai retorna à cidade, ele se esconde embaixo da cama dele para acompanhar a rotina do homem que pouco conhece.(n)</desc>
     <credits>
@@ -29563,7 +29558,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200914123000 +0200" stop="20200914130000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914123000 +0200" stop="20200914130000 +0200" channel="Canal Brasil HD">
     <title lang="pt">O Que Querem as Mulheres?</title>
     <desc lang="pt">O episódio reflete sobre as diferenças entre o feminismo branco e a luta da mulher indígena, abordando os diversos tipos de violência e a hipersexualização vividos por elas nas cidades.(n)</desc>
     <credits>
@@ -29575,7 +29570,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914130000 +0200" stop="20200914131600 +0200" channel="Canal Brazil HD">
+  <programme start="20200914130000 +0200" stop="20200914131600 +0200" channel="Canal Brasil HD">
     <title lang="pt">Curta na Tela: Rã</title>
     <desc lang="pt">Val e suas duas filhas vivem numa casa de 16 metros quadrados. Certa madrugada, mãe e filhas são subitamente acordadas com palmas e alguém chamando por Val no portão. Lá, Val ouve um estranho pedido.(n)</desc>
     <credits>
@@ -29591,7 +29586,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20200914131600 +0200" stop="20200914133000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914131600 +0200" stop="20200914133000 +0200" channel="Canal Brasil HD">
     <title lang="pt">Curta na Tela: Who's That Man Inside My House?</title>
     <desc lang="pt">Uma casa representa uma nação. Nicolas enxerga uma entidade que passa a habitar na sua residência.(n)</desc>
     <credits>
@@ -29604,7 +29599,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20200914133000 +0200" stop="20200914134000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914133000 +0200" stop="20200914134000 +0200" channel="Canal Brasil HD">
     <title lang="pt">Cinejornal</title>
     <desc lang="pt">O Cinejornal é um programa semanal, apresentado por Simone Zuccolotto, no qual é pautado o melhor do cinema Brazileiro.(n)</desc>
     <credits>
@@ -29615,7 +29610,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914134000 +0200" stop="20200914151500 +0200" channel="Canal Brazil HD">
+  <programme start="20200914134000 +0200" stop="20200914151500 +0200" channel="Canal Brasil HD">
     <title lang="pt">Ayrton: Retratos e Memórias</title>
     <sub-title lang="pt">O Filme</sub-title>
     <desc lang="pt">O filme resgata a trajetória da carreira e da vida pessoal de Ayrton Senna, um dos maiores ídolos Brazileiros do esporte, a partir de depoimentos de amigos, admiradores e companheiros de pista.(n)</desc>
@@ -29627,7 +29622,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914151500 +0200" stop="20200914163500 +0200" channel="Canal Brazil HD">
+  <programme start="20200914151500 +0200" stop="20200914163500 +0200" channel="Canal Brasil HD">
     <title lang="pt">Tito e os Pássaros</title>
     <desc lang="pt">Um menino e seus dois amigos partem para encontrar a pesquisa perdida do seu pai sobre canções de pássaros, algo que pode salvar seu mundo de uma epidemia na qual o medo adoece as pessoas.(n)</desc>
     <credits>
@@ -29647,7 +29642,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914163500 +0200" stop="20200914183000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914163500 +0200" stop="20200914183000 +0200" channel="Canal Brasil HD">
     <title lang="pt">O Quatrilho</title>
     <desc lang="pt">Celebra-se o casamento de Ângelo e Teresa. Com o passar do tempo, porém, Teresa desencanta-se. Mássimo chega ao povoado e, no primeiro encontro com ela, não consegue esconder a imediata atração que sente.(n)</desc>
     <credits>
@@ -29667,7 +29662,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914183000 +0200" stop="20200914193000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914183000 +0200" stop="20200914193000 +0200" channel="Canal Brasil HD">
     <title lang="pt">Segue o Baile</title>
     <sub-title lang="pt">Bixiga 70</sub-title>
     <desc lang="pt">Bixiga 70 é uma das mais badaladas e heterogêneas bandas dos tempos atuais. O grupo possui referências de estilos musicais como jazz, música caribenha, afrobeat, pop e música instrumental Brazileira.(n)</desc>
@@ -29679,7 +29674,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20200914193000 +0200" stop="20200914205500 +0200" channel="Canal Brazil HD">
+  <programme start="20200914193000 +0200" stop="20200914205500 +0200" channel="Canal Brasil HD">
     <title lang="pt">O Último Virgem</title>
     <desc lang="pt">O tímido Dudu está no último ano do ensino médio e ainda é virgem. Quando a professora mais desejada do colégio o convida para aulas extras na casa dela.(n)</desc>
     <credits>
@@ -29700,7 +29695,7 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20200914205500 +0200" stop="20200914223500 +0200" channel="Canal Brazil HD">
+  <programme start="20200914205500 +0200" stop="20200914223500 +0200" channel="Canal Brasil HD">
     <title lang="pt">Meio Irmão</title>
     <desc lang="pt">Sandra, de 16 anos, passa por um momento difícil: sua mãe está desaparecida há dias. Quando começa a perder as esperanças, ela decide pedir ajuda a seu meio irmão, com quem cultiva uma relação distante.(n)</desc>
     <credits>
@@ -29720,7 +29715,7 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20200914223500 +0200" stop="20200914224500 +0200" channel="Canal Brazil HD">
+  <programme start="20200914223500 +0200" stop="20200914224500 +0200" channel="Canal Brasil HD">
     <title lang="pt">Rocky &amp; Hudson</title>
     <sub-title lang="pt">Os Caubóis Gays</sub-title>
     <desc lang="pt">O beijo gay é proibido na cidade de Rocky e Hudson e o xerife promete até pena de morte para os desobedientes. Mas os nossos heróis não se abalam e mobilizam um beijaço na praça como protesto.(n)</desc>
@@ -29738,7 +29733,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20200914224500 +0200" stop="20200914230000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914224500 +0200" stop="20200914230000 +0200" channel="Canal Brasil HD">
     <title lang="pt">Angeli</title>
     <sub-title lang="pt">The Killer</sub-title>
     <desc lang="pt">Angeli fala sobre suas principais referências e influências culturais em um guia prático para parecer um intelectual descolado.(n)</desc>
@@ -29750,7 +29745,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20200914230000 +0200" stop="20200914233000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914230000 +0200" stop="20200914233000 +0200" channel="Canal Brasil HD">
     <title lang="pt">Bipolar Show</title>
     <desc lang="pt">Em formato de teleteatro, Michel Melamed e Julia Lemmertz exploram o cenário e homenageiam a performance.(n)</desc>
     <credits>
@@ -29761,7 +29756,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20200914233000 +0200" stop="20200915000000 +0200" channel="Canal Brazil HD">
+  <programme start="20200914233000 +0200" stop="20200915000000 +0200" channel="Canal Brasil HD">
     <title lang="pt">A Arte do Encontro</title>
     <desc lang="pt">O ator e diretor Emílio de Mello destaca o poder do amor e da fé como fatores fundamentais para a manutenção do sentido de viver e reflete sobre a passagem do tempo.(n)</desc>
     <credits>
@@ -29772,7 +29767,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914000000 +0200" stop="20200914010000 +0200" channel="Smithsonia HD">
+  <programme start="20200914000000 +0200" stop="20200914010000 +0200" channel="Smithsonian HD">
     <title lang="pt">Galápagos com David Attenborough</title>
     <desc lang="pt">Este é um lugar de maravilhas. Galápagos. As ilhas nascidas do fogo com habitantes que transformaram nossa compreensão de toda a vida na terra.(n)</desc>
     <credits>
@@ -29783,7 +29778,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914010000 +0200" stop="20200914020000 +0200" channel="Smithsonia HD">
+  <programme start="20200914010000 +0200" stop="20200914020000 +0200" channel="Smithsonian HD">
     <title lang="pt">Por Dentro dos Castelos Britânicos</title>
     <desc lang="pt">Julie Montagu aprende sobre a rica história dos residentes famosos de Sudeley, desde a rainha Catarina Parr, a última esposa de Henrique VIII, até a atual responsável pela propriedade, Lady Ashcombe.(n)</desc>
     <credits>
@@ -29800,7 +29795,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914020000 +0200" stop="20200914030000 +0200" channel="Smithsonia HD">
+  <programme start="20200914020000 +0200" stop="20200914030000 +0200" channel="Smithsonian HD">
     <title lang="pt">Por Dentro dos Castelos Britânicos</title>
     <desc lang="pt">Acompanha Julie em um tour por Newby Hall, a Downton Abbey da vida real, a elegante casa de show de designer construída no século 17, onde ela conhece os atuais proprietários, Richard e Lucinda Compton.(n)</desc>
     <credits>
@@ -29817,7 +29812,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914030000 +0200" stop="20200914040000 +0200" channel="Smithsonia HD">
+  <programme start="20200914030000 +0200" stop="20200914040000 +0200" channel="Smithsonian HD">
     <title lang="pt">Aéreas</title>
     <desc lang="pt">De lugares famosos e históricos a paisagens inóspitas e intocadas, o programa exibe imagens incríveis de diversas localidades urbanas e rurais dos Estados Unidos.(n)</desc>
     <credits>
@@ -29828,7 +29823,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914040000 +0200" stop="20200914050000 +0200" channel="Smithsonia HD">
+  <programme start="20200914040000 +0200" stop="20200914050000 +0200" channel="Smithsonian HD">
     <title lang="pt">Por Dentro dos Castelos Britânicos</title>
     <desc lang="pt">Julie Montagu, a viscondessa Hinchingbrooke, descobre como esse casal moderno mantém a propriedade, enquanto faz algumas compras.(n)</desc>
     <credits>
@@ -29842,7 +29837,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914050000 +0200" stop="20200914060000 +0200" channel="Smithsonia HD">
+  <programme start="20200914050000 +0200" stop="20200914060000 +0200" channel="Smithsonian HD">
     <title lang="pt">Uma Vacina Para Salvar o Mundo</title>
     <desc lang="pt">Vamos voltar a uma época em que o mundo vivia com medo e ver como o Dr. Salk, sua equipe dedicada, uma instituição de caridade e um país cheio de fé se uniram para derrotar a poliomielite.(n)</desc>
     <credits>
@@ -29858,7 +29853,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20200914060000 +0200" stop="20200914070000 +0200" channel="Smithsonia HD">
+  <programme start="20200914060000 +0200" stop="20200914070000 +0200" channel="Smithsonian HD">
     <title lang="pt">Máquinas Poderosas</title>
     <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.(n)</desc>
     <credits>
@@ -29872,7 +29867,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914070000 +0200" stop="20200914080000 +0200" channel="Smithsonia HD">
+  <programme start="20200914070000 +0200" stop="20200914080000 +0200" channel="Smithsonian HD">
     <title lang="pt">Aéreas</title>
     <desc lang="pt">De lugares famosos e históricos a paisagens inóspitas e intocadas, o programa exibe imagens incríveis de diversas localidades urbanas e rurais dos Estados Unidos.(n)</desc>
     <credits>
@@ -29883,7 +29878,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914080000 +0200" stop="20200914090000 +0200" channel="Smithsonia HD">
+  <programme start="20200914080000 +0200" stop="20200914090000 +0200" channel="Smithsonian HD">
     <title lang="pt">Porta-aviões</title>
     <desc lang="pt">Esse gigante de 14 bilhões de dólares foi construído para atender as demandas das guerras do século XXI.(n)</desc>
     <credits>
@@ -29894,7 +29889,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20200914090000 +0200" stop="20200914100000 +0200" channel="Smithsonia HD">
+  <programme start="20200914090000 +0200" stop="20200914100000 +0200" channel="Smithsonian HD">
     <title lang="pt">Galápagos com David Attenborough</title>
     <desc lang="pt">Este é um lugar de maravilhas. Galápagos. As ilhas nascidas do fogo com habitantes que transformaram nossa compreensão de toda a vida na terra.(n)</desc>
     <credits>
@@ -29905,7 +29900,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914100000 +0200" stop="20200914110000 +0200" channel="Smithsonia HD">
+  <programme start="20200914100000 +0200" stop="20200914110000 +0200" channel="Smithsonian HD">
     <title lang="pt">Por Dentro dos Castelos Britânicos</title>
     <desc lang="pt">Julie Montagu aprende sobre a rica história dos residentes famosos de Sudeley, desde a rainha Catarina Parr, a última esposa de Henrique VIII, até a atual responsável pela propriedade, Lady Ashcombe.(n)</desc>
     <credits>
@@ -29922,7 +29917,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914110000 +0200" stop="20200914120000 +0200" channel="Smithsonia HD">
+  <programme start="20200914110000 +0200" stop="20200914120000 +0200" channel="Smithsonian HD">
     <title lang="pt">Aéreas</title>
     <desc lang="pt">De lugares famosos e históricos a paisagens inóspitas e intocadas, o programa exibe imagens incríveis de diversas localidades urbanas e rurais dos Estados Unidos.(n)</desc>
     <credits>
@@ -29933,9 +29928,9 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914120000 +0200" stop="20200914130000 +0200" channel="Smithsonia HD">
-    <title lang="pt">Smithsonian Spotlight</title>
-    <desc lang="pt">Estamos comemorando o aniversário de 100 anos do Museu Nacional de História Natural do Smithsonian, lar de artes visuais, dinossauros, do diamante hope e de mais de 100 milhões de espécimes.(n)</desc>
+  <programme start="20200914120000 +0200" stop="20200914130000 +0200" channel="Smithsonian HD">
+    <title lang="pt">Smithsoniann Spotlight</title>
+    <desc lang="pt">Estamos comemorando o aniversário de 100 anos do Museu Nacional de História Natural do Smithsoniann, lar de artes visuais, dinossauros, do diamante hope e de mais de 100 milhões de espécimes.(n)</desc>
     <credits>
       <director>Tim Gorin</director>
     </credits>
@@ -29944,7 +29939,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914130000 +0200" stop="20200914140000 +0200" channel="Smithsonia HD">
+  <programme start="20200914130000 +0200" stop="20200914140000 +0200" channel="Smithsonian HD">
     <title lang="pt">Máquinas Poderosas</title>
     <desc lang="pt">Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.(n)</desc>
     <credits>
@@ -29955,7 +29950,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914140000 +0200" stop="20200914150000 +0200" channel="Smithsonia HD">
+  <programme start="20200914140000 +0200" stop="20200914150000 +0200" channel="Smithsonian HD">
     <title lang="pt">Guerreiros do Ar</title>
     <desc lang="pt">O A-10 Thunderbolt II foi feito para resistência e potência.(n)</desc>
     <credits>
@@ -29966,7 +29961,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20200914150000 +0200" stop="20200914160000 +0200" channel="Smithsonia HD">
+  <programme start="20200914150000 +0200" stop="20200914160000 +0200" channel="Smithsonian HD">
     <title lang="pt">Aéreas</title>
     <desc lang="pt">De lugares famosos e históricos a paisagens inóspitas e intocadas, o programa exibe imagens incríveis de diversas localidades urbanas e rurais dos Estados Unidos.(n)</desc>
     <credits>
@@ -29977,7 +29972,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914160000 +0200" stop="20200914170000 +0200" channel="Smithsonia HD">
+  <programme start="20200914160000 +0200" stop="20200914170000 +0200" channel="Smithsonian HD">
     <title lang="pt">Sobrevivendo no Céu</title>
     <desc lang="pt">Esta série conta as histórias por trás das máquinas e dispositivos que nos ajudam a sobreviver no céu - trajes espaciais, paraquedas, assento ejetor e motores a jato.(n)</desc>
     <credits>
@@ -29988,7 +29983,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20200914170000 +0200" stop="20200914180000 +0200" channel="Smithsonia HD">
+  <programme start="20200914170000 +0200" stop="20200914180000 +0200" channel="Smithsonian HD">
     <title lang="pt">Por Dentro dos Castelos Britânicos</title>
     <desc lang="pt">Julie Montagu, viscondessa Hinchingbrooke, visita a propriedade de 3,7 mil hectares e a casa de campo de 75 cômodos.(n)</desc>
     <credits>
@@ -30002,7 +29997,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914180000 +0200" stop="20200914190000 +0200" channel="Smithsonia HD">
+  <programme start="20200914180000 +0200" stop="20200914190000 +0200" channel="Smithsonian HD">
     <title lang="pt">Geografia da Arte</title>
     <desc lang="pt">Pina Bausch teve uma relação especial com Nova York, onde estudou e começou sua carreira profissional, colaborando também com alguns dos mais importantes coreógrafos americanos.(n)</desc>
     <credits>
@@ -30014,7 +30009,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914190000 +0200" stop="20200914200000 +0200" channel="Smithsonia HD">
+  <programme start="20200914190000 +0200" stop="20200914200000 +0200" channel="Smithsonian HD">
     <title lang="pt">Aéreas</title>
     <desc lang="pt">De lugares famosos e históricos a paisagens inóspitas e intocadas, o programa exibe imagens incríveis de diversas localidades urbanas e rurais dos Estados Unidos.(n)</desc>
     <credits>
@@ -30025,7 +30020,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914200000 +0200" stop="20200914210000 +0200" channel="Smithsonia HD">
+  <programme start="20200914200000 +0200" stop="20200914210000 +0200" channel="Smithsonian HD">
     <title lang="pt">Sobrevivendo no Céu</title>
     <desc lang="pt">Esta série conta as histórias por trás das máquinas e dispositivos que nos ajudam a sobreviver no céu - trajes espaciais, paraquedas, assento ejetor e motores a jato.(n)</desc>
     <credits>
@@ -30036,7 +30031,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20200914210000 +0200" stop="20200914220000 +0200" channel="Smithsonia HD">
+  <programme start="20200914210000 +0200" stop="20200914220000 +0200" channel="Smithsonian HD">
     <title lang="pt">Galápagos com David Attenborough</title>
     <desc lang="pt">Este é um lugar de maravilhas. Galápagos. As ilhas nascidas do fogo com habitantes que transformaram nossa compreensão de toda a vida na terra.(n)</desc>
     <credits>
@@ -30047,7 +30042,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914220000 +0200" stop="20200914230000 +0200" channel="Smithsonia HD">
+  <programme start="20200914220000 +0200" stop="20200914230000 +0200" channel="Smithsonian HD">
     <title lang="pt">Galápagos com David Attenborough</title>
     <desc lang="pt">Este é um lugar de maravilhas. Galápagos. As ilhas nascidas do fogo com habitantes que transformaram nossa compreensão de toda a vida na terra.(n)</desc>
     <credits>
@@ -30058,7 +30053,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914230000 +0200" stop="20200915000000 +0200" channel="Smithsonia HD">
+  <programme start="20200914230000 +0200" stop="20200915000000 +0200" channel="Smithsonian HD">
     <title lang="pt">Aéreas</title>
     <desc lang="pt">De lugares famosos e históricos a paisagens inóspitas e intocadas, o programa exibe imagens incríveis de diversas localidades urbanas e rurais dos Estados Unidos.(n)</desc>
     <credits>
@@ -42475,7 +42470,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914000000 +0200" stop="20200914014000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914000000 +0200" stop="20200914014000 +0200" channel="Disney Junior HD">
     <title lang="pt">Toy Story 3</title>
     <desc lang="pt">Woody, Buzz, e o resto de seus amigos, são despejados numa creche depois que seu dono, Andy, vai para a faculdade. Embora fiquem animados no começo, a gangue enfrenta um futuro incerto e logo se decidem a voltar para casa.(n)</desc>
     <credits>
@@ -42495,7 +42490,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914014000 +0200" stop="20200914020400 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914014000 +0200" stop="20200914020400 +0200" channel="Disney Junior HD">
     <title lang="pt">Muppet Babies</title>
     <desc lang="pt">Muppet Babies narra as travessuras no berçário dos jovens Kermit, Miss Piggy, Fozzie e Gonzo. Eles têm tudo o que precisam a seu alcance, o que os leva às suas fantásticas aventuras.(n)</desc>
     <credits>
@@ -42517,7 +42512,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914020400 +0200" stop="20200914022700 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914020400 +0200" stop="20200914022700 +0200" channel="Disney Junior HD">
     <title lang="pt">A Guarda do Leão</title>
     <desc lang="pt">A Guarda do Leão começa quando Kion, o segundo filho de Simba e Nala, torna-se o líder da Guarda do Leão. O grupo reúne os mais ferozes, valentes, rápidos, fortes e de melhor visão para proteger as Terras do Reino.(n)</desc>
     <credits>
@@ -42538,7 +42533,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914022700 +0200" stop="20200914025100 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914022700 +0200" stop="20200914025100 +0200" channel="Disney Junior HD">
     <title lang="pt">Puppy Dog Pals</title>
     <desc lang="pt">A animação apresenta uma divertida dupla de filhotinhos que está sempre pronta para uma nova aventura canina pela vizinhança.(n)</desc>
     <credits>
@@ -42554,7 +42549,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914025100 +0200" stop="20200914031600 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914025100 +0200" stop="20200914031600 +0200" channel="Disney Junior HD">
     <title lang="pt">A Casa do Mickey Mouse</title>
     <desc lang="pt">O camundongo mais adorado da história da televisão e seus simpáticos amigos irão protagonizar esta nova e inspiradora série animada em 3D para crianças em idade pré-escolar.(n)</desc>
     <category lang="pt">Animação</category>
@@ -42562,7 +42557,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914031600 +0200" stop="20200914034000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914031600 +0200" stop="20200914034000 +0200" channel="Disney Junior HD">
     <title lang="pt">Princesinha Sofia</title>
     <desc lang="pt">A doce princesinha Sofia, uma plebeia que vira uma princesa quando sua mãe casa com o rei de Enchancia, Roland II.(n)</desc>
     <credits>
@@ -42580,7 +42575,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914034000 +0200" stop="20200914040300 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914034000 +0200" stop="20200914040300 +0200" channel="Disney Junior HD">
     <title lang="pt">Elena de Avalor</title>
     <desc lang="pt">Princesa Elena é uma adolescente corajosa e aventureira que salvou seu reino de uma bruxa malvada e precisa aprender a governar, até que seja madura o suficiente para se tornar rainha.(n)</desc>
     <credits>
@@ -42599,7 +42594,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914040300 +0200" stop="20200914041600 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914040300 +0200" stop="20200914041600 +0200" channel="Disney Junior HD">
     <title lang="pt">Muppet Babies</title>
     <desc lang="pt">Muppet Babies narra as travessuras no berçário dos jovens Kermit, Miss Piggy, Fozzie e Gonzo. Eles têm tudo o que precisam a seu alcance, o que os leva às suas fantásticas aventuras.(n)</desc>
     <credits>
@@ -42621,7 +42616,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914041600 +0200" stop="20200914042800 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914041600 +0200" stop="20200914042800 +0200" channel="Disney Junior HD">
     <title lang="pt">TOTS</title>
     <sub-title lang="pt">Serviço de Entrega de Filhotes</sub-title>
     <desc lang="pt">Acompanhe Pip e Freddy, dois amigos que trabalham no serviço de entregas de bebês animais. Eles são os responsáveis por transferir filhotes do berçário para suas famílias, em todo o mundo.(n)</desc>
@@ -42630,7 +42625,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914042800 +0200" stop="20200914045100 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914042800 +0200" stop="20200914045100 +0200" channel="Disney Junior HD">
     <title lang="pt">A Guarda do Leão</title>
     <desc lang="pt">A Guarda do Leão começa quando Kion, o segundo filho de Simba e Nala, torna-se o líder da Guarda do Leão. O grupo reúne os mais ferozes, valentes, rápidos, fortes e de melhor visão para proteger as Terras do Reino.(n)</desc>
     <credits>
@@ -42651,7 +42646,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914045100 +0200" stop="20200914051500 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914045100 +0200" stop="20200914051500 +0200" channel="Disney Junior HD">
     <title lang="pt">Morko e Mali</title>
     <desc lang="pt">Morko é um menino alegre e aventureiro, que vive na selva com sua irmã Mali, uma jovem valente. Juntamente com seus amigos, eles deverão resolver os mais variados desafios, que os farão viver as aventuras mais divertidas.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -42659,7 +42654,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914051500 +0200" stop="20200914053800 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914051500 +0200" stop="20200914053800 +0200" channel="Disney Junior HD">
     <title lang="pt">Fancy Nancy Clancy</title>
     <desc lang="pt">A história de uma jovem garota que ama tudo o que é fancy e sofisticado. Sempre está acompanhada de sua inseparável melhor amiga, Bree, sua irmã mais nova, Jojo, sua cadelinha, Frenchy, sua boneca, Marabelle e seus pais.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -42667,7 +42662,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914053800 +0200" stop="20200914060000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914053800 +0200" stop="20200914060000 +0200" channel="Disney Junior HD">
     <title lang="pt">Vampirina</title>
     <desc lang="pt">Vampirina conta a história de uma jovem vampira que enfrenta as alegrias e as dificuldades de ser a nova garota na cidade quando sua família se muda da Transilvânia para a Pensilvânia.(n)</desc>
     <credits>
@@ -42681,7 +42676,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914060000 +0200" stop="20200914062700 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914060000 +0200" stop="20200914062700 +0200" channel="Disney Junior HD">
     <title lang="pt">A Casa do Mickey Mouse</title>
     <desc lang="pt">O camundongo mais adorado da história da televisão e seus simpáticos amigos irão protagonizar esta nova e inspiradora série animada em 3D para crianças em idade pré-escolar.(n)</desc>
     <category lang="pt">Animação</category>
@@ -42689,7 +42684,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914062700 +0200" stop="20200914065800 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914062700 +0200" stop="20200914065800 +0200" channel="Disney Junior HD">
     <title lang="pt">Marvel Spider-Man</title>
     <desc lang="pt">Um adolescente inseguro mas corajoso e inteligente chamado Peter Parker, é picado por uma aranha radioativa e recebe poderes. Ele se torna um herói chamado Homem-Aranha.(n)</desc>
     <category lang="pt">Animação</category>
@@ -42697,7 +42692,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914065800 +0200" stop="20200914070600 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914065800 +0200" stop="20200914070600 +0200" channel="Disney Junior HD">
     <title lang="pt">Bluey</title>
     <desc lang="pt">As aventuras de Bluey, um filhote que vive com sua mãe, pai e irmã. Sua energia e espírito adorável geram todo tipo de situações divertidas e imprevisíveis.(n)</desc>
     <credits>
@@ -42714,7 +42709,7 @@
       <value>5</value>
     </star-rating>
   </programme>
-  <programme start="20200914070600 +0200" stop="20200914071700 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914070600 +0200" stop="20200914071700 +0200" channel="Disney Junior HD">
     <title lang="pt">Bluey</title>
     <desc lang="pt">As aventuras de Bluey, um filhote que vive com sua mãe, pai e irmã. Sua energia e espírito adorável geram todo tipo de situações divertidas e imprevisíveis.(n)</desc>
     <credits>
@@ -42731,7 +42726,7 @@
       <value>5</value>
     </star-rating>
   </programme>
-  <programme start="20200914071700 +0200" stop="20200914073200 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914071700 +0200" stop="20200914073200 +0200" channel="Disney Junior HD">
     <title lang="pt">Mickey</title>
     <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
     <desc lang="pt">Mickey e seus amigos participam de corridas de alta velocidade em veículos rápidos que mudam de tipo e formato, ao redor do mundo.(n)</desc>
@@ -42750,7 +42745,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914073200 +0200" stop="20200914074600 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914073200 +0200" stop="20200914074600 +0200" channel="Disney Junior HD">
     <title lang="pt">PJ Masks</title>
     <sub-title lang="pt">Heróis de Pijama</sub-title>
     <desc lang="pt">Veja como o Menino Gato, a Corujita e o Lagartixo salvam o dia durante a noite.(n)</desc>
@@ -42762,7 +42757,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914074600 +0200" stop="20200914080400 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914074600 +0200" stop="20200914080400 +0200" channel="Disney Junior HD">
     <title lang="pt">Puppy Dog Pals</title>
     <desc lang="pt">A animação apresenta uma divertida dupla de filhotinhos que está sempre pronta para uma nova aventura canina pela vizinhança.(n)</desc>
     <credits>
@@ -42778,7 +42773,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914080400 +0200" stop="20200914094500 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914080400 +0200" stop="20200914094500 +0200" channel="Disney Junior HD">
     <title lang="pt">Carros 3</title>
     <desc lang="pt">Veterano das pistas, Relâmpago McQueen se vê em apuros após o surgimento de um novato bastante veloz, Jackson Storm, que utiliza de alta tecnologia nos treinamentos.(n)</desc>
     <credits>
@@ -42792,7 +42787,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914094500 +0200" stop="20200914100100 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914094500 +0200" stop="20200914100100 +0200" channel="Disney Junior HD">
     <title lang="pt">Muppet Babies</title>
     <desc lang="pt">Muppet Babies narra as travessuras no berçário dos jovens Kermit, Miss Piggy, Fozzie e Gonzo. Eles têm tudo o que precisam a seu alcance, o que os leva às suas fantásticas aventuras.(n)</desc>
     <credits>
@@ -42814,7 +42809,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914100100 +0200" stop="20200914101400 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914100100 +0200" stop="20200914101400 +0200" channel="Disney Junior HD">
     <title lang="pt">Gigantosaurus</title>
     <desc lang="pt">Quatro curiosos jovens amigos de dinossauros exploram o mistério do Gigantossauro, o maior e mais feroz dos dinossauros, pois enfrentam seus medos individuais e trabalham juntos para resolver problemas.(n)</desc>
     <credits>
@@ -42831,7 +42826,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914101400 +0200" stop="20200914102900 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914101400 +0200" stop="20200914102900 +0200" channel="Disney Junior HD">
     <title lang="pt">TOTS</title>
     <sub-title lang="pt">Serviço de Entrega de Filhotes</sub-title>
     <desc lang="pt">Acompanhe Pip e Freddy, dois amigos que trabalham no serviço de entregas de bebês animais. Eles são os responsáveis por transferir filhotes do berçário para suas famílias, em todo o mundo.(n)</desc>
@@ -42840,7 +42835,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914102900 +0200" stop="20200914104200 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914102900 +0200" stop="20200914104200 +0200" channel="Disney Junior HD">
     <title lang="pt">Nivis: Amigos de Outro Mundo</title>
     <desc lang="pt">Nivis, Amigos de Outro Mundo conta a história da família Nivi, do planeta Nivilux que chega à Terra por acidente quando sua nave bate na janela da casa de Amadeo Amigo.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -42848,7 +42843,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914104200 +0200" stop="20200914105900 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914104200 +0200" stop="20200914105900 +0200" channel="Disney Junior HD">
     <title lang="pt">Puppy Dog Pals</title>
     <desc lang="pt">A animação apresenta uma divertida dupla de filhotinhos que está sempre pronta para uma nova aventura canina pela vizinhança.(n)</desc>
     <credits>
@@ -42864,7 +42859,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914105900 +0200" stop="20200914110700 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914105900 +0200" stop="20200914110700 +0200" channel="Disney Junior HD">
     <title lang="pt">O Diário de Mika</title>
     <desc lang="pt">O desenho conta a história de Mikaela, uma menina de quatro anos muito curiosa que está aprendendo a lidar com todas as novidades que o mundo tem para oferecer.(n)</desc>
     <category lang="pt">Animação</category>
@@ -42872,7 +42867,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914110700 +0200" stop="20200914111500 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914110700 +0200" stop="20200914111500 +0200" channel="Disney Junior HD">
     <title lang="pt">O Diário de Mika</title>
     <desc lang="pt">O desenho conta a história de Mikaela, uma menina de quatro anos muito curiosa que está aprendendo a lidar com todas as novidades que o mundo tem para oferecer.(n)</desc>
     <category lang="pt">Animação</category>
@@ -42880,7 +42875,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914111500 +0200" stop="20200914112100 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914111500 +0200" stop="20200914112100 +0200" channel="Disney Junior HD">
     <title lang="pt">Viola e Tambor</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -42888,7 +42883,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914112100 +0200" stop="20200914113000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914112100 +0200" stop="20200914113000 +0200" channel="Disney Junior HD">
     <title lang="pt">Viola e Tambor</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -42896,7 +42891,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914113000 +0200" stop="20200914114300 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914113000 +0200" stop="20200914114300 +0200" channel="Disney Junior HD">
     <title lang="pt">PJ Masks</title>
     <sub-title lang="pt">Heróis de Pijama</sub-title>
     <desc lang="pt">Veja como o Menino Gato, a Corujita e o Lagartixo salvam o dia durante a noite.(n)</desc>
@@ -42908,7 +42903,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914114300 +0200" stop="20200914120000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914114300 +0200" stop="20200914120000 +0200" channel="Disney Junior HD">
     <title lang="pt">Mickey Mouse</title>
     <desc lang="pt">Os curtas Mickey Mouse são produzidos com base na animação 2D e contam com um visual inspirado nas raízes do ratinho e influências do estilo de Mickey nos anos 30, tudo isso sem deixar de ter um toque contemporâneo.(n)</desc>
     <category lang="pt">Animação</category>
@@ -42916,7 +42911,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914120000 +0200" stop="20200914121700 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914120000 +0200" stop="20200914121700 +0200" channel="Disney Junior HD">
     <title lang="pt">Rocketeer</title>
     <desc lang="pt">Kit Secord, de sete anos de idade, descobre que ela é secretamente a próxima na fila para se tornar The Rocketeer, um super-herói vestindo foguete que pode voar.(n)</desc>
     <credits>
@@ -42936,7 +42931,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914121700 +0200" stop="20200914123400 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914121700 +0200" stop="20200914123400 +0200" channel="Disney Junior HD">
     <title lang="pt">Vampirina</title>
     <desc lang="pt">Vampirina conta a história de uma jovem vampira que enfrenta as alegrias e as dificuldades de ser a nova garota na cidade quando sua família se muda da Transilvânia para a Pensilvânia.(n)</desc>
     <credits>
@@ -42951,7 +42946,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914123400 +0200" stop="20200914130100 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914123400 +0200" stop="20200914130100 +0200" channel="Disney Junior HD">
     <title lang="pt">A Guarda do Leão</title>
     <desc lang="pt">A Guarda do Leão começa quando Kion, o segundo filho de Simba e Nala, torna-se o líder da Guarda do Leão. O grupo reúne os mais ferozes, valentes, rápidos, fortes e de melhor visão para proteger as Terras do Reino.(n)</desc>
     <credits>
@@ -42972,7 +42967,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914130100 +0200" stop="20200914131400 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914130100 +0200" stop="20200914131400 +0200" channel="Disney Junior HD">
     <title lang="pt">Mira, Royal Detective</title>
     <desc lang="pt">Uma garota corajosa e engenhosa se torna detetive real na Índia depois de resolver um mistério que salvou o jovem príncipe do reino.(n)</desc>
     <credits>
@@ -42989,7 +42984,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914131400 +0200" stop="20200914133000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914131400 +0200" stop="20200914133000 +0200" channel="Disney Junior HD">
     <title lang="pt">Doutora Brinquedos</title>
     <desc lang="pt">Doutora Brinquedos conta a história de uma garotinha de seis anos que consegue falar com seus bichinhos de pelúcia e outros bonecos, dos quais ela cuida em sua clínica para brinquedos.(n)</desc>
     <category lang="pt">Animação</category>
@@ -42997,7 +42992,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914133000 +0200" stop="20200914140000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914133000 +0200" stop="20200914140000 +0200" channel="Disney Junior HD">
     <title lang="pt">Princesinha Sofia</title>
     <desc lang="pt">A doce princesinha Sofia, uma plebeia que vira uma princesa quando sua mãe casa com o rei de Enchancia, Roland II.(n)</desc>
     <credits>
@@ -43015,7 +43010,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914140000 +0200" stop="20200914145900 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914140000 +0200" stop="20200914145900 +0200" channel="Disney Junior HD">
     <title lang="pt">A Guarda do Leão</title>
     <desc lang="pt">A Guarda do Leão começa quando Kion, o segundo filho de Simba e Nala, torna-se o líder da Guarda do Leão. O grupo reúne os mais ferozes, valentes, rápidos, fortes e de melhor visão para proteger as Terras do Reino.(n)</desc>
     <credits>
@@ -43036,7 +43031,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914145900 +0200" stop="20200914152700 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914145900 +0200" stop="20200914152700 +0200" channel="Disney Junior HD">
     <title lang="pt">Mickey</title>
     <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
     <desc lang="pt">Mickey e seus amigos participam de corridas de alta velocidade em veículos rápidos que mudam de tipo e formato, ao redor do mundo.(n)</desc>
@@ -43055,7 +43050,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914152700 +0200" stop="20200914160000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914152700 +0200" stop="20200914160000 +0200" channel="Disney Junior HD">
     <title lang="pt">Art Attack</title>
     <desc lang="pt">Art Attack, uma produção nova, original e exclusiva do Disney Channel Channel, dá asas à imaginação e ensina como criar projetos maravilhosos com materiais caseiros, a partir de instruções simples e divertidas.(n)</desc>
     <category lang="pt">Programa</category>
@@ -43066,7 +43061,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914160000 +0200" stop="20200914163000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914160000 +0200" stop="20200914163000 +0200" channel="Disney Junior HD">
     <title lang="pt">A Guarda do Leão</title>
     <desc lang="pt">A Guarda do Leão começa quando Kion, o segundo filho de Simba e Nala, torna-se o líder da Guarda do Leão. O grupo reúne os mais ferozes, valentes, rápidos, fortes e de melhor visão para proteger as Terras do Reino.(n)</desc>
     <credits>
@@ -43087,7 +43082,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914163000 +0200" stop="20200914170000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914163000 +0200" stop="20200914170000 +0200" channel="Disney Junior HD">
     <title lang="pt">Elena de Avalor</title>
     <desc lang="pt">Princesa Elena é uma adolescente corajosa e aventureira que salvou seu reino de uma bruxa malvada e precisa aprender a governar, até que seja madura o suficiente para se tornar rainha.(n)</desc>
     <credits>
@@ -43106,7 +43101,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914170000 +0200" stop="20200914171400 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914170000 +0200" stop="20200914171400 +0200" channel="Disney Junior HD">
     <title lang="pt">Bubu e as Corujinhas</title>
     <desc lang="pt">A Bubu é curiosa? Do que será que ela gosta? Ora bolas, carambolas! Descubra isso e muito mais sobre a corujinha Bubu.(n)</desc>
     <category lang="pt">Animação</category>
@@ -43114,7 +43109,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914171400 +0200" stop="20200914172000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914171400 +0200" stop="20200914172000 +0200" channel="Disney Junior HD">
     <title lang="pt">Viola e Tambor</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -43122,7 +43117,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914172000 +0200" stop="20200914173100 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914172000 +0200" stop="20200914173100 +0200" channel="Disney Junior HD">
     <title lang="pt">Viola e Tambor</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -43130,15 +43125,15 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914173100 +0200" stop="20200914180000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914173100 +0200" stop="20200914180000 +0200" channel="Disney Junior HD">
     <title lang="pt">Junior Express</title>
-    <desc lang="pt">Junior Express é a nova produção original do Disney Channel Junior América Latina em que Topa, um capitão alegre e animado, viaja ao lado de uma tripulação incrível de amigos..(n)</desc>
+    <desc lang="pt">Junior Express é a nova produção original do Disney Junior América Latina em que Topa, um capitão alegre e animado, viaja ao lado de uma tripulação incrível de amigos..(n)</desc>
     <category lang="pt">Programa</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914180000 +0200" stop="20200914181300 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914180000 +0200" stop="20200914181300 +0200" channel="Disney Junior HD">
     <title lang="pt">Nivis: Amigos de Outro Mundo</title>
     <desc lang="pt">Nivis, Amigos de Outro Mundo conta a história da família Nivi, do planeta Nivilux que chega à Terra por acidente quando sua nave bate na janela da casa de Amadeo Amigo.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -43146,7 +43141,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914181300 +0200" stop="20200914182900 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914181300 +0200" stop="20200914182900 +0200" channel="Disney Junior HD">
     <title lang="pt">Muppet Babies</title>
     <desc lang="pt">Muppet Babies narra as travessuras no berçário dos jovens Kermit, Miss Piggy, Fozzie e Gonzo. Eles têm tudo o que precisam a seu alcance, o que os leva às suas fantásticas aventuras.(n)</desc>
     <credits>
@@ -43168,7 +43163,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914182900 +0200" stop="20200914184000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914182900 +0200" stop="20200914184000 +0200" channel="Disney Junior HD">
     <title lang="pt">Bluey</title>
     <desc lang="pt">As aventuras de Bluey, um filhote que vive com sua mãe, pai e irmã. Sua energia e espírito adorável geram todo tipo de situações divertidas e imprevisíveis.(n)</desc>
     <credits>
@@ -43185,7 +43180,7 @@
       <value>5</value>
     </star-rating>
   </programme>
-  <programme start="20200914184000 +0200" stop="20200914190000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914184000 +0200" stop="20200914190000 +0200" channel="Disney Junior HD">
     <title lang="pt">PJ Masks</title>
     <sub-title lang="pt">Heróis de Pijama</sub-title>
     <desc lang="pt">Veja como o Menino Gato, a Corujita e o Lagartixo salvam o dia durante a noite.(n)</desc>
@@ -43197,7 +43192,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914190000 +0200" stop="20200914191800 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914190000 +0200" stop="20200914191800 +0200" channel="Disney Junior HD">
     <title lang="pt">Mickey Mouse</title>
     <desc lang="pt">Os curtas Mickey Mouse são produzidos com base na animação 2D e contam com um visual inspirado nas raízes do ratinho e influências do estilo de Mickey nos anos 30, tudo isso sem deixar de ter um toque contemporâneo.(n)</desc>
     <category lang="pt">Animação</category>
@@ -43205,7 +43200,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914191800 +0200" stop="20200914193400 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914191800 +0200" stop="20200914193400 +0200" channel="Disney Junior HD">
     <title lang="pt">Mira, Royal Detective</title>
     <desc lang="pt">Uma garota corajosa e engenhosa se torna detetive real na Índia depois de resolver um mistério que salvou o jovem príncipe do reino.(n)</desc>
     <credits>
@@ -43222,7 +43217,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914193400 +0200" stop="20200914194700 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914193400 +0200" stop="20200914194700 +0200" channel="Disney Junior HD">
     <title lang="pt">TOTS</title>
     <sub-title lang="pt">Serviço de Entrega de Filhotes</sub-title>
     <desc lang="pt">Acompanhe Pip e Freddy, dois amigos que trabalham no serviço de entregas de bebês animais. Eles são os responsáveis por transferir filhotes do berçário para suas famílias, em todo o mundo.(n)</desc>
@@ -43231,7 +43226,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914194700 +0200" stop="20200914200200 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914194700 +0200" stop="20200914200200 +0200" channel="Disney Junior HD">
     <title lang="pt">Fancy Nancy Clancy</title>
     <desc lang="pt">A história de uma jovem garota que ama tudo o que é fancy e sofisticado. Sempre está acompanhada de sua inseparável melhor amiga, Bree, sua irmã mais nova, Jojo, sua cadelinha, Frenchy, sua boneca, Marabelle e seus pais.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -43239,7 +43234,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914200200 +0200" stop="20200914214600 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914200200 +0200" stop="20200914214600 +0200" channel="Disney Junior HD">
     <title lang="pt">Moana: Um Mar de Aventuras</title>
     <desc lang="pt">Moana é uma corajosa jovem, filha do chefe de uma tribo na Oceania.(n)</desc>
     <credits>
@@ -43260,7 +43255,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914214600 +0200" stop="20200914220000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914214600 +0200" stop="20200914220000 +0200" channel="Disney Junior HD">
     <title lang="pt">TOTS</title>
     <sub-title lang="pt">Serviço de Entrega de Filhotes</sub-title>
     <desc lang="pt">Acompanhe Pip e Freddy, dois amigos que trabalham no serviço de entregas de bebês animais. Eles são os responsáveis por transferir filhotes do berçário para suas famílias, em todo o mundo.(n)</desc>
@@ -43269,7 +43264,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914220000 +0200" stop="20200914222700 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914220000 +0200" stop="20200914222700 +0200" channel="Disney Junior HD">
     <title lang="pt">Morko e Mali</title>
     <desc lang="pt">Morko é um menino alegre e aventureiro, que vive na selva com sua irmã Mali, uma jovem valente. Juntamente com seus amigos, eles deverão resolver os mais variados desafios, que os farão viver as aventuras mais divertidas.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -43277,7 +43272,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914222700 +0200" stop="20200914224200 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914222700 +0200" stop="20200914224200 +0200" channel="Disney Junior HD">
     <title lang="pt">Nivis: Amigos de Outro Mundo</title>
     <desc lang="pt">Nivis, Amigos de Outro Mundo conta a história da família Nivi, do planeta Nivilux que chega à Terra por acidente quando sua nave bate na janela da casa de Amadeo Amigo.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -43285,7 +43280,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914224200 +0200" stop="20200914230000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914224200 +0200" stop="20200914230000 +0200" channel="Disney Junior HD">
     <title lang="pt">Puppy Dog Pals</title>
     <desc lang="pt">A animação apresenta uma divertida dupla de filhotinhos que está sempre pronta para uma nova aventura canina pela vizinhança.(n)</desc>
     <credits>
@@ -43301,7 +43296,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914230000 +0200" stop="20200914232900 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914230000 +0200" stop="20200914232900 +0200" channel="Disney Junior HD">
     <title lang="pt">Mickey</title>
     <sub-title lang="pt">Aventuras Sobre Rodas</sub-title>
     <desc lang="pt">Mickey e seus amigos participam de corridas de alta velocidade em veículos rápidos que mudam de tipo e formato, ao redor do mundo.(n)</desc>
@@ -43320,15 +43315,15 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914232900 +0200" stop="20200915000000 +0200" channel="Disney Channel Junior HD">
+  <programme start="20200914232900 +0200" stop="20200915000000 +0200" channel="Disney Junior HD">
     <title lang="pt">Junior Express</title>
-    <desc lang="pt">Junior Express é a nova produção original do Disney Channel Junior América Latina em que Topa, um capitão alegre e animado, viaja ao lado de uma tripulação incrível de amigos..(n)</desc>
+    <desc lang="pt">Junior Express é a nova produção original do Disney Junior América Latina em que Topa, um capitão alegre e animado, viaja ao lado de uma tripulação incrível de amigos..(n)</desc>
     <category lang="pt">Programa</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914000000 +0200" stop="20200914013100 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914000000 +0200" stop="20200914013100 +0200" channel="Disney XD HD">
     <title lang="pt">Operação Big Hero</title>
     <desc lang="pt">Hiro, um garoto prodigio de 13 anos, faz uma grande apresentação para poder ingressar no laboratório em que seu irmão trabalha. Mas quando um acidente acontece, ele conta com o inesperado conforto do robô inflável Baymax.(n)</desc>
     <credits>
@@ -43349,7 +43344,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914013100 +0200" stop="20200914014300 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914013100 +0200" stop="20200914014300 +0200" channel="Disney XD HD">
     <title lang="pt">Galáxia Wander</title>
     <desc lang="pt">A comédia de animação conta as aventuras de Wander, um otimista viajante intergaláctico que vive fazendo o bem, e da sua melhor amiga e montaria Sylvia, que apesar de esquentadinha, é muito leal.(n)</desc>
     <credits>
@@ -43367,7 +43362,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914014300 +0200" stop="20200914015400 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914014300 +0200" stop="20200914015400 +0200" channel="Disney XD HD">
     <title lang="pt">Picles e Amendoim</title>
     <desc lang="pt">A animação mostra as aventuras dos melhores amigos Picles e Amendoim em seu último ano de escola, onde estão aproveitando ao máximo a possibilidade de se divertir o tempo todo antes das responsabilidades da vida adulta.(n)</desc>
     <credits>
@@ -43386,7 +43381,7 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20200914015400 +0200" stop="20200914020600 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914015400 +0200" stop="20200914020600 +0200" channel="Disney XD HD">
     <title lang="pt">Randy Cunningham</title>
     <sub-title lang="pt">Ninja Total</sub-title>
     <desc lang="pt">As façanhas de Randy, um jovem estudante com seu traje super-humano de Ninja, os ensinamentos do.(n)</desc>
@@ -43395,7 +43390,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914020600 +0200" stop="20200914021800 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914020600 +0200" stop="20200914021800 +0200" channel="Disney XD HD">
     <title lang="pt">Adolepeixes</title>
     <desc lang="pt">A animação conta as histórias da turma do Águas Frescas Ensino Médio, um colégio que fica dentro de um grande aquário no centro de uma loja local de mascotes.(n)</desc>
     <category lang="pt">Animação</category>
@@ -43403,7 +43398,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914021800 +0200" stop="20200914024000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914021800 +0200" stop="20200914024000 +0200" channel="Disney XD HD">
     <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
     <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística.(n)</desc>
     <credits>
@@ -43423,7 +43418,7 @@
       <value>5</value>
     </star-rating>
   </programme>
-  <programme start="20200914024000 +0200" stop="20200914030300 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914024000 +0200" stop="20200914030300 +0200" channel="Disney XD HD">
     <title lang="pt">Yo Kai Watch</title>
     <desc lang="pt">Um dia, quando estava procurando por insetos no bosque de Sakura New Town (baseada na cidade japonesa Tsukuba), um garoto chamado Keita Amano (conhecido como Nathan Adams no Ocidente) se depara com uma peculiar máquina de cápsula.(n)</desc>
     <credits>
@@ -43438,15 +43433,15 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20200914030300 +0200" stop="20200914032500 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914030300 +0200" stop="20200914032500 +0200" channel="Disney XD HD">
     <title lang="pt">Kick Buttowski: Um Projeto de Dublê</title>
-    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney Channel XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.(n)</desc>
+    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.(n)</desc>
     <category lang="pt">Animação</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914032500 +0200" stop="20200914034700 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914032500 +0200" stop="20200914034700 +0200" channel="Disney XD HD">
     <title lang="pt">Acampamento Lakebottom</title>
     <desc lang="pt">A série segue a história de um menino de 12 anos chamado McGee. Durante uma viagem para o divertido Camp Sunny Smiles, seu ônibus pega o caminho errado e leva ele e seus amigos para um antigo e assustador acampamento.(n)</desc>
     <credits>
@@ -43462,7 +43457,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914034700 +0200" stop="20200914041000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914034700 +0200" stop="20200914041000 +0200" channel="Disney XD HD">
     <title lang="pt">Phineas e Ferb</title>
     <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras.(n)</desc>
     <credits>
@@ -43478,7 +43473,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914041000 +0200" stop="20200914043200 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914041000 +0200" stop="20200914043200 +0200" channel="Disney XD HD">
     <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
     <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística.(n)</desc>
     <credits>
@@ -43498,7 +43493,7 @@
       <value>5</value>
     </star-rating>
   </programme>
-  <programme start="20200914043200 +0200" stop="20200914045500 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914043200 +0200" stop="20200914045500 +0200" channel="Disney XD HD">
     <title lang="pt">Star vs. as Forças do Mal</title>
     <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo.(n)</desc>
     <credits>
@@ -43518,7 +43513,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914045500 +0200" stop="20200914051800 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914045500 +0200" stop="20200914051800 +0200" channel="Disney XD HD">
     <title lang="pt">Phineas e Ferb</title>
     <desc lang="pt">Phineas e Ferb, dois meio irmãos de 10 anos de idade, decidem que cada dia será mais emocionante do que o anterior, através de fabulosas aventuras.(n)</desc>
     <credits>
@@ -43534,7 +43529,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914051800 +0200" stop="20200914054000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914051800 +0200" stop="20200914054000 +0200" channel="Disney XD HD">
     <title lang="pt">Os Vizinhos Green</title>
     <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.(n)</desc>
     <credits>
@@ -43550,7 +43545,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914054000 +0200" stop="20200914060000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914054000 +0200" stop="20200914060000 +0200" channel="Disney XD HD">
     <title lang="pt">Galáxia Wander</title>
     <desc lang="pt">A comédia de animação conta as aventuras de Wander, um otimista viajante intergaláctico que vive fazendo o bem, e da sua melhor amiga e montaria Sylvia, que apesar de esquentadinha, é muito leal.(n)</desc>
     <credits>
@@ -43568,7 +43563,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914060000 +0200" stop="20200914062300 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914060000 +0200" stop="20200914062300 +0200" channel="Disney XD HD">
     <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
     <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan, em Gravity Falls, Oregon. Por lá, eles terão de cuidar do The Mystery Shack, uma atração turística.(n)</desc>
     <credits>
@@ -43588,7 +43583,7 @@
       <value>5</value>
     </star-rating>
   </programme>
-  <programme start="20200914062300 +0200" stop="20200914063500 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914062300 +0200" stop="20200914063500 +0200" channel="Disney XD HD">
     <title lang="pt">Amphibia</title>
     <desc lang="pt">A ordinária Anne Boonchuy, de 13 anos, encontra uma arca do tesouro que a envia para Amphibia, um mundo cheio de rãs, sapos e insetos gigantes.(n)</desc>
     <credits>
@@ -43602,15 +43597,15 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914063500 +0200" stop="20200914064700 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914063500 +0200" stop="20200914064700 +0200" channel="Disney XD HD">
     <title lang="pt">Kick Buttowski: Um Projeto de Dublê</title>
-    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney Channel XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.(n)</desc>
+    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.(n)</desc>
     <category lang="pt">Animação</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914064700 +0200" stop="20200914070000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914064700 +0200" stop="20200914070000 +0200" channel="Disney XD HD">
     <title lang="pt">Galáxia Wander</title>
     <desc lang="pt">A comédia de animação conta as aventuras de Wander, um otimista viajante intergaláctico que vive fazendo o bem, e da sua melhor amiga e montaria Sylvia, que apesar de esquentadinha, é muito leal.(n)</desc>
     <credits>
@@ -43628,7 +43623,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914070000 +0200" stop="20200914072400 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914070000 +0200" stop="20200914072400 +0200" channel="Disney XD HD">
     <title lang="pt">Slugterrâneo</title>
     <desc lang="pt">A história segue Elias Shane e sua equipe enquanto exploram cavernas, enfrentam rivais e qualquer outro duelo amigável e atualizam seu equipamento.(n)</desc>
     <category lang="pt">Animação</category>
@@ -43636,7 +43631,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914072400 +0200" stop="20200914080000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914072400 +0200" stop="20200914080000 +0200" channel="Disney XD HD">
     <title lang="pt">Hércules</title>
     <desc lang="pt">Uma aventura épica, baseada no maior herói da mitologia greco-romana, adaptada para o público infantil.(n)</desc>
     <credits>
@@ -43657,7 +43652,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914080000 +0200" stop="20200914083600 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914080000 +0200" stop="20200914083600 +0200" channel="Disney XD HD">
     <title lang="pt">As Aventuras de Timão e Pumba</title>
     <desc lang="pt">Dois dos personagens mais engraçados do filme de sucesso, O Rei Leão, voltam à ação, se metendo em todo o tipo de trapalhadas.(n)</desc>
     <credits>
@@ -43677,7 +43672,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914083600 +0200" stop="20200914090100 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914083600 +0200" stop="20200914090100 +0200" channel="Disney XD HD">
     <title lang="pt">Ducktales</title>
     <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
     <desc lang="pt">A série comédia-aventura narra as aventuras do trilionário Tio Patinhas, seus sobrinhos-netos - Huguinho, Zezinho e Luizinho, seu sobrinho temperamental Pato Donald, Capitão Boing, Madame Patilda e sua neta Patrícia.(n)</desc>
@@ -43699,7 +43694,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914090100 +0200" stop="20200914091200 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914090100 +0200" stop="20200914091200 +0200" channel="Disney XD HD">
     <title lang="pt">Adolepeixes</title>
     <desc lang="pt">A animação conta as histórias da turma do Águas Frescas Ensino Médio, um colégio que fica dentro de um grande aquário no centro de uma loja local de mascotes.(n)</desc>
     <category lang="pt">Animação</category>
@@ -43707,7 +43702,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914091200 +0200" stop="20200914092700 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914091200 +0200" stop="20200914092700 +0200" channel="Disney XD HD">
     <title lang="pt">Minhoca do Futuro</title>
     <desc lang="pt">A série apresenta as aventuras de Danny e Minhoca do Futuro, que viajam no tempo usando uma máquina do tempo em forma de lancheira.(n)</desc>
     <credits>
@@ -43721,7 +43716,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914092700 +0200" stop="20200914093800 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914092700 +0200" stop="20200914093800 +0200" channel="Disney XD HD">
     <title lang="pt">Picles e Amendoim</title>
     <desc lang="pt">A animação mostra as aventuras dos melhores amigos Picles e Amendoim em seu último ano de escola, onde estão aproveitando ao máximo a possibilidade de se divertir o tempo todo antes das responsabilidades da vida adulta.(n)</desc>
     <credits>
@@ -43740,7 +43735,7 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20200914093800 +0200" stop="20200914095000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914093800 +0200" stop="20200914095000 +0200" channel="Disney XD HD">
     <title lang="pt">Randy Cunningham</title>
     <sub-title lang="pt">Ninja Total</sub-title>
     <desc lang="pt">As façanhas de Randy, um jovem estudante com seu traje super-humano de Ninja, os ensinamentos do.(n)</desc>
@@ -43749,7 +43744,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914095000 +0200" stop="20200914100200 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914095000 +0200" stop="20200914100200 +0200" channel="Disney XD HD">
     <title lang="pt">Adolepeixes</title>
     <desc lang="pt">A animação conta as histórias da turma do Águas Frescas Ensino Médio, um colégio que fica dentro de um grande aquário no centro de uma loja local de mascotes.(n)</desc>
     <category lang="pt">Animação</category>
@@ -43757,7 +43752,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914100200 +0200" stop="20200914101600 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914100200 +0200" stop="20200914101600 +0200" channel="Disney XD HD">
     <title lang="pt">Mickey Mouse</title>
     <desc lang="pt">Os curtas Mickey Mouse são produzidos com base na animação 2D e contam com um visual inspirado nas raízes do ratinho e influências do estilo de Mickey nos anos 30, tudo isso sem deixar de ter um toque contemporâneo.(n)</desc>
     <category lang="pt">Animação</category>
@@ -43765,7 +43760,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914101600 +0200" stop="20200914102700 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914101600 +0200" stop="20200914102700 +0200" channel="Disney XD HD">
     <title lang="pt">Frangos Estelares no Espaço</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -43773,7 +43768,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914102700 +0200" stop="20200914104100 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914102700 +0200" stop="20200914104100 +0200" channel="Disney XD HD">
     <title lang="pt">Amphibia</title>
     <desc lang="pt">A ordinária Anne Boonchuy, de 13 anos, encontra uma arca do tesouro que a envia para Amphibia, um mundo cheio de rãs, sapos e insetos gigantes.(n)</desc>
     <credits>
@@ -43787,7 +43782,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914104100 +0200" stop="20200914110000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914104100 +0200" stop="20200914110000 +0200" channel="Disney XD HD">
     <title lang="pt">Adolepeixes</title>
     <desc lang="pt">A animação conta as histórias da turma do Águas Frescas Ensino Médio, um colégio que fica dentro de um grande aquário no centro de uma loja local de mascotes.(n)</desc>
     <category lang="pt">Animação</category>
@@ -43795,7 +43790,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914110000 +0200" stop="20200914111100 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914110000 +0200" stop="20200914111100 +0200" channel="Disney XD HD">
     <title lang="pt">Os Vizinhos Green</title>
     <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.(n)</desc>
     <credits>
@@ -43811,15 +43806,15 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914111100 +0200" stop="20200914112300 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914111100 +0200" stop="20200914112300 +0200" channel="Disney XD HD">
     <title lang="pt">Kick Buttowski: Um Projeto de Dublê</title>
-    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney Channel XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.(n)</desc>
+    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.(n)</desc>
     <category lang="pt">Animação</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914112300 +0200" stop="20200914120000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914112300 +0200" stop="20200914120000 +0200" channel="Disney XD HD">
     <title lang="pt">Operação Big Hero</title>
     <sub-title lang="pt">A Série</sub-title>
     <desc lang="pt">Hiro continua suas aventuras com seu amigo robô Baymax e o resto da equipe Big Hero 6.(n)</desc>
@@ -43835,7 +43830,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914120000 +0200" stop="20200914122400 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914120000 +0200" stop="20200914122400 +0200" channel="Disney XD HD">
     <title lang="pt">Marvel Spider-Man</title>
     <desc lang="pt">Um adolescente inseguro mas corajoso e inteligente chamado Peter Parker, é picado por uma aranha radioativa e recebe poderes. Ele se torna um herói chamado Homem-Aranha.(n)</desc>
     <category lang="pt">Animação</category>
@@ -43843,7 +43838,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914122400 +0200" stop="20200914123500 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914122400 +0200" stop="20200914123500 +0200" channel="Disney XD HD">
     <title lang="pt">Os Vizinhos Green</title>
     <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.(n)</desc>
     <credits>
@@ -43859,7 +43854,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914123500 +0200" stop="20200914124800 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914123500 +0200" stop="20200914124800 +0200" channel="Disney XD HD">
     <title lang="pt">Minhoca do Futuro</title>
     <desc lang="pt">A série apresenta as aventuras de Danny e Minhoca do Futuro, que viajam no tempo usando uma máquina do tempo em forma de lancheira.(n)</desc>
     <credits>
@@ -43873,7 +43868,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914124800 +0200" stop="20200914130000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914124800 +0200" stop="20200914130000 +0200" channel="Disney XD HD">
     <title lang="pt">Galáxia Wander</title>
     <desc lang="pt">A comédia de animação conta as aventuras de Wander, um otimista viajante intergaláctico que vive fazendo o bem, e da sua melhor amiga e montaria Sylvia, que apesar de esquentadinha, é muito leal.(n)</desc>
     <credits>
@@ -43891,7 +43886,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914130000 +0200" stop="20200914133000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914130000 +0200" stop="20200914133000 +0200" channel="Disney XD HD">
     <title lang="pt">Ducktales</title>
     <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
     <desc lang="pt">A série comédia-aventura narra as aventuras do trilionário Tio Patinhas, seus sobrinhos-netos - Huguinho, Zezinho e Luizinho, seu sobrinho temperamental Pato Donald, Capitão Boing, Madame Patilda e sua neta Patrícia.(n)</desc>
@@ -43913,7 +43908,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914133000 +0200" stop="20200914134100 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914133000 +0200" stop="20200914134100 +0200" channel="Disney XD HD">
     <title lang="pt">Cupcake &amp; Dino</title>
     <sub-title lang="pt">Serviços Gerais</sub-title>
     <desc lang="pt">Um cupcake empreendedor e seu animado irmão dinossauro estão dispostos a qualquer coisa para satisfazer clientes e ajudar os amigos numa cidade muito doida.(n)</desc>
@@ -43934,7 +43929,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914134100 +0200" stop="20200914140000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914134100 +0200" stop="20200914140000 +0200" channel="Disney XD HD">
     <title lang="pt">Cupcake &amp; Dino</title>
     <sub-title lang="pt">Serviços Gerais</sub-title>
     <desc lang="pt">Um cupcake empreendedor e seu animado irmão dinossauro estão dispostos a qualquer coisa para satisfazer clientes e ajudar os amigos numa cidade muito doida.(n)</desc>
@@ -43955,7 +43950,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914140000 +0200" stop="20200914142200 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914140000 +0200" stop="20200914142200 +0200" channel="Disney XD HD">
     <title lang="pt">Trollhunters</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <credits>
@@ -43976,7 +43971,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914142200 +0200" stop="20200914144600 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914142200 +0200" stop="20200914144600 +0200" channel="Disney XD HD">
     <title lang="pt">Yo Kai Watch</title>
     <desc lang="pt">Um dia, quando estava procurando por insetos no bosque de Sakura New Town (baseada na cidade japonesa Tsukuba), um garoto chamado Keita Amano (conhecido como Nathan Adams no Ocidente) se depara com uma peculiar máquina de cápsula.(n)</desc>
     <credits>
@@ -43991,7 +43986,7 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20200914144600 +0200" stop="20200914150000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914144600 +0200" stop="20200914150000 +0200" channel="Disney XD HD">
     <title lang="pt">Star vs. as Forças do Mal</title>
     <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo.(n)</desc>
     <credits>
@@ -44011,7 +44006,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914150000 +0200" stop="20200914163600 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914150000 +0200" stop="20200914163600 +0200" channel="Disney XD HD">
     <title lang="pt">Wall-E</title>
     <desc lang="pt">WALL-E é um robozinho que foi criado no ano 2000. Passados 700 anos, sempre realizando tudo aquilo a que foi destinado, ele começa a perceber seu verdadeiro significado.(n)</desc>
     <credits>
@@ -44031,7 +44026,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914163600 +0200" stop="20200914164400 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914163600 +0200" stop="20200914164400 +0200" channel="Disney XD HD">
     <title lang="pt">Pixar Shorts</title>
     <desc lang="pt">Bloco dedicado a longas animados, produzidos pelo Estúdio Pixar Animation.(n)</desc>
     <category lang="pt">Animação</category>
@@ -44039,7 +44034,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914164400 +0200" stop="20200914170000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914164400 +0200" stop="20200914170000 +0200" channel="Disney XD HD">
     <title lang="pt">Randy Cunningham</title>
     <sub-title lang="pt">Ninja Total</sub-title>
     <desc lang="pt">As façanhas de Randy, um jovem estudante com seu traje super-humano de Ninja, os ensinamentos do.(n)</desc>
@@ -44048,7 +44043,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914170000 +0200" stop="20200914171400 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914170000 +0200" stop="20200914171400 +0200" channel="Disney XD HD">
     <title lang="pt">Star vs. as Forças do Mal</title>
     <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo.(n)</desc>
     <credits>
@@ -44068,7 +44063,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914171400 +0200" stop="20200914173000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914171400 +0200" stop="20200914173000 +0200" channel="Disney XD HD">
     <title lang="pt">Frangos Estelares no Espaço</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Infantil</category>
@@ -44076,7 +44071,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914173000 +0200" stop="20200914174100 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914173000 +0200" stop="20200914174100 +0200" channel="Disney XD HD">
     <title lang="pt">Cupcake &amp; Dino</title>
     <sub-title lang="pt">Serviços Gerais</sub-title>
     <desc lang="pt">Um cupcake empreendedor e seu animado irmão dinossauro estão dispostos a qualquer coisa para satisfazer clientes e ajudar os amigos numa cidade muito doida.(n)</desc>
@@ -44097,7 +44092,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914174100 +0200" stop="20200914180000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914174100 +0200" stop="20200914180000 +0200" channel="Disney XD HD">
     <title lang="pt">Cupcake &amp; Dino</title>
     <sub-title lang="pt">Serviços Gerais</sub-title>
     <desc lang="pt">Um cupcake empreendedor e seu animado irmão dinossauro estão dispostos a qualquer coisa para satisfazer clientes e ajudar os amigos numa cidade muito doida.(n)</desc>
@@ -44118,7 +44113,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914180000 +0200" stop="20200914182500 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914180000 +0200" stop="20200914182500 +0200" channel="Disney XD HD">
     <title lang="pt">Os Vizinhos Green</title>
     <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.(n)</desc>
     <credits>
@@ -44134,7 +44129,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914182500 +0200" stop="20200914184900 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914182500 +0200" stop="20200914184900 +0200" channel="Disney XD HD">
     <title lang="pt">Trollhunters</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <credits>
@@ -44155,7 +44150,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914184900 +0200" stop="20200914190100 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914184900 +0200" stop="20200914190100 +0200" channel="Disney XD HD">
     <title lang="pt">Os Vizinhos Green</title>
     <desc lang="pt">A série conta a vida aventureira de um menino do campo que se muda com sua família da fazenda para uma metrópole moderna.(n)</desc>
     <credits>
@@ -44171,7 +44166,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914190100 +0200" stop="20200914191300 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914190100 +0200" stop="20200914191300 +0200" channel="Disney XD HD">
     <title lang="pt">Amphibia</title>
     <desc lang="pt">A ordinária Anne Boonchuy, de 13 anos, encontra uma arca do tesouro que a envia para Amphibia, um mundo cheio de rãs, sapos e insetos gigantes.(n)</desc>
     <credits>
@@ -44185,15 +44180,15 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914191300 +0200" stop="20200914193000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914191300 +0200" stop="20200914193000 +0200" channel="Disney XD HD">
     <title lang="pt">Kick Buttowski: Um Projeto de Dublê</title>
-    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney Channel XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.(n)</desc>
+    <desc lang="pt">Kick Buttowski é um garoto sensacional que vive na cidade mais comum do mundo na série de animação em 2-D original do Disney XD, Kick Buttowski - Um Projeto de Dublê, repleta de ousadas sequências de ação e manobras.(n)</desc>
     <category lang="pt">Animação</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914193000 +0200" stop="20200914200000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914193000 +0200" stop="20200914200000 +0200" channel="Disney XD HD">
     <title lang="pt">Juacas</title>
     <desc lang="pt">Todo ano, no auge das férias, acontece o CAOSS, que atrai milhares de turistas, surfistas e centenas de jovens em busca de um sonho: se tornarem surfistas profissionais.(n)</desc>
     <credits>
@@ -44205,7 +44200,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914200000 +0200" stop="20200914202300 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914200000 +0200" stop="20200914202300 +0200" channel="Disney XD HD">
     <title lang="pt">Ducktales</title>
     <sub-title lang="pt">Os Caçadores De Aventuras</sub-title>
     <desc lang="pt">A série comédia-aventura narra as aventuras do trilionário Tio Patinhas, seus sobrinhos-netos - Huguinho, Zezinho e Luizinho, seu sobrinho temperamental Pato Donald, Capitão Boing, Madame Patilda e sua neta Patrícia.(n)</desc>
@@ -44227,7 +44222,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914202300 +0200" stop="20200914204700 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914202300 +0200" stop="20200914204700 +0200" channel="Disney XD HD">
     <title lang="pt">Operação Big Hero</title>
     <sub-title lang="pt">A Série</sub-title>
     <desc lang="pt">Hiro continua suas aventuras com seu amigo robô Baymax e o resto da equipe Big Hero 6.(n)</desc>
@@ -44243,7 +44238,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914204700 +0200" stop="20200914210000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914204700 +0200" stop="20200914210000 +0200" channel="Disney XD HD">
     <title lang="pt">Adolepeixes</title>
     <desc lang="pt">A animação conta as histórias da turma do Águas Frescas Ensino Médio, um colégio que fica dentro de um grande aquário no centro de uma loja local de mascotes.(n)</desc>
     <category lang="pt">Animação</category>
@@ -44251,7 +44246,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914210000 +0200" stop="20200914223600 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914210000 +0200" stop="20200914223600 +0200" channel="Disney XD HD">
     <title lang="pt">Toy Story 2</title>
     <desc lang="pt">Buzz Lightyear, Woody, um grupo colorido de bonecos já conhecidos e alguns novos personagens se unem para dar vida a esta segunda parte de Toy Story em uma aventura repleta de risos, emoções e surpresas.(n)</desc>
     <credits>
@@ -44271,7 +44266,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914223600 +0200" stop="20200914230000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914223600 +0200" stop="20200914230000 +0200" channel="Disney XD HD">
     <title lang="pt">Star vs. as Forças do Mal</title>
     <desc lang="pt">Depois de enfrentar uma série de monstros perigosos, Star Butterfly chega à Terra para viver com a família Diaz. No entanto, em vez de viver uma vida normal, Star continua a batalhar contra vilões tanto em todo o universo.(n)</desc>
     <credits>
@@ -44291,7 +44286,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914230000 +0200" stop="20200914231200 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914230000 +0200" stop="20200914231200 +0200" channel="Disney XD HD">
     <title lang="pt">Adolepeixes</title>
     <desc lang="pt">A animação conta as histórias da turma do Águas Frescas Ensino Médio, um colégio que fica dentro de um grande aquário no centro de uma loja local de mascotes.(n)</desc>
     <category lang="pt">Animação</category>
@@ -44299,7 +44294,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914231200 +0200" stop="20200914232400 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914231200 +0200" stop="20200914232400 +0200" channel="Disney XD HD">
     <title lang="pt">Minhoca do Futuro</title>
     <desc lang="pt">A série apresenta as aventuras de Danny e Minhoca do Futuro, que viajam no tempo usando uma máquina do tempo em forma de lancheira.(n)</desc>
     <credits>
@@ -44313,7 +44308,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914232400 +0200" stop="20200914233600 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914232400 +0200" stop="20200914233600 +0200" channel="Disney XD HD">
     <title lang="pt">Picles e Amendoim</title>
     <desc lang="pt">A animação mostra as aventuras dos melhores amigos Picles e Amendoim em seu último ano de escola, onde estão aproveitando ao máximo a possibilidade de se divertir o tempo todo antes das responsabilidades da vida adulta.(n)</desc>
     <credits>
@@ -44332,7 +44327,7 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20200914233600 +0200" stop="20200915000000 +0200" channel="Disney Channel XD HD">
+  <programme start="20200914233600 +0200" stop="20200915000000 +0200" channel="Disney XD HD">
     <title lang="pt">Randy Cunningham</title>
     <sub-title lang="pt">Ninja Total</sub-title>
     <desc lang="pt">As façanhas de Randy, um jovem estudante com seu traje super-humano de Ninja, os ensinamentos do.(n)</desc>
