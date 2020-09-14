@@ -465,8 +465,8 @@
     <icon src="https://www.net.com.br/imagens/logo/tnt-875_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Universal Channel HD">
-    <display-name lang="pt">Universal Channel HD</display-name>
+  <channel id="Universal TV HD">
+    <display-name lang="pt">Universal TV HD</display-name>
     <icon src="https://www.net.com.br/imagens/logo/universal_tv-483_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
@@ -27836,7 +27836,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914004000 +0200" stop="20200914013000 +0200" channel="Universal Channel HD">
+  <programme start="20200914004000 +0200" stop="20200914013000 +0200" channel="Universal TV HD">
     <title lang="pt">FBI</title>
     <desc lang="pt">Após o tiroteio em uma discoteca, tudo indica que a equipe do FBI tenha falhado ao ignorar uma série de ameaças feitas por um grupo supremacista.(n)</desc>
     <credits>
@@ -27855,7 +27855,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914013000 +0200" stop="20200914022000 +0200" channel="Universal Channel HD">
+  <programme start="20200914013000 +0200" stop="20200914022000 +0200" channel="Universal TV HD">
     <title lang="pt">FBI</title>
     <desc lang="pt">Jim Russo é sequestrado depois de se envolver em negociações ilegais. Enquanto isso, Jubal precisa tomar uma difícil decisão a respeito do futuro de sua família.(n)</desc>
     <credits>
@@ -27874,7 +27874,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914022000 +0200" stop="20200914031000 +0200" channel="Universal Channel HD">
+  <programme start="20200914022000 +0200" stop="20200914031000 +0200" channel="Universal TV HD">
     <title lang="pt">Magnum P.I.</title>
     <desc lang="pt">Magnum precisa ajudar Abby quando ela percebe que um cliente que ela defendeu como inocente em um assassinato agora é culpado.(n)</desc>
     <credits>
@@ -27893,7 +27893,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914031000 +0200" stop="20200914040000 +0200" channel="Universal Channel HD">
+  <programme start="20200914031000 +0200" stop="20200914040000 +0200" channel="Universal TV HD">
     <title lang="pt">The Rookie</title>
     <desc lang="pt">Um alerta de emergência por conta de um ataque de míssil iminente leva Los Angeles ao caos.(n)</desc>
     <credits>
@@ -27913,7 +27913,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914040000 +0200" stop="20200914053000 +0200" channel="Universal Channel HD">
+  <programme start="20200914040000 +0200" stop="20200914053000 +0200" channel="Universal TV HD">
     <title lang="pt">Coroner</title>
     <desc lang="pt">Jenny auxilia Donovan num caso que os leva para o mundo dos podcasts de crimes reais. Eles precisam descobrir como solucionar um assassinato sem a presença de um corpo.(n)</desc>
     <credits>
@@ -27933,7 +27933,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914053000 +0200" stop="20200914070000 +0200" channel="Universal Channel HD">
+  <programme start="20200914053000 +0200" stop="20200914070000 +0200" channel="Universal TV HD">
     <title lang="pt">Os Vegetais</title>
     <sub-title lang="pt">Os Piratas que não Fazem Nada</sub-title>
     <desc lang="pt">Três vegetais garçons se tornam, misteriosamente, heróis ao terem de resgatar a família de um rei em poder de um maldoso tirano.(n)</desc>
@@ -27954,7 +27954,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914070000 +0200" stop="20200914082500 +0200" channel="Universal Channel HD">
+  <programme start="20200914070000 +0200" stop="20200914082500 +0200" channel="Universal TV HD">
     <title lang="pt">Infomercial</title>
     <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -27962,7 +27962,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914082500 +0200" stop="20200914091500 +0200" channel="Universal Channel HD">
+  <programme start="20200914082500 +0200" stop="20200914091500 +0200" channel="Universal TV HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Com o crescimento de uma onda de estupros, os policiais precisam investigar um grupo de homens misóginos na internet para identificar o principal suspeito.(n)</desc>
     <credits>
@@ -27982,7 +27982,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914091500 +0200" stop="20200914100500 +0200" channel="Universal Channel HD">
+  <programme start="20200914091500 +0200" stop="20200914100500 +0200" channel="Universal TV HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Uma integrante de um grupo de empoderamento feminino é encontrada morta, levando os policiais a suspeitarem do carismático líder da organização. Enquanto isso, Rollins precisa esconder sua gravidez.(n)</desc>
     <credits>
@@ -28001,7 +28001,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914100500 +0200" stop="20200914105500 +0200" channel="Universal Channel HD">
+  <programme start="20200914100500 +0200" stop="20200914105500 +0200" channel="Universal TV HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Após ter sido vítima de abuso sexual, uma jovem acorda sem memória em um hospital. No entanto, quando ela desaparece, a investigação toma um outro caminho.(n)</desc>
     <credits>
@@ -28021,7 +28021,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914105500 +0200" stop="20200914131000 +0200" channel="Universal Channel HD">
+  <programme start="20200914105500 +0200" stop="20200914131000 +0200" channel="Universal TV HD">
     <title lang="pt">Orgulho e Preconceito</title>
     <desc lang="pt">Adaptação da obra de Jane Austen, o romance trata da história de amor entre Elizabeth e Mr. Darcy, um homem rico e orgulhoso.(n)</desc>
     <credits>
@@ -28041,7 +28041,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914131000 +0200" stop="20200914140000 +0200" channel="Universal Channel HD">
+  <programme start="20200914131000 +0200" stop="20200914140000 +0200" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">O 21º Departamento de Polícia de Chicago protege a cidade com policiais que patrulham as ruas e com uma unidade de inteligência que investiga crimes mais graves.(n)</desc>
     <credits>
@@ -28061,7 +28061,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914140000 +0200" stop="20200914145000 +0200" channel="Universal Channel HD">
+  <programme start="20200914140000 +0200" stop="20200914145000 +0200" channel="Universal TV HD">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Após o resgate de uma criança em um acidente de carro, Severide tem de enfrentar uma difícil situação. Enquanto isso, Foster fica encarregado de dar conselhos pessoais a Cruz.(n)</desc>
     <credits>
@@ -28081,7 +28081,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914145000 +0200" stop="20200914154000 +0200" channel="Universal Channel HD">
+  <programme start="20200914145000 +0200" stop="20200914154000 +0200" channel="Universal TV HD">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">A Estação 51 está em alerta máximo quando uma série de explosões abala a cidade. Herrmann se ajusta aos seus novos deveres e Kidds recebe a visita de um velho amigo.(n)</desc>
     <credits>
@@ -28099,7 +28099,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914154000 +0200" stop="20200914163000 +0200" channel="Universal Channel HD">
+  <programme start="20200914154000 +0200" stop="20200914163000 +0200" channel="Universal TV HD">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Trabalhando ao lado de um jornalista, Casey faz algumas investigações sobre a causa de um incêndio no estacionamento de trailers.(n)</desc>
     <credits>
@@ -28118,7 +28118,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914163000 +0200" stop="20200914172000 +0200" channel="Universal Channel HD">
+  <programme start="20200914163000 +0200" stop="20200914172000 +0200" channel="Universal TV HD">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">O Halloween está a pleno capor para Foster e Brett, que são convocados para uma casa onde uma brincadeira se tornou séria rapidamente. Gorsch continua seu reinado de terror no Firehouse 51.(n)</desc>
     <credits>
@@ -28136,7 +28136,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914172000 +0200" stop="20200914181000 +0200" channel="Universal Channel HD">
+  <programme start="20200914172000 +0200" stop="20200914181000 +0200" channel="Universal TV HD">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Enquanto Severide permanece em choque com um terrível acontecimento em sua vida, Brett desconfia que uma adolescente esteja escondendo algo a respeito de um acidente de trânsito.(n)</desc>
     <credits>
@@ -28153,7 +28153,7 @@
       <value>5</value>
     </star-rating>
   </programme>
-  <programme start="20200914181000 +0200" stop="20200914190000 +0200" channel="Universal Channel HD">
+  <programme start="20200914181000 +0200" stop="20200914190000 +0200" channel="Universal TV HD">
     <title lang="pt">Rotas do Ódio</title>
     <desc lang="pt">Quando duas bolivianas e imigrantes ilegais são brutalmente assassinadas na confecção de roupas de Lasnid, a equipe da DECRADI é chamada para investigar.(n)</desc>
     <credits>
@@ -28174,7 +28174,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914190000 +0200" stop="20200914195000 +0200" channel="Universal Channel HD">
+  <programme start="20200914190000 +0200" stop="20200914195000 +0200" channel="Universal TV HD">
     <title lang="pt">Law &amp; Order SVU</title>
     <desc lang="pt">Uma funcionária de um famoso restaurante em Nova Iorque é assediada sexualmente durante uma festa VIP.(n)</desc>
     <credits>
@@ -28194,7 +28194,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914195000 +0200" stop="20200914204000 +0200" channel="Universal Channel HD">
+  <programme start="20200914195000 +0200" stop="20200914204000 +0200" channel="Universal TV HD">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Após o resgate de uma criança em um acidente de carro, Severide tem de enfrentar uma difícil situação. Enquanto isso, Foster fica encarregado de dar conselhos pessoais a Cruz.(n)</desc>
     <credits>
@@ -28214,7 +28214,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914204000 +0200" stop="20200914213000 +0200" channel="Universal Channel HD">
+  <programme start="20200914204000 +0200" stop="20200914213000 +0200" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">Uma adolescente amiga de Olinsky é encontrada morta na casa de um famoso jogador de baseball.(n)</desc>
     <credits>
@@ -28234,7 +28234,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914213000 +0200" stop="20200914222000 +0200" channel="Universal Channel HD">
+  <programme start="20200914213000 +0200" stop="20200914222000 +0200" channel="Universal TV HD">
     <title lang="pt">Chicago Med</title>
     <desc lang="pt">Dr. Charles e Dr. Halstead se deparam com um caso sangrento. Dr. Marcel e Maggie fazem um ensopado especial para a equipe do especial.(n)</desc>
     <credits>
@@ -28254,7 +28254,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914222000 +0200" stop="20200914231000 +0200" channel="Universal Channel HD">
+  <programme start="20200914222000 +0200" stop="20200914231000 +0200" channel="Universal TV HD">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Severide deve tomar uma decisão difícil sobre o futuro de sua carreira no Firehouse 51. Herrmann lida com as consequências de seu temperamento depois de um confronto com um policial de Chicago.(n)</desc>
     <credits>
@@ -28273,7 +28273,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20200914231000 +0200" stop="20200915000000 +0200" channel="Universal Channel HD">
+  <programme start="20200914231000 +0200" stop="20200915000000 +0200" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">Voight pede o auxílio de Darius depois que Crawford pede à Inteligência para investigar uma droga perigosa, mas há pouca confiança no relacionamento.(n)</desc>
     <credits>
