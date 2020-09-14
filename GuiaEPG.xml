@@ -410,8 +410,8 @@
     <icon src="https://www.net.com.br/imagens/logo/space-876_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Universal TV HD">
-    <display-name lang="pt">Universal TV HD</display-name>
+  <channel id="Studio Universal HD">
+    <display-name lang="pt">Studio Universal HD</display-name>
     <icon src="https://www.net.com.br/imagens/logo/studio_universal-692_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
@@ -24729,7 +24729,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20200914013000 +0200" stop="20200914033500 +0200" channel="Universal TV HD">
+  <programme start="20200914013000 +0200" stop="20200914033500 +0200" channel="Studio Universal HD">
     <title lang="pt">O Homem Sem Sombra</title>
     <desc lang="pt">Cientistas trabalham num projeto para encontrar a fórmula capaz de tornar um ser humano invisível. Após testar em animais, o líder decide ser o próximo.(n)</desc>
     <credits>
@@ -24749,7 +24749,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914033500 +0200" stop="20200914060000 +0200" channel="Universal TV HD">
+  <programme start="20200914033500 +0200" stop="20200914060000 +0200" channel="Studio Universal HD">
     <title lang="pt">Os Desconectados</title>
     <desc lang="pt">Diversas histórias se entrelaçam neste drama que ilustra os efeitos do uso excessivo da tecnologia e da busca pela ligação humana em um mundo cada vez mais conectado.(n)</desc>
     <credits>
@@ -24768,7 +24768,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914060000 +0200" stop="20200914070000 +0200" channel="Universal TV HD">
+  <programme start="20200914060000 +0200" stop="20200914070000 +0200" channel="Studio Universal HD">
     <title lang="pt">Infomercial Studio</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Televendas</category>
@@ -24776,7 +24776,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914070000 +0200" stop="20200914082500 +0200" channel="Universal TV HD">
+  <programme start="20200914070000 +0200" stop="20200914082500 +0200" channel="Studio Universal HD">
     <title lang="pt">Infomercial Studio</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
     <category lang="pt">Televendas</category>
@@ -24784,7 +24784,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20200914082500 +0200" stop="20200914102000 +0200" channel="Universal TV HD">
+  <programme start="20200914082500 +0200" stop="20200914102000 +0200" channel="Studio Universal HD">
     <title lang="pt">Ciumenta</title>
     <desc lang="pt">Uma mãe atenciosa se transforma em uma invejosa doentia da noite para o dia, e sua primeira vítima é a filha de 18 anos.(n)</desc>
     <credits>
@@ -24804,7 +24804,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914102000 +0200" stop="20200914115500 +0200" channel="Universal TV HD">
+  <programme start="20200914102000 +0200" stop="20200914115500 +0200" channel="Studio Universal HD">
     <title lang="pt">Palavrões</title>
     <desc lang="pt">Guy Trilby nunca venceu concursos para soletrar palavras na infância. Adulto, ele descobre uma brecha em um regulamento permitindo que ele concorra contra crianças e leve o troféu.(n)</desc>
     <credits>
@@ -24824,7 +24824,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914115500 +0200" stop="20200914133500 +0200" channel="Universal TV HD">
+  <programme start="20200914115500 +0200" stop="20200914133500 +0200" channel="Studio Universal HD">
     <title lang="pt">O Holofote Não é Para Todos</title>
     <desc lang="pt">Quando um membro de um dos mais famosos grupos de improvisação de Nova Iorque consegue um programa de TV, os outros integrantes começam a questionar seus respectivos talentos.(n)</desc>
     <credits>
@@ -24835,7 +24835,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200914133500 +0200" stop="20200914151000 +0200" channel="Universal TV HD">
+  <programme start="20200914133500 +0200" stop="20200914151000 +0200" channel="Studio Universal HD">
     <title lang="pt">O Grande Mentiroso</title>
     <desc lang="pt">Jason Shepherd adora inventar histórias. Quando sua redação escolar está prestes a se tornar um filme, ninguém acredita que ele seja o escritor.(n)</desc>
     <credits>
@@ -24855,7 +24855,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914151000 +0200" stop="20200914165500 +0200" channel="Universal TV HD">
+  <programme start="20200914151000 +0200" stop="20200914165500 +0200" channel="Studio Universal HD">
     <title lang="pt">O Grande Mentiroso 2</title>
     <desc lang="pt">Um adolescente viciado em tecnologia chamado Kevin Shepherd tem sua ideia para um videogame roubada por um executivo vigarista. Ele e sua melhor amiga então viajam até Seattle para impedir que usem a ideia.(n)</desc>
     <credits>
@@ -24869,7 +24869,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20200914165500 +0200" stop="20200914184000 +0200" channel="Universal TV HD">
+  <programme start="20200914165500 +0200" stop="20200914184000 +0200" channel="Studio Universal HD">
     <title lang="pt">Vips</title>
     <desc lang="pt">Marcelo abandona sua família e se muda para o Mato Grosso do Sul, onde aprende a pilotar aviões e a se envolver com o tráfico de drogas. A partir daí, começa uma grande fraude de troca de identidade e corrupção.(n)</desc>
     <credits>
@@ -24888,7 +24888,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914184000 +0200" stop="20200914193000 +0200" channel="Universal TV HD">
+  <programme start="20200914184000 +0200" stop="20200914193000 +0200" channel="Studio Universal HD">
     <title lang="pt">Rotas do Ódio</title>
     <desc lang="pt">A equipe da DECRADI é chamada e eles encontram o corpo do Levi. Buá e Lukeny mantêm Weza preso a mando de Abílio, mas Capitão tenta intervir e pede resgate para a mãe de Weza.(n)</desc>
     <credits>
@@ -24909,7 +24909,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914193000 +0200" stop="20200914200000 +0200" channel="Universal TV HD">
+  <programme start="20200914193000 +0200" stop="20200914200000 +0200" channel="Studio Universal HD">
     <title lang="pt">Cinelab Aprendiz</title>
     <desc lang="pt">Os aprendizes devem produzir o efeito de um zumbi sendo derretido no ácido. Na equipe vermelha, o aprendiz escalado para ser o zumbi colabora muito com o filme, mas na equipe azul, acontece o oposto.(n)</desc>
     <credits>
@@ -24920,7 +24920,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20200914200000 +0200" stop="20200914220000 +0200" channel="Universal TV HD">
+  <programme start="20200914200000 +0200" stop="20200914220000 +0200" channel="Studio Universal HD">
     <title lang="pt">Até que a Fuga os Separe</title>
     <desc lang="pt">Nos anos 30, no sul dos EUA, dois traficantes de bebida negros são enviados para a prisão por um assassinato que não cometeram. Lá, vivem por várias décadas, enfrentando todo tipo de problema e desenvolvendo uma grande amizade.(n)</desc>
     <credits>
@@ -24939,7 +24939,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914220000 +0200" stop="20200914233000 +0200" channel="Universal TV HD">
+  <programme start="20200914220000 +0200" stop="20200914233000 +0200" channel="Studio Universal HD">
     <title lang="pt">À Prova de Balas</title>
     <desc lang="pt">Dois amigos passaram anos cometendo pequenos furtos. Isso tudo tende a acabar quando eles se envolvem em uma operação gigantesca de tráfico de drogas.(n)</desc>
     <credits>
@@ -24959,7 +24959,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20200914233000 +0200" stop="20200915012500 +0200" channel="Universal TV HD">
+  <programme start="20200914233000 +0200" stop="20200915012500 +0200" channel="Studio Universal HD">
     <title lang="pt">Gente Grande</title>
     <desc lang="pt">Trinta anos após a formatura do colégio, cinco amigos se reencontram para passar um fim de semana juntos. Com suas mulheres e filhos, eles comemoram o feriado de 4 de Julho em uma casa no lago, para celebrar os anos de juventude.(n)</desc>
     <credits>
