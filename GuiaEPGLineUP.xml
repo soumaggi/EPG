@@ -2471,4 +2471,158 @@
     <category lang="pt">Variedades</category>
     <category lang="pt">Cinema</category>
   </programme>
+  <programme start="20200915003500 -0300" stop="20200915013500 -0300" channel="Globo SP HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915013500 -0300" stop="20200915021500 -0300" channel="Globo SP HD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915021500 -0300" stop="20200915025000 -0300" channel="Globo SP HD">
+    <title lang="pt">Agentes da S.H.I.E.L.D. - S3E20</title>
+    <desc lang="pt">Como consequência dos eventos ocorridos após 'Capitão América', a S.H.I.E.L.D. se sente pressionada a revelar o seu envolvimento com os Inumanos.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200915025000 -0300" stop="20200915040000 -0300" channel="Globo SP HD">
+    <title lang="pt">Corujão: Reza a Lenda</title>
+    <desc lang="pt">Em uma terra sem lei, Ara é o líder de um bando de motoqueiros armados que acredita em uma antiga lenda capaz de devolver justiça e liberdade ao povo da região.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915040000 -0300" stop="20200915060000 -0300" channel="Globo SP HD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915060000 -0300" stop="20200915083000 -0300" channel="Globo SP HD">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">O telejornal traz as primeiras notícias do dia no seu estado, com entrevistas, acontecimentos, previsão do tempo, trânsito e resultados da última rodada esportiva entre outras informações.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915083000 -0300" stop="20200915100000 -0300" channel="Globo SP HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915100000 -0300" stop="20200915120000 -0300" channel="Globo SP HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915120000 -0300" stop="20200915130000 -0300" channel="Globo SP HD">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200915130000 -0300" stop="20200915132500 -0300" channel="Globo SP HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia com os destaques do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915132500 -0300" stop="20200915150000 -0300" channel="Globo SP HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915150000 -0300" stop="20200915164000 -0300" channel="Globo SP HD">
+    <title lang="pt">Sessão da Tarde: A Grande Vitória</title>
+    <desc lang="pt">Através do judô, Max Trombini consegue se estabelecer emocionalmente e construir uma carreira que fez com que se tornasse um dos principais técnicos do esporte.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915164000 -0300" stop="20200915175500 -0300" channel="Globo SP HD">
+    <title lang="pt">Vale a Pena Ver de Novo: Laços de Família E7</title>
+    <date>2000</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915175500 -0300" stop="20200915182500 -0300" channel="Globo SP HD">
+    <title lang="pt">Malhação: Viva a Diferença E106</title>
+    <desc lang="pt">Malu manipula Edgar, que confronta Bóris sobre o suposto envolvimento com Lica. Tina e Anderson reatam o namoro. Ellen anuncia aos amigos que ganhou a bolsa de estudos. Roney se preocupa com Tato e Aldo.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915182500 -0300" stop="20200915191000 -0300" channel="Globo SP HD">
+    <title lang="pt">Flor do Caribe - S1E14</title>
+    <desc lang="pt">Dadá convoca a avó para ajudar Ester a dar à luz seu filho. Juliano se surpreende ao ver o bebê que Doralice e Quirino acharam na porta de casa.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915191000 -0300" stop="20200915194000 -0300" channel="Globo SP HD">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200915194000 -0300" stop="20200915203000 -0300" channel="Globo SP HD">
+    <title lang="pt">Totalmente Demais - S1E116</title>
+    <desc lang="pt">Dorinha tenta convencer Carolina a contar para Eliza sobre a aposta. Cassandra confessa a Adele que se apaixonou por Fabinho.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915203000 -0300" stop="20200915214000 -0300" channel="Globo SP HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915214000 -0300" stop="20200915225000 -0300" channel="Globo SP HD">
+    <title lang="pt">Fina Estampa - S1E151</title>
+    <desc lang="pt">Tereza Cristina paga Íris para manter seu segredo guardado e ataca Álvaro. Crô implora a Celeste que deixe Baltazar voltar para casa.(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915225000 -0300" stop="20200915231500 -0300" channel="Globo SP HD">
+    <title lang="pt">Amor e Sorte</title>
+    <desc lang="pt">'Amor e Sorte' é uma antologia que reúne histórias sobre relacionamentos em tempos de pandemia e isolamento social.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200915231500 -0300" stop="20200916002000 -0300" channel="Globo SP HD">
+    <title lang="pt">Tapas &amp; Beijos</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Brasil</country>
+  </programme>
 </tv>
