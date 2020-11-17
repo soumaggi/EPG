@@ -1,0 +1,1178 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Trace Brazuca HD">
+    <display-name lang="pt">Trace Brazuca HD</display-name>
+    <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/tra.gif" />
+    <url>http://www.vcfaz.tv</url>
+  </channel>
+  <channel id="Pai Eterno HD">
+    <display-name lang="pt">Pai Eterno HD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1567889182.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Brasil 2 HD">
+    <display-name lang="pt">TV Brasil 2 HD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1569807716.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20201117000000 -0300" stop="20201117010000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117010000 -0300" stop="20201117020000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117020000 -0300" stop="20201117030000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117030000 -0300" stop="20201117040000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117040000 -0300" stop="20201117050000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117050000 -0300" stop="20201117060000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117060000 -0300" stop="20201117070000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117070000 -0300" stop="20201117080000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117080000 -0300" stop="20201117090000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117090000 -0300" stop="20201117100000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117100000 -0300" stop="20201117110000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117110000 -0300" stop="20201117120000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117120000 -0300" stop="20201117130000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117130000 -0300" stop="20201117140000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117140000 -0300" stop="20201117150000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117150000 -0300" stop="20201117160000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117160000 -0300" stop="20201117170000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117170000 -0300" stop="20201117180000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117180000 -0300" stop="20201117190000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117190000 -0300" stop="20201117200000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117200000 -0300" stop="20201117210000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117210000 -0300" stop="20201117220000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117220000 -0300" stop="20201117230000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117230000 -0300" stop="20201118000000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118000000 -0300" stop="20201118010000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118010000 -0300" stop="20201118020000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118020000 -0300" stop="20201118030000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118030000 -0300" stop="20201118040000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118040000 -0300" stop="20201118050000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118050000 -0300" stop="20201118060000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118060000 -0300" stop="20201118070000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118070000 -0300" stop="20201118080000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118080000 -0300" stop="20201118090000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118090000 -0300" stop="20201118100000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118100000 -0300" stop="20201118110000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118110000 -0300" stop="20201118120000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118120000 -0300" stop="20201118130000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118130000 -0300" stop="20201118140000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118140000 -0300" stop="20201118150000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118150000 -0300" stop="20201118160000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118160000 -0300" stop="20201118170000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118170000 -0300" stop="20201118180000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118180000 -0300" stop="20201118190000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118190000 -0300" stop="20201118200000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118200000 -0300" stop="20201118210000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118210000 -0300" stop="20201118220000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118220000 -0300" stop="20201118230000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201118230000 -0300" stop="20201119000000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119000000 -0300" stop="20201119010000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119010000 -0300" stop="20201119020000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119020000 -0300" stop="20201119030000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119030000 -0300" stop="20201119040000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119040000 -0300" stop="20201119050000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119050000 -0300" stop="20201119060000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119060000 -0300" stop="20201119070000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119070000 -0300" stop="20201119080000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119080000 -0300" stop="20201119090000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119090000 -0300" stop="20201119100000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119100000 -0300" stop="20201119110000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119110000 -0300" stop="20201119120000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119120000 -0300" stop="20201119130000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119130000 -0300" stop="20201119140000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119140000 -0300" stop="20201119150000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119150000 -0300" stop="20201119160000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119160000 -0300" stop="20201119170000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119170000 -0300" stop="20201119180000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119180000 -0300" stop="20201119190000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119190000 -0300" stop="20201119200000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119200000 -0300" stop="20201119210000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119210000 -0300" stop="20201119220000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201119220000 -0300" stop="20201119230000 -0300" channel="Trace Brazuca HD">
+    <title lang="pt">Programação Trace Brazuca</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20201117000000 -0300" stop="20201117003000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Terço da Família AFIPE</title>
+    <desc lang="pt">Irmão Diego Joaquim reza o Santo Terço com os devotos do Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117003000 -0300" stop="20201117004500 -0300" channel="Pai Eterno HD">
+    <title lang="pt">A Redenção</title>
+    <desc lang="pt">Irmão Diego Joaquim apresenta as meditações de Santo Afonso de Maria de Ligório.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117004500 -0300" stop="20201117010000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Eu Creio Senhor</title>
+    <desc lang="pt">Catequese diária com o arcebispo de Campo Grande/MS, Dom Dimas Lara Barbosa.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117010000 -0300" stop="20201117013000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Jornal Boa Notícia</title>
+    <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Boa Notícia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20201117013000 -0300" stop="20201117020000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Ponto 3</title>
+    <desc lang="pt">Irmão Diego Joaquim recebe convidados para debater temas da atualidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20201117020000 -0300" stop="20201117030000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Noite Marca da Vitória</title>
+    <desc lang="pt">O cantor Tony Allysson conduz este momento de louvor, reflexão e música.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20201117030000 -0300" stop="20201117033000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Terço da Família AFIPE</title>
+    <desc lang="pt">Irmão Diego Joaquim reza o Santo Terço com os devotos do Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117033000 -0300" stop="20201117040000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Jornal Boa Notícia</title>
+    <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Boa Notícia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20201117040000 -0300" stop="20201117041500 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Hora do Papa</title>
+    <desc lang="pt">As principais informações sobre o Vaticano e o Papa Francisco.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20201117041500 -0300" stop="20201117043000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Eu Creio Senhor</title>
+    <desc lang="pt">Catequese diária com o arcebispo de Campo Grande/MS, Dom Dimas Lara Barbosa.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117043000 -0300" stop="20201117050000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Terço da Família AFIPE</title>
+    <desc lang="pt">Irmão Diego Joaquim reza o Santo Terço com os devotos do Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117050000 -0300" stop="20201117053000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Padre Robson de Oliveira reza a Novena dos Filhos do Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117053000 -0300" stop="20201117054500 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Hora da Esperança</title>
+    <desc lang="pt">Padre Delair Cuerva faz um momento de oração e reflexão na Hora da Esperança.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117054500 -0300" stop="20201117060000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">A Redenção</title>
+    <desc lang="pt">Irmão Diego Joaquim apresenta as meditações de Santo Afonso de Maria de Ligório.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117060000 -0300" stop="20201117063000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Santo Terço ao Sagrado Coração de Jesus</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117063000 -0300" stop="20201117065500 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Agora Agro</title>
+    <desc lang="pt">O que há de mais interessante e importante no mundo do Agronegócio.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117065500 -0300" stop="20201117074500 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Missa do Santuário</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117074500 -0300" stop="20201117080000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
+    <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117080000 -0300" stop="20201117081500 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Eu Creio Senhor</title>
+    <desc lang="pt">Catequese diária com o arcebispo de Campo Grande/MS, Dom Dimas Lara Barbosa.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117081500 -0300" stop="20201117083000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">A Redenção</title>
+    <desc lang="pt">Irmão Diego Joaquim apresenta as meditações de Santo Afonso de Maria de Ligório.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117083000 -0300" stop="20201117090000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena Nossa Senhora do Perpétuo Socorro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117090000 -0300" stop="20201117100000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Aqui em Casa</title>
+    <desc lang="pt">No Aqui em Casa, você tem culinária, artesanato, dicas para o bem-estar e notícias.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20201117100000 -0300" stop="20201117103000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Padre Robson de Oliveira reza a Novena dos Filhos do Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117103000 -0300" stop="20201117120000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Aqui em Casa</title>
+    <desc lang="pt">No Aqui em Casa, você tem culinária, artesanato, dicas para o bem-estar e notícias.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20201117120000 -0300" stop="20201117123000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Padre Robson de Oliveira reza a Novena dos Filhos do Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117123000 -0300" stop="20201117130000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Jornal Boa Notícia</title>
+    <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Boa Notícia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20201117130000 -0300" stop="20201117131000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Propaganda Eleitoral Gratuita</title>
+    <desc lang="pt">Horário reservado para a transmissão da propaganda política partidária.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Política</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117131000 -0300" stop="20201117131500 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Oração por um dia Feliz</title>
+    <desc lang="pt">Começe seu dia ouvindo o evangelho e a homilia apostolada pelo Arcebispo Dom Washington Cruz.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117131500 -0300" stop="20201117133000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Hora do Papa</title>
+    <desc lang="pt">As principais informações sobre o Vaticano e o Papa Francisco.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20201117133000 -0300" stop="20201117134500 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
+    <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117134500 -0300" stop="20201117140000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Mãe Maria</title>
+    <desc lang="pt">Reflexão e oração com o presidente da CNBB, Dom Walmor Oliveira de Azevedo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117140000 -0300" stop="20201117143000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Programa Pai Eterno</title>
+    <desc lang="pt">Padre Wellinton Silva traz as principais notícias sobre a devoção ao Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117143000 -0300" stop="20201117150000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena Nossa Senhora do Perpétuo Socorro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117150000 -0300" stop="20201117170000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Programa Pai Eterno</title>
+    <desc lang="pt">Padre Wellinton Silva traz as principais notícias sobre a devoção ao Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117170000 -0300" stop="20201117173000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Padre Robson de Oliveira reza a Novena dos Filhos do Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117173000 -0300" stop="20201117174500 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Hora da Esperança</title>
+    <desc lang="pt">Padre Delair Cuerva faz um momento de oração e reflexão na Hora da Esperança.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117174500 -0300" stop="20201117180000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
+    <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117180000 -0300" stop="20201117183000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Terço da Família AFIPE</title>
+    <desc lang="pt">Irmão Diego Joaquim reza o Santo Terço com os devotos do Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117183000 -0300" stop="20201117190000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena Nossa Senhora do Perpétuo Socorro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201117190000 -0300" stop="20201117193000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Jornal Boa Notícia</title>
+    <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Boa Notícia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20201117193000 -0300" stop="20201117203000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Missa do Santuário</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117203000 -0300" stop="20201117204000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Propaganda Eleitoral Gratuita</title>
+    <desc lang="pt">Horário reservado para a transmissão da propaganda política partidária.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Política</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117204000 -0300" stop="20201117213000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Adoração ao Santíssimo Sacramento</title>
+    <desc lang="pt">Adoração ao Santíssimo Sacramento no Santuário Basílica do Divino Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117213000 -0300" stop="20201117220000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Padre Robson de Oliveira reza a Novena dos Filhos do Pai Eterno.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117220000 -0300" stop="20201118004500 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Sessão Ágape de Cinema</title>
+    <desc lang="pt">Sessão Ágape de Cinema exibe os principais filmes de inspiração católica do mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20201117000000 -0300" stop="20201117003000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">Em pleno rio Amazonas, junto à fronteira com o Pará, surge Parintins, a ilha da alegria. A cidade, que se desenvolveu durante o ciclo da borracha, é palco de um festival folclórico famoso em todo país.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117003000 -0300" stop="20201117013000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Vida Selvagem na África: O Vale do Luangwa</title>
+    <desc lang="pt">O Vale do rio Luangwa, na Zâmbia, é uma terra de extremos. Vasto e vibrante, as vistas pulsam com uma das maiores concentrações de vida selvagem do mundo.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20201117013000 -0300" stop="20201117023000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Os Mosqueteiros - S1E1</title>
+    <desc lang="pt">Os melhores e mais brilhantes mosqueteiros do Regimento do Rei são enviados para encontrar um mosqueteiro desaparecido. Enquanto isso, D'Artagnan viaja para encontrar o rei, mas seus planos são interrompidos.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Reino Unido</country>
+  </programme>
+  <programme start="20201117023000 -0300" stop="20201117040000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Quando os Sinos Dobram: Ep. 1 - Parte 1 E1</title>
+    <desc lang="pt">1914. Enquanto uma guerra em larga escala se delinea no horizonte, dois jovens, um na Alemanha e outro na Inglaterra, mentem a idade para se alistarem por seus países, apesar da ansiedade de suas mães.(n)</desc>
+    <date>1947</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Inglaterra</country>
+  </programme>
+  <programme start="20201117040000 -0300" stop="20201117053000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Sessão Retrô Madrugada: Uma Pistola para Djeca</title>
+    <desc lang="pt">Mazzaropi tem sua filha seduzida pelo filho do fazendeiro. A garota fica grávida e a criança é motivo de chacotas por não ter pai. O patrão acaba o expulsando de suas terras. Agora, a justiça deverá ser feita.(n)</desc>
+    <date>1969</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117053000 -0300" stop="20201117060000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Conhecendo Museus</title>
+    <desc lang="pt">O Museu Cais do Sertão, em Pernambuco, guarda uma história culturalmente rica. Cada ambiente remete aos principais aspectos e objetos do cotidiano sertanejo, como chapéus, sanfonas e instrumentos de trabalho.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20201117060000 -0300" stop="20201117063000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Nova Amazônia</title>
+    <desc lang="pt">O programa une todas as formas de conhecimento originadas na região amazônica, tanto o que diz a ciência quanto o que dizem os povos da floresta.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20201117063000 -0300" stop="20201117070000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Agro Nacional</title>
+    <desc lang="pt">Com informações sobre produção agrícola, inovações tecnológicas, cobertura de feiras e festas pecuárias, o programa dá visibilidade aos assuntos do mundo do campo.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117070000 -0300" stop="20201117071500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Cai No Vestibular</title>
+    <desc lang="pt">Dicas e explicações para os estudantes que buscam uma vaga na universidade.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117071500 -0300" stop="20201117081500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Conhecendo Museus</title>
+    <desc lang="pt">A série Conhecendo Museus é um convite ao passeio pelos museus brasileiros, por meio da câmera de TV.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20201117081500 -0300" stop="20201117082300 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Foi Assim e foi Assado</title>
+    <desc lang="pt">Quando Teresa perde sua pipa, a avó transforma a casa em um avião, para que a neta e Laika embarquem em um turbulento voo em busca do objeto perdido.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201117082300 -0300" stop="20201117083000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Foi Assim e foi Assado</title>
+    <desc lang="pt">Com a ajuda de um comunicador de lata, Teresa acorda Vivizinha na madrugada para mostrar um local secreto da avó. As amigas enviam uma mensagem para outra galáxia.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201117083000 -0300" stop="20201117083800 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: O Menino Que Engoliu o Sol</title>
+    <desc lang="pt">Um dia, o Menino guardou a manhã no passarinho. Pardal, açucena, garça, beija-flor, socó, sabiá, quero-quero, tuiuiú e virou árvore antes da noite encostar. Ao lado do pardal, o Menino dormiu antes.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201117083800 -0300" stop="20201117084500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: O Menino Que Engoliu o Sol</title>
+    <desc lang="pt">Naquele dia choveu torto e o Menino inventou uma canoa de folhas e tibum, foi na casa dos jacarés, peixes, rãs, ariranhas e raias, brincar de fazer de conta. Mais tarde, a noite emendou o Menino.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201117084500 -0300" stop="20201117085300 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Além da Lenda</title>
+    <desc lang="pt">A comida favorita do Papa-Figo, fígado fresco, acabou. Junto com ela, o seu sossego... Motivado pela lembrança da época em que todos o temiam na cidade, o homem vai ao consultório do Sr. L.H..(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201117085300 -0300" stop="20201117090000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Além da Lenda</title>
+    <desc lang="pt">Sr. L.H. recebe uma missão bastante inusitada: cuidar do Barba Ruiva, o bebê adulto da Iara, até que ela volte. Caso contrário, toda a cidade será invadida pela água do mar.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201117090000 -0300" stop="20201117091500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Tv Brasil Animada Especial: Bela Criativa</title>
+    <desc lang="pt">Na biblioteca da creche, um livro chama a atenção da turminha. Ele tem capa antiga e letras bem desenhadas. As crianças acham que é um livro de feitiçaria, pois há fotos de caldeirões e fogo... Que medo!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201117091500 -0300" stop="20201117093000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: O Poderoso Mike</title>
+    <desc lang="pt">Os Mikkelsens pedem uma pizza, e Mike luta para resistir ao cheiro delicioso atiçando suas narinas. Mas o mais importante é que ele tem de manter os guaxinins fora de casa e o mais longe possível da pizza.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201117093000 -0300" stop="20201117093700 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Mytikah - O Livro dos Heróis</title>
+    <desc lang="pt">Manga e Leco conhecem Chiquinha Gonzaga, se encontram ainda crianças tendo aulas de piano, depois mais velhos. Chiquinha fará uma apresentação e está desesperada porque um flautista faltou, Manga e Leco ajudam.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117093700 -0300" stop="20201117094500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Mytikah - O Livro dos Heróis</title>
+    <desc lang="pt">Mytikah leva Manga e Leco para Laguna(RS) onde presenciam Anita e Giuseppe Garibaldi se conhecendo. Juntos, participam da Revolução Farroupilha e as crianças ajudam os heróis a escaparem dos soldados e fugirem.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117094500 -0300" stop="20201117100000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: O Boneco de Barro e o Rei</title>
+    <desc lang="pt">Ave de Rapina informa Sr Fiel, Que Mestre Toá foi para o Vale do Esquecimento. Sr Fiel parte para encontrá-lo. Ave de Rapina diz para Criada e Serva que o Boneco estará em perigo se chegar aos Bacamartes.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117100000 -0300" stop="20201117100700 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Kiwi</title>
+    <desc lang="pt">Um despertar para aprender palavras em inglês e alfabetização de uma forma divertida, graças aos bonachões irmãos Kiwi.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201117100700 -0300" stop="20201117101500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">O cachorrinho Otto e seus amiguinhos adoram música, então suas histórias estão cheias de clipes musicais, sobre temas como amizade, família e as coisas boas da infância.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117101500 -0300" stop="20201117103000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Nina Perguntadeira</title>
+    <desc lang="pt">Nina é uma menina de nove anos muito curiosa, engraçada e cheia de incertezas. Como muitas crianças de sua idade, ela tem um grande número de perguntas sobre a vida, as pessoas e o mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201117103000 -0300" stop="20201117104500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Zou</title>
+    <desc lang="pt">Zinnia está por perto para visitar a casa de Zou enquanto seus pais têm uma reunião crucial. O vovô organiza o quarto de Zou e o enche com vários brinquedos para ajudá-los a brincar e se darem bem.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">França</country>
+  </programme>
+  <programme start="20201117104500 -0300" stop="20201117110000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">A Ratinha e o Urso - S1E06</title>
+    <desc lang="pt">Augustin afirma ter visto o famoso monstro que se esconde à beira do lago. Célestine e seus amigos imediatamente pedem a Ernest para levá-los lá!(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">França</country>
+  </programme>
+  <programme start="20201117110000 -0300" stop="20201117111500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Senhor Texugo e Dona Raposa</title>
+    <desc lang="pt">Já que Glouton vai dormir na casa do Loudo, há um espaço livre na toca. Roussette pretende aproveitar para convidar Biva, mas Carcajou deseja fazer o mesmo com Martis.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201117111500 -0300" stop="20201117113000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Pirata &amp; Capitano</title>
+    <desc lang="pt">Auxiliada por seu amigo Capitano e sua fiel tripulação, Pirata é uma navegadora que cruza incansavelmente o grande oceano, sempre em busca de novas aventuras.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França</country>
+  </programme>
+  <programme start="20201117113000 -0300" stop="20201117114500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">O Poderoso Mike</title>
+    <desc lang="pt">Mike não está nem um pouco satisfeito com o novo calçado e com os barulhos estridentes que eles fazem. Agora os guaxinins podem ouvir Mike a um quilômetro de distância.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201117114500 -0300" stop="20201117120000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Angelo</title>
+    <desc lang="pt">Angelo é um garoto de 12 anos que está sempre em busca de um plano para escapar de todos os seus deveres da vida, sempre com a ajuda de Lola e de seus amigos da escola.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França/Reino Unido/EUA/Ca</country>
+  </programme>
+  <programme start="20201117120000 -0300" stop="20201117121500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Casa da Árvore</title>
+    <desc lang="pt">O quarteto decidiu passar a noite na casa da árvore, o que é um pouco assustador porque os barulhos ao redor são estranhos. Será a história, a voz de Alexia ou a música dos sons ao redor que os farão dormir?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201117121500 -0300" stop="20201117123000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Eu Sou um Gênio</title>
+    <desc lang="pt">Ziggy, o gênio, é um guaxinim que pode conceder três desejos ao camelo Diego. Mas depois de cumprir os dois primeiros, eles tiveram um problema e precisam trabalhar juntos para realizar o desejo final.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201117123000 -0300" stop="20201117124500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Ready Jet Go!</title>
+    <desc lang="pt">Duas crianças vizinhas, Sean e Sydney, fazem amizade com uma nova criança, Jet Propulsion, sem saber que ela na verdade é um alienígena.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20201117124500 -0300" stop="20201117130000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Exploradores Espaciais - S1E31</title>
+    <desc lang="pt">Uma pane afeta todos os sinais elétricos durante um treinamento na Lua. Com isso, os Exploradores Espaciais precisam descobrir o que aconteceu e resolver a situação sem a ajuda de nenhum equipamento eletrônico.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Coreia do Sul/EUA</country>
+  </programme>
+  <programme start="20201117130000 -0300" stop="20201117131500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Bottersnikes &amp; Gumbles</title>
+    <desc lang="pt">Os Gumbles e Snikes estão sofrendo de Boggle Twitches. Somente Float é imune e proteção contra Weathersnike. Juntos, eles tentam fazer uma cura para ajudar seus amigos, mas Float pode confiar em Weathersnike?(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Reino Unido/Austrália</country>
+  </programme>
+  <programme start="20201117131500 -0300" stop="20201117133000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Meu Cavaleiro e Eu</title>
+    <desc lang="pt">Para comemorar o ano novo do dragão, Bad Jack planeja jogar Henri e Jimmy em um poço sem fundo. Quando Cat vai resgatá-los, a rainha insiste em se juntar a ela, mas usando uma roupa pouco convecional.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França / Bélgica</country>
+  </programme>
+  <programme start="20201117133000 -0300" stop="20201117140000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">D.P.A. - Detetives do Prédio Azul</title>
+    <desc lang="pt">Severino compra uma bicicleta de segunda mão, mas ela desaparece. Os detetives decidem ajudar.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Juvenil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117140000 -0300" stop="20201117143000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Valentins - S2E16</title>
+    <desc lang="pt">Os irmãos descobrem quem invadiu sua casa e traçam um plano para fazê-lo confessar o motivo. Para descobrir os ingredientes de um antídoto, Theo resolve agir sozinho.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117143000 -0300" stop="20201117150000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Repórter Brasil Tarde</title>
+    <desc lang="pt">Telejornal apresentado do Rio de Janeiro com o apoio de emissoras públicas de todo o país. Noticiário isento que mostra o que foi notícia no Brasil e no mundo. O destaque são reportagens com foco no cidadão.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20201117150000 -0300" stop="20201117153000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">Quando alguém fala em São Paulo, o que logo nos vem à mente é uma paisagem urbana, moderna e agitada. Mas nos 700km do litoral paulista, o que vemos são ilhas, restingas, praias, manguezais, lagoas e rios.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117153000 -0300" stop="20201117160000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Faróis do Brasil</title>
+    <desc lang="pt">No Arquipélago das Cagarras, na zona sul do Rio de Janeiro, vamos conhecer o Farol da Ilha Rasa. Além de belas paisagens, de lá também se avista muita história sobre esse monumento construído no século 19.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Histórica</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117160000 -0300" stop="20201117163000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Expedições</title>
+    <desc lang="pt">Neste Expedições, o sauim-de-coleira: a origem, a vida e o que ameaça esse primata típico de Manaus.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117163000 -0300" stop="20201117170000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Criaturas Estranhas: Maravilhas Aladas</title>
+    <desc lang="pt">O maior pássaro do mundo não pode voar. Outro usa seu bigode para atrair parceiros. Conheça os inovadores alados da natureza e descubra por que eles desenvolveram uma aparência única.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Ecologia</category>
+  </programme>
+  <programme start="20201117170000 -0300" stop="20201117180000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Supercães com Trabalhos Extraordinários</title>
+    <desc lang="pt">Os cães chegam em nosso socorro de várias maneiras surpreendentes. Entre as histórias de hoje, vemos a de um Dogue Alemão que transformou a vida de uma garota de 13 anos, em Massachusetts (EUA).(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20201117180000 -0300" stop="20201117190000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">A Incrível Madagascar</title>
+    <desc lang="pt">Um olhar sobre a população de lêmures de Madagascar, que abriga mais de 100 espécies desses primatas.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Meio Ambiente</category>
+  </programme>
+  <programme start="20201117190000 -0300" stop="20201117193000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Repórter Brasil Noite</title>
+    <desc lang="pt">Telejornal apresentado de Brasília com o apoio de emissoras públicas de todo o país. Noticiário isento que mostra o que foi notícia no Brasil e no mundo. O destaque são  reportagens com foco no cidadão.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20201117193000 -0300" stop="20201117200000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Stadium</title>
+    <desc lang="pt">O programa - criado em 1977 - tem como foco esportes Olímpicos e Paralímpicos, e mostra tudo o que movimenta o meio esportivo, dando espaço para atletas brasileiros que representam grandes promessas de títulos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117200000 -0300" stop="20201117203000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">Na nossa rota no norte do Amazonas, estão Presidente Figueiredo, onde jorram mais de 150 cachoeiras, e Novo Airão, sede do Parque Nacional de Anavilhanas, um dos maiores arquipélagos fluviais do mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117203000 -0300" stop="20201117210000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Animais Bebês</title>
+    <desc lang="pt">Apesar de nascer com instintos de sobrevivência, alguns filhotes precisam de ajuda extra para prosperar em seu ambiente. Observe como babuínos, pinguins e capivaras trabalham em família para criar os filhotes.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20201117210000 -0300" stop="20201117213000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Diário de Um Cosmonauta</title>
+    <desc lang="pt">A série traz informações sobre expedições espaciais inéditas, como as primeiras missões em planetas explorados pela primeira vez, além de tornar acessível para o público em geral, os detalhes do funcionamento de uma missão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20201117213000 -0300" stop="20201117223000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Os Mosqueteiros</title>
+    <desc lang="pt">Uma série britânica de drama e ação, uma trama de época, ambientada na Paris do século XVII, baseada na obra do romancista francês Alexandre Dumas. Uma irmandade entre D'Artagnan, Athos, Porthos e Aramis.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Reino Unido</country>
+  </programme>
+  <programme start="20201117223000 -0300" stop="20201117230000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">O Vigilante Rodoviário</title>
+    <desc lang="pt">Sucesso de 1960, as aventuras do bravo herói das rodovias voltam às telas no Canal Brasil. O público acompanha o Inspetor Carlos e seu fiel parceiro,   Lobo.(n)</desc>
+    <date>1961</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117230000 -0300" stop="20201117233000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Sacoleiras S/A E10</title>
+    <desc lang="pt">Alessandra encontra numa festa uma mulher com o vestido idêntico ao seu. As duas ficam chocadas, pois achavam que os modelos eram exclusivos. Os assistentes de Norma reivindicam a contratação de mais pessoal.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201117233000 -0300" stop="20201118000000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">República do Peru</title>
+    <desc lang="pt">Arlete, Arlinda e Memê são três irmãs idosas que moram juntas em Copacabana. Devido aos altos preços, elas precisam conter despesas. Mas o encontro com uma velha conhecida pode ser a solução do problema.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+</tv>
