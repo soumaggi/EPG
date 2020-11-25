@@ -25,245 +25,252 @@
     <icon src="https://www.lineup.tv.br/canais/1569807716.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
-  <programme start="20201124001500 -0300" stop="20201124020000 -0300" channel="HBO + HD">
-    <title lang="pt">Freddy Vs. Jason</title>
-    <desc lang="pt">Freddy Krueger foi esquecido. Desesperado, ressuscita Jason Voorhees para que ele espalha o medo entre os adolescentes da Elm Street. Mas Jason tem seus próprios planos. E os dois ícones do terror protagonizam uma épica batalha.(n)</desc>
-    <date>2003</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
-    <country lang="pt">EUA/ Itália</country>
-  </programme>
-  <programme start="20201124020000 -0300" stop="20201124033500 -0300" channel="HBO + HD">
-    <title lang="pt">Tara Maldita</title>
-    <desc lang="pt">David, um pai viúvo, se esforça para confortar sua filha Emma após a morte acidental de um colega de escola. Porém, com o tempo David não consegue ignorar os chocantes indícios de que sua filha pode estar diretamente envolvida na tragédia.(n)</desc>
-    <date>2018</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-    <country lang="pt">EUA</country>
-  </programme>
-  <programme start="20201124033500 -0300" stop="20201124052000 -0300" channel="HBO + HD">
-    <title lang="pt">Eu Ainda sei o que Vocês Fizeram no Verão Passado</title>
-    <desc lang="pt">Julie ainda tenta recomeçar sua vida. Decide então viajar, mas a viagem dos sonhos vira um pesadelo quando os assassinatos recomeçam.(n)</desc>
-    <date>1998</date>
+  <programme start="20201125001000 -0300" stop="20201125022000 -0300" channel="HBO + HD">
+    <title lang="pt">Coringa</title>
+    <desc lang="pt">Joaquin Phoenix interpreta o icônico Coringa nesta história original do vilão dos quadrinhos que lhe rendeu um Oscar® de Melhor Ator.(n)</desc>
+    <date>2019</date>
     <category lang="pt">Filme</category>
     <category lang="pt">Suspense</category>
-    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá/EUA</country>
   </programme>
-  <programme start="20201124052000 -0300" stop="20201124071000 -0300" channel="HBO + HD">
-    <title lang="pt">Horas de Desespero</title>
-    <desc lang="pt">Jack Dwyner é um empresário americano que vive no sudeste asiático com sua família. Um golpe de Estado os pegará de surpresa, assim Jack e sua família tentarão escapar por todos os meios dos rebeldes que atacam a cidade.(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-    <country lang="pt">EUA</country>
-  </programme>
-  <programme start="20201124071000 -0300" stop="20201124085500 -0300" channel="HBO + HD">
-    <title lang="pt">Quando Estranhos Chegam</title>
-    <desc lang="pt">Quando Beth abre seu carro, Jack entra correndo e sangrando. Em poucos instantes, três homens, que Jack alega estarem lhe perseguindo, aparecem e arma-se o palco para um jogo mortal de gato e rato.(n)</desc>
+  <programme start="20201125022000 -0300" stop="20201125040000 -0300" channel="HBO + HD">
+    <title lang="pt">Jason X</title>
+    <desc lang="pt">No ano de 2455, nave leva Jason congelado para o espaço. Ele acorda e recomeça as matanças da série Sexta-Feira 13. Na nave, sofre uma metamorfose e evolui.(n)</desc>
     <date>2001</date>
     <category lang="pt">Filme</category>
-    <category lang="pt">Suspense</category>
-    <country lang="pt">Austrália/ Nova Zelândia/</country>
-  </programme>
-  <programme start="20201124085500 -0300" stop="20201124113500 -0300" channel="HBO + HD">
-    <title lang="pt">Doutor Sono</title>
-    <desc lang="pt">A paz de Dan desaparece quando ele é forçado a retornar ao Overlook para proteger uma jovem com poderes de um culto mortal.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Filme</category>
     <category lang="pt">Terror</category>
-    <country lang="pt">EUA/Canadá</country>
+    <country lang="pt">EUA</country>
   </programme>
-  <programme start="20201124113500 -0300" stop="20201124133500 -0300" channel="HBO + HD">
-    <title lang="pt">Ender's Game - O Jogo do Exterminador</title>
-    <desc lang="pt">Ender é enviado para uma escola militar espacial com o objetivo de ser treinado para combater, no futuro, extraterrestres que vão invadir a Terra. Seu dom natural para liderar é o segredo de seu sucesso.(n)</desc>
+  <programme start="20201125040000 -0300" stop="20201125053500 -0300" channel="HBO + HD">
+    <title lang="pt">Só Deus Perdoa</title>
+    <desc lang="pt">Julian é um conhecido traficante em Bangkok que está sofrendo com a morte do irmão. Para vingá-lo, começa uma batalha contra os mafiosos locais. Especialistas em artes marciais, mercercários e até sua mãe, podem virar os inimigos.(n)</desc>
     <date>2013</date>
     <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-    <country lang="pt">USA</country>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Dinamarca/Suécia/Tailândi</country>
   </programme>
-  <programme start="20201124133500 -0300" stop="20201124154000 -0300" channel="HBO + HD">
-    <title lang="pt">Transcendence: A Revolução</title>
-    <desc lang="pt">O Dr. Craster, um cientista controverso, é vítima de um atentado contra sua vida. Desesperados, sua esposa e seu amigo fazem o possível para recuperar sua mente em uma Inteligência Artificial.(n)</desc>
-    <date>2014</date>
+  <programme start="20201125053500 -0300" stop="20201125071500 -0300" channel="HBO + HD">
+    <title lang="pt">Um Tira Muito Suspeito</title>
+    <desc lang="pt">Após ser libertado da prisão, o ladrão de joias, Logan, corre para o terreno baldio onde enterrou o fruto de um lucrativo golpe: 20 milhões de dólares em joias. Mas ele descobre que, no local, foi construída uma delegacia de polícia.(n)</desc>
+    <date>1999</date>
     <category lang="pt">Filme</category>
-    <category lang="pt">Ficção</category>
-    <country lang="pt">EUA/China/Reino Unido</country>
-  </programme>
-  <programme start="20201124154000 -0300" stop="20201124161500 -0300" channel="HBO + HD">
-    <title lang="pt">Greg News Com Gregório Duvivier - S4E33</title>
-    <desc lang="pt">Gregório Duvivier vai direto ao ponto na interpretação dos principais fatos do noticiário. Com humor e crítica afiados, a quarta temporada de Greg News é um convite ao riso e à reflexão urgente.(n)</desc>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
-    <country lang="pt">Brasil</country>
+    <country lang="pt">EUA/Alemanha</country>
   </programme>
-  <programme start="20201124161500 -0300" stop="20201124181500 -0300" channel="HBO + HD">
-    <title lang="pt">Distrito 9</title>
-    <desc lang="pt">Extraterrestes tornam-se refugiados na África do Sul, onde ficam segregados dos humanos em uma área chamada Distrito 9. Após quase 30 anos, porém, as autoridades decidem mudá-los de local, o que gera conflitos.(n)</desc>
-    <date>2009</date>
+  <programme start="20201125071500 -0300" stop="20201125092000 -0300" channel="HBO + HD">
+    <title lang="pt">Homem-Aranha no Aranhaverso</title>
+    <desc lang="pt">Com um Oscar® de Melhor Filme de Animação, Homem-Aranha No Aranhaverso não só apresenta o jovem Miles Morales como o novo homem-aranha, mas também traz uma visão refrescante e um estilo visual inovador para o nosso amado escalador de paredes.(n)</desc>
+    <date>2018</date>
     <category lang="pt">Filme</category>
-    <category lang="pt">Ficção</category>
-    <country lang="pt">EUA/Nova Zelândia/Canadá/</country>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
   </programme>
-  <programme start="20201124181500 -0300" stop="20201124192000 -0300" channel="HBO + HD">
-    <title lang="pt">Santos Dumont - S1E6</title>
-    <desc lang="pt">A história do visionário criador que deu ao antigo sonho de voar forma e realidade. A vida, a ambição, a consagração e a melancolia de um gênio da mecânica com alma de poeta: Santos Dumont.(n)</desc>
+  <programme start="20201125092000 -0300" stop="20201125102500 -0300" channel="HBO + HD">
+    <title lang="pt">His Dark Materials - Fronteiras do Universo - S2E2</title>
     <date>2019</date>
     <category lang="pt">Séries</category>
-    <category lang="pt">Biografia</category>
-    <country lang="pt">Brasil</country>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Reino Unido</country>
   </programme>
-  <programme start="20201124192000 -0300" stop="20201124220000 -0300" channel="HBO + HD">
-    <title lang="pt">Doutor Sono</title>
-    <desc lang="pt">A paz de Dan desaparece quando ele é forçado a retornar ao Overlook para proteger uma jovem com poderes de um culto mortal.(n)</desc>
+  <programme start="20201125102500 -0300" stop="20201125115500 -0300" channel="HBO + HD">
+    <title lang="pt">Dragon Ball Z: A Batalha dos Deuses</title>
+    <desc lang="pt">Bills, o deus da destruição, despertou depois de anos de letargia. Ao escutar que um super saiyajin conseguiu vencer Freezer, Bills vai atrás de Goku e de um suposto deus saiyajin.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Japão</country>
+  </programme>
+  <programme start="20201125115500 -0300" stop="20201125134000 -0300" channel="HBO + HD">
+    <title lang="pt">Salt</title>
+    <desc lang="pt">Antes de se tornar agente da CIA, Evelyn Salt prestou juramento de servir e honrar o seu país. Ela colocará o seu juramento em prática, quando um desertor russo a acusa de ser uma espiã russa. Salt foge, usando todas as sua habilidades.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20201125134000 -0300" stop="20201125152500 -0300" channel="HBO + HD">
+    <title lang="pt">Zumbilândia: Atire Duas Vezes</title>
+    <desc lang="pt">As regras para sobreviver ao apocalipse zumbi foram atualizadas. Columbus, Tallahassee, Wichita e Little Rock devem enfrentar novos zumbis evoluídos e outros sobreviventes.(n)</desc>
     <date>2019</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20201125152500 -0300" stop="20201125170000 -0300" channel="HBO + HD">
+    <title lang="pt">A Hora do Pesadelo 6 - Pesadelo Final - A Morte de Freddy</title>
+    <desc lang="pt">Freddy Krueger acabou com a vida de todas as crianças da Rua Elm, mas ele não está satisfeito. Agora vai até sua filha para matar o último adolescente sobrevivente, mas ela se dá conta dos poderes demoníacos do pai.(n)</desc>
+    <date>1991</date>
     <category lang="pt">Filme</category>
     <category lang="pt">Terror</category>
-    <country lang="pt">EUA/Canadá</country>
+    <country lang="pt">EUA</country>
   </programme>
-  <programme start="20201124220000 -0300" stop="20201124230500 -0300" channel="HBO + HD">
-    <title lang="pt">Industry - S1E3</title>
-    <desc lang="pt">Um grupo de ambiciosos jovens recém-formados navega o tenso e competitivo ambiente de um importante banco de investimentos em Londres.(n)</desc>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-    <country lang="pt">EUA/Reino Unido</country>
-  </programme>
-  <programme start="20201124230500 -0300" stop="20201125001000 -0300" channel="HBO + HD">
+  <programme start="20201125170000 -0300" stop="20201125180500 -0300" channel="HBO + HD">
     <title lang="pt">Assassinato em Middle Beach - S1E2</title>
     <date>2020</date>
     <category lang="pt">Séries</category>
     <category lang="pt">Documentário</category>
     <country lang="pt">EUA</country>
   </programme>
-  <programme start="20201124000000 -0300" stop="20201124010000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125180500 -0300" stop="20201125201000 -0300" channel="HBO + HD">
+    <title lang="pt">Homem-Aranha no Aranhaverso</title>
+    <desc lang="pt">Com um Oscar® de Melhor Filme de Animação, Homem-Aranha No Aranhaverso não só apresenta o jovem Miles Morales como o novo homem-aranha, mas também traz uma visão refrescante e um estilo visual inovador para o nosso amado escalador de paredes.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20201125201000 -0300" stop="20201125220000 -0300" channel="HBO + HD">
+    <title lang="pt">As Panteras Detonando</title>
+    <desc lang="pt">O roubo de um par de anéis pode revelar a identidade de pessoas incluídas no programa de proteção à testemunha e só Charlie e as Panteras podem impedir que isso aconteça.(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20201125220000 -0300" stop="20201125235000 -0300" channel="HBO + HD">
+    <title lang="pt">Perfeita é a Mãe!</title>
+    <desc lang="pt">Um grupo de mães trabalhadoras decide seguir o caminho da diversão e irresponsabilidade após se sentirem sobrecarregadas com todos os rigorosos requisitos de mãe aparentemente perfeita e do conselho do grupo de pais e responsáveis.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20201125235000 -0300" stop="20201126002500 -0300" channel="HBO + HD">
+    <title lang="pt">Hard - S1E4</title>
+    <desc lang="pt">HARD conta a história de Sofia, dedicada dona de casa que acaba de ficar viúva. Elegante e recatada, ela renunciou à carreira como advogada para cuidar da família.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">França</country>
+  </programme>
+  <programme start="20201125000000 -0300" stop="20201125010000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124010000 -0300" stop="20201124020000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125010000 -0300" stop="20201125020000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124020000 -0300" stop="20201124030000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125020000 -0300" stop="20201125030000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124030000 -0300" stop="20201124040000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125030000 -0300" stop="20201125040000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124040000 -0300" stop="20201124050000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125040000 -0300" stop="20201125050000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124050000 -0300" stop="20201124060000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125050000 -0300" stop="20201125060000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124060000 -0300" stop="20201124070000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125060000 -0300" stop="20201125070000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124070000 -0300" stop="20201124080000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125070000 -0300" stop="20201125080000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124080000 -0300" stop="20201124090000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125080000 -0300" stop="20201125090000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124090000 -0300" stop="20201124100000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125090000 -0300" stop="20201125100000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124100000 -0300" stop="20201124110000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125100000 -0300" stop="20201125110000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124110000 -0300" stop="20201124120000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125110000 -0300" stop="20201125120000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124120000 -0300" stop="20201124130000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125120000 -0300" stop="20201125130000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124130000 -0300" stop="20201124140000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125130000 -0300" stop="20201125140000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124140000 -0300" stop="20201124150000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125140000 -0300" stop="20201125150000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124150000 -0300" stop="20201124160000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125150000 -0300" stop="20201125160000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124160000 -0300" stop="20201124170000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125160000 -0300" stop="20201125170000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124170000 -0300" stop="20201124180000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125170000 -0300" stop="20201125180000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124180000 -0300" stop="20201124190000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125180000 -0300" stop="20201125190000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124190000 -0300" stop="20201124200000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125190000 -0300" stop="20201125200000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124200000 -0300" stop="20201124210000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125200000 -0300" stop="20201125210000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124210000 -0300" stop="20201124220000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125210000 -0300" stop="20201125220000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124220000 -0300" stop="20201124230000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125220000 -0300" stop="20201125230000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124230000 -0300" stop="20201125000000 -0300" channel="Trace Brazuca HD">
+  <programme start="20201125230000 -0300" stop="20201126000000 -0300" channel="Trace Brazuca HD">
     <title lang="pt">Programação Trace Brazuca</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20201124011500 -0300" stop="20201124021500 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125003500 -0300" stop="20201125013500 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Jornal da Globo</title>
     <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124021500 -0300" stop="20201124025500 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125013500 -0300" stop="20201125021500 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Conversa com Bial</title>
     <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
     <date>2020</date>
@@ -271,42 +278,42 @@
     <category lang="pt">Talk Show</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124025500 -0300" stop="20201124040000 -0300" channel="EPTV Ribeirão HD">
-    <title lang="pt">Corujão: Uma Irmã Na Minha Vida</title>
-    <desc lang="pt">A estudante Olivia está sob muita tensão: os exames estão chegando e também a festa da fraternidade. Mas os problemas começam mesmo quando seu pai e sua madrasta morrem e ela fica responsável por sua meia-irmã de sete anos.(n)</desc>
-    <date>2006</date>
+  <programme start="20201125021500 -0300" stop="20201125040000 -0300" channel="EPTV Ribeirão HD">
+    <title lang="pt">Corujão: A Espiã que Sabia de Menos</title>
+    <desc lang="pt">Susan é uma analista da CIA e heroína não reconhecida por trás das missões mais perigosas. Quando seu parceiro sai, ela se infiltra para evitar um desastre.(n)</desc>
+    <date>2015</date>
     <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-    <country lang="pt">EUA</country>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA/França/Reino Unido/Al</country>
   </programme>
-  <programme start="20201124040000 -0300" stop="20201124060000 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125040000 -0300" stop="20201125060000 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Hora Um</title>
     <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124060000 -0300" stop="20201124073000 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125060000 -0300" stop="20201125073000 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Bom Dia São Paulo</title>
     <desc lang="pt">O telejornal traz as primeiras notícias do dia no seu estado, com entrevistas, acontecimentos, previsão do tempo, trânsito e resultados da última rodada esportiva entre outras informações.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124073000 -0300" stop="20201124083000 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125073000 -0300" stop="20201125083000 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Bom Dia Cidade</title>
     <desc lang="pt">O programa leva à população as mais importantes notícias do dia, além de esporte, economia, serviço, previsão do tempo, entrevistas e muito mais.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20201124083000 -0300" stop="20201124093000 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125083000 -0300" stop="20201125093000 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Bom Dia Brasil</title>
     <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124093000 -0300" stop="20201124101500 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125093000 -0300" stop="20201125101500 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Mais Você</title>
     <desc lang="pt">Ana Maria Braga e Louro José comandam um programa para toda a família que fala de culinária, moda, comportamento, saúde e trabalho.(n)</desc>
     <date>2020</date>
@@ -314,7 +321,7 @@
     <category lang="pt">Diversos</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124101500 -0300" stop="20201124114500 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125101500 -0300" stop="20201125114500 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Encontro com Fátima Bernardes</title>
     <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
     <date>2012</date>
@@ -322,20 +329,20 @@
     <category lang="pt">Diversos</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124114500 -0300" stop="20201124123500 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125114500 -0300" stop="20201125123500 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Jornal da EPTV - 1ª Edição</title>
     <desc lang="pt">O Jornal da EPTV 1ª Edição traz um resumo dos principais fatos do dia nas regiões de Campinas, Ribeirão Preto, São Carlos e Sul de Minas.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20201124123500 -0300" stop="20201124130000 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125123500 -0300" stop="20201125130000 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Globo Esporte</title>
     <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia com os destaques do Brasil e do mundo.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Esportivo</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124130000 -0300" stop="20201124131000 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125130000 -0300" stop="20201125131000 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário eleitoral partidário.(n)</desc>
     <date>2020</date>
@@ -343,59 +350,66 @@
     <category lang="pt">Política</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124131000 -0300" stop="20201124144500 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125131000 -0300" stop="20201125144500 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Jornal Hoje</title>
     <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124144500 -0300" stop="20201124164000 -0300" channel="EPTV Ribeirão HD">
-    <title lang="pt">Sessão da Tarde: Tudo Que Quero</title>
-    <desc lang="pt">Uma jovem portadora de autismo consegue driblar sua cuidadora para entregar seu manuscrito para concorrer em uma competição de escrita sobre Star Trek.(n)</desc>
-    <date>2017</date>
+  <programme start="20201125144500 -0300" stop="20201125165000 -0300" channel="EPTV Ribeirão HD">
+    <title lang="pt">Sessão da Tarde: Pulando a Vassoura</title>
+    <desc lang="pt">Filme sobre o casamento de Sabrina Watson e Jason Taylor e o embate de suas famílias na ilha Martha´s Vineyard. Os dois grupos são muito diferentes e pertencem a classes sociais diferentes.(n)</desc>
+    <date>2011</date>
     <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
+    <category lang="pt">Comédia</category>
     <country lang="pt">EUA</country>
   </programme>
-  <programme start="20201124164000 -0300" stop="20201124180000 -0300" channel="EPTV Ribeirão HD">
-    <title lang="pt">Vale a Pena Ver de Novo: Laços de Família E57</title>
+  <programme start="20201125165000 -0300" stop="20201125174000 -0300" channel="EPTV Ribeirão HD">
+    <title lang="pt">Vale a Pena Ver de Novo: Laços de Família E58</title>
     <date>2000</date>
     <category lang="pt">Variedades</category>
     <category lang="pt">Novela</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124180000 -0300" stop="20201124182500 -0300" channel="EPTV Ribeirão HD">
-    <title lang="pt">Malhação: Viva a Diferença E166</title>
-    <desc lang="pt">Fio e Clara se aproximam. Josefina conversa com Dóris e Roney sobre sua preocupação com o vício de Julinho em jogos digitais.(n)</desc>
+  <programme start="20201125174000 -0300" stop="20201125180500 -0300" channel="EPTV Ribeirão HD">
+    <title lang="pt">Malhação: Viva a Diferença E167</title>
+    <desc lang="pt">As meninas pensam no tema da festa de 1 ano de Tonico. Ellen edita o clipe de Fio. Gabriel diz que voltará para Caxambu, mas promete estar no aniversário de Tonico.(n)</desc>
     <date>2017</date>
     <category lang="pt">Variedades</category>
     <category lang="pt">Novela</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124182500 -0300" stop="20201124191000 -0300" channel="EPTV Ribeirão HD">
-    <title lang="pt">Flor do Caribe - S1E74</title>
-    <desc lang="pt">Doralice se sensibiliza com a notícia da gravidez de Natália. Guiomar consegue que Alberto passe para seu nome a casa que era da ONG.(n)</desc>
+  <programme start="20201125180500 -0300" stop="20201125184500 -0300" channel="EPTV Ribeirão HD">
+    <title lang="pt">Flor do Caribe - S1E75</title>
+    <desc lang="pt">Cassiano e os tenentes observam a movimentação de Alberto e seus capangas. Guiomar passa a casa que ganhou de Alberto para usufruto da ONG.(n)</desc>
     <date>2013</date>
     <category lang="pt">Variedades</category>
     <category lang="pt">Novela</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124191000 -0300" stop="20201124193500 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125184500 -0300" stop="20201125191500 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Jornal da EPTV - 2ª Edição</title>
     <desc lang="pt">O Jornal da EPTV 2ª Edição apresenta nas noites de segunda a sábado um resumo das principais notícias do dia nas regiões de Campinas, Ribeirão Preto, São Carlos e Sul de Minas.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20201124193500 -0300" stop="20201124203000 -0300" channel="EPTV Ribeirão HD">
-    <title lang="pt">Haja Coração! E38</title>
-    <desc lang="pt">Leozinho teme pela vida de Fedora. Tancinha e Apolo são expulsos da igreja. Adriana alerta Beto, que confessa a Henrique sua paixão por Tancinha.(n)</desc>
+  <programme start="20201125191500 -0300" stop="20201125200000 -0300" channel="EPTV Ribeirão HD">
+    <title lang="pt">Haja Coração! E39</title>
+    <desc lang="pt">Lucrécia e Fedora passam mal ao saber que deverão ir ao Instituto Médico Legal. Pedro convida Rebeca para viajar.(n)</desc>
     <date>2016</date>
     <category lang="pt">Variedades</category>
     <category lang="pt">Novela</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124203000 -0300" stop="20201124204000 -0300" channel="EPTV Ribeirão HD">
+  <programme start="20201125200000 -0300" stop="20201125203000 -0300" channel="EPTV Ribeirão HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125203000 -0300" stop="20201125204000 -0300" channel="EPTV Ribeirão HD">
     <title lang="pt">Horário Político</title>
     <desc lang="pt">Horário eleitoral partidário.(n)</desc>
     <date>2020</date>
@@ -403,189 +417,189 @@
     <category lang="pt">Política</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124204000 -0300" stop="20201124214500 -0300" channel="EPTV Ribeirão HD">
-    <title lang="pt">Jornal Nacional</title>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124214500 -0300" stop="20201124231500 -0300" channel="EPTV Ribeirão HD">
-    <title lang="pt">A Força do Querer E56</title>
-    <desc lang="pt">Caio orienta Bibi a se afastar de Jeiza. Jeiza se irrita com Edinalva por ter convidado Ruy e Ritinha para sua luta.(n)</desc>
+  <programme start="20201125204000 -0300" stop="20201125212000 -0300" channel="EPTV Ribeirão HD">
+    <title lang="pt">A Força do Querer E57</title>
+    <desc lang="pt">Eugênio tenta despistar Ruy e afirma que estava na casa de Caio. Todos torcem por Jeiza em sua luta.(n)</desc>
     <date>2017</date>
     <category lang="pt">Variedades</category>
     <category lang="pt">Novela</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124231500 -0300" stop="20201125003500 -0300" channel="EPTV Ribeirão HD">
-    <title lang="pt">The Voice Brasil - S9</title>
-    <desc lang="pt">Nona temporada do reality The Voice Brasil. Com Carlinhos Brown, Lulu Santos, Michel Teló e Iza. Apresentação de Tiago Leifert e Jeniffer Nascimento.(n)</desc>
+  <programme start="20201125212000 -0300" stop="20201125233000 -0300" channel="EPTV Ribeirão HD">
+    <title lang="pt">Coritiba x Corinthians - Ao Vivo</title>
+    <desc lang="pt">Siga ao vivo campeonatos estaduais, o Brasileirão, a Copa do Brasil, a Libertadores, a Liga dos Campeões, mundiais de clubes e amistosos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20201125233000 -0300" stop="20201125234500 -0300" channel="EPTV Ribeirão HD">
+    <title lang="pt">Segue o Jogo</title>
+    <desc lang="pt">Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida. Participação do comentarista Paulo Nunes.(n)</desc>
     <date>2020</date>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Reality Show</category>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124000000 -0300" stop="20201124003000 -0300" channel="Pai Eterno HD">
-    <title lang="pt">Terço da Família AFIPE</title>
-    <desc lang="pt">Irmão Diego Joaquim reza o Santo Terço com os devotos do Pai Eterno.(n)</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Religião</category>
+  <programme start="20201125234500 -0300" stop="20201126004500 -0300" channel="EPTV Ribeirão HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124003000 -0300" stop="20201124004500 -0300" channel="Pai Eterno HD">
-    <title lang="pt">A Redenção</title>
-    <desc lang="pt">Irmão Diego Joaquim apresenta as meditações de Santo Afonso de Maria de Ligório.(n)</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Religião</category>
-  </programme>
-  <programme start="20201124004500 -0300" stop="20201124010000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125004500 -0300" stop="20201125010000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Eu Creio Senhor</title>
     <desc lang="pt">Catequese diária com o arcebispo de Campo Grande/MS, Dom Dimas Lara Barbosa.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124010000 -0300" stop="20201124013000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125010000 -0300" stop="20201125013000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Jornal Boa Notícia</title>
     <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Boa Notícia.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20201124013000 -0300" stop="20201124020000 -0300" channel="Pai Eterno HD">
-    <title lang="pt">Ponto 3</title>
-    <desc lang="pt">Irmão Diego Joaquim recebe convidados para debater temas da atualidade.(n)</desc>
+  <programme start="20201125013000 -0300" stop="20201125020000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Parlatório</title>
+    <desc lang="pt">Padre Rafael Vieira recebe convidados para debater temas da atualidade.(n)</desc>
     <category lang="pt">Variedades</category>
-    <category lang="pt">Debate</category>
+    <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124020000 -0300" stop="20201124030000 -0300" channel="Pai Eterno HD">
-    <title lang="pt">Noite Marca da Vitória</title>
-    <desc lang="pt">O cantor Tony Allysson conduz este momento de louvor, reflexão e música.(n)</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Musical</category>
+  <programme start="20201125020000 -0300" stop="20201125030000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Aparições de Maria</title>
+    <desc lang="pt">A série traz as histórias das aparições de Maria na França.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124030000 -0300" stop="20201124033000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125030000 -0300" stop="20201125033000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Terço da Família AFIPE</title>
     <desc lang="pt">Irmão Diego Joaquim reza o Santo Terço com os devotos do Pai Eterno.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124033000 -0300" stop="20201124040000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125033000 -0300" stop="20201125040000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Jornal Boa Notícia</title>
     <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Boa Notícia.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20201124040000 -0300" stop="20201124041500 -0300" channel="Pai Eterno HD">
+  <programme start="20201125040000 -0300" stop="20201125041500 -0300" channel="Pai Eterno HD">
     <title lang="pt">Hora do Papa</title>
     <desc lang="pt">As principais informações sobre o Vaticano e o Papa Francisco.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20201124041500 -0300" stop="20201124043000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125041500 -0300" stop="20201125043000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Eu Creio Senhor</title>
     <desc lang="pt">Catequese diária com o arcebispo de Campo Grande/MS, Dom Dimas Lara Barbosa.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124043000 -0300" stop="20201124050000 -0300" channel="Pai Eterno HD">
-    <title lang="pt">Terço da Família AFIPE</title>
-    <desc lang="pt">Irmão Diego Joaquim reza o Santo Terço com os devotos do Pai Eterno.(n)</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Religião</category>
+  <programme start="20201125043000 -0300" stop="20201125050000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Jornal Boa Notícia</title>
+    <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Boa Notícia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20201124050000 -0300" stop="20201124053000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125050000 -0300" stop="20201125053000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Novena dos Filhos do Pai Eterno</title>
     <desc lang="pt">Padre Robson de Oliveira reza a Novena dos Filhos do Pai Eterno.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124053000 -0300" stop="20201124054500 -0300" channel="Pai Eterno HD">
+  <programme start="20201125053000 -0300" stop="20201125054500 -0300" channel="Pai Eterno HD">
     <title lang="pt">Hora da Esperança</title>
     <desc lang="pt">Padre Delair Cuerva faz um momento de oração e reflexão na Hora da Esperança.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124054500 -0300" stop="20201124060000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125054500 -0300" stop="20201125060000 -0300" channel="Pai Eterno HD">
     <title lang="pt">A Redenção</title>
     <desc lang="pt">Irmão Diego Joaquim apresenta as meditações de Santo Afonso de Maria de Ligório.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124060000 -0300" stop="20201124063000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125060000 -0300" stop="20201125063000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Santo Terço ao Sagrado Coração de Jesus</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124063000 -0300" stop="20201124065500 -0300" channel="Pai Eterno HD">
+  <programme start="20201125063000 -0300" stop="20201125070000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Agora Agro</title>
     <desc lang="pt">O que há de mais interessante e importante no mundo do Agronegócio.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124065500 -0300" stop="20201124074500 -0300" channel="Pai Eterno HD">
+  <programme start="20201125070000 -0300" stop="20201125074500 -0300" channel="Pai Eterno HD">
     <title lang="pt">Missa do Santuário</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124074500 -0300" stop="20201124080000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125074500 -0300" stop="20201125080000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
     <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124080000 -0300" stop="20201124081500 -0300" channel="Pai Eterno HD">
+  <programme start="20201125080000 -0300" stop="20201125081500 -0300" channel="Pai Eterno HD">
     <title lang="pt">Eu Creio Senhor</title>
     <desc lang="pt">Catequese diária com o arcebispo de Campo Grande/MS, Dom Dimas Lara Barbosa.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124081500 -0300" stop="20201124083000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125081500 -0300" stop="20201125083000 -0300" channel="Pai Eterno HD">
     <title lang="pt">A Redenção</title>
     <desc lang="pt">Irmão Diego Joaquim apresenta as meditações de Santo Afonso de Maria de Ligório.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124083000 -0300" stop="20201124090000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125083000 -0300" stop="20201125090000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Novena Nossa Senhora do Perpétuo Socorro</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124090000 -0300" stop="20201124100000 -0300" channel="Pai Eterno HD">
-    <title lang="pt">Aqui em Casa</title>
-    <desc lang="pt">No Aqui em Casa, você tem culinária, artesanato, dicas para o bem-estar e notícias.(n)</desc>
+  <programme start="20201125090000 -0300" stop="20201125100000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Missa do Santuário</title>
     <category lang="pt">Variedades</category>
-    <category lang="pt">Culinária</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124100000 -0300" stop="20201124103000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125100000 -0300" stop="20201125103000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Novena dos Filhos do Pai Eterno</title>
     <desc lang="pt">Padre Robson de Oliveira reza a Novena dos Filhos do Pai Eterno.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124103000 -0300" stop="20201124120000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125103000 -0300" stop="20201125110000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Audiência Geral com Papa Francisco</title>
+    <desc lang="pt">Catequese semanal com Papa Francisco.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20201125110000 -0300" stop="20201125120000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Aqui em Casa</title>
     <desc lang="pt">No Aqui em Casa, você tem culinária, artesanato, dicas para o bem-estar e notícias.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Culinária</category>
   </programme>
-  <programme start="20201124120000 -0300" stop="20201124123000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125120000 -0300" stop="20201125123000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Novena dos Filhos do Pai Eterno</title>
     <desc lang="pt">Padre Robson de Oliveira reza a Novena dos Filhos do Pai Eterno.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124123000 -0300" stop="20201124130000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125123000 -0300" stop="20201125130000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Jornal Boa Notícia</title>
     <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Boa Notícia.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20201124130000 -0300" stop="20201124131000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125130000 -0300" stop="20201125131000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Propaganda Eleitoral Gratuita</title>
     <desc lang="pt">Horário reservado para a transmissão da propaganda política partidária.(n)</desc>
     <date>2020</date>
@@ -593,95 +607,95 @@
     <category lang="pt">Política</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124131000 -0300" stop="20201124131500 -0300" channel="Pai Eterno HD">
+  <programme start="20201125131000 -0300" stop="20201125131500 -0300" channel="Pai Eterno HD">
     <title lang="pt">Oração por um dia Feliz</title>
     <desc lang="pt">Começe seu dia ouvindo o evangelho e a homilia apostolada pelo Arcebispo Dom Washington Cruz.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124131500 -0300" stop="20201124133000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125131500 -0300" stop="20201125133000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Hora do Papa</title>
     <desc lang="pt">As principais informações sobre o Vaticano e o Papa Francisco.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20201124133000 -0300" stop="20201124134500 -0300" channel="Pai Eterno HD">
+  <programme start="20201125133000 -0300" stop="20201125134500 -0300" channel="Pai Eterno HD">
     <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
     <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124134500 -0300" stop="20201124140000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125134500 -0300" stop="20201125140000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Mãe Maria</title>
     <desc lang="pt">Reflexão e oração com o presidente da CNBB, Dom Walmor Oliveira de Azevedo.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124140000 -0300" stop="20201124143000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125140000 -0300" stop="20201125143000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Programa Pai Eterno</title>
     <desc lang="pt">Padre Wellinton Silva traz as principais notícias sobre a devoção ao Pai Eterno.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124143000 -0300" stop="20201124150000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125143000 -0300" stop="20201125150000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Novena Nossa Senhora do Perpétuo Socorro</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124150000 -0300" stop="20201124170000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125150000 -0300" stop="20201125170000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Programa Pai Eterno</title>
     <desc lang="pt">Padre Wellinton Silva traz as principais notícias sobre a devoção ao Pai Eterno.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124170000 -0300" stop="20201124173000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125170000 -0300" stop="20201125173000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Novena dos Filhos do Pai Eterno</title>
     <desc lang="pt">Padre Robson de Oliveira reza a Novena dos Filhos do Pai Eterno.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124173000 -0300" stop="20201124174500 -0300" channel="Pai Eterno HD">
+  <programme start="20201125173000 -0300" stop="20201125174500 -0300" channel="Pai Eterno HD">
     <title lang="pt">Hora da Esperança</title>
     <desc lang="pt">Padre Delair Cuerva faz um momento de oração e reflexão na Hora da Esperança.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124174500 -0300" stop="20201124180000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125174500 -0300" stop="20201125180000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Novena Ao Sagrado Coração de Jesus</title>
     <desc lang="pt">Padre Robson de Oliveira reza a Novena ao Sagrado Coração de Jesus.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124180000 -0300" stop="20201124183000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125180000 -0300" stop="20201125183000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Terço da Família AFIPE</title>
     <desc lang="pt">Irmão Diego Joaquim reza o Santo Terço com os devotos do Pai Eterno.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124183000 -0300" stop="20201124190000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125183000 -0300" stop="20201125190000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Novena Nossa Senhora do Perpétuo Socorro</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124190000 -0300" stop="20201124193000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125190000 -0300" stop="20201125193000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Jornal Boa Notícia</title>
     <desc lang="pt">As principais notícias da Igreja, do Brasil e do Mundo estão no Jornal Boa Notícia.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20201124193000 -0300" stop="20201124203000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125193000 -0300" stop="20201125203000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Missa do Santuário</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124203000 -0300" stop="20201124204000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125203000 -0300" stop="20201125204000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Propaganda Eleitoral Gratuita</title>
     <desc lang="pt">Horário reservado para a transmissão da propaganda política partidária.(n)</desc>
     <date>2020</date>
@@ -689,398 +703,59 @@
     <category lang="pt">Política</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124204000 -0300" stop="20201124213000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125204000 -0300" stop="20201125213000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Adoração ao Santíssimo Sacramento</title>
     <desc lang="pt">Adoração ao Santíssimo Sacramento no Santuário Basílica do Divino Pai Eterno.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124213000 -0300" stop="20201124220000 -0300" channel="Pai Eterno HD">
+  <programme start="20201125213000 -0300" stop="20201125220000 -0300" channel="Pai Eterno HD">
     <title lang="pt">Novena dos Filhos do Pai Eterno</title>
     <desc lang="pt">Padre Robson de Oliveira reza a Novena dos Filhos do Pai Eterno.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124220000 -0300" stop="20201125004500 -0300" channel="Pai Eterno HD">
-    <title lang="pt">Sessão Ágape de Cinema</title>
-    <desc lang="pt">Sessão Ágape de Cinema exibe os principais filmes de inspiração católica do mundo.(n)</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20201124000000 -0300" stop="20201124003000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Brasil Visto de Cima</title>
-    <desc lang="pt">No nordeste do Rio Grande do Sul, erguem-se montanhas de até 1,3 mil metros de altura. Parte da região foi ocupada por italianos. A marca deixada pelos imigrantes permanece até hoje.(n)</desc>
-    <category lang="pt">Séries</category>
+  <programme start="20201125220000 -0300" stop="20201125230000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Documentário</title>
+    <desc lang="pt">Um espaço voltado para a exibição de documentários sobre variados assuntos produzidos pela emissora ou, ainda, pela SIGNIS Brasil e emissoras católicas.(n)</desc>
     <category lang="pt">Documentário</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124003000 -0300" stop="20201124013000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Vida Selvagem na África: Deserto da Namíbia</title>
-    <desc lang="pt">A escala monumental do deserto da Namíbia não deixa dúvidas de que estas paisagens de 55 milhões de anos, o mais antigo do mundo, reina supremo como a mais magnífica região selvagem da África.(n)</desc>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20201124013000 -0300" stop="20201124023000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Os Mosqueteiros - S1E6</title>
-    <desc lang="pt">Aramis e d'Artagnan falham em sua tarefa de transportar um jovem mulher e seu bebê de uma vila fora de Paris para o palácio, quando homens armados raptam a criança.(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-    <country lang="pt">Reino Unido</country>
-  </programme>
-  <programme start="20201124023000 -0300" stop="20201124040000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Quando os Sinos Dobram: Ep. 2 - Parte 1 E2</title>
-    <desc lang="pt">1915. O regimento de Tommy experimenta uma nova arma. De volta ao lar para uma licensa, Michael testemunha as privações que seus pais sofrem por causa da guerra.(n)</desc>
-    <date>1947</date>
-    <category lang="pt">Séries</category>
     <category lang="pt">Diversos</category>
-    <country lang="pt">Inglaterra</country>
   </programme>
-  <programme start="20201124040000 -0300" stop="20201124053000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Sessão Retrô Madrugada: No Paraíso Das Solteironas</title>
-    <desc lang="pt">Aquele caboclo acostumado com a vida do interior não poderia imaginar que, ao tentar a sorte na cidade grande, seria alvo dos olhares de desejo de uma turma de solteironas, loucas por um "tipão" como ele.(n)</desc>
-    <date>1969</date>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124053000 -0300" stop="20201124060000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Conhecendo Museus</title>
-    <desc lang="pt">O Conhecendo Museus vai até Cruz Alta/RS e visita o Museu Erico Verissimo, que abriga originais datilografados com inúmeras observações manuscritas do autor, cadernos de anotações, desenhos, fotos, etc.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cultural</category>
-  </programme>
-  <programme start="20201124060000 -0300" stop="20201124063000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Nova Amazônia</title>
-    <desc lang="pt">O programa une todas as formas de conhecimento originadas na região amazônica, tanto o que diz a ciência quanto o que dizem os povos da floresta.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Educativo</category>
-  </programme>
-  <programme start="20201124063000 -0300" stop="20201124070000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Agro Nacional</title>
-    <desc lang="pt">Com informações sobre produção agrícola, inovações tecnológicas, cobertura de feiras e festas pecuárias, o programa dá visibilidade aos assuntos do mundo do campo.(n)</desc>
-    <date>2020</date>
+  <programme start="20201125230000 -0300" stop="20201125233000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Parlatório</title>
+    <desc lang="pt">Padre Rafael Vieira recebe convidados para debater temas da atualidade.(n)</desc>
     <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-    <country lang="pt">Brasil</country>
+    <category lang="pt">Religião</category>
   </programme>
-  <programme start="20201124070000 -0300" stop="20201124071500 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Cai No Vestibular</title>
-    <desc lang="pt">O professor Diego Viug explica o que é uma progressão aritmética, média aritmética, apresenta uma fórmula para o termo geral e exemplifica como o conteúdo é cobrado no Enem.(n)</desc>
-    <date>2020</date>
+  <programme start="20201125233000 -0300" stop="20201126000000 -0300" channel="Pai Eterno HD">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Padre Robson de Oliveira reza a Novena dos Filhos do Pai Eterno.(n)</desc>
     <category lang="pt">Variedades</category>
-    <category lang="pt">Educativo</category>
+    <category lang="pt">Religião</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124071500 -0300" stop="20201124073000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Cai No Vestibular</title>
-    <desc lang="pt">A professora Camila Cavaliere fala sobre o tecido adiposo, com a responsabilidade de armazenar lipídeo, gordura, o tecido adiposo tem como funções ser reserva energética, isolamente mecânico e isolante térmico.(n)</desc>
-    <date>2020</date>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Educativo</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124073000 -0300" stop="20201124080000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Conhecendo Museus</title>
-    <desc lang="pt">O Museu Casa de Portinari, em Brodowski/SP, possui um acervo formado por trabalhos realizados pelo artista em pintura mural, desenhos, objetos de uso pessoal, mobiliário e utensílios da família.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cultural</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124080000 -0300" stop="20201124081500 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Brasil em Dia</title>
-    <desc lang="pt">Programa jornalístico matinal.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124081500 -0300" stop="20201124082300 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">TV Brasil Animada Especial: Foi Assim e foi Assado</title>
-    <desc lang="pt">Enquanto faz melhorias na casa robô, a avó relembra a época em que frequentava a escola de robótica.(n)</desc>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-  </programme>
-  <programme start="20201124082300 -0300" stop="20201124083000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">TV Brasil Animada Especial: Foi Assim e foi Assado</title>
-    <desc lang="pt">Quando Teresa perde sua pipa, a avó transforma a casa em um avião, para que a neta e Laika embarquem em um turbulento voo em busca do objeto perdido.(n)</desc>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-  </programme>
-  <programme start="20201124083000 -0300" stop="20201124083800 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">TV Brasil Animada Especial: O Menino Que Engoliu o Sol</title>
-    <desc lang="pt">Era dia de ir para a escola de canoa, porque Manoel já era Menino grande. Na escola aprendeu que seu Quintal um dia havia sido só água, céu e Sol: era o Mar dos Xaraés.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-  </programme>
-  <programme start="20201124083800 -0300" stop="20201124084500 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">TV Brasil Animada Especial: O Menino Que Engoliu o Sol</title>
-    <desc lang="pt">Um dia, o Menino guardou a manhã no passarinho. Pardal, açucena, garça, beija-flor, socó, sabiá, quero-quero, tuiuiú e virou árvore antes da noite encostar. Ao lado do pardal, o Menino dormiu antes.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-  </programme>
-  <programme start="20201124084500 -0300" stop="20201124085300 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">TV Brasil Animada Especial: Além da Lenda</title>
-    <desc lang="pt">Por sugestão do terapeuta de lendas, Cabra Cabriola e Chibamba estão no mundo digital. A missão: invadir o jogo favorito das crianças malcriadas e dar um game over, para que elas voltem a dormir na hora certa.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-  </programme>
-  <programme start="20201124085300 -0300" stop="20201124090000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">TV Brasil Animada Especial: Além da Lenda</title>
-    <desc lang="pt">A comida favorita do Papa-Figo, fígado fresco, acabou. Junto com ela, o seu sossego... Motivado pela lembrança da época em que todos o temiam na cidade, o homem vai ao consultório do Sr. L.H..(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-  </programme>
-  <programme start="20201124090000 -0300" stop="20201124091500 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Tv Brasil Animada Especial: Bela Criativa</title>
-    <desc lang="pt">Bela está com um dente mole e está morrendo de medo de quando ele cair. Isso porque ela ouviu de Theo sobre um dente que foi engolido e que nasceu um pé de dente na barriga da pessoa! Será que isso acontece?(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20201124091500 -0300" stop="20201124093000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">TV Brasil Animada Especial: O Poderoso Mike</title>
-    <desc lang="pt">Mike tem uma companhia! Um cão vadio aparece nos Mikkelsens e a família fica instantaneamente impressionada quando ele assusta os guaxinins com uma exibição de latidos machos.(n)</desc>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20201124093000 -0300" stop="20201124093700 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">TV Brasil Animada Especial: Mytikah - O Livro dos Heróis</title>
-    <desc lang="pt">Manga e Leco conhecem Chiquinha Gonzaga, se encontram ainda crianças tendo aulas de piano, depois mais velhos. Chiquinha fará uma apresentação e está desesperada porque um flautista faltou, Manga e Leco ajudam.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124093700 -0300" stop="20201124094500 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">TV Brasil Animada Especial: Mytikah - O Livro dos Heróis</title>
-    <desc lang="pt">Mytikah leva Manga e Leco para Laguna(RS) onde presenciam Anita e Giuseppe Garibaldi se conhecendo. Juntos, participam da Revolução Farroupilha e as crianças ajudam os heróis a escaparem dos soldados e fugirem.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124094500 -0300" stop="20201124100000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">TV Brasil Animada Especial: O Boneco de Barro e o Rei</title>
-    <desc lang="pt">Nos Bacamartes, Dona Senhora tem memória curta e não se lembra da Ave de Rapina e Timbira. Espuleta diz que sabe de tudo e vai entregá-los, mas são interrompidos pelos Bacamartes que cobram a dança nova.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124100000 -0300" stop="20201124100700 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Kiwi</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20201124100700 -0300" stop="20201124101500 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Caninópolis</title>
-    <desc lang="pt">O cachorrinho Otto e seus amiguinhos adoram música, então suas histórias estão cheias de clipes musicais, sobre temas como amizade, família e as coisas boas da infância.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124101500 -0300" stop="20201124103000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Nina Perguntadeira</title>
-    <desc lang="pt">Nina perdeu um dente e perdeu a cabeça. Ela teme ser ridicularizada no jogo tchoupix organizado no parque à tarde. Por que estamos rindo?(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20201124103000 -0300" stop="20201124104500 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Zou</title>
-    <desc lang="pt">Zou quer muito assistir aos Jogos Olímpicos, mas descobre que precisa esperar 4 anos!  Então, ele e sua família organizam suas próprias olimpíadas e chamam isso de Jogos Zebrímpicos.(n)</desc>
-    <date>2013</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-    <country lang="pt">França</country>
-  </programme>
-  <programme start="20201124104500 -0300" stop="20201124110000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">A Ratinha e o Urso - S1E12</title>
-    <desc lang="pt">Bolero é feito prisioneiro por Jean-Michel e Jean-Louis, que pensam que ele é o Grande Urso Mau. Felizmente, Ernest e.(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-    <country lang="pt">França</country>
-  </programme>
-  <programme start="20201124110000 -0300" stop="20201124111500 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Senhor Texugo e Dona Raposa</title>
-    <desc lang="pt">A grande competição entre os filhotes da floresta ocorrerá em breve. Cada família terá que escolher seu representante, mas na família Texugo-Raposa há mais de um candidato.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-  </programme>
-  <programme start="20201124111500 -0300" stop="20201124113000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Pirata &amp; Capitano</title>
-    <desc lang="pt">Pirata e Capitano devem resgatar a estátua do Pryor, o pirata original, antes que um vulcão entre em erupção e a destrua.(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">França</country>
-  </programme>
-  <programme start="20201124113000 -0300" stop="20201124114500 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">O Poderoso Mike</title>
-    <desc lang="pt">Tom acha que o guaxinim Mercury seria um animal de estimação legal e, para o horror de Mike, Tom o pede que cuide do arquirrival enquanto ele estiver na escola.(n)</desc>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20201124114500 -0300" stop="20201124120000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Angelo</title>
-    <desc lang="pt">Com um plano elaborado, semelhante a um assalto, Ângelo e seus amigos agem para colocar as mãos em uma das lendárias amostras grátis de bolinhos que Cathy distribui em sua loja.(n)</desc>
-    <date>2010</date>
-    <category lang="pt">Infantil</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">França/Reino Unido/EUA/Ca</country>
-  </programme>
-  <programme start="20201124120000 -0300" stop="20201124121500 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Casa da Árvore</title>
-    <desc lang="pt">Que cheiro horrível! Alexia lerá um livro apenas se Fanny aceitar colocar as botas de novo.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20201124121500 -0300" stop="20201124123000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Eu Sou um Gênio</title>
-    <desc lang="pt">Diego acabou de criar seu perfil no Desertbook e tem 3 amigos. Ele envia um pedido de amizade a Sam Saara, que o manda fazer as malas: somente pessoas com muitos amigos são aceitas, não perdedores como Diego!(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20201124123000 -0300" stop="20201124124500 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Ready Jet Go! - S1E36</title>
-    <desc lang="pt">Sean decide instalar com os outros, um observatório de asteroides em sua casa na árvore. Depois, junto com a mãe de Sean e seu companheiro de trabalho da DSA, aprendem como os cientistas monitoram o céu buscando asteroides.(n)</desc>
-    <date>2016</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">EUA</country>
-  </programme>
-  <programme start="20201124124500 -0300" stop="20201124130000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Exploradores Espaciais - S1E36</title>
-    <desc lang="pt">Eagle, Robyn e Hawk enfrentam problemas em dividir suas coisas. Então, eles ganham cada um uma ferramenta única da oficina de Coot, a qual eles não terão que dividir com ninguém.(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">Coreia do Sul/EUA</country>
-  </programme>
-  <programme start="20201124130000 -0300" stop="20201124131000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Horário Eleitoral</title>
-    <desc lang="pt">Horário Eleitoral.(n)</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Política</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124131000 -0300" stop="20201124133000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Meu Cavaleiro e Eu</title>
-    <desc lang="pt">Quando Jimmy acha que é pequeno demais para completar uma competição de escudeiros na aula de ginástica, ele toma um gole da poção mágica de Perlin e logo percebe que bebeu demais!(n)</desc>
-    <date>2017</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country lang="pt">França / Bélgica</country>
-  </programme>
-  <programme start="20201124133000 -0300" stop="20201124140000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">D.P.A. - Detetives do Prédio Azul</title>
-    <desc lang="pt">Uma ventania percorre todo o Prédio Azul, causando uma grande confusão. Berenice acusa Sol de ter sumido com sua boneca e faz a detetive ficar corcunda. Um personagem do folclore brasileiro aparece.(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Juvenil</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124140000 -0300" stop="20201124143000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Valentins - S2E21</title>
-    <desc lang="pt">Após usar o capacete, Edmundo começa a se lembrar de tudo o que viveu como Artur. Emocionado, abraça os filhos! Enquanto isso, Anita faz uma revelação bombástica a Randolfo.(n)</desc>
-    <date>2018</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Infantil</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124143000 -0300" stop="20201124150000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Repórter Brasil Tarde</title>
-    <desc lang="pt">Telejornal apresentado do Rio de Janeiro com o apoio de emissoras públicas de todo o país. Noticiário isento que mostra o que foi notícia no Brasil e no mundo. O destaque são reportagens com foco no cidadão.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20201124150000 -0300" stop="20201124153000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Brasil Visto de Cima E6</title>
-    <desc lang="pt">Iguaçu em Tupi-Guarani significa algo como "água grande". Nenhuma definição seria mais apropriada para este rio que corta o sul do país e, junto com o Paraná, vai definindo parte das fronteiras com o Paraguai e a Argentina.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20201124153000 -0300" stop="20201124160000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Faróis do Brasil</title>
-    <desc lang="pt">O Farol da Fortaleza de Santa Cruz da Barra é um dos principais marcos da chegada e saída dos navegantes na Baía de Guanabara, no estado do Rio de Janeiro.(n)</desc>
-    <date>2019</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Histórica</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124160000 -0300" stop="20201124163000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Expedições</title>
-    <desc lang="pt">O encontro entre Brasil, Paraguai e Argentina, em Foz do Iguaçu, é o destino dos expedicionários neste episódio. Um belo lugar onde as fronteiras são tão próximas, que, por vezes, parecem não existir.(n)</desc>
-    <category lang="pt">Documentário</category>
-    <category lang="pt">Cultural</category>
-  </programme>
-  <programme start="20201124163000 -0300" stop="20201124170000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Criaturas Estranhas: Trapaceiros</title>
-    <desc lang="pt">Muitos insetos imitam seu ambiente para evitar predadores, enquanto o peixe-leão, usa um disfarce para emboscar presas. Vamos conhecer alguns dos enganadores mais talentosos da natureza.(n)</desc>
-    <date>2020</date>
-    <category lang="pt">Documentário</category>
-    <category lang="pt">Ecologia</category>
-  </programme>
-  <programme start="20201124170000 -0300" stop="20201124180000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Supercães com Trabalhos Extraordinários</title>
-    <desc lang="pt">Border collies trabalham num aeroporto da África do Sul para evitar colisões de pássaros com as aeronaves; e um sprocker spaniel e um pastor-da-anatólia salvam vidas no interior do Reino Unido.(n)</desc>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Educativo</category>
-  </programme>
-  <programme start="20201124180000 -0300" stop="20201124190000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">A Incrível Madagascar</title>
-    <desc lang="pt">Um olhar sobre as plantas pré-históricas e a vida selvagem única em Madagascar, que floresceram desde que a ilha se formou aproximadamente 88 milhões de anos atrás.(n)</desc>
-    <category lang="pt">Documentário</category>
-    <category lang="pt">Meio Ambiente</category>
-  </programme>
-  <programme start="20201124190000 -0300" stop="20201124193000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Repórter Brasil Noite</title>
-    <desc lang="pt">Telejornal apresentado de Brasília com o apoio de emissoras públicas de todo o país. Noticiário isento que mostra o que foi notícia no Brasil e no mundo. O destaque são  reportagens com foco no cidadão.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20201124193000 -0300" stop="20201124200000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Stadium</title>
-    <desc lang="pt">O programa - criado em 1977 - tem como foco esportes Olímpicos e Paralímpicos, e mostra tudo o que movimenta o meio esportivo, dando espaço para atletas brasileiros que representam grandes promessas de títulos.(n)</desc>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124200000 -0300" stop="20201124203000 -0300" channel="TV Brasil 2 HD">
+  <programme start="20201125000000 -0300" stop="20201125003000 -0300" channel="TV Brasil 2 HD">
     <title lang="pt">Brasil Visto de Cima</title>
     <desc lang="pt">Uma das regiões mais visitadas, e lugar de clima temperado mas povo quente, a Serra Gaúcha é ainda mais bela vista de cima, especialmente se voarmos sobre as duas principais atrações da região.(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Documentário</category>
     <country lang="pt">Brasil</country>
   </programme>
-  <programme start="20201124203000 -0300" stop="20201124204000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Horário Eleitoral</title>
-    <desc lang="pt">Horário Eleitoral.(n)</desc>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Política</category>
-    <country lang="pt">Brasil</country>
-  </programme>
-  <programme start="20201124204000 -0300" stop="20201124210000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Animais Bebês</title>
-    <desc lang="pt">Apesar de nascer com instintos de sobrevivência, alguns filhotes precisam de ajuda extra para prosperar em seu ambiente. Observe como babuínos, pinguins e capivaras trabalham em família para criar os filhotes.(n)</desc>
+  <programme start="20201125003000 -0300" stop="20201125010000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Animais Bebês E5</title>
+    <desc lang="pt">Documentários que acompanham animais jovens enquanto dão seus primeiros passos e enfrentam seus primeiros desafios.(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Documentário</category>
   </programme>
-  <programme start="20201124210000 -0300" stop="20201124213000 -0300" channel="TV Brasil 2 HD">
+  <programme start="20201125010000 -0300" stop="20201125013000 -0300" channel="TV Brasil 2 HD">
     <title lang="pt">Diário de um Cosmonauta: Terra Chamando</title>
     <desc lang="pt">Um décimo episódio é dedicado às dificuldades psicológicas do vôo espacial de longa duração. Mikhail Kornienko conta como ele lida com as dificuldades psicológicas, e o que o ajuda nisso.(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Reality Show</category>
   </programme>
-  <programme start="20201124213000 -0300" stop="20201124223000 -0300" channel="TV Brasil 2 HD">
+  <programme start="20201125013000 -0300" stop="20201125023000 -0300" channel="TV Brasil 2 HD">
     <title lang="pt">Os Mosqueteiros - S1E7</title>
     <desc lang="pt">Após a trágica morte de uma jovem garota atropelada pela carruagem real, as investigações dos mosqueteiros sobre sua amiga desaparecida os levam a uma mulher bem nascida e culta, mas que é acusada de bruxaria.(n)</desc>
     <date>2014</date>
@@ -1088,20 +763,385 @@
     <category lang="pt">Drama</category>
     <country lang="pt">Reino Unido</country>
   </programme>
-  <programme start="20201124223000 -0300" stop="20201124233000 -0300" channel="TV Brasil 2 HD">
-    <title lang="pt">Guerra e Paz - S1E2</title>
-    <desc lang="pt">Enquanto a Rússia chega a um acordo com a derrota devastadora contra Napoleão, Pierre enfrenta um duelo que envia sua busca por significado em uma nova e surpreendente direção.(n)</desc>
-    <date>2007</date>
+  <programme start="20201125023000 -0300" stop="20201125033000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Guerra e Paz</title>
+    <desc lang="pt">Enquanto a Rússia declara guerra ao exército francês de Napoleão Bonaparte, as vidas de três jovens - Pierre Bezukhov, Andrei Bolkonsky e Natasha Rostova - estão prestes a mudar para sempre.(n)</desc>
+    <date>2020</date>
     <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-    <country lang="pt">Itália/França/Alemanha/Ru</country>
+    <category lang="pt">Documentário</category>
   </programme>
-  <programme start="20201124233000 -0300" stop="20201125000000 -0300" channel="TV Brasil 2 HD">
+  <programme start="20201125033000 -0300" stop="20201125040000 -0300" channel="TV Brasil 2 HD">
     <title lang="pt">O Vigilante Rodoviário</title>
     <desc lang="pt">Um grupo de criminosos chantageia ex-presidiários ameaçando mandá-los de volta à cadeia. Os bandidos exigem dinheiro do pai do pequeno Eduardo, mas o vigilante rodoviário vai atrapalhar seus planos.(n)</desc>
     <date>1961</date>
     <category lang="pt">Filme</category>
     <category lang="pt">Aventura</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125040000 -0300" stop="20201125043000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Sessão Retrô Madrugada: O Vigilante Rodoviário</title>
+    <desc lang="pt">O sobrinho-neto de Nhá Tuca arquiteta, com a noiva e mais dois comparsas, um plano para roubar sua riqueza. O casal muda de ideia, mas o restante da quadrilha decide levar o assalto adiante custe o que custar.(n)</desc>
+    <date>1961</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125043000 -0300" stop="20201125050000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Sessão Retrô Madrugada: O Vigilante Rodoviário</title>
+    <desc lang="pt">Bandidos sequestram o irmão de um boxeador, para forçar o pugilista a perder e beneficiá-los numa rede de apostas. O vigilante precisa libertar o menino do cativeiro e chegar a tempo de impedir a fraude.(n)</desc>
+    <date>1961</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125050000 -0300" stop="20201125053000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Sessão Retrô Madrugada: O Vigilante Rodoviário</title>
+    <desc lang="pt">Três fugitivos decidem invadir a casa de um casal de idosos, que decidem alertar o Inspetor Carlos usando um pombo-correio, mas um dos bandidos percebe o plano e põe em risco a única esperança dos reféns.(n)</desc>
+    <date>1961</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125053000 -0300" stop="20201125060000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Conhecendo Museus</title>
+    <desc lang="pt">O Museu Casa de Portinari, em Brodowski/SP, possui um acervo formado por trabalhos realizados pelo artista em pintura mural, desenhos, objetos de uso pessoal, mobiliário e utensílios da família.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125060000 -0300" stop="20201125070000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Vale Agrícola</title>
+    <desc lang="pt">Escorregar no papelão ou num carrinho de madeira. Nesta semana vamos mostrar a propriedade da Família Heiber, onde as brincadeiras e a produção foram a forma encontrada para atrair visitantes e gerar renda.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Meio Ambiente</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125070000 -0300" stop="20201125071500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Cai No Vestibular</title>
+    <desc lang="pt">O professor Diego Viug explica o que são uma progressão geométrica e média geométrica, apresenta uma fórmula para o termo geral, e exemplifica como o conteúdo é cobrado no Enem.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125071500 -0300" stop="20201125073000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Cai No Vestibular</title>
+    <desc lang="pt">A professora Camila Cavaliere fala sobre relações ecológicas intraespecíficas.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125073000 -0300" stop="20201125080000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Conhecendo Museus</title>
+    <desc lang="pt">Uma visita ao Museu Casa Guimarães Rosa, em Cordisburgo/MG, que abriga um acervo da vida e da obra do escritor: fotos, gravatas, documentos, originais manuscritos ou datilografados,  máquina de escrever, etc.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20201125080000 -0300" stop="20201125081500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Brasil em Dia</title>
+    <desc lang="pt">Programa jornalístico matinal.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125081500 -0300" stop="20201125082300 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Foi Assim e foi Assado</title>
+    <desc lang="pt">Com a ajuda de um comunicador de lata, Teresa acorda Vivizinha na madrugada para mostrar um local secreto da avó. As amigas enviam uma mensagem para outra galáxia.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201125082300 -0300" stop="20201125083000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Foi Assim e foi Assado</title>
+    <desc lang="pt">Teresa ganha uma antiga câmera de cinema da avó e se diverte registrando seu cotidiano. Quando a avó faz uma sessão para os filmes da menina, Teresa é atraída pela telona e acaba atravessando para o outro lado.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125083000 -0300" stop="20201125083800 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: O Menino Que Engoliu o Sol</title>
+    <desc lang="pt">Naquele dia choveu torto e o Menino inventou uma canoa de folhas e tibum, foi na casa dos jacarés, peixes, rãs, ariranhas e raias, brincar de fazer de conta. Mais tarde, a noite emendou o Menino.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201125083800 -0300" stop="20201125084500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: O Menino Que Engoliu o Sol</title>
+    <desc lang="pt">O Menino e a Onça colecionavam o silêncio de dias quentes. Nem folha se movia. Mas no entardecer, as cercas de Corujas do quintal perseguiam o Sol. O Menino entendeu que o Sol é o que mais brilha.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201125084500 -0300" stop="20201125085300 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Além da Lenda</title>
+    <desc lang="pt">Sr. L.H. recebe uma missão bastante inusitada: cuidar do Barba Ruiva, o bebê adulto da Iara, até que ela volte. Caso contrário, toda a cidade será invadida pela água do mar.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201125085300 -0300" stop="20201125090000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Além da Lenda</title>
+    <desc lang="pt">Após um incidente na floresta, Negrinho do Pastoreio acaba perdendo o seu cavalo Baio. Sem a velocidade do animal, Negrinho é lento demais para encontrar e entregar as coisas perdidas das pessoas. E agora?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201125090000 -0300" stop="20201125091500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Tv Brasil Animada Especial: Bela Criativa</title>
+    <desc lang="pt">Theo ganha uma tela de pintura e toma gosto por isso, mas não está satisfeito com o resultado de seus desenhos. Será que ele vai desistir?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201125091500 -0300" stop="20201125093000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: O Poderoso Mike</title>
+    <desc lang="pt">Tom acha que o guaxinim Mercury seria um animal de estimação legal e, para o horror de Mike, Tom o pede que cuide do arquirrival enquanto ele estiver na escola.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201125093000 -0300" stop="20201125093700 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Mytikah - O Livro dos Heróis</title>
+    <desc lang="pt">Manga e Leco construindo cabaninhas, Mytikah surge e os leva para o sertão nordestino, se juntam a um grupo em mudança. Conhecem Antônio Conselheiro e ajudam o povoado a resistir aos ataques do exército.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125093700 -0300" stop="20201125094500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: Mytikah - O Livro dos Heróis</title>
+    <desc lang="pt">Leco não consegue fazer um aviãozinho de papel enquanto o da Manga voa longe. Mytikah surge e os leva para encontrar Santos Dumont. Eles conhecem várias invenções e ajudam Santos Dumont.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125094500 -0300" stop="20201125100000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">TV Brasil Animada Especial: O Boneco de Barro e o Rei</title>
+    <desc lang="pt">Boneco é abordado pelos Bacamartes. Dona Senhora traz um cartaz de fugitivos com a foto do Boneco, os Bacamartes prometem ajudá-lo. Boneco pede Espuleta e Carabina não entregar Ave de Rapina e Timbira.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125100000 -0300" stop="20201125100700 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Kiwi</title>
+    <desc lang="pt">Twini faz uma frigideira aparecer, enquanto Twiki entra empurrando um fogão no meio da tela. Os Kiwis fazem algumas panquecas. Eles estão prestes a provar as panquecas doces, mas o pacote de açúcar está vazio.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201125100700 -0300" stop="20201125101500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Caninópolis</title>
+    <desc lang="pt">O cachorrinho Otto e seus amiguinhos adoram música, então suas histórias estão cheias de clipes musicais, sobre temas como amizade, família e as coisas boas da infância.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125101500 -0300" stop="20201125103000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Nina Perguntadeira</title>
+    <desc lang="pt">No momento, Lola tem um amigo imaginário a quem chama de sr. Sabão.  Até que um dia a nossa Nina sonha com o sr. Sabão... De onde vêm os sonhos?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201125103000 -0300" stop="20201125104500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Zou</title>
+    <desc lang="pt">Zou e seu avô precisam de tinta para pintar a garagem e, quando saem para comprar, encontram Elzee e sua mãe pintando no parque. Mas Zou e Elzee tropeçam e derramam tinta por toda parte.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França/Singapura</country>
+  </programme>
+  <programme start="20201125104500 -0300" stop="20201125110000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">A Ratinha e o Urso - S1E14</title>
+    <desc lang="pt">Um novo trem, que vai diretamente ao oceano, acaba de ser inaugurado na cidade.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">França</country>
+  </programme>
+  <programme start="20201125110000 -0300" stop="20201125111500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Senhor Texugo e Dona Raposa</title>
+    <desc lang="pt">Roussette e Biva acham uma toca incrível que pode servir para o pai de Roussette quando ele precisar passar pela floresta. Mas os gêmeos também a descobriram e Carcajou sonha em torná-la uma sala de jogos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20201125111500 -0300" stop="20201125113000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Pirata &amp; Capitano</title>
+    <desc lang="pt">Pirata e Capitano descobrem um pirata preso em um iceberg. Depois de descongelado, o terrível pirata desencadeia um reino de terror no grande mar e na ilha barracuda.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França</country>
+  </programme>
+  <programme start="20201125113000 -0300" stop="20201125114500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">O Poderoso Mike</title>
+    <desc lang="pt">Louise desenha um monte de corações e flores em Mike durante um jogo de maquiagem. Mike vê os resultados e está absolutamente horrorizado. Quando Iris aparece, Mike não tem escolha a não ser se esconder.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201125114500 -0300" stop="20201125120000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Angelo - S1E05</title>
+    <desc lang="pt">Quando os ingressos para o show da sua banda de rock favorita, a Slobber, estão esgotados, Ângelo cria um evento alternativo (e falso!) para enganar todos os fãs.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França/Reino Unido/EUA/Ca</country>
+  </programme>
+  <programme start="20201125120000 -0300" stop="20201125121500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Casa da Árvore - S1E11</title>
+    <desc lang="pt">O jogo de hoje é um verdadeiro desafio e o vencedor receberá um pedaço de bolo. A solução parece impossível, o mais esperto encontrará respostas alternativas.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França</country>
+  </programme>
+  <programme start="20201125121500 -0300" stop="20201125123000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Eu Sou um Gênio</title>
+    <desc lang="pt">Diego foi passear com Ziggy e Sonia. Eles notam coisas estranhas acontecendo: vários veículos guiados por um personagem estranho (Sr. X) estão indo em direção a um vulcão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20201125123000 -0300" stop="20201125124500 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Ready Jet Go! - S1E37</title>
+    <desc lang="pt">Sean, Sydney, Jet e Cenoura viajam na nave espacial tentando encontrar a aurora boreal enquanto Sunspot e Mindy trabalham em um projeto no quintal: sua própria e extraordinária exibição da Aurora Boreal!(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20201125124500 -0300" stop="20201125130000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Exploradores Espaciais - S1E37</title>
+    <desc lang="pt">Os Exploradores Espaciais exploram a aurora boreal. Então, ao fazerem uma pergunta que AVA não sabe responder, ela se desliga para fazer um autodiagnóstico.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Coreia do Sul/EUA</country>
+  </programme>
+  <programme start="20201125130000 -0300" stop="20201125131000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Horário Eleitoral</title>
+    <desc lang="pt">Horário Eleitoral.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Política</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125131000 -0300" stop="20201125133000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Meu Cavaleiro e Eu - S1E7</title>
+    <desc lang="pt">Jimmy recebe um capacete que o tornará um super guerreiro destemido, mas o equipamento acaba se tornando um ímã de vilões.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">França / Bélgica</country>
+  </programme>
+  <programme start="20201125133000 -0300" stop="20201125140000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">D.P.A. - Detetives do Prédio Azul</title>
+    <desc lang="pt">Berenice decide fazer uma poção para aprender história do Brasil sem estudar. O Prédio Azul se transforma e dois visitantes inesperados chegam.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Juvenil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125140000 -0300" stop="20201125143000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Valentins - S2E22</title>
+    <desc lang="pt">A casa dos Valentins está toda preparada para uma festa, mas na hora da música, João descobre que todos os seus discos foram roubados. Mas, uma visita inesperada surge e pode salvar a noite.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125143000 -0300" stop="20201125150000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Repórter Brasil Tarde</title>
+    <desc lang="pt">Telejornal apresentado do Rio de Janeiro com o apoio de emissoras públicas de todo o país. Noticiário isento que mostra o que foi notícia no Brasil e no mundo. O destaque são reportagens com foco no cidadão.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20201125150000 -0300" stop="20201125153000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">A região de Paraty é um dos cenários mais bonitos do planeta, com seu centro histórico e dezenas de baias, ilhas e praias desertas, entre águas limpíssimas e montanhas cobertas por mata atlântica.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125153000 -0300" stop="20201125160000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt">O programa apresenta o Parque Nacional da Serra da Canastra, uma das principais áreas de conservação do cerrado mineiro, revelando a história da criação da unidade e sua relação com o Rio São Francisco.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125160000 -0300" stop="20201125163000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Expedições</title>
+    <desc lang="pt">Na cidade de Januária, os expedicionários descem o rio São Francisco até a confluência com o Pandeiros, e navegam até chegar a um berçário de peixes e viveiro de animais selvagens: o Pantanal do Rio Pandeiros.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Cultural</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125163000 -0300" stop="20201125170000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Criaturas Estranhas: Dinâmica dos Dinossauros</title>
+    <desc lang="pt">Dinossauros foram animais imponentes e poderosos, mas sabia que seu parente vivo mais próximo são as galinhas? Junte-se nessa jornada pela história, para separarmos a verdade científica da ficção.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Ecologia</category>
+  </programme>
+  <programme start="20201125170000 -0300" stop="20201125180000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Revoluções, Ideias Que Mudaram O Mundo</title>
+    <desc lang="pt">O avião é a máquina que nos deu nosso maior superpoder: a capacidade de voar. Mas como chegamos até aqui é uma história cheia de paixão, perigo e morte.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20201125180000 -0300" stop="20201125190000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Vale Indomado: A Grande Curva</title>
+    <desc lang="pt">A curva de duas milhas do rio Luangwa é um local movimentado. É o lar de hipopótamos, um cruzamento crucial para os elefantes e um lugar para os búfalos saciarem sua sede.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20201125190000 -0300" stop="20201125193000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Repórter Brasil Noite</title>
+    <desc lang="pt">Telejornal apresentado de Brasília com o apoio de emissoras públicas de todo o país. Noticiário isento que mostra o que foi notícia no Brasil e no mundo. O destaque são  reportagens com foco no cidadão.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20201125193000 -0300" stop="20201125200000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Stadium</title>
+    <desc lang="pt">O programa - criado em 1977 - tem como foco esportes Olímpicos e Paralímpicos, e mostra tudo o que movimenta o meio esportivo, dando espaço para atletas brasileiros que representam grandes promessas de títulos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125200000 -0300" stop="20201125203000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">O sul do Brasil é belo e diversificado, com praias, portos, florestas, lagoas, fazendas e grandes cidades. Ao longo da fronteira com o Uruguai, uma prova de que o nosso país é belo até nos seus últimos metros.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20201125203000 -0300" stop="20201125204000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Horário Eleitoral</title>
+    <desc lang="pt">Horário Eleitoral.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Política</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20201125204000 -0300" stop="20201125213000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">América Latina Selvagem</title>
+    <desc lang="pt">No centro da América do Sul, uma vastidão selvagem: a maior área úmida do mundo. Mas este não é um pântano comum. Todos os anos é afogado por inundações imensas e, em seguida, ressecado por uma seca severa.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20201125213000 -0300" stop="20201125223000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Os Mosqueteiros</title>
+    <desc lang="pt">Farto da rivalidade entre os mosqueteiros e os guardas vermelhos, o rei convoca uma disputa entre eles para decidir qual deles é mais forte de uma vez por todas.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Reino Unido</country>
+  </programme>
+  <programme start="20201125223000 -0300" stop="20201126000000 -0300" channel="TV Brasil 2 HD">
+    <title lang="pt">Festival de Cinema: Em um Mundo Interior</title>
+    <desc lang="pt">Um registro da vida de famílias, de classes sociais e regiões distintas, cujos filhos apresentam diferentes níveis de Transtorno do Espectro do Autismo (TEA), buscando compreender suas percepções do mundo.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
     <country lang="pt">Brasil</country>
   </programme>
 </tv>
