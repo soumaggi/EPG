@@ -12,78 +12,85 @@
     <display-name lang="pt">TV Brasil 2 HD</display-name>
     <url>http://www.vivo.com.br</url>
   </channel>
-  <programme start="20201217183000 +0000" stop="20201217203500 +0000" channel="HBO + HD">
-    <title lang="pt">Se a Rua Beale Falasse</title>
-    <desc lang="pt">Tish e Fonny são um casal em luta contra a adversidade após Fonny ser implicado em um crime que não cometeu por um policial racista.</desc>
+  <programme start="20201217175000 +0000" stop="20201217193500 +0000" channel="HBO + HD">
+    <title lang="pt">A Marca do Medo</title>
+    <desc lang="pt">Ano 1974. Um professor da Universidade de Oxford envolve alguns alunos em um experimento para curar Jane, uma paciente com transtornos mentais. Mas a misteriosa jovem tem algo a mais e logo o grupo será vítima de acontecimentos aterrorizantes.</desc>
     <credits>
-      <director>Barry Jenkins</director>
-      <actor>Stephan James</actor>
-      <actor>Regina King</actor>
-      <actor>Teyonah Parris</actor>
-      <actor>KiKi Layne</actor>
-      <actor>Ebony Obsidian</actor>
+      <director>John Pogue</director>
+      <actor>Laurie Calvert</actor>
+      <actor>Eileen Nicholas</actor>
+      <actor>Richard Cunningham</actor>
+      <actor>Jared Harris</actor>
+      <actor>Erin Richards</actor>
+      <actor>Olivia Cooke</actor>
+      <actor>Sam Claflin</actor>
+      <actor>Max Pirkis</actor>
     </credits>
-    <category lang="pt">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7841632_68B6DAC8EF005F1B.jpg" />
+    <category lang="pt">Terror</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/15/7153590_005FA26D8DB0EEEC.jpg" />
     <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
     <rating>
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20201217203500 +0000" stop="20201217220000 +0000" channel="HBO + HD">
-    <title lang="pt">Necrotério</title>
-    <desc lang="pt">O segurança de um hospital fica preso no necrotério durante o turno da noite e descobre que não está tão sozinho quanto pensava.</desc>
+  <programme start="20201217193500 +0000" stop="20201217211500 +0000" channel="HBO + HD">
+    <title lang="pt">Você é o Próximo</title>
+    <desc lang="pt">A família Davison aproveita uns dias de descanso em um local deserto, mas de repente homens mascarados invadem a casa com a intenção de matá-los. Os assassinos não imaginam que uma das vítimas na verdade é uma ameaça.</desc>
     <credits>
-      <director>Hugo Cardozo</director>
-      <actor>Francisco Ayala</actor>
-      <actor>Abel Martínez</actor>
-      <actor>María del Mar Fernández</actor>
+      <director>Adam Wingard</director>
+      <actor>Nicholas Tucci</actor>
+      <actor>Sharni Vinson</actor>
+      <actor>Joe Swanberg</actor>
+      <actor>AJ Bowen</actor>
+      <actor>Wendy Glenn</actor>
     </credits>
-    <category lang="pt">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/83/7830754_D5008F5B38C3309F.jpg" />
-    <country lang="pt">Paraguai</country>
+    <category lang="pt">Terror</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6900828_AA1D339B2A951C3A.jpg" />
+    <country lang="pt">EUA</country>
     <rating>
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20201217220000 +0000" stop="20201217230000 +0000" channel="HBO + HD">
-    <title lang="pt">The Leftovers</title>
-    <desc lang="pt">Laurie e Tom Garfvey trabalham para resgatar almas perdidas, mas isso acaba trazendo consequências. Laurie tenta espalhar a palavra sobre os perigos dos Guilty Remnant.</desc>
+  <programme start="20201217211500 +0000" stop="20201217225500 +0000" channel="HBO + HD">
+    <title lang="pt">A Mulher do Meu Marido</title>
+    <desc lang="pt">Ao descobrir a infidelidade do marido, uma mulher decide ignorar para manter a felicidade da família. Tudo parece entrar em equilíbrio quando ela mesma começa a ter um caso.</desc>
     <credits>
-      <director>Mimi Leder</director>
-      <actor>Ann Dowd</actor>
-      <actor>Christopher Eccleston</actor>
-      <actor>Amy Brenneman</actor>
-      <actor>Justin Theroux</actor>
-      <actor>Jon Michael Davis</actor>
-      <actor>Carrie Coon</actor>
+      <director>Marcelo Santiago</director>
+      <actor>Naomi Nero</actor>
+      <actor>Francisco Andrade</actor>
+      <actor>Toni Garrido</actor>
+      <actor>Rafael Naves</actor>
+      <actor>Luana Piovani</actor>
+      <actor>Maria Clara Gueiros</actor>
     </credits>
-    <category lang="pt">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/70/7702035_EA876C615471D882.jpg" />
-    <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2 E3</episode-num>
+    <category lang="pt">Terror</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/80/7801956_0710880DF0F210CD.jpg" />
+    <country lang="pt">Brasil</country>
     <rating>
-      <value>16</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20201217230000 +0000" stop="20201218000000 +0000" channel="HBO + HD">
-    <title lang="pt">The Leftovers</title>
-    <desc lang="pt">Durante um terremoto, Nora acorda e não encontra Kevin. Ao mesmo tempo, os Murphy lidam com o desaparecimento de Evie. Mais tarde, Kevin volta para casa, mas não se lembra de nada da noite anterior.</desc>
+  <programme start="20201217225500 +0000" stop="20201218010000 +0000" channel="HBO + HD">
+    <title lang="pt">Dois Caras Legais</title>
+    <desc lang="pt">O detetive particular Holland March e o bandido Jackson Healy são obrigados a trabalhar juntos para resolver um caso de desaparecimento de uma garota e o suicídio de uma estrela de filmes pornô.</desc>
     <credits>
-      <director>Mimi Leder</director>
-      <actor>Justin Theroux</actor>
-      <actor>Ann Dowd</actor>
-      <actor>Amy Brenneman</actor>
-      <actor>Christopher Eccleston</actor>
-      <actor>Jon Michael Davis</actor>
-      <actor>Carrie Coon</actor>
+      <director>Shane Black</director>
+      <actor>Margaret Qualley</actor>
+      <actor>Keith David</actor>
+      <actor>Matt Bomer</actor>
+      <actor>Ryan Gosling</actor>
+      <actor>Gil Gerard</actor>
+      <actor>Angourie Rice</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>Lois Smith</actor>
+      <actor>Russell Crowe</actor>
     </credits>
-    <category lang="pt">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/70/7702035_EA876C615471D882.jpg" />
+    <category lang="pt">Terror</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6893691_F77A2F58D20FD69F.jpg" />
     <country lang="pt">EUA</country>
-    <episode-num system="onscreen">S2 E4</episode-num>
     <rating>
-      <value>16</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20201217180000 +0000" stop="20201217194500 +0000" channel="EPTV Ribeirão HD">
