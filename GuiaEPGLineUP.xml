@@ -12,115 +12,78 @@
     <display-name lang="pt">TV Brasil 2 HD</display-name>
     <url>http://www.vivo.com.br</url>
   </channel>
-  <programme start="20201217180000 +0000" stop="20201217194500 +0000" channel="HBO + HD">
-    <title lang="pt">Sessão da Tarde: O Amor Não Tira Férias</title>
-    <desc lang="pt">Após sofrerem desilusões amorosas, duas mulheres de estilo de vida bem diferentes combinam de trocar suas casas temporariamente. A mudança faz com que elas encontrem novas paixões.</desc>
+  <programme start="20201217183000 +0000" stop="20201217203500 +0000" channel="HBO + HD">
+    <title lang="pt">Se a Rua Beale Falasse</title>
+    <desc lang="pt">Tish e Fonny são um casal em luta contra a adversidade após Fonny ser implicado em um crime que não cometeu por um policial racista.</desc>
     <credits>
-      <director>Nancy Meyers</director>
-      <actor>Cameron Diaz</actor>
-      <actor>Jude Law</actor>
-      <actor>Jack Black</actor>
-      <actor>Rufus Sewell</actor>
-      <actor>Kate Winslet</actor>
-      <actor>Shannyn Sossamon</actor>
-      <actor>Eli Wallach</actor>
-      <actor>Edward Burns</actor>
-      <actor>Miffy Englefield</actor>
-      <actor>Emma Pritchard</actor>
-      <actor>Sarah Parish</actor>
+      <director>Barry Jenkins</director>
+      <actor>Stephan James</actor>
+      <actor>Regina King</actor>
+      <actor>Teyonah Parris</actor>
+      <actor>KiKi Layne</actor>
+      <actor>Ebony Obsidian</actor>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6898127_3630CE6E1DFC312C.jpg" />
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7841632_68B6DAC8EF005F1B.jpg" />
     <country lang="pt">EUA</country>
     <rating>
-      <value>10</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20201217194500 +0000" stop="20201217210000 +0000" channel="HBO + HD">
-    <title lang="pt">Vale a Pena Ver de Novo: Laços de Família</title>
+  <programme start="20201217203500 +0000" stop="20201217220000 +0000" channel="HBO + HD">
+    <title lang="pt">Necrotério</title>
+    <desc lang="pt">O segurança de um hospital fica preso no necrotério durante o turno da noite e descobre que não está tão sozinho quanto pensava.</desc>
     <credits>
-      <director>Ricardo Waddington</director>
-      <actor>Luigi Baricelli</actor>
-      <actor>Vera Fischer</actor>
-      <actor>Reynaldo Gianecchini</actor>
-      <actor>Tony Ramos</actor>
-      <actor>Deborah Secco</actor>
-      <actor>Giovanna Antonelli</actor>
-      <actor>Carolina Dieckmann</actor>
+      <director>Hugo Cardozo</director>
+      <actor>Francisco Ayala</actor>
+      <actor>Abel Martínez</actor>
+      <actor>María del Mar Fernández</actor>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/63/7633513_4423B76367487933.jpg" />
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">E74</episode-num>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/83/7830754_D5008F5B38C3309F.jpg" />
+    <country lang="pt">Paraguai</country>
     <rating>
-      <value>+12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20201217210000 +0000" stop="20201217213000 +0000" channel="HBO + HD">
-    <title lang="pt">Malhação: Viva a Diferença</title>
+  <programme start="20201217220000 +0000" stop="20201217230000 +0000" channel="HBO + HD">
+    <title lang="pt">The Leftovers</title>
+    <desc lang="pt">Laurie e Tom Garfvey trabalham para resgatar almas perdidas, mas isso acaba trazendo consequências. Laurie tenta espalhar a palavra sobre os perigos dos Guilty Remnant.</desc>
     <credits>
-      <director>Paulo Sivestrini</director>
-      <actor>Heslaine Vieira</actor>
-      <actor>Manoela Aliperti</actor>
-      <actor>Gabriela Medvedovski</actor>
-      <actor>Daphne Bozaski</actor>
+      <director>Mimi Leder</director>
+      <actor>Ann Dowd</actor>
+      <actor>Christopher Eccleston</actor>
+      <actor>Amy Brenneman</actor>
+      <actor>Justin Theroux</actor>
+      <actor>Jon Michael Davis</actor>
+      <actor>Carrie Coon</actor>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/63/7634232_F0109DD0F06679DF.jpg" />
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">E183</episode-num>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/70/7702035_EA876C615471D882.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
     <rating>
-      <value>10</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20201217213000 +0000" stop="20201217221500 +0000" channel="HBO + HD">
-    <title lang="pt">Flor do Caribe</title>
+  <programme start="20201217230000 +0000" stop="20201218000000 +0000" channel="HBO + HD">
+    <title lang="pt">The Leftovers</title>
+    <desc lang="pt">Durante um terremoto, Nora acorda e não encontra Kevin. Ao mesmo tempo, os Murphy lidam com o desaparecimento de Evie. Mais tarde, Kevin volta para casa, mas não se lembra de nada da noite anterior.</desc>
     <credits>
-      <director>Jayme Monjardim</director>
-      <actor>Ailton Graça</actor>
-      <actor>Grazi Massafera</actor>
-      <actor>Débora Nascimento</actor>
-      <actor>Henri Castelli</actor>
-      <actor>Igor Rickli</actor>
-      <actor>Juca de Oliveira</actor>
-      <actor>Angela Vieira</actor>
+      <director>Mimi Leder</director>
+      <actor>Justin Theroux</actor>
+      <actor>Ann Dowd</actor>
+      <actor>Amy Brenneman</actor>
+      <actor>Christopher Eccleston</actor>
+      <actor>Jon Michael Davis</actor>
+      <actor>Carrie Coon</actor>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/63/7633823_96B3E4223D9FAD1B.jpg" />
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">S1 E94</episode-num>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/70/7702035_EA876C615471D882.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
     <rating>
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20201217221500 +0000" stop="20201217224500 +0000" channel="HBO + HD">
-    <title lang="pt">Jornal da EPTV - 2ª Edição</title>
-    <desc lang="pt">O Jornal da EPTV 2ª Edição apresenta nas noites de segunda a sábado um resumo das principais notícias do dia nas regiões de Campinas, Ribeirão Preto, São Carlos e Sul de Minas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6907410_1C5B8E2C062D0E1C.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20201217224500 +0000" stop="20201217233000 +0000" channel="HBO + HD">
-    <title lang="pt">Haja Coração!</title>
-    <credits>
-      <director>Fred Mayrink</director>
-      <actor>João Baldasserini</actor>
-      <actor>Ellen Rocche</actor>
-      <actor>Tatá Werneck</actor>
-      <actor>Alexandre Borges</actor>
-      <actor>Malu Mader</actor>
-      <actor>Mariana Ximenes</actor>
-      <actor>Cléo Pires</actor>
-      <actor>Malvino Salvador</actor>
-    </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/65/7659198_E3527FD744A03F5F.jpg" />
-    <country lang="pt">Brasil</country>
-    <episode-num system="onscreen">E58</episode-num>
-    <rating>
-      <value>10</value>
+      <value>16</value>
     </rating>
   </programme>
   <programme start="20201217180000 +0000" stop="20201217194500 +0000" channel="EPTV Ribeirão HD">
