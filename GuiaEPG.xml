@@ -583,7 +583,7 @@
     <display-name lang="pt">Jovem Pan News HD</display-name>
     <url>http://www.nowonline.com.br</url>
   </channel>
-  <programme start="20220206014000 -0300" stop="20220206023000 -0300" channel="AXN HD">
+  <programme start="20220206014000 +0000" stop="20220206023000 +0000" channel="AXN HD">
     <title lang="pt">Em Nome da Justiça</title>
     <desc lang="pt">O Dr. Sergio, médico conhecido por toda a sociedade de Curitiba, teve morte brutal, ao receber em seu apartamento um jovem com quem iria ter relações sexuais.(n)</desc>
     <episode-num system="onscreen">S2 E3</episode-num>
@@ -591,7 +591,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206023000 -0300" stop="20220206030000 -0300" channel="AXN HD">
+  <programme start="20220206023000 +0000" stop="20220206030000 +0000" channel="AXN HD">
     <title lang="pt">Sem Rastro</title>
     <desc lang="pt">Tábata era uma garota de 21 anos que teve uma adolescência conturbada: se envolveu com amizades erradas e entrou para o mundo das drogas.(n)</desc>
     <episode-num system="onscreen">S3 E6</episode-num>
@@ -599,7 +599,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206030000 -0300" stop="20220206035500 -0300" channel="AXN HD">
+  <programme start="20220206030000 +0000" stop="20220206035500 +0000" channel="AXN HD">
     <title lang="pt">NCIS: Los Angeles</title>
     <desc lang="pt">Surpreender os atentos membros do NCIS é uma tarefa difícil. No entanto, o agente Sam Hanna vai ficar de queixo caído ao saber que um agente da CIA, que trabalhou oito anos com eles, e que lhe pediu ajuda, foi encontrado morto.(n)</desc>
     <episode-num system="onscreen">S4 E5</episode-num>
@@ -607,7 +607,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206035500 -0300" stop="20220206045000 -0300" channel="AXN HD">
+  <programme start="20220206035500 +0000" stop="20220206045000 +0000" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <desc lang="pt">A filha de um Diplomata do auto escalão, Agente Especial Emily Prentiss, junta-se ao time, e precisa convencer Gideon e Hotchner de que ela merece o cargo por mérito e não por suas conexões.(n)</desc>
     <episode-num system="onscreen">S2 E9</episode-num>
@@ -615,7 +615,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206045000 -0300" stop="20220206054000 -0300" channel="AXN HD">
+  <programme start="20220206045000 +0000" stop="20220206054000 +0000" channel="AXN HD">
     <title lang="pt">Unforgettable</title>
     <desc lang="pt">Uma jovem morre em uma casa assombrada em um parque de diversões, investigação que acaba levando Carrie e Al ao mundo dos games e da espionagem corporativa de tecnologia.(n)</desc>
     <episode-num system="onscreen">S4 E10</episode-num>
@@ -623,7 +623,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206054000 -0300" stop="20220206063000 -0300" channel="AXN HD">
+  <programme start="20220206054000 +0000" stop="20220206063000 +0000" channel="AXN HD">
     <title lang="pt">Unforgettable</title>
     <desc lang="pt">A capitã Russo vira suspeita de assassinato, caso que leva Carrie e Al a um jogo de gato e rato com um policial corrupto.(n)</desc>
     <episode-num system="onscreen">S4 E11</episode-num>
@@ -631,7 +631,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206063000 -0300" stop="20220206072000 -0300" channel="AXN HD">
+  <programme start="20220206063000 +0000" stop="20220206072000 +0000" channel="AXN HD">
     <title lang="pt">Unforgettable</title>
     <desc lang="pt">Um atirador sai do controle e leva Carrie ao mundo das lembranças. No entanto, as coisas não se encaixam, o que leva o time a descobrir a existência de uma conspiração.(n)</desc>
     <episode-num system="onscreen">S4 E12</episode-num>
@@ -639,7 +639,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206072000 -0300" stop="20220206081000 -0300" channel="AXN HD">
+  <programme start="20220206072000 +0000" stop="20220206081000 +0000" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <desc lang="pt">Pacotes com conteúdo horrível são entregues a seis pessoas na área de Washington, D.C., e o BAU deve primeiro descobrir o que conecta os destinatários antes que eles possam identificar o suspeito.(n)</desc>
     <episode-num system="onscreen">S14 E3</episode-num>
@@ -647,7 +647,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206081000 -0300" stop="20220206090000 -0300" channel="AXN HD">
+  <programme start="20220206081000 +0000" stop="20220206090000 +0000" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <desc lang="pt">O BAU intervém para ajudar a polícia local a isolar o suspeito principal de um assassinato ritualístico em Tallahassee, Flórida, e logo depois uma segunda pessoa relacionada à primeira vítima é morta em circunst...(n)</desc>
     <episode-num system="onscreen">S14 E4</episode-num>
@@ -655,7 +655,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206090000 -0300" stop="20220206095000 -0300" channel="AXN HD">
+  <programme start="20220206090000 +0000" stop="20220206095000 +0000" channel="AXN HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Quando um braço é encontrado debaixo de um ônibus, a equipe CSI é chamada para investigar o que aconteceu.(n)</desc>
     <episode-num system="onscreen">S4 E17</episode-num>
@@ -663,7 +663,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206095000 -0300" stop="20220206104000 -0300" channel="AXN HD">
+  <programme start="20220206095000 +0000" stop="20220206104000 +0000" channel="AXN HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Um violento assassinato ocorre dentro da garagem de um cassino. A equipe CSI é chamada para investigação e eles descobrem que o caso envolve também o desaparecimento de uma mulher, e o desaparecimento de uma criança.(n)</desc>
     <episode-num system="onscreen">S4 E18</episode-num>
@@ -671,7 +671,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206104000 -0300" stop="20220206113000 -0300" channel="AXN HD">
+  <programme start="20220206104000 +0000" stop="20220206113000 +0000" channel="AXN HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Warrick, Catherine e Nick tentam determinar a causa de um incêndio em uma casa que resultou na morte de um adolescente e, tudo indica que o incêndio foi proposital.(n)</desc>
     <episode-num system="onscreen">S4 E19</episode-num>
@@ -679,7 +679,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206113000 -0300" stop="20220206122000 -0300" channel="AXN HD">
+  <programme start="20220206113000 +0000" stop="20220206122000 +0000" channel="AXN HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">A equipe do CSI compete na corrida anual dos policiais e investigadores, até que eles encontram um competidor morto no deserto.(n)</desc>
     <episode-num system="onscreen">S4 E20</episode-num>
@@ -687,7 +687,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206122000 -0300" stop="20220206131000 -0300" channel="AXN HD">
+  <programme start="20220206122000 +0000" stop="20220206131000 +0000" channel="AXN HD">
     <title lang="pt">C.S.I</title>
     <desc lang="pt">Quando um braço é encontrado debaixo de um ônibus, a equipe CSI é chamada para investigar o que aconteceu.(n)</desc>
     <episode-num system="onscreen">S4 E17</episode-num>
@@ -695,7 +695,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206131000 -0300" stop="20220206140000 -0300" channel="AXN HD">
+  <programme start="20220206131000 +0000" stop="20220206140000 +0000" channel="AXN HD">
     <title lang="pt">NCIS: Nova Orleans</title>
     <desc lang="pt">O assassinato de um soldado revela novas pistas no primeiro caso no qual LaSalle e Pride trabalharam juntos depois do furacão Katrina: uma festa do Dia de Ação de Graças no bar de Pride.(n)</desc>
     <episode-num system="onscreen">S2 E10</episode-num>
@@ -703,7 +703,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206140000 -0300" stop="20220206145000 -0300" channel="AXN HD">
+  <programme start="20220206140000 +0000" stop="20220206145000 +0000" channel="AXN HD">
     <title lang="pt">NCIS: Nova Orleans</title>
     <desc lang="pt">Uma série de roubos no Natal se torna fatal e a evidência leva a equipe até Danny, o filho adotivo de Wade. E Lasalle e Brody provocam Sonja sobre os riscos de sortear Pride como seu amigo secreto na festa de Natal.(n)</desc>
     <episode-num system="onscreen">S2 E11</episode-num>
@@ -711,7 +711,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206145000 -0300" stop="20220206154000 -0300" channel="AXN HD">
+  <programme start="20220206145000 +0000" stop="20220206154000 +0000" channel="AXN HD">
     <title lang="pt">NCIS</title>
     <desc lang="pt">A equipe NCIS investiga a morte de um homem ao mar em um destróier da Marinha. Além disso, Torres fica frustrado com a designação de Vance para orientar três alunos do ensino médio.(n)</desc>
     <episode-num system="onscreen">S16 E15</episode-num>
@@ -719,7 +719,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206154000 -0300" stop="20220206163000 -0300" channel="AXN HD">
+  <programme start="20220206154000 +0000" stop="20220206163000 +0000" channel="AXN HD">
     <title lang="pt">NCIS</title>
     <desc lang="pt">Jimmy está dividido entre a família e o trabalho depois que seu sogro, Ed, pede a ele que mexa com as evidências da atual investigação de assassinato do NCIS.(n)</desc>
     <episode-num system="onscreen">S16 E16</episode-num>
@@ -727,7 +727,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206163000 -0300" stop="20220206172000 -0300" channel="AXN HD">
+  <programme start="20220206163000 +0000" stop="20220206172000 +0000" channel="AXN HD">
     <title lang="pt">NCIS</title>
     <desc lang="pt">Um submarino nuclear fica sem comunicação enquanto Gibbs e Bishop estão a bordo para conduzir uma investigação de assassinato.(n)</desc>
     <episode-num system="onscreen">S16 E17</episode-num>
@@ -735,7 +735,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206172000 -0300" stop="20220206181500 -0300" channel="AXN HD">
+  <programme start="20220206172000 +0000" stop="20220206181500 +0000" channel="AXN HD">
     <title lang="pt">NCIS</title>
     <desc lang="pt">Torres confia nas habilidades investigativas de sua equipe depois que ele acorda em um barco de pesca dilapidado, coberto de sangue e incapaz de lembrar as últimas 12 horas.(n)</desc>
     <episode-num system="onscreen">S16 E18</episode-num>
@@ -743,7 +743,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206181500 -0300" stop="20220206190500 -0300" channel="AXN HD">
+  <programme start="20220206181500 +0000" stop="20220206190500 +0000" channel="AXN HD">
     <title lang="pt">NCIS</title>
     <desc lang="pt">Após um atirador ativo causar o fechamento de um hospital naval, a equipe NCIS procura por um suspeito que fugiu do local. Além disso, alguém do passado de Sloane estava dentro do hospital e é uma testemunha chave no caso.(n)</desc>
     <episode-num system="onscreen">S16 E19</episode-num>
@@ -751,7 +751,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206190500 -0300" stop="20220206195500 -0300" channel="AXN HD">
+  <programme start="20220206190500 +0000" stop="20220206195500 +0000" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <desc lang="pt">A BAU viaja até uma pequena comunidade no Texas para investigar o assassinato de crianças. Enquanto isso, Elle está tendo alguns problemas de adaptação depois que foi baleada.(n)</desc>
     <episode-num system="onscreen">S2 E6</episode-num>
@@ -759,7 +759,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206195500 -0300" stop="20220206204500 -0300" channel="AXN HD">
+  <programme start="20220206195500 +0000" stop="20220206204500 +0000" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <desc lang="pt">Depois que um homem sequestra três adolescentes e as tranca em um porão, ele diz a elas que apenas duas delas irão sobreviver e que elas precisam escolher quem vai morrer.(n)</desc>
     <episode-num system="onscreen">S2 E7</episode-num>
@@ -767,82 +767,82 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206011500 -0300" stop="20220206025000 -0300" channel="Cinemax HD">
+  <programme start="20220206011500 +0000" stop="20220206025000 +0000" channel="Cinemax HD">
     <title lang="pt">Regresso do Mal</title>
     <desc lang="pt">Na noite de Halloween, um menino de oito anos desaparece misteriosamente. Após um ano sem pistas, os pais dele começam a sentir presenças estranhas e acabam descobrindo um espírito vingativo.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206025000 -0300" stop="20220206045000 -0300" channel="Cinemax HD">
+  <programme start="20220206025000 +0000" stop="20220206045000 +0000" channel="Cinemax HD">
     <title lang="pt">O Abutre</title>
     <desc lang="pt">Louis Bloom é um ladrão atrás de trabalho. Depois de testemunhar um trágico acidente, ele vê um homem que filma tudo e vende o material a canais de TV. Louis acredita que esse poderia ser seu novo trabalho.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206045000 -0300" stop="20220206063000 -0300" channel="Cinemax HD">
+  <programme start="20220206045000 +0000" stop="20220206063000 +0000" channel="Cinemax HD">
     <title lang="pt">A Autópsia</title>
     <desc lang="pt">O corpo de uma mulher não identificada é descoberto em uma pequena vila na Virgínia. Eventos inexplicáveis começam a atormentar os donos do necrotério e os responsáveis por fazer a autópsia no cadáver.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206063000 -0300" stop="20220206081500 -0300" channel="Cinemax HD">
+  <programme start="20220206063000 +0000" stop="20220206081500 +0000" channel="Cinemax HD">
     <title lang="pt">Tully</title>
     <desc lang="pt">Marlo é uma mãe sobrecarregada e à beira da exaustão que decide aceitar um extravagante presente: uma cuidadora para sua terceira criança.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206081500 -0300" stop="20220206090000 -0300" channel="Cinemax HD">
+  <programme start="20220206081500 +0000" stop="20220206090000 +0000" channel="Cinemax HD">
     <title lang="pt">Missões de Vida</title>
     <desc lang="pt">O professor Roberto da Silva e a fundadora da ONG Fazendo História, Claudia Vidgal, trabalham para evitar as injustiças sociais.(n)</desc>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20220206090000 -0300" stop="20220206103000 -0300" channel="Cinemax HD">
+  <programme start="20220206090000 +0000" stop="20220206103000 +0000" channel="Cinemax HD">
     <title lang="pt">A Nossa Guerra dos 7 Dias</title>
     <desc lang="pt">Um grupo de adolescentes foge para uma mina de carvão supostamente abandonada e declara guerra aos adultos.(n)</desc>
     <rating system="BR">
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206103000 -0300" stop="20220206123000 -0300" channel="Cinemax HD">
+  <programme start="20220206103000 +0000" stop="20220206123000 +0000" channel="Cinemax HD">
     <title lang="pt">Os Mercenários 3</title>
     <desc lang="pt">Barney e sua trupe de mercenários resgatam Doc, que estava preso há oito anos. E partem para cumprir uma missão, onde reencontram com Conrad Stonebanks, que Barney acreditava ter matado.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206123000 -0300" stop="20220206140000 -0300" channel="Cinemax HD">
+  <programme start="20220206123000 +0000" stop="20220206140000 +0000" channel="Cinemax HD">
     <title lang="pt">22 Milhas</title>
     <desc lang="pt">O agente da CIA James Silva deve assegurar a fuga da Indonésia de um misterioso oficial com informações importantes para uma base aérea a 22 milhas de distância antes que o inimigo os alcancem.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206140000 -0300" stop="20220206153500 -0300" channel="Cinemax HD">
+  <programme start="20220206140000 +0000" stop="20220206153500 +0000" channel="Cinemax HD">
     <title lang="pt">O Resgate</title>
     <desc lang="pt">Will Montgomery é um ladrão de bancos que quer mudar de vida ao sair da prisão. No entanto, por não acreditar que ele queimou o dinheiro do último assalto, o seu ex-parceiro sequestra a sua filha e pede um resgate milion...(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206153500 -0300" stop="20220206173500 -0300" channel="Cinemax HD">
+  <programme start="20220206153500 +0000" stop="20220206173500 +0000" channel="Cinemax HD">
     <title lang="pt">Alta Velocidade</title>
     <desc lang="pt">Um jovem e talentoso piloto de corridas da Fórmula Indy começa a perder provas, acumulando derrotas sucessivas. Para sair da crise, ele recebe a ajuda de um piloto veterano aposentado, que sofreu um grave acidente no passado.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206173500 -0300" stop="20220206193000 -0300" channel="Cinemax HD">
+  <programme start="20220206173500 +0000" stop="20220206193000 +0000" channel="Cinemax HD">
     <title lang="pt">Logan Lucky: Roubo em Família</title>
     <desc lang="pt">Após ser demitido, Jimmy Logan convida seus irmãos Clyde e Mellie para um elaborado roubo no subsolo do autódromo de Charlotte durante uma corrida da NASCAR.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206193000 -0300" stop="20220206213000 -0300" channel="Cinemax HD">
+  <programme start="20220206193000 +0000" stop="20220206213000 +0000" channel="Cinemax HD">
     <title lang="pt">Tempo de Glória</title>
     <desc lang="pt">Durante a Guerra Civil americana, jovem coronel branco comanda regimento do Exército da União formado inteiramente por ex-escravos negros.(n)</desc>
     <rating system="BR">
@@ -1146,35 +1146,35 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20220206010000 -0300" stop="20220206032800 -0300" channel="FX HD">
+  <programme start="20220206010000 +0000" stop="20220206032800 +0000" channel="FX HD">
     <title lang="pt">Logan</title>
     <desc lang="pt">Em 2029, Logan ganha a vida como chofer de limousine para cuidar do nonagenário Charles Xavier. Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela para defender a pequena Laura Kinney.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206032800 -0300" stop="20220206053900 -0300" channel="FX HD">
+  <programme start="20220206032800 +0000" stop="20220206053900 +0000" channel="FX HD">
     <title lang="pt">O Justiceiro</title>
     <desc lang="pt">A família do agente especial do FBI, Frank Castle, é assassinada pelos capangas do corrupto Howard Saint e sua esposa. Castle vai se dedicar a eliminar os crimes da cidade em que vive.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206053900 -0300" stop="20220206080000 -0300" channel="FX HD">
+  <programme start="20220206053900 +0000" stop="20220206080000 +0000" channel="FX HD">
     <title lang="pt">A Vida de David Gale</title>
     <desc lang="pt">Advogado, acusado injustamente por estupro e assassinato, concede à jovem jornalista, no corredor da morte, sua última entrevista.(n)</desc>
     <rating system="BR">
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206080000 -0300" stop="20220206093600 -0300" channel="FX HD">
+  <programme start="20220206080000 +0000" stop="20220206093600 +0000" channel="FX HD">
     <title lang="pt">Macacos Assassinos</title>
     <desc lang="pt">Uma estudante do ensino médio recebe mais do que esperava quando o seu pai lhe presenteia um fofo macaco de estimação. Tudo parece bem, até que o animal desenvolve asas, presas e uma insaciável sede de sangue ao anoitecer.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206093600 -0300" stop="20220206100000 -0300" channel="FX HD">
+  <programme start="20220206093600 +0000" stop="20220206100000 +0000" channel="FX HD">
     <title lang="pt">Hermes e Renato</title>
     <desc lang="pt">Nesse episódio, Joselito é entrevistado no programa Roda Seca, com participação especial de João Gordo. O mago e arqueiro Saulo Botelho lança seu novo livro.(n)</desc>
     <episode-num system="onscreen">S1 E4</episode-num>
@@ -1182,40 +1182,40 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206100000 -0300" stop="20220206130000 -0300" channel="FX HD">
+  <programme start="20220206100000 +0000" stop="20220206130000 +0000" channel="FX HD">
     <title lang="pt">Infomercial</title>
     <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.(n)</desc>
     <episode-num system="onscreen">S7 E37</episode-num>
   </programme>
-  <programme start="20220206130000 -0300" stop="20220206145500 -0300" channel="FX HD">
+  <programme start="20220206130000 +0000" stop="20220206145500 +0000" channel="FX HD">
     <title lang="pt">O Trote</title>
     <desc lang="pt">Para ser aceito em uma fraternidade, Brad é submetido a testes violentos e precisa fazer de tudo para provar sua lealdade.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206145500 -0300" stop="20220206163300 -0300" channel="FX HD">
+  <programme start="20220206145500 +0000" stop="20220206163300 +0000" channel="FX HD">
     <title lang="pt">The Kill Team - Dilemas da Guerra</title>
     <desc lang="pt">Andrew é um jovem soldado no Afeganistão que questiona a postura do seu superior, que só se importa em matar. Sozinho e com a vida em risco, ele precisa encontrar uma saída para lidar com esse dilema moral.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206163300 -0300" stop="20220206183100 -0300" channel="FX HD">
+  <programme start="20220206163300 +0000" stop="20220206183100 +0000" channel="FX HD">
     <title lang="pt">A Arte da Autodefesa</title>
     <desc lang="pt">Casey é um cara introvertido que, após ser atacado na rua, decide lutar caratê para melhorar sua defesa. Logo, as inusitadas aulas do mestre Sensei e a amizade com Anna fazem ele criar certa confiança.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206183100 -0300" stop="20220206203300 -0300" channel="FX HD">
+  <programme start="20220206183100 +0000" stop="20220206203300 +0000" channel="FX HD">
     <title lang="pt">Abraham Lincoln - Caçador de Vampiros</title>
     <desc lang="pt">A mãe de Abe foi assassinada por um vampiro, desde esse momento, decide vingar-se deles. Durante toda sua vida, dedica-se a eliminar esses sinistros seres e terá que enfrentá-los até mesmo sendo presidente dos Estados Unidos.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206203300 -0300" stop="20220206223400 -0300" channel="FX HD">
+  <programme start="20220206203300 +0000" stop="20220206223400 +0000" channel="FX HD">
     <title lang="pt">O Dia em que a Terra Parou</title>
     <desc lang="pt">Helen Benson é uma cientista que mantém contato com Klaatu, um alienígena que veio à Terra para alertar sobre uma crise global. Ele deseja conversar com líderes mas por ser considerado hostil, passa a ser ameaçado.(n)</desc>
     <rating system="BR">
@@ -1448,7 +1448,53 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206103000 -0300" stop="20220206120500 -0300" channel="HBO 2 HD">
+  <programme start="20220206071000 +0000" stop="20220206090000 +0000" channel="HBO 2 HD">
+    <title lang="pt">O Último Suspeito</title>
+    <desc lang="pt">Ele escapou de seu passado, mas o presente o espera. O detetive LaMarca terá a difícil notícia de que seu filho assassinou um policial.(n)</desc>
+    <credits>
+      <director>Michael Caton-Jones</director>
+      <actor>Nestor Serrano</actor>
+      <actor>Eliza Dushku</actor>
+      <actor>Frances McDormand</actor>
+      <actor>Brian Tarantina</actor>
+      <actor>Robert De Niro</actor>
+      <actor>William Forsythe</actor>
+      <actor>Matthew Colles</actor>
+      <actor>James Franco</actor>
+      <actor>Patti LuPone</actor>
+      <actor>Drena De Niro</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/40/10408908_3DEB06C333694C43.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220206090000 +0000" stop="20220206103000 +0000" channel="HBO 2 HD">
+    <title lang="pt">Não é Mais um Besteirol Americano</title>
+    <desc lang="pt">Sátira às comédias adolescentes que mostra como o atleta mais bonito do colégio consegue transformar uma garota feia na rainha do baile de formatura.(n)</desc>
+    <credits>
+      <director>Joel Gallen</director>
+      <actor>Chyler Leigh</actor>
+      <actor>Eric Jungmann</actor>
+      <actor>Cody McMains</actor>
+      <actor>Deon Richmond</actor>
+      <actor>Randy Quaid</actor>
+      <actor>Ron Lester</actor>
+      <actor>Chris Evans</actor>
+      <actor>Mia Kirshner</actor>
+      <actor>Peter Simon</actor>
+      <actor>Eric Christian Olsen</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/40/10408917_4C18C68D8135DF9C.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220206103000 +0000" stop="20220206120500 +0000" channel="HBO 2 HD">
     <title lang="pt">O Grito</title>
     <desc lang="pt">Sam Raimi apresenta esta versão obscura da casa amaldiçoada que leva vítima após vítima pelas mãos de um espírito vingativo.(n)</desc>
     <credits>
@@ -1464,7 +1510,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206120500 -0300" stop="20220206135000 -0300" channel="HBO 2 HD">
+  <programme start="20220206120500 +0000" stop="20220206135000 +0000" channel="HBO 2 HD">
     <title lang="pt">Monster Hunter</title>
     <desc lang="pt">Milla Jovovich luta contra enormes e assustadores monstros nesta aventura-fantasia baseada no videogame de mesmo nome.(n)</desc>
     <credits>
@@ -1480,7 +1526,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206135000 -0300" stop="20220206152000 -0300" channel="HBO 2 HD">
+  <programme start="20220206135000 +0000" stop="20220206152000 +0000" channel="HBO 2 HD">
     <title lang="pt">Escape Room 2: Tensão Máxima</title>
     <desc lang="pt">Nesta sequência de Escape Room (2019) seis participantes que já sobreviveram ao desafio devem enfrentar uma nova série de quartos mortais.(n)</desc>
     <credits>
@@ -1496,7 +1542,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206152000 -0300" stop="20220206171000 -0300" channel="HBO 2 HD">
+  <programme start="20220206152000 +0000" stop="20220206171000 +0000" channel="HBO 2 HD">
     <title lang="pt">Débi e Lóide 2 - Quando Débi Conheceu Lóide</title>
     <desc lang="pt">Lloyd era conhecido como o rapaz mais estúpido do colégio. Isso até a chegada de seu amigo Harry. Quando descobrem que foram postos numa classe "especial", a dupla decide lutar para recuperar seu lugar na escola.(n)</desc>
     <credits>
@@ -1514,7 +1560,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206171000 -0300" stop="20220206190000 -0300" channel="HBO 2 HD">
+  <programme start="20220206171000 +0000" stop="20220206190000 +0000" channel="HBO 2 HD">
     <title lang="pt">Cry Macho: O Caminho Para Redenção</title>
     <desc lang="pt">Clint Eastwood interpreta um homem cansado do mundo que encontra seu próprio senso de redenção ao ajudar um menino a chegar ao Texas.(n)</desc>
     <credits>
@@ -1530,7 +1576,7 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20220206190000 -0300" stop="20220206205500 -0300" channel="HBO 2 HD">
+  <programme start="20220206190000 +0000" stop="20220206205500 +0000" channel="HBO 2 HD">
     <title lang="pt">Invocação do Mal 3: A Ordem do Demônio</title>
     <desc lang="pt">Patrick Wilson e Vera Farmiga retornam como Ed e Lorraine Warren para dar vida a um dos casos paranormais mais famosos dos EUA.(n)</desc>
     <credits>
@@ -1546,7 +1592,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206205500 -0300" stop="20220206223000 -0300" channel="HBO 2 HD">
+  <programme start="20220206205500 +0000" stop="20220206223000 +0000" channel="HBO 2 HD">
     <title lang="pt">Escape Room 2: Tensão Máxima</title>
     <desc lang="pt">Nesta sequência de Escape Room (2019) seis participantes que já sobreviveram ao desafio devem enfrentar uma nova série de quartos mortais.(n)</desc>
     <credits>
@@ -1562,7 +1608,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206223000 -0300" stop="20220207000000 -0300" channel="HBO 2 HD">
+  <programme start="20220206223000 +0000" stop="20220207000000 +0000" channel="HBO 2 HD">
     <title lang="pt">Confisco</title>
     <desc lang="pt">A história dos afetados pelo confisco brasileiro de 1990, o maior já realizado por um governo democrático contra seus cidadãos.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -2951,93 +2997,93 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220206000000 -0300" stop="20220206023000 -0300" channel="Megapix HD">
+  <programme start="20220206000000 +0000" stop="20220206023000 +0000" channel="Megapix HD">
     <title lang="pt">O Protetor (2014)</title>
     <desc lang="pt">Robert McCall (Denzel Washington) é um homem misteriosos que age como justiceiro, combatendo criminosos. Ele conhece Teri, uma jovem prostituta explorada pela máfia russa, e decide ajudar a libertá-la dessa vida.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206023000 -0300" stop="20220206042500 -0300" channel="Megapix HD">
+  <programme start="20220206023000 +0000" stop="20220206042500 +0000" channel="Megapix HD">
     <title lang="pt">A Última Chance</title>
     <desc lang="pt">O filme seguirá a história do policial desonrado Kyle Penny (Eckhart) em sua caçada para resgatar a filha sequestrada do Comissário de Polícia, presa em algum lugar da cidade e com apenas 80 minutos de vida.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206042500 -0300" stop="20220206061500 -0300" channel="Megapix HD">
+  <programme start="20220206042500 +0000" stop="20220206061500 +0000" channel="Megapix HD">
     <title lang="pt">Adrenalina (2006)</title>
     <desc lang="pt">Chev, um matador de aluguel, tenta deixar a carreira no crime e ter uma vida normal. Quando seu rival o envenena, ele buscará por vingança sem deixar que a substância faça seu coração parar de bater.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206061500 -0300" stop="20220206081500 -0300" channel="Megapix HD">
+  <programme start="20220206061500 +0000" stop="20220206081500 +0000" channel="Megapix HD">
     <title lang="pt">Quebrando Regras 2</title>
     <desc lang="pt">Um grupo de jovens com histórias muito diferentes se vê unido pela mesma paixão: a luta. Então eles começam a treinar com Case, um brilhante ex-lutador de UFC que os prepara para uma famosa competição.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206081500 -0300" stop="20220206102000 -0300" channel="Megapix HD">
+  <programme start="20220206081500 +0000" stop="20220206102000 +0000" channel="Megapix HD">
     <title lang="pt">Eu Queria Ter A Sua Vida</title>
     <desc lang="pt">Dave é um advogado e pai de família. Mitch é um ator sem responsabilidades na vida. Alcoolizados, eles confessam desejar ter a vida do outro, ao acordar no dia seguinte eles percebem que o inocente desejo se torna realidade.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206102000 -0300" stop="20220206120000 -0300" channel="Megapix HD">
+  <programme start="20220206102000 +0000" stop="20220206120000 +0000" channel="Megapix HD">
     <title lang="pt">Meu Amor é Um Príncipe</title>
     <desc lang="pt">Durante uma viagem, Maggie se apaixona por Adrian, um morador local. Logo ela descobre que ele é um príncipe prestes a ser coroado. Mas nem tudo são flores nesse conto de fadas: a rainha será contra o romance.(n)</desc>
   </programme>
-  <programme start="20220206120000 -0300" stop="20220206141500 -0300" channel="Megapix HD">
+  <programme start="20220206120000 +0000" stop="20220206141500 +0000" channel="Megapix HD">
     <title lang="pt">Fúria em Alto Mar</title>
     <desc lang="pt">Um submarino americano some em águas desconhecidas, quando o presidente da Rússia é sequestrado. O Comandante Joe Glass então lidera uma arriscada missão para evitar uma Terceira Guerra Mundial.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206141500 -0300" stop="20220206161000 -0300" channel="Megapix HD">
+  <programme start="20220206141500 +0000" stop="20220206161000 +0000" channel="Megapix HD">
     <title lang="pt">Sessão Retrô: O Show de Truman: O Show da Vida</title>
     <desc lang="pt">Truman leva uma vida simples numa cidadezinha antiquada. Só que ele não tem ideia de que sua vida é um show de televisão e todos ao seu redor são atores. Até que alguns acontecimentos atiçam sua desconfiança.(n)</desc>
   </programme>
-  <programme start="20220206161000 -0300" stop="20220206180500 -0300" channel="Megapix HD">
+  <programme start="20220206161000 +0000" stop="20220206180500 +0000" channel="Megapix HD">
     <title lang="pt">Programa Duplo: Gente Grande</title>
     <desc lang="pt">Cinco amigos de infância se reencontram após a morte de seu treinador. Juntos novamente, eles decidem curtir o feriado de 4 de julho com suas famílias em uma casa no lago.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206180500 -0300" stop="20220206200000 -0300" channel="Megapix HD">
+  <programme start="20220206180500 +0000" stop="20220206200000 +0000" channel="Megapix HD">
     <title lang="pt">Programa Duplo: Gente Grande 2</title>
     <desc lang="pt">Lenny, Eric, Kurt e Marcus voltam a morar na mesma cidade. Ao tentar relembrar os velhos tempos, descobrem que jovens universitários da região dominam o lugar.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206200000 -0300" stop="20220206222500 -0300" channel="Megapix HD">
+  <programme start="20220206200000 +0000" stop="20220206222500 +0000" channel="Megapix HD">
     <title lang="pt">O Protetor (2014)</title>
     <desc lang="pt">Robert McCall (Denzel Washington) é um homem misteriosos que age como justiceiro, combatendo criminosos. Ele conhece Teri, uma jovem prostituta explorada pela máfia russa, e decide ajudar a libertá-la dessa vida.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206000400 -0300" stop="20220206021000 -0300" channel="Canal Sony HD">
+  <programme start="20220206000400 +0000" stop="20220206021000 +0000" channel="Canal Sony HD">
     <title lang="pt">Karatê Kid 3 - O Desafio Final</title>
     <desc lang="pt">John Kreese da Cobra Kai não superou a derrota para Daniel e o Sr. Miyagi. Ele e Terry Prata armam um plano para que o garoto lute novamente, só que agora com Mike, um violento soldado do exército.(n)</desc>
   </programme>
-  <programme start="20220206021000 -0300" stop="20220206040500 -0300" channel="Canal Sony HD">
+  <programme start="20220206021000 +0000" stop="20220206040500 +0000" channel="Canal Sony HD">
     <title lang="pt">Tratamento de Choque</title>
     <desc lang="pt">Seu caráter o levou à terapia. A terapia o levará à loucura. Após um mal-entendido, Dave é condenado a submeter-se ao programa de controle da raiva.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206040500 -0300" stop="20220206061000 -0300" channel="Canal Sony HD">
+  <programme start="20220206040500 +0000" stop="20220206061000 +0000" channel="Canal Sony HD">
     <title lang="pt">Karatê Kid 2 - A Hora da Verdade Continua</title>
     <desc lang="pt">Miyagi e Daniel fazem uma viagem ao Japão para visitarem o pai do sr. Miyagi, que está doente. Ao chegar no local, eles reencontram um antigo rival do mestre e alguns problemas vêm à tona.(n)</desc>
   </programme>
-  <programme start="20220206061000 -0300" stop="20220206063500 -0300" channel="Canal Sony HD">
+  <programme start="20220206061000 +0000" stop="20220206063500 +0000" channel="Canal Sony HD">
     <title lang="pt">Black-ish</title>
     <desc lang="pt">Dre se sente rotulado pela equipe de marketing urbano da Stevens and Lido e percebe que precisa fazer grandes mudanças na carreira; Boyz II Men passa no escritório para ajudar a equipe com uma campanha.(n)</desc>
     <episode-num system="onscreen">S7 E21</episode-num>
@@ -3045,7 +3091,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206063500 -0300" stop="20220206070000 -0300" channel="Canal Sony HD">
+  <programme start="20220206063500 +0000" stop="20220206070000 +0000" channel="Canal Sony HD">
     <title lang="pt">Black-ish</title>
     <desc lang="pt">O verão é uma estação de grandes mudanças para a família Johnson. Os gêmeos vão para a oitava série, e Junior está gerenciando sozinho a rede social dos Migos.(n)</desc>
     <episode-num system="onscreen">S6 E1</episode-num>
@@ -3053,17 +3099,17 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206070000 -0300" stop="20220206080000 -0300" channel="Canal Sony HD">
+  <programme start="20220206070000 +0000" stop="20220206080000 +0000" channel="Canal Sony HD">
     <title lang="pt">Shark Tank</title>
     <desc lang="pt">Uma mãe da Califórnia acredita ter a solução para ajudar bebês a dormir melhor à noite.(n)</desc>
     <episode-num system="onscreen">S11 E22</episode-num>
   </programme>
-  <programme start="20220206080000 -0300" stop="20220206090000 -0300" channel="Canal Sony HD">
+  <programme start="20220206080000 +0000" stop="20220206090000 +0000" channel="Canal Sony HD">
     <title lang="pt">Shark Tank</title>
     <desc lang="pt">Uma dupla de empresários do Arizona quer vender a versão moderna de uma tendência da moda masculina que parecia em declínio.(n)</desc>
     <episode-num system="onscreen">S11 E23</episode-num>
   </programme>
-  <programme start="20220206090000 -0300" stop="20220206093000 -0300" channel="Canal Sony HD">
+  <programme start="20220206090000 +0000" stop="20220206093000 +0000" channel="Canal Sony HD">
     <title lang="pt">Black-ish</title>
     <desc lang="pt">Quando Rainbow e Dre percebem que Junior os está subestimando, decidem que está na hora de se juntar e dar um "chega pra lá" de vez no garoto.(n)</desc>
     <episode-num system="onscreen">S6 E2</episode-num>
@@ -3071,7 +3117,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206093000 -0300" stop="20220206100000 -0300" channel="Canal Sony HD">
+  <programme start="20220206093000 +0000" stop="20220206100000 +0000" channel="Canal Sony HD">
     <title lang="pt">Black-ish</title>
     <desc lang="pt">Quando Bow descobre que Diane e Ruby não acreditam em feminismo, ela leva Diane para conhecer mulheres de seu grupo feminista.(n)</desc>
     <episode-num system="onscreen">S6 E3</episode-num>
@@ -3079,7 +3125,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206100000 -0300" stop="20220206102500 -0300" channel="Canal Sony HD">
+  <programme start="20220206100000 +0000" stop="20220206102500 +0000" channel="Canal Sony HD">
     <title lang="pt">American Housewife</title>
     <desc lang="pt">Depois da grande vitória de Anna-Kat com as The Wildflower Girls, a família Otto vai para a Califórnia de férias com tudo pago.(n)</desc>
     <episode-num system="onscreen">S4 E19</episode-num>
@@ -3087,7 +3133,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206102500 -0300" stop="20220206105000 -0300" channel="Canal Sony HD">
+  <programme start="20220206102500 +0000" stop="20220206105000 +0000" channel="Canal Sony HD">
     <title lang="pt">American Housewife</title>
     <desc lang="pt">Katie confronta uma mãe da escola ao suspeitar que Anna-Kat esteja sofrendo assédio escolar.(n)</desc>
     <episode-num system="onscreen">S7 E37</episode-num>
@@ -3095,7 +3141,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206105000 -0300" stop="20220206114500 -0300" channel="Canal Sony HD">
+  <programme start="20220206105000 +0000" stop="20220206114500 +0000" channel="Canal Sony HD">
     <title lang="pt">Siren</title>
     <desc lang="pt">Tia desencadeia um ataque mortal a Bristol Cove. Ryn, Ben e Maddie correm contra o tempo a fim de encontrar uma cura para a doença misteriosa de Xander, enquanto prevê os próximos movimentos de Tia.(n)</desc>
     <episode-num system="onscreen">S3 E9</episode-num>
@@ -3103,7 +3149,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206114500 -0300" stop="20220206124000 -0300" channel="Canal Sony HD">
+  <programme start="20220206114500 +0000" stop="20220206124000 +0000" channel="Canal Sony HD">
     <title lang="pt">Siren</title>
     <desc lang="pt">Em um esforço para salvar Hope, Ryn e Bem confrontam Tia numa batalha submarina entre as tribos de sereias. Maddie e Robb trabalham para encontrar uma cura para Xander, enquanto Helen e os híbridos ajudam a restaurar a ordem.(n)</desc>
     <episode-num system="onscreen">S3 E10</episode-num>
@@ -3111,124 +3157,124 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206124000 -0300" stop="20220206142000 -0300" channel="Canal Sony HD">
+  <programme start="20220206124000 +0000" stop="20220206142000 +0000" channel="Canal Sony HD">
     <title lang="pt">Um Ninja da Pesada</title>
     <desc lang="pt">Encontrado numa praia do Japão quando bebê, Haru foi criado por organização de ninjas que acreditavam ser ele o Grande Ninja Branco.(n)</desc>
   </programme>
-  <programme start="20220206142000 -0300" stop="20220206160500 -0300" channel="Canal Sony HD">
+  <programme start="20220206142000 +0000" stop="20220206160500 +0000" channel="Canal Sony HD">
     <title lang="pt">Missão Quase Impossível</title>
     <desc lang="pt">Homem trabalha como babá dos filhos do vizinho. Quando um dos garotos acidentalmente faz download de um arquivo confidencial, ele precisa lutar contra uma unidade secreta de agentes.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206160500 -0300" stop="20220206175000 -0300" channel="Canal Sony HD">
+  <programme start="20220206160500 +0000" stop="20220206175000 +0000" channel="Canal Sony HD">
     <title lang="pt">Um Tira Muito Suspeito</title>
     <desc lang="pt">Após ser libertado da prisão, o ladrão de joias, Logan, corre para o terreno baldio onde enterrou o fruto de um lucrativo golpe: 20 milhões de dólares em joias.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206175000 -0300" stop="20220206200000 -0300" channel="Canal Sony HD">
+  <programme start="20220206175000 +0000" stop="20220206200000 +0000" channel="Canal Sony HD">
     <title lang="pt">Crepúsculo</title>
     <desc lang="pt">Com o novo casamento da mãe, Bella recomeça sua vida com o pai em outra cidade. Na nova escola, fica impressionada com o encantador e misterioso Edward Cullen.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206200000 -0300" stop="20220206223500 -0300" channel="Canal Sony HD">
+  <programme start="20220206200000 +0000" stop="20220206223500 +0000" channel="Canal Sony HD">
     <title lang="pt">Hook - A Volta do Capitão Gancho</title>
     <desc lang="pt">Embora isso não estivesse em seus planos, Peter Pan cresceu e sequer se lembra de sua infância. Mas terá que voltar aos velhos tempos.(n)</desc>
   </programme>
-  <programme start="20220206013000 -0300" stop="20220206035400 -0300" channel="Space HD">
+  <programme start="20220206013000 +0000" stop="20220206035400 +0000" channel="Space HD">
     <title lang="pt">Os Instrumentos Mortais: Cidade dos Ossos</title>
     <desc lang="pt">Baseado no romance de Cassandra Clare, o filme narra a guerra entre os demônios e os caçadores de sombras, um grupo de seres metade anjo e metade humano que procuram proteger toda a humanidade.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206035400 -0300" stop="20220206061700 -0300" channel="Space HD">
+  <programme start="20220206035400 +0000" stop="20220206061700 +0000" channel="Space HD">
     <title lang="pt">Invocação do Mal 2</title>
     <desc lang="pt">Sete anos após os eventos de Invocação do Mal, Lorraine e Ed Warren desembarcam na Inglaterra para ajudar uma família atormentada por uma manifestação poltergeist na filha.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206061700 -0300" stop="20220206084000 -0300" channel="Space HD">
+  <programme start="20220206061700 +0000" stop="20220206084000 +0000" channel="Space HD">
     <title lang="pt">Falcão Negro Em Perigo</title>
     <desc lang="pt">160 soldados de elite dos EUA vão à Somália para capturar dois importantes tenentes de um comandante renegado e se encontram em uma batalha desesperada com uma grande força de somalis fortemente armados.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206084000 -0300" stop="20220206090000 -0300" channel="Space HD">
+  <programme start="20220206084000 +0000" stop="20220206090000 +0000" channel="Space HD">
     <title lang="pt">Hollywood Best Film Directors</title>
     <desc lang="pt">Notícias sobre os bastidores das produções de Hollywood.(n)</desc>
   </programme>
-  <programme start="20220206090000 -0300" stop="20220206103000 -0300" channel="Space HD">
+  <programme start="20220206090000 +0000" stop="20220206103000 +0000" channel="Space HD">
     <title lang="pt">As Hereges</title>
     <desc lang="pt">No século 17, uma jovem é acusada de magia negra por um juiz (Michael Ironside, O Vingador do Futuro). Uma freira salva a garota da execução e a reclui num mosteiro, onde um perigo sobrenatural espreita.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206103000 -0300" stop="20220206125400 -0300" channel="Space HD">
+  <programme start="20220206103000 +0000" stop="20220206125400 +0000" channel="Space HD">
     <title lang="pt">A Lenda do Zorro</title>
     <desc lang="pt">1850. Uma organização secreta deseja impedir que a Califórnia se torne parte dos Estados Unidos e é duramente combatida por Zorro, o cavaleiro lendário, identidade secreta de Don Alejandro de La Vega.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206125400 -0300" stop="20220206144400 -0300" channel="Space HD">
+  <programme start="20220206125400 +0000" stop="20220206144400 +0000" channel="Space HD">
     <title lang="pt">Segurança de Shopping</title>
     <desc lang="pt">Shopping é invadido por ladrões. Por incrível que pareça, somente uma pessoa poderá fazer alguma coisa para salvar a todos: um tranquilo e educado segurança do local.(n)</desc>
     <rating system="BR">
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206144400 -0300" stop="20220206164700 -0300" channel="Space HD">
+  <programme start="20220206144400 +0000" stop="20220206164700 +0000" channel="Space HD">
     <title lang="pt">Rede de Corrupção</title>
     <desc lang="pt">O detetive Orin Boyd é transferido para o Distrito de Detroit por não obedecer regras mas começa a suspeitar de seus colegas, com o sumiço da heroína.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206164700 -0300" stop="20220206185900 -0300" channel="Space HD">
+  <programme start="20220206164700 +0000" stop="20220206185900 +0000" channel="Space HD">
     <title lang="pt">A 5ª Onda</title>
     <desc lang="pt">A Terra sofreu uma série de ataques alienígenas. Já foram realizados 4, reduziram a população do planeta. Com a proximidade da 5ª onda, que promete exterminar de vez a raça humana, Cassie precisa proteger seu irm...(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206185900 -0300" stop="20220206214000 -0300" channel="Space HD">
+  <programme start="20220206185900 +0000" stop="20220206214000 +0000" channel="Space HD">
     <title lang="pt">Os Instrumentos Mortais: Cidade dos Ossos</title>
     <desc lang="pt">Baseado no romance de Cassandra Clare, o filme narra a guerra entre os demônios e os caçadores de sombras, um grupo de seres metade anjo e metade humano que procuram proteger toda a humanidade.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206010000 -0300" stop="20220206031500 -0300" channel="Studio Universal HD">
+  <programme start="20220206010000 +0000" stop="20220206031500 +0000" channel="Studio Universal HD">
     <title lang="pt">Viagem Das Garotas</title>
     <desc lang="pt">Quatro amigas decidem viajar e participar do Essence Festival, que celebra a cultura negra norte-americana. Durante o evento, elas relembram os bons tempos e passam por novas experiências que irão mudar suas vidas para sempre.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206031500 -0300" stop="20220206060500 -0300" channel="Studio Universal HD">
+  <programme start="20220206031500 +0000" stop="20220206060500 +0000" channel="Studio Universal HD">
     <title lang="pt">Bastardos Inglórios</title>
     <desc lang="pt">Durante a Segunda Guerra Mundial, um grupo de judeus conhecido como Bastardos Inglórios se une para combater o nazismo. Eles espalham o terror, mas seu maior desafio é dar fim ao poder de Hitler.(n)</desc>
     <rating system="BR">
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206060500 -0300" stop="20220206082500 -0300" channel="Studio Universal HD">
+  <programme start="20220206060500 +0000" stop="20220206082500 +0000" channel="Studio Universal HD">
     <title lang="pt">Infiltrado Na Klan</title>
     <desc lang="pt">Em 1978, Ron Stallworth (John David Washington), um policial negro do Colorado, conseguiu se infiltrar na Ku Klux Klan local.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206082500 -0300" stop="20220206084500 -0300" channel="Studio Universal HD">
+  <programme start="20220206082500 +0000" stop="20220206084500 +0000" channel="Studio Universal HD">
     <title lang="pt">Close Up With The Hollywood Reporter</title>
     <desc lang="pt">Os atores Anthony Anderson, William H. Macy, Kumail Nanjiani, Ted Danson, Brain Tyree Henry e Kevin Bacon conversam sobre seus personagens em séries de comédia e indicações ao Emmy 2017.(n)</desc>
     <episode-num system="onscreen">S1 E11</episode-num>
@@ -3236,7 +3282,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206084500 -0300" stop="20220206090000 -0300" channel="Studio Universal HD">
+  <programme start="20220206084500 +0000" stop="20220206090000 +0000" channel="Studio Universal HD">
     <title lang="pt">Close Up With The Hollywood Reporter</title>
     <desc lang="pt">As estrelas da TV RuPaul, Anthony Bourdain, Leah Remini, SallyAnn Salsano, W. Kamau Bell e Kris Jenner conversam sobre realities e indicações ao Emmy 2017.(n)</desc>
     <episode-num system="onscreen">S1 E12</episode-num>
@@ -3244,7 +3290,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206090000 -0300" stop="20220206092000 -0300" channel="Studio Universal HD">
+  <programme start="20220206090000 +0000" stop="20220206092000 +0000" channel="Studio Universal HD">
     <title lang="pt">Close Up With The Hollywood Reporter</title>
     <desc lang="pt">Os atores Bryan Cranston, Armie Hammer, Diane Kruger, Robert Pattinson, Margot Robbie e Octavia Spencer conversam sobre suas indicações ao Oscar 2018.(n)</desc>
     <episode-num system="onscreen">S2 E7</episode-num>
@@ -3252,7 +3298,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206092000 -0300" stop="20220206100500 -0300" channel="Studio Universal HD">
+  <programme start="20220206092000 +0000" stop="20220206100500 +0000" channel="Studio Universal HD">
     <title lang="pt">Close Up With The Hollywood Reporter</title>
     <desc lang="pt">Os atores Tracy Morgan, Sean Hayes, Marc Maron, Louie Anderson, Ray Romano e Tony Shalhoub conversam sobre seus personagens em séries de comédia e indicações ao Emmy 2018.(n)</desc>
     <episode-num system="onscreen">S2 E8</episode-num>
@@ -3260,7 +3306,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206100500 -0300" stop="20220206105000 -0300" channel="Studio Universal HD">
+  <programme start="20220206100500 +0000" stop="20220206105000 +0000" channel="Studio Universal HD">
     <title lang="pt">Close Up With The Hollywood Reporter</title>
     <desc lang="pt">As atrizes Alison Brie, Tracee Ellis Ross, Frankie Shaw, Debra Messing, Drew Barrymore e Molly Shannon conversam sobre suas personagens em séries de comédia e indicações ao Emmy 2018.(n)</desc>
     <episode-num system="onscreen">S2 E9</episode-num>
@@ -3268,42 +3314,42 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206105000 -0300" stop="20220206124000 -0300" channel="Studio Universal HD">
+  <programme start="20220206105000 +0000" stop="20220206124000 +0000" channel="Studio Universal HD">
     <title lang="pt">Ela Dança, Eu Danço 4</title>
     <desc lang="pt">Emily, filha de um rico empresário, resolve ir para Miami com o sonho de se tornar uma dançarina profissional. Logo ela se apaixona por Sean, líder de um grupo de dançarinos local.(n)</desc>
     <rating system="BR">
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206124000 -0300" stop="20220206145000 -0300" channel="Studio Universal HD">
+  <programme start="20220206124000 +0000" stop="20220206145000 +0000" channel="Studio Universal HD">
     <title lang="pt">Chef</title>
     <desc lang="pt">Um chef de cozinha deixa seu emprego em um restaurante e compra um food truck com o objetivo de tentar recuperar sua criatividade.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206145000 -0300" stop="20220206164500 -0300" channel="Studio Universal HD">
+  <programme start="20220206145000 +0000" stop="20220206164500 +0000" channel="Studio Universal HD">
     <title lang="pt">Padrinhos Ltda</title>
     <desc lang="pt">Doug Harris é um homem amável e vai se casar com a garota dos seus sonhos, porém não tem ninguém para ser seu padrinho de casamento. Por isso decide visitar a Best Man Inc., uma empresa que aluga padrinhos para quem precisa.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206164500 -0300" stop="20220206184500 -0300" channel="Studio Universal HD">
+  <programme start="20220206164500 +0000" stop="20220206184500 +0000" channel="Studio Universal HD">
     <title lang="pt">Operação Supletivo: Agora Vai!</title>
     <desc lang="pt">Um homem deve frequentar aulas noturnas ao lado de um excêntrico grupo para conquistar seu diploma.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206184500 -0300" stop="20220206204500 -0300" channel="Studio Universal HD">
+  <programme start="20220206184500 +0000" stop="20220206204500 +0000" channel="Studio Universal HD">
     <title lang="pt">A Chefinha</title>
     <desc lang="pt">Especialista em tratar mal seus funcionários, Jordan é enfeitiçada e se transforma no seu eu de treze anos. Agora, a empresária precisará reavaliar sua postura caso queira voltar ao normal.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206002000 -0300" stop="20220206011000 -0300" channel="SyFy HD">
+  <programme start="20220206002000 +0000" stop="20220206011000 +0000" channel="SyFy HD">
     <title lang="pt">Lost</title>
     <desc lang="pt">Ana Lucia, Sayid e Charlie entram na mata para descobrir a verdade sobre Henry Gale e ver se existe um balão que trouxe ele e sua esposa para a ilha.(n)</desc>
     <episode-num system="onscreen">S2 E17</episode-num>
@@ -3311,7 +3357,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206011000 -0300" stop="20220206020000 -0300" channel="SyFy HD">
+  <programme start="20220206011000 +0000" stop="20220206020000 +0000" channel="SyFy HD">
     <title lang="pt">Lost</title>
     <desc lang="pt">Libby oferece ajuda a Hurley quando ele começa a achar que a ilha está causando um efeito estranho nele. Hurley começa a ver Dave na ilha, que era seu "amigo" no instituto psiquiátrico e que ele estava no avião. ...(n)</desc>
     <episode-num system="onscreen">S2 E18</episode-num>
@@ -3319,7 +3365,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206020000 -0300" stop="20220206025000 -0300" channel="SyFy HD">
+  <programme start="20220206020000 +0000" stop="20220206025000 +0000" channel="SyFy HD">
     <title lang="pt">Lost</title>
     <desc lang="pt">Quando Bernard tenta recrutar pessoas para construir um sinal de S.O.S. na praia, Rose, estranhamente, o desafia, dizendo a ele que não deveria dar falsas esperanças para todos.(n)</desc>
     <episode-num system="onscreen">S2 E19</episode-num>
@@ -3327,7 +3373,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206025000 -0300" stop="20220206034000 -0300" channel="SyFy HD">
+  <programme start="20220206025000 +0000" stop="20220206034000 +0000" channel="SyFy HD">
     <title lang="pt">Lost</title>
     <desc lang="pt">Depois de encontrar Michael exausto na floresta, Jack e Kate o levam de volta para o acampamento. Ao acordar, Michael conta novos detalhes sobre "Os Outros". Além disso, o apaixonado Hurley planeja um encontro com Libby.(n)</desc>
     <episode-num system="onscreen">S2 E20</episode-num>
@@ -3335,7 +3381,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206034000 -0300" stop="20220206043000 -0300" channel="SyFy HD">
+  <programme start="20220206034000 +0000" stop="20220206043000 +0000" channel="SyFy HD">
     <title lang="pt">Lost</title>
     <desc lang="pt">Mr. Eko sonha que seu irmão o está levando para algum lugar, e então ele procura a ajuda de Locke para encontrar um local secreto, mas ambos enfrentam problemas durante o caminho.(n)</desc>
     <episode-num system="onscreen">S2 E21</episode-num>
@@ -3343,7 +3389,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206043000 -0300" stop="20220206052000 -0300" channel="SyFy HD">
+  <programme start="20220206043000 +0000" stop="20220206052000 +0000" channel="SyFy HD">
     <title lang="pt">Lost</title>
     <desc lang="pt">Determinado, Michael convence Jack e outros membros do grupo a ajudá-lo no resgate de Walt. Com Jack fora, Locke fica no comando da escotilha e precisa decidir se deveria acreditar em Henry e não apertar o botão.(n)</desc>
     <episode-num system="onscreen">S2 E22</episode-num>
@@ -3351,7 +3397,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206052000 -0300" stop="20220206061000 -0300" channel="SyFy HD">
+  <programme start="20220206052000 +0000" stop="20220206061000 +0000" channel="SyFy HD">
     <title lang="pt">Lost</title>
     <desc lang="pt">Jack, Sayid e Sawyer nadam em direção ao veleiro e descobrem que esse não é o meio de deixar a ilha. Além do retorno de Desmond à ilha, o barco proporciona a Sayid a vantagem de que ele precisa para colocar seu plano ...(n)</desc>
     <episode-num system="onscreen">S2 E23</episode-num>
@@ -3359,7 +3405,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206061000 -0300" stop="20220206070000 -0300" channel="SyFy HD">
+  <programme start="20220206061000 +0000" stop="20220206070000 +0000" channel="SyFy HD">
     <title lang="pt">Lost</title>
     <desc lang="pt">Falando em Desmond, em flashback descobrimos como ele foi parar na ilha. Começando com sua saída de uma prisão militar Britânica e a expulsão de seu regimento.(n)</desc>
     <episode-num system="onscreen">S2 E24</episode-num>
@@ -3367,7 +3413,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206070000 -0300" stop="20220206075000 -0300" channel="SyFy HD">
+  <programme start="20220206070000 +0000" stop="20220206075000 +0000" channel="SyFy HD">
     <title lang="pt">Lost</title>
     <desc lang="pt">Dentro de uma casa simples, uma mulher coloca um CD para tocar e arruma as coisas para visitas. Quem é ela? E por que parece agitada? Ela canta para se animar e prepara bolinhos para a reunião do seu "clube do livro".(n)</desc>
     <episode-num system="onscreen">S3 E1</episode-num>
@@ -3375,7 +3421,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206075000 -0300" stop="20220206083500 -0300" channel="SyFy HD">
+  <programme start="20220206075000 +0000" stop="20220206083500 +0000" channel="SyFy HD">
     <title lang="pt">Charmed</title>
     <desc lang="pt">Sem conseguir derrotar suas próprias réplicas, Phoebe e Paige voltam ao seu mundo, e descobrem que ele se tornou santo demais, punindo toda e qualquer infração com penas severíssimas.(n)</desc>
     <episode-num system="onscreen">S6 E23</episode-num>
@@ -3383,7 +3429,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206083500 -0300" stop="20220206091500 -0300" channel="SyFy HD">
+  <programme start="20220206083500 +0000" stop="20220206091500 +0000" channel="SyFy HD">
     <title lang="pt">Cinelab Aprendiz</title>
     <desc lang="pt">A prova deste episódio é reproduzir uma avalanche de neve caindo em cima de uma pessoa.(n)</desc>
     <episode-num system="onscreen">S1 E12</episode-num>
@@ -3391,7 +3437,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206091500 -0300" stop="20220206094000 -0300" channel="SyFy HD">
+  <programme start="20220206091500 +0000" stop="20220206094000 +0000" channel="SyFy HD">
     <title lang="pt">Cinelab Aprendiz</title>
     <desc lang="pt">Na semifinal da competição, os aprendizes devem produzir uma cena em que um personagem seja cortado pelo meio e acabe dividido em duas partes na altura na cintura.(n)</desc>
     <episode-num system="onscreen">S2 E12</episode-num>
@@ -3399,7 +3445,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206094000 -0300" stop="20220206101000 -0300" channel="SyFy HD">
+  <programme start="20220206094000 +0000" stop="20220206101000 +0000" channel="SyFy HD">
     <title lang="pt">Cinelab Aprendiz</title>
     <desc lang="pt">No episódio final da temporada, aprendizes e mentores trabalham para produzir o efeito que não pode faltar para quem deseja trabalhar com efeitos especiais: uma enorme explosão com bola de fogo.(n)</desc>
     <episode-num system="onscreen">S2 E13</episode-num>
@@ -3407,7 +3453,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206101000 -0300" stop="20220206110000 -0300" channel="SyFy HD">
+  <programme start="20220206101000 +0000" stop="20220206110000 +0000" channel="SyFy HD">
     <title lang="pt">The Outpost</title>
     <desc lang="pt">Zed espera por Talon após um misterioso desaparecimento. Gwynn faz uma oferta a Tobin que ele não pode recusar. Um visitante surpresa do Outpost interrompe uma cerimônia real.(n)</desc>
     <episode-num system="onscreen">S2 E7</episode-num>
@@ -3415,7 +3461,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206110000 -0300" stop="20220206115000 -0300" channel="SyFy HD">
+  <programme start="20220206110000 +0000" stop="20220206115000 +0000" channel="SyFy HD">
     <title lang="pt">The Outpost</title>
     <desc lang="pt">Zed continuam sua missão com Talon e ela ajuda Tobin a perseguir um assassino em uma tentativa de resgate ousada. Garret e Gwynn estão reunidos.(n)</desc>
     <episode-num system="onscreen">S2 E8</episode-num>
@@ -3423,7 +3469,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206115000 -0300" stop="20220206124000 -0300" channel="SyFy HD">
+  <programme start="20220206115000 +0000" stop="20220206124000 +0000" channel="SyFy HD">
     <title lang="pt">The Outpost</title>
     <desc lang="pt">Milus sai do Outpost muito desapontado. O prisioneiro mais procurado do Outpost planeja uma fuga. Talon e Zed descobrem um inimigo da infância de Talon.(n)</desc>
     <episode-num system="onscreen">S2 E9</episode-num>
@@ -3431,7 +3477,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206124000 -0300" stop="20220206133000 -0300" channel="SyFy HD">
+  <programme start="20220206124000 +0000" stop="20220206133000 +0000" channel="SyFy HD">
     <title lang="pt">The Outpost</title>
     <desc lang="pt">Um assassino mortal está à solta. A Mestra traça um improvável caminho para a vitória. Naya enfrenta seu antigo mestre. Zed e Talon liberam um poder que Talon desconfia. Garret tem um novo objetivo.(n)</desc>
     <episode-num system="onscreen">S2 E10</episode-num>
@@ -3439,7 +3485,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206133000 -0300" stop="20220206142000 -0300" channel="SyFy HD">
+  <programme start="20220206133000 +0000" stop="20220206142000 +0000" channel="SyFy HD">
     <title lang="pt">The Outpost</title>
     <desc lang="pt">Uma antiga relação de Gwynn reaparece com o direito ao trono. Janzo procura desesperadamente uma cura para os plaguelings. Uma devastadora arma da Primeira Ordem é revelada.(n)</desc>
     <episode-num system="onscreen">S2 E11</episode-num>
@@ -3447,7 +3493,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206142000 -0300" stop="20220206151000 -0300" channel="SyFy HD">
+  <programme start="20220206142000 +0000" stop="20220206151000 +0000" channel="SyFy HD">
     <title lang="pt">Grimm</title>
     <desc lang="pt">Nick investiga uma série de eventos que indicam que existem aliens em Portland, possivelmente dentro da comunidade Wesen. Enquanto isso, Juliette lembra dos momentos românticos que viveu com Nick antes do coma.(n)</desc>
     <episode-num system="onscreen">S2 E19</episode-num>
@@ -3455,7 +3501,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206151000 -0300" stop="20220206160000 -0300" channel="SyFy HD">
+  <programme start="20220206151000 +0000" stop="20220206160000 +0000" channel="SyFy HD">
     <title lang="pt">Grimm</title>
     <desc lang="pt">Nick tenta se reconciliar com Juliette durante um jantar romântico. Mas, o esforço dele é em vão, pois um Wesen com poder de influenciar os humanos o persegue.(n)</desc>
     <episode-num system="onscreen">S2 E20</episode-num>
@@ -3463,7 +3509,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206160000 -0300" stop="20220206165000 -0300" channel="SyFy HD">
+  <programme start="20220206160000 +0000" stop="20220206165000 +0000" channel="SyFy HD">
     <title lang="pt">Grimm</title>
     <desc lang="pt">Nick e Hank precisam combater um Wesen capaz de criar zumbis, que está aterrorizando Portland. Enquanto isso, Juliette tenta convencer Monroe a lhe contar a verdade sobre os Wesen.(n)</desc>
     <episode-num system="onscreen">S2 E21</episode-num>
@@ -3471,7 +3517,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206165000 -0300" stop="20220206174000 -0300" channel="SyFy HD">
+  <programme start="20220206165000 +0000" stop="20220206174000 +0000" channel="SyFy HD">
     <title lang="pt">Grimm</title>
     <desc lang="pt">Os zumbis ameaçam dominar Portland e Nick descobre que o meio-irmão de Renard está envolvido. Enquanto isso, Frau Pech e Stefania disputam para conseguir o bebê de Adalind.(n)</desc>
     <episode-num system="onscreen">S2 E22</episode-num>
@@ -3479,7 +3525,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206174000 -0300" stop="20220206183000 -0300" channel="SyFy HD">
+  <programme start="20220206174000 +0000" stop="20220206183000 +0000" channel="SyFy HD">
     <title lang="pt">Grimm</title>
     <desc lang="pt">Hank luta contra um bando de zumbis para ajudar Juliette, Monroe e Rosalee. Enquanto isso, Renard tenta salvar Nick de Eric e Adalind pede a ajuda de Stefania para recuperar suas habilidades mágicas.(n)</desc>
     <episode-num system="onscreen">S3 E1</episode-num>
@@ -3487,7 +3533,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206183000 -0300" stop="20220206192000 -0300" channel="SyFy HD">
+  <programme start="20220206183000 +0000" stop="20220206192000 +0000" channel="SyFy HD">
     <title lang="pt">Grimm</title>
     <desc lang="pt">Juliette lidera a busca por Nick, que ainda está sob a influência dos zumbis. Enquanto isso, Renard tenta minimizar as consequências dos ataques.(n)</desc>
     <episode-num system="onscreen">S3 E2</episode-num>
@@ -3495,7 +3541,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206192000 -0300" stop="20220206201000 -0300" channel="SyFy HD">
+  <programme start="20220206192000 +0000" stop="20220206201000 +0000" channel="SyFy HD">
     <title lang="pt">Grimm</title>
     <desc lang="pt">Nick investiga a morte de uma série de lobisomens e descobre que a raça está em guerra com outra espécie de criatura inimiga. Enquanto isso, Renard lida com as consequências da morte de Eric.(n)</desc>
     <episode-num system="onscreen">S3 E3</episode-num>
@@ -3503,7 +3549,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206201000 -0300" stop="20220206210000 -0300" channel="SyFy HD">
+  <programme start="20220206201000 +0000" stop="20220206210000 +0000" channel="SyFy HD">
     <title lang="pt">Grimm</title>
     <desc lang="pt">Nick e Hank investigam um afogamento em que a vítima tem misteriosas marcas nos tornozelos e suspeitam de uma sereia assassina.(n)</desc>
     <episode-num system="onscreen">S3 E4</episode-num>
@@ -3511,7 +3557,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206210000 -0300" stop="20220206215000 -0300" channel="SyFy HD">
+  <programme start="20220206210000 +0000" stop="20220206215000 +0000" channel="SyFy HD">
     <title lang="pt">Grimm</title>
     <desc lang="pt">Juliette descobre a verdade sobre a mãe de Nick e Adalind leva um susto durante a ultrassonografia. Enquanto isso, Nick e Hank acreditam que um vigilante possa ter chegado à Portland.(n)</desc>
     <episode-num system="onscreen">S3 E5</episode-num>
@@ -3519,7 +3565,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206215000 -0300" stop="20220206224000 -0300" channel="SyFy HD">
+  <programme start="20220206215000 +0000" stop="20220206224000 +0000" channel="SyFy HD">
     <title lang="pt">Grimm</title>
     <desc lang="pt">Nick e Hank investigam um caso que combina fenômenos religiosos e negociações sombrias do conselho Wesen. Enquanto isso, Rosalee fica dividida quando o caso de Nick desafia sua lealdade às criaturas.(n)</desc>
     <episode-num system="onscreen">S3 E6</episode-num>
@@ -3527,21 +3573,21 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206010000 -0300" stop="20220206023000 -0300" channel="TBS HD">
+  <programme start="20220206010000 +0000" stop="20220206023000 +0000" channel="TBS HD">
     <title lang="pt">Baby, Baby, Baby</title>
     <desc lang="pt">Sydney é um ator apaixonado pela artista Sunny. Ela é tudo que ele sempre quis e acredita que é seu amor verdadeiro.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206023000 -0300" stop="20220206041100 -0300" channel="TBS HD">
+  <programme start="20220206023000 +0000" stop="20220206041100 +0000" channel="TBS HD">
     <title lang="pt">Keanu: Cadê meu Gato?!</title>
     <desc lang="pt">Dois amigos levam uma vida tranquila e sem surpresas até que o gato de um deles é roubado. Em busca de recuperar o animal, os dois decidem se passar por traficantes, membros de uma gangue perigosa.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206041100 -0300" stop="20220206043400 -0300" channel="TBS HD">
+  <programme start="20220206041100 +0000" stop="20220206043400 +0000" channel="TBS HD">
     <title lang="pt">Wrecked</title>
     <desc lang="pt">Os piratas que acabaram de chegar tentam resgatar Danny - e deixar os outros para trás. Steve tenta consertar a situação após assassinar um sobrevivente. Agora os piratas são os capitães.(n)</desc>
     <episode-num system="onscreen">S2 E1</episode-num>
@@ -3549,7 +3595,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206043400 -0300" stop="20220206045700 -0300" channel="TBS HD">
+  <programme start="20220206043400 +0000" stop="20220206045700 +0000" channel="TBS HD">
     <title lang="pt">Wrecked</title>
     <desc lang="pt">Depois que os piratas decidem ficar na ilha, Pack tenta negociar uma trégua. Steve se une a Danny em um novo empreendimento. Agora Pack é o capitão.(n)</desc>
     <episode-num system="onscreen">S2 E2</episode-num>
@@ -3557,7 +3603,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206045700 -0300" stop="20220206051900 -0300" channel="TBS HD">
+  <programme start="20220206045700 +0000" stop="20220206051900 +0000" channel="TBS HD">
     <title lang="pt">Wrecked</title>
     <desc lang="pt">Depois de verem uma mancha na água, Florence e Karen caminham até a floresta para encontrar a fonte da contaminação. Os outros debatem se querem que os piratas estraguem "Game of Thrones".(n)</desc>
     <episode-num system="onscreen">S2 E3</episode-num>
@@ -3565,7 +3611,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206051900 -0300" stop="20220206060300 -0300" channel="TBS HD">
+  <programme start="20220206051900 +0000" stop="20220206060300 +0000" channel="TBS HD">
     <title lang="pt">Falling Skies</title>
     <desc lang="pt">Após sair do gueto Espheni, Tom e seu grupo buscam refúgio no esconderijo Volm, ao mesmo tempo em que a tensão aumenta entre os Volm e os humanos.(n)</desc>
     <episode-num system="onscreen">S4 E4</episode-num>
@@ -3573,7 +3619,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206060300 -0300" stop="20220206064700 -0300" channel="TBS HD">
+  <programme start="20220206060300 +0000" stop="20220206064700 +0000" channel="TBS HD">
     <title lang="pt">Falling Skies</title>
     <desc lang="pt">Após libertar Matt do campo de jovens Espheni, Tom encontra dois misteriosos estranhos na floresta que atacam sua família antes de embarcar com ele em uma violenta jornada.(n)</desc>
     <episode-num system="onscreen">S4 E5</episode-num>
@@ -3581,7 +3627,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206064700 -0300" stop="20220206070900 -0300" channel="TBS HD">
+  <programme start="20220206064700 +0000" stop="20220206070900 +0000" channel="TBS HD">
     <title lang="pt">Tesouros de Garagem</title>
     <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
     <episode-num system="onscreen">S3 E7</episode-num>
@@ -3589,7 +3635,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206070900 -0300" stop="20220206073200 -0300" channel="TBS HD">
+  <programme start="20220206070900 +0000" stop="20220206073200 +0000" channel="TBS HD">
     <title lang="pt">Tesouros de Garagem</title>
     <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
     <episode-num system="onscreen">S3 E8</episode-num>
@@ -3597,7 +3643,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206073200 -0300" stop="20220206075400 -0300" channel="TBS HD">
+  <programme start="20220206073200 +0000" stop="20220206075400 +0000" channel="TBS HD">
     <title lang="pt">Tesouros de Garagem</title>
     <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
     <episode-num system="onscreen">S3 E9</episode-num>
@@ -3605,7 +3651,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206075400 -0300" stop="20220206083700 -0300" channel="TBS HD">
+  <programme start="20220206075400 +0000" stop="20220206083700 +0000" channel="TBS HD">
     <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
     <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
     <episode-num system="onscreen">S13 E10</episode-num>
@@ -3613,11 +3659,11 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206083700 -0300" stop="20220206090000 -0300" channel="TBS HD">
+  <programme start="20220206083700 +0000" stop="20220206090000 +0000" channel="TBS HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos.(n)</desc>
   </programme>
-  <programme start="20220206090000 -0300" stop="20220206094200 -0300" channel="TBS HD">
+  <programme start="20220206090000 +0000" stop="20220206094200 +0000" channel="TBS HD">
     <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
     <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
     <episode-num system="onscreen">S12 E6</episode-num>
@@ -3625,11 +3671,11 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206094200 -0300" stop="20220206101400 -0300" channel="TBS HD">
+  <programme start="20220206094200 +0000" stop="20220206101400 +0000" channel="TBS HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos.(n)</desc>
   </programme>
-  <programme start="20220206101400 -0300" stop="20220206104000 -0300" channel="TBS HD">
+  <programme start="20220206101400 +0000" stop="20220206104000 +0000" channel="TBS HD">
     <title lang="pt">Reprovados</title>
     <desc lang="pt">Os professores de Smoot se reúnem em prol de um aluno enquanto arrecadam dinheiro para seu transplante de coração.(n)</desc>
     <episode-num system="onscreen">S3 E4</episode-num>
@@ -3637,7 +3683,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206104000 -0300" stop="20220206110600 -0300" channel="TBS HD">
+  <programme start="20220206104000 +0000" stop="20220206110600 +0000" channel="TBS HD">
     <title lang="pt">Reprovados</title>
     <desc lang="pt">Com a turma presa em um "escape room Smoot.(n)</desc>
     <episode-num system="onscreen">S3 E5</episode-num>
@@ -3645,7 +3691,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206110600 -0300" stop="20220206113200 -0300" channel="TBS HD">
+  <programme start="20220206110600 +0000" stop="20220206113200 +0000" channel="TBS HD">
     <title lang="pt">Reprovados</title>
     <desc lang="pt">Enquanto Tammy tenta desesperadamente cuidar de um assunto pessoal urgente, Smoot lida com a própria crise: uma terça-feira sem tacos.(n)</desc>
     <episode-num system="onscreen">S3 E6</episode-num>
@@ -3653,7 +3699,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206113200 -0300" stop="20220206121800 -0300" channel="TBS HD">
+  <programme start="20220206113200 +0000" stop="20220206121800 +0000" channel="TBS HD">
     <title lang="pt">Falling Skies</title>
     <desc lang="pt">Após meses de separação, Tom finalmente se reúne com sua família e com o 2º regimento. No entanto, a felicidade é curta, uma vez que Lexi passa por uma crise de saúde ligada ao seu DNA híbrido.(n)</desc>
     <episode-num system="onscreen">S4 E6</episode-num>
@@ -3661,7 +3707,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206121800 -0300" stop="20220206130500 -0300" channel="TBS HD">
+  <programme start="20220206121800 +0000" stop="20220206130500 +0000" channel="TBS HD">
     <title lang="pt">Falling Skies</title>
     <desc lang="pt">Lexi emerge mais poderosa e implacável do que nunca. Enquanto isso, Tom e o 2º regimento precisam trabalhar junto aos Volm para segurar as forças de invasão Espheni no que se torna a batalha mais sangrenta da série.(n)</desc>
     <episode-num system="onscreen">S4 E7</episode-num>
@@ -3669,7 +3715,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206130500 -0300" stop="20220206132700 -0300" channel="TBS HD">
+  <programme start="20220206130500 +0000" stop="20220206132700 +0000" channel="TBS HD">
     <title lang="pt">Tesouros de Garagem</title>
     <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
     <episode-num system="onscreen">S3 E10</episode-num>
@@ -3677,7 +3723,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206132700 -0300" stop="20220206135000 -0300" channel="TBS HD">
+  <programme start="20220206132700 +0000" stop="20220206135000 +0000" channel="TBS HD">
     <title lang="pt">Tesouros de Garagem</title>
     <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
     <episode-num system="onscreen">S3 E11</episode-num>
@@ -3685,7 +3731,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206135000 -0300" stop="20220206141300 -0300" channel="TBS HD">
+  <programme start="20220206135000 +0000" stop="20220206141300 +0000" channel="TBS HD">
     <title lang="pt">Tesouros de Garagem</title>
     <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
     <episode-num system="onscreen">S3 E12</episode-num>
@@ -3693,7 +3739,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206141300 -0300" stop="20220206143600 -0300" channel="TBS HD">
+  <programme start="20220206141300 +0000" stop="20220206143600 +0000" channel="TBS HD">
     <title lang="pt">Rebocadores</title>
     <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
     <episode-num system="onscreen">S1 E2</episode-num>
@@ -3701,7 +3747,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206143600 -0300" stop="20220206150000 -0300" channel="TBS HD">
+  <programme start="20220206143600 +0000" stop="20220206150000 +0000" channel="TBS HD">
     <title lang="pt">Rebocadores</title>
     <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
     <episode-num system="onscreen">S1 E3</episode-num>
@@ -3709,7 +3755,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206150000 -0300" stop="20220206152300 -0300" channel="TBS HD">
+  <programme start="20220206150000 +0000" stop="20220206152300 +0000" channel="TBS HD">
     <title lang="pt">Rebocadores</title>
     <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
     <episode-num system="onscreen">S1 E4</episode-num>
@@ -3717,7 +3763,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206152300 -0300" stop="20220206154800 -0300" channel="TBS HD">
+  <programme start="20220206152300 +0000" stop="20220206154800 +0000" channel="TBS HD">
     <title lang="pt">Reprovados</title>
     <desc lang="pt">Os professores de Smoot se reúnem em prol de um aluno enquanto arrecadam dinheiro para seu transplante de coração.(n)</desc>
     <episode-num system="onscreen">S3 E4</episode-num>
@@ -3725,7 +3771,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206154800 -0300" stop="20220206161500 -0300" channel="TBS HD">
+  <programme start="20220206154800 +0000" stop="20220206161500 +0000" channel="TBS HD">
     <title lang="pt">Reprovados</title>
     <desc lang="pt">Com a turma presa em um "escape room Smoot.(n)</desc>
     <episode-num system="onscreen">S3 E5</episode-num>
@@ -3733,7 +3779,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206161500 -0300" stop="20220206164100 -0300" channel="TBS HD">
+  <programme start="20220206161500 +0000" stop="20220206164100 +0000" channel="TBS HD">
     <title lang="pt">Reprovados</title>
     <desc lang="pt">Enquanto Tammy tenta desesperadamente cuidar de um assunto pessoal urgente, Smoot lida com a própria crise: uma terça-feira sem tacos.(n)</desc>
     <episode-num system="onscreen">S3 E6</episode-num>
@@ -3741,7 +3787,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206164100 -0300" stop="20220206172700 -0300" channel="TBS HD">
+  <programme start="20220206164100 +0000" stop="20220206172700 +0000" channel="TBS HD">
     <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
     <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
     <episode-num system="onscreen">S12 E6</episode-num>
@@ -3749,7 +3795,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206172700 -0300" stop="20220206181500 -0300" channel="TBS HD">
+  <programme start="20220206172700 +0000" stop="20220206181500 +0000" channel="TBS HD">
     <title lang="pt">Falling Skies</title>
     <desc lang="pt">Após meses de separação, Tom finalmente se reúne com sua família e com o 2º regimento. No entanto, a felicidade é curta, uma vez que Lexi passa por uma crise de saúde ligada ao seu DNA híbrido.(n)</desc>
     <episode-num system="onscreen">S4 E6</episode-num>
@@ -3757,7 +3803,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206181500 -0300" stop="20220206190100 -0300" channel="TBS HD">
+  <programme start="20220206181500 +0000" stop="20220206190100 +0000" channel="TBS HD">
     <title lang="pt">Falling Skies</title>
     <desc lang="pt">Lexi emerge mais poderosa e implacável do que nunca. Enquanto isso, Tom e o 2º regimento precisam trabalhar junto aos Volm para segurar as forças de invasão Espheni no que se torna a batalha mais sangrenta da série.(n)</desc>
     <episode-num system="onscreen">S4 E7</episode-num>
@@ -3765,7 +3811,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206190100 -0300" stop="20220206192500 -0300" channel="TBS HD">
+  <programme start="20220206190100 +0000" stop="20220206192500 +0000" channel="TBS HD">
     <title lang="pt">Tesouros de Garagem</title>
     <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
     <episode-num system="onscreen">S3 E10</episode-num>
@@ -3773,7 +3819,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206192500 -0300" stop="20220206194800 -0300" channel="TBS HD">
+  <programme start="20220206192500 +0000" stop="20220206194800 +0000" channel="TBS HD">
     <title lang="pt">Tesouros de Garagem</title>
     <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
     <episode-num system="onscreen">S3 E11</episode-num>
@@ -3781,7 +3827,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206194800 -0300" stop="20220206201100 -0300" channel="TBS HD">
+  <programme start="20220206194800 +0000" stop="20220206201100 +0000" channel="TBS HD">
     <title lang="pt">Tesouros de Garagem</title>
     <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
     <episode-num system="onscreen">S3 E12</episode-num>
@@ -3789,7 +3835,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206201100 -0300" stop="20220206203500 -0300" channel="TBS HD">
+  <programme start="20220206201100 +0000" stop="20220206203500 +0000" channel="TBS HD">
     <title lang="pt">Rebocadores</title>
     <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
     <episode-num system="onscreen">S1 E2</episode-num>
@@ -3797,7 +3843,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206203500 -0300" stop="20220206205700 -0300" channel="TBS HD">
+  <programme start="20220206203500 +0000" stop="20220206205700 +0000" channel="TBS HD">
     <title lang="pt">Rebocadores</title>
     <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
     <episode-num system="onscreen">S1 E3</episode-num>
@@ -3805,7 +3851,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206205700 -0300" stop="20220206211900 -0300" channel="TBS HD">
+  <programme start="20220206205700 +0000" stop="20220206211900 +0000" channel="TBS HD">
     <title lang="pt">Rebocadores</title>
     <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
     <episode-num system="onscreen">S1 E4</episode-num>
@@ -3813,7 +3859,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206002000 -0300" stop="20220206010800 -0300" channel="TNT Series HD">
+  <programme start="20220206002000 +0000" stop="20220206010800 +0000" channel="TNT Series HD">
     <title lang="pt">Law &amp; Order: SVU</title>
     <desc lang="pt">Law &amp; Order: Special Victims Unit é a mais badalada série da franquia Law &amp; Order. Nos roteiros instigantes e baseados em fatos reais, os protagonistas são os detetives Elliot Stabler e Olivia Benson.(n)</desc>
     <episode-num system="onscreen">S2 E232</episode-num>
@@ -3821,7 +3867,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206010800 -0300" stop="20220206020000 -0300" channel="TNT Series HD">
+  <programme start="20220206010800 +0000" stop="20220206020000 +0000" channel="TNT Series HD">
     <title lang="pt">Law &amp; Order: SVU</title>
     <desc lang="pt">Law &amp; Order: Special Victims Unit é a mais badalada série da franquia Law &amp; Order. Nos roteiros instigantes e baseados em fatos reais, os protagonistas são os detetives Elliot Stabler e Olivia Benson.(n)</desc>
     <episode-num system="onscreen">S2 E232</episode-num>
@@ -3829,7 +3875,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206020000 -0300" stop="20220206030800 -0300" channel="TNT Series HD">
+  <programme start="20220206020000 +0000" stop="20220206030800 +0000" channel="TNT Series HD">
     <title lang="pt">Linha do Dever</title>
     <desc lang="pt">Produzida para a BBC2, a série retrata a história do investigador Tony Gates, um policial exemplar que se torna alvo do Superintendente Ted Hastings por acreditar que seu comportamento é perfeito demais para ser verdade.(n)</desc>
     <episode-num system="onscreen">S2 E2</episode-num>
@@ -3837,7 +3883,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206030800 -0300" stop="20220206042000 -0300" channel="TNT Series HD">
+  <programme start="20220206030800 +0000" stop="20220206042000 +0000" channel="TNT Series HD">
     <title lang="pt">Linha do Dever</title>
     <desc lang="pt">Produzida para a BBC2, a série retrata a história do investigador Tony Gates, um policial exemplar que se torna alvo do Superintendente Ted Hastings por acreditar que seu comportamento é perfeito demais para ser verdade.(n)</desc>
     <episode-num system="onscreen">S2 E3</episode-num>
@@ -3845,7 +3891,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206042000 -0300" stop="20220206050800 -0300" channel="TNT Series HD">
+  <programme start="20220206042000 +0000" stop="20220206050800 +0000" channel="TNT Series HD">
     <title lang="pt">Plantão Médico</title>
     <desc lang="pt">Esta instigante série dramática retrata a dedicação e a paixão dos médicos e da equipe do pronto-socorro de um hospital-escola de Chicago.(n)</desc>
     <episode-num system="onscreen">S1 E37</episode-num>
@@ -3853,7 +3899,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206050800 -0300" stop="20220206055400 -0300" channel="TNT Series HD">
+  <programme start="20220206050800 +0000" stop="20220206055400 +0000" channel="TNT Series HD">
     <title lang="pt">Plantão Médico</title>
     <desc lang="pt">Esta instigante série dramática retrata a dedicação e a paixão dos médicos e da equipe do pronto-socorro de um hospital-escola de Chicago.(n)</desc>
     <episode-num system="onscreen">S2 E37</episode-num>
@@ -3861,7 +3907,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206055400 -0300" stop="20220206063900 -0300" channel="TNT Series HD">
+  <programme start="20220206055400 +0000" stop="20220206063900 +0000" channel="TNT Series HD">
     <title lang="pt">Plantão Médico</title>
     <desc lang="pt">Esta instigante série dramática retrata a dedicação e a paixão dos médicos e da equipe do pronto-socorro de um hospital-escola de Chicago.(n)</desc>
     <episode-num system="onscreen">S2 E37</episode-num>
@@ -3869,7 +3915,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206063900 -0300" stop="20220206072500 -0300" channel="TNT Series HD">
+  <programme start="20220206063900 +0000" stop="20220206072500 +0000" channel="TNT Series HD">
     <title lang="pt">Plantão Médico</title>
     <desc lang="pt">Esta instigante série dramática retrata a dedicação e a paixão dos médicos e da equipe do pronto-socorro de um hospital-escola de Chicago.(n)</desc>
     <episode-num system="onscreen">S3 E37</episode-num>
@@ -3877,7 +3923,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206072500 -0300" stop="20220206090000 -0300" channel="TNT Series HD">
+  <programme start="20220206072500 +0000" stop="20220206090000 +0000" channel="TNT Series HD">
     <title lang="pt">Plantão Médico</title>
     <desc lang="pt">Saiba como tudo começou... Na história que deu início a este sucesso mundial que explora de forma provocadora o caos do pronto-socorro de um hospital público e a vida dos seus médicos e profissionais dedicados.(n)</desc>
     <episode-num system="onscreen">S1 E1</episode-num>
@@ -3885,7 +3931,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206090000 -0300" stop="20220206094600 -0300" channel="TNT Series HD">
+  <programme start="20220206090000 +0000" stop="20220206094600 +0000" channel="TNT Series HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Quando Patrick Jane e seus colegas da CBI são feitos reféns de um homem armado acusado de assassinato, o "mentalista" deve pensar rápido para garantir a segurança de todos.(n)</desc>
     <episode-num system="onscreen">S3 E13</episode-num>
@@ -3893,7 +3939,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206094600 -0300" stop="20220206103200 -0300" channel="TNT Series HD">
+  <programme start="20220206094600 +0000" stop="20220206103200 +0000" channel="TNT Series HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Van Pelt corre riscos quando a testemunha sob sua proteção é assassinada.(n)</desc>
     <episode-num system="onscreen">S3 E14</episode-num>
@@ -3901,7 +3947,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206103200 -0300" stop="20220206111900 -0300" channel="TNT Series HD">
+  <programme start="20220206103200 +0000" stop="20220206111900 +0000" channel="TNT Series HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Pela primeira vez, o agente Hightower e Patrick Jane trabalham juntos desde que Lisbon foi feriada durante a investigação da morte de um mineiro.(n)</desc>
     <episode-num system="onscreen">S3 E15</episode-num>
@@ -3909,7 +3955,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206111900 -0300" stop="20220206120400 -0300" channel="TNT Series HD">
+  <programme start="20220206111900 +0000" stop="20220206120400 +0000" channel="TNT Series HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A equipe do CBI fica sob suspeita quando um negociante de antiguidades é assassinado. As evidências parecem apontar que um membro da equipe é o responsável pela morte.(n)</desc>
     <episode-num system="onscreen">S3 E16</episode-num>
@@ -3917,7 +3963,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206120400 -0300" stop="20220206125100 -0300" channel="TNT Series HD">
+  <programme start="20220206120400 +0000" stop="20220206125100 +0000" channel="TNT Series HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">A CBI investiga o assassinato de um médico encontrado morto em um campo de golfe. Os suspeitos incluem os funcionários do hospital e os pacientes. LaRoche agora comanda a CBI e aponta Cho como o novo líder da equipe.(n)</desc>
     <episode-num system="onscreen">S3 E17</episode-num>
@@ -3925,7 +3971,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206125100 -0300" stop="20220206133800 -0300" channel="TNT Series HD">
+  <programme start="20220206125100 +0000" stop="20220206133800 +0000" channel="TNT Series HD">
     <title lang="pt">A Escolha</title>
     <desc lang="pt">Irfan consegue o dinheiro para o golpe, enquanto Egemen pressiona Eda a se casar o mais rápido possível.(n)</desc>
     <episode-num system="onscreen">S2 E21</episode-num>
@@ -3933,7 +3979,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206133800 -0300" stop="20220206142700 -0300" channel="TNT Series HD">
+  <programme start="20220206133800 +0000" stop="20220206142700 +0000" channel="TNT Series HD">
     <title lang="pt">A Escolha</title>
     <desc lang="pt">Irfan faz de tudo para ver o filho e consegue entrar em contato com ele sem que Eda saiba.(n)</desc>
     <episode-num system="onscreen">S2 E22</episode-num>
@@ -3941,7 +3987,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206142700 -0300" stop="20220206151600 -0300" channel="TNT Series HD">
+  <programme start="20220206142700 +0000" stop="20220206151600 +0000" channel="TNT Series HD">
     <title lang="pt">A Escolha</title>
     <desc lang="pt">Atendendo a um pedido de Deniz, Irfan decide ir para casa com Eda e Egemen. Irfan descobre que o dinheiro que lhe deram é falso e decide reverter a situação.(n)</desc>
     <episode-num system="onscreen">S2 E23</episode-num>
@@ -3949,7 +3995,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206151600 -0300" stop="20220206160800 -0300" channel="TNT Series HD">
+  <programme start="20220206151600 +0000" stop="20220206160800 +0000" channel="TNT Series HD">
     <title lang="pt">A Escolha</title>
     <desc lang="pt">O confronto entre Irfan e Egemen por causa de Deniz termina com um deles ferido e o outro preso. Süleyman suspeita de Ilay quando o dinheiro do cofre desaparece.(n)</desc>
     <episode-num system="onscreen">S2 E24</episode-num>
@@ -3957,7 +4003,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206160800 -0300" stop="20220206170200 -0300" channel="TNT Series HD">
+  <programme start="20220206160800 +0000" stop="20220206170200 +0000" channel="TNT Series HD">
     <title lang="pt">A Escolha</title>
     <desc lang="pt">Uma decisão de Irfan coloca Hakan contra Süleyman. Egemen começa a ter problemas com dinheiro.(n)</desc>
     <episode-num system="onscreen">S2 E25</episode-num>
@@ -3965,7 +4011,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206170200 -0300" stop="20220206175500 -0300" channel="TNT Series HD">
+  <programme start="20220206170200 +0000" stop="20220206175500 +0000" channel="TNT Series HD">
     <title lang="pt">Law &amp; Order: SVU</title>
     <desc lang="pt">Law &amp; Order: Special Victims Unit é a mais badalada série da franquia Law &amp; Order. Nos roteiros instigantes e baseados em fatos reais, os protagonistas são os detetives Elliot Stabler e Olivia Benson.(n)</desc>
     <episode-num system="onscreen">S2 E232</episode-num>
@@ -3973,7 +4019,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206175500 -0300" stop="20220206184500 -0300" channel="TNT Series HD">
+  <programme start="20220206175500 +0000" stop="20220206184500 +0000" channel="TNT Series HD">
     <title lang="pt">Law &amp; Order: SVU</title>
     <desc lang="pt">Law &amp; Order: Special Victims Unit é a mais badalada série da franquia Law &amp; Order. Nos roteiros instigantes e baseados em fatos reais, os protagonistas são os detetives Elliot Stabler e Olivia Benson.(n)</desc>
     <episode-num system="onscreen">S2 E232</episode-num>
@@ -3981,7 +4027,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206184500 -0300" stop="20220206193600 -0300" channel="TNT Series HD">
+  <programme start="20220206184500 +0000" stop="20220206193600 +0000" channel="TNT Series HD">
     <title lang="pt">Law &amp; Order: SVU</title>
     <desc lang="pt">Law &amp; Order: Special Victims Unit é a mais badalada série da franquia Law &amp; Order. Nos roteiros instigantes e baseados em fatos reais, os protagonistas são os detetives Elliot Stabler e Olivia Benson.(n)</desc>
     <episode-num system="onscreen">S2 E232</episode-num>
@@ -3989,7 +4035,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206193600 -0300" stop="20220206202900 -0300" channel="TNT Series HD">
+  <programme start="20220206193600 +0000" stop="20220206202900 +0000" channel="TNT Series HD">
     <title lang="pt">Law &amp; Order: SVU</title>
     <desc lang="pt">Law &amp; Order: Special Victims Unit é a mais badalada série da franquia Law &amp; Order. Nos roteiros instigantes e baseados em fatos reais, os protagonistas são os detetives Elliot Stabler e Olivia Benson.(n)</desc>
     <episode-num system="onscreen">S2 E232</episode-num>
@@ -3997,7 +4043,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206202900 -0300" stop="20220206212200 -0300" channel="TNT Series HD">
+  <programme start="20220206202900 +0000" stop="20220206212200 +0000" channel="TNT Series HD">
     <title lang="pt">Law &amp; Order: SVU</title>
     <desc lang="pt">Law &amp; Order: Special Victims Unit é a mais badalada série da franquia Law &amp; Order. Nos roteiros instigantes e baseados em fatos reais, os protagonistas são os detetives Elliot Stabler e Olivia Benson.(n)</desc>
     <episode-num system="onscreen">S2 E232</episode-num>
@@ -4005,7 +4051,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206212200 -0300" stop="20220206220900 -0300" channel="TNT Series HD">
+  <programme start="20220206212200 +0000" stop="20220206220900 +0000" channel="TNT Series HD">
     <title lang="pt">The Mentalist</title>
     <desc lang="pt">Quando Patrick Jane e seus colegas da CBI são feitos reféns de um homem armado acusado de assassinato, o "mentalista" deve pensar rápido para garantir a segurança de todos.(n)</desc>
     <episode-num system="onscreen">S3 E13</episode-num>
@@ -4013,58 +4059,58 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206010000 -0300" stop="20220206030000 -0300" channel="TNT HD">
+  <programme start="20220206010000 +0000" stop="20220206030000 +0000" channel="TNT HD">
     <title lang="pt">Megatubarão</title>
     <desc lang="pt">Um grupo de pesquisadores no meio do oceano descobre que um tubarão pré-histórico está vivo e ameaçando a todos. Resta ao mergulhador Jonas impedir que a criatura gigante cause um desastre.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206030000 -0300" stop="20220206045400 -0300" channel="TNT HD">
+  <programme start="20220206030000 +0000" stop="20220206045400 +0000" channel="TNT HD">
     <title lang="pt">John Wick - De Volta ao Jogo</title>
     <desc lang="pt">John Wick é um lendário ex-matador da cidade de Nova Iorque que está lidando com o luto após perder o grande amor de sua vida.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206045400 -0300" stop="20220206070200 -0300" channel="TNT HD">
+  <programme start="20220206045400 +0000" stop="20220206070200 +0000" channel="TNT HD">
     <title lang="pt">Parker</title>
     <desc lang="pt">Jason Statham é Parker, um ladrão profissional cuja vida é regida por um forte código de ética. Mas quando seus companheiros o traem e tentam matá-lo, Parker leva a cabo uma terrível vingança.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206070200 -0300" stop="20220206085100 -0300" channel="TNT HD">
+  <programme start="20220206070200 +0000" stop="20220206085100 +0000" channel="TNT HD">
     <title lang="pt">Sabotagem</title>
     <desc lang="pt">A mulher de um gerente de cinema suspeita que o marido esteja cometendo sabotagens em Londres. Suas suspeitas aumentam quando seu irmão é vítima de um atentado.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206085100 -0300" stop="20220206090000 -0300" channel="TNT HD">
+  <programme start="20220206085100 +0000" stop="20220206090000 +0000" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos.(n)</desc>
   </programme>
-  <programme start="20220206090000 -0300" stop="20220206095900 -0300" channel="TNT HD">
+  <programme start="20220206090000 +0000" stop="20220206095900 +0000" channel="TNT HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos.(n)</desc>
   </programme>
-  <programme start="20220206095900 -0300" stop="20220206114800 -0300" channel="TNT HD">
+  <programme start="20220206095900 +0000" stop="20220206114800 +0000" channel="TNT HD">
     <title lang="pt">Par Perfeito</title>
     <desc lang="pt">Jen conhece Spencer numa viagem com os pais, e logo os dois se apaixonam e casam. Ambos vivem uma vida tranquila, até ela descobrir que Spencer é, na verdade, um assassino profissional que está sendo perseguido.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206114800 -0300" stop="20220206132700 -0300" channel="TNT HD">
+  <programme start="20220206114800 +0000" stop="20220206132700 +0000" channel="TNT HD">
     <title lang="pt">Minions</title>
     <desc lang="pt">Os minions têm uma missão: servir os maiores vilões. Em depressão desde a morte de seu antigo mestre, eles tentam encontrar um novo chefe. Três voluntários, Kevin, Stuart e Bob, vão até uma convenç...(n)</desc>
   </programme>
-  <programme start="20220206132700 -0300" stop="20220206151300 -0300" channel="TNT HD">
+  <programme start="20220206132700 +0000" stop="20220206151300 +0000" channel="TNT HD">
     <title lang="pt">Pé Pequeno</title>
     <desc lang="pt">Um Yet, mas conheido como abominável homem das neves, está convencido de que as criações indescritíveis conhecidas como "humanos" realmente existem.(n)</desc>
   </programme>
-  <programme start="20220206151300 -0300" stop="20220206153700 -0300" channel="TNT HD">
+  <programme start="20220206151300 +0000" stop="20220206153700 +0000" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <desc lang="pt">Após a Ashley revelar que não gosta de tocar violino, o Will a leva para trocar o seu violino por uma bateria, e até contrata um professor para ela: o Jazz.(n)</desc>
     <episode-num system="onscreen">S1 E2</episode-num>
@@ -4072,7 +4118,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206153700 -0300" stop="20220206160300 -0300" channel="TNT HD">
+  <programme start="20220206153700 +0000" stop="20220206160300 +0000" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <desc lang="pt">O Will tenta impressionar o pai de uma garota para pode sair com ela. O Sr. Banks, o Carlton e o Geoffrey tentam ensiná-lo a ser um cavalheiro à moda antiga.(n)</desc>
     <episode-num system="onscreen">S1 E3</episode-num>
@@ -4080,7 +4126,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206160300 -0300" stop="20220206162900 -0300" channel="TNT HD">
+  <programme start="20220206160300 +0000" stop="20220206162900 +0000" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <desc lang="pt">Os pais do Philip vêm visitá-lo no fim de semana quando ele ganha um prêmio prestigioso. Ao achar as falas ensaiadas dos Banks muito chatas, e para ser mais divertido, o Will conta à repórter as histórias mais embara...(n)</desc>
     <episode-num system="onscreen">S1 E4</episode-num>
@@ -4088,7 +4134,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206162900 -0300" stop="20220206165400 -0300" channel="TNT HD">
+  <programme start="20220206162900 +0000" stop="20220206165400 +0000" channel="TNT HD">
     <title lang="pt">Um Maluco no Pedaço</title>
     <desc lang="pt">O Will é visitado por um velho amigo chamado Ice Tray que, para o horror da Vivian e do Philip, paquera a Hilary.(n)</desc>
     <episode-num system="onscreen">S1 E5</episode-num>
@@ -4096,28 +4142,28 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206165400 -0300" stop="20220206185400 -0300" channel="TNT HD">
+  <programme start="20220206165400 +0000" stop="20220206185400 +0000" channel="TNT HD">
     <title lang="pt">Jumanji</title>
     <desc lang="pt">Crianças acham jogo que é capaz de liberar animais de outro mundo e com isso trazem também de volta um garoto, agora já adulto, aprisionado há 30 anos.(n)</desc>
     <rating system="BR">
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206185400 -0300" stop="20220206205700 -0300" channel="TNT HD">
+  <programme start="20220206185400 +0000" stop="20220206205700 +0000" channel="TNT HD">
     <title lang="pt">O Vingador</title>
     <desc lang="pt">Dois policiais atuam na fronteira dos EUA com o México, no combate às drogas. Eles conseguem prender Memo Lucero, famoso líder do Cartel de Baja, o principal grupo traficante local.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206205700 -0300" stop="20220206225200 -0300" channel="TNT HD">
+  <programme start="20220206205700 +0000" stop="20220206225200 +0000" channel="TNT HD">
     <title lang="pt">John Wick - De Volta ao Jogo</title>
     <desc lang="pt">John Wick é um lendário ex-matador da cidade de Nova Iorque que está lidando com o luto após perder o grande amor de sua vida.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206003500 -0300" stop="20220206012500 -0300" channel="Universal TV HD">
+  <programme start="20220206003500 +0000" stop="20220206012500 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">Quando Upton e Ruzek atendem a uma chamada de emergência para uma casa abandonada, sua investigação os leva por um caminho obscuro.(n)</desc>
     <episode-num system="onscreen">S9 E4</episode-num>
@@ -4125,7 +4171,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206012500 -0300" stop="20220206021500 -0300" channel="Universal TV HD">
+  <programme start="20220206012500 +0000" stop="20220206021500 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Boden se prepara para contra-atacar McLeod e tentar salvar o quartel. Enquanto isso, o relacionamento entre Dawnson e Casey fica mais sério, enquanto Leon progride na investigação da gangue.(n)</desc>
     <episode-num system="onscreen">S2 E9</episode-num>
@@ -4133,7 +4179,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206021500 -0300" stop="20220206030500 -0300" channel="Universal TV HD">
+  <programme start="20220206021500 +0000" stop="20220206030500 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Tudo parece perdido para a brigada 51, que está prestes a fechar suas portas em 24 horas, mas Boden e o resto da equipe se recusam a esperar sentados pelo pior e decidem lutar para que McLeod não saia vitoriosa.(n)</desc>
     <episode-num system="onscreen">S2 E10</episode-num>
@@ -4141,7 +4187,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206030500 -0300" stop="20220206035500 -0300" channel="Universal TV HD">
+  <programme start="20220206030500 +0000" stop="20220206035500 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Casey retorna para o trabalho após quase ter sido morto em um desabamento. Ao mesmo tempo, Shay conhece sua nova parceira, Allison, que é simpática com todos menos com ela.(n)</desc>
     <episode-num system="onscreen">S2 E11</episode-num>
@@ -4149,7 +4195,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206035500 -0300" stop="20220206045000 -0300" channel="Universal TV HD">
+  <programme start="20220206035500 +0000" stop="20220206045000 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Casey tenta convencer a si e a todos que está 100% recuperado do incidente que quase tirou sua vida. Enquanto isso, Shay continua a fugir do advogado que quer falar sobre o suicídio de Daryl.(n)</desc>
     <episode-num system="onscreen">S2 E12</episode-num>
@@ -4157,14 +4203,14 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206045000 -0300" stop="20220206063000 -0300" channel="Universal TV HD">
+  <programme start="20220206045000 +0000" stop="20220206063000 +0000" channel="Universal TV HD">
     <title lang="pt">Quatro Vidas de um Cachorro</title>
     <desc lang="pt">Um cachorro morre e reencarna diversas vezes na Terra. Em todas as suas vidas, ele passa por vários donos e vive as mais diferentes aventuras. Seu maior sonho, no entanto, é reencontrar seu primeiro dono, Ethan.(n)</desc>
     <rating system="BR">
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206063000 -0300" stop="20220206072500 -0300" channel="Universal TV HD">
+  <programme start="20220206063000 +0000" stop="20220206072500 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago Med</title>
     <desc lang="pt">O departamento de emergência não para de receber novas vítimas, o que leva todos os funcionários do hospital ao extremo.(n)</desc>
     <episode-num system="onscreen">S1 E1</episode-num>
@@ -4172,7 +4218,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206072500 -0300" stop="20220206075500 -0300" channel="Universal TV HD">
+  <programme start="20220206072500 +0000" stop="20220206075500 +0000" channel="Universal TV HD">
     <title lang="pt">It Takes A Killer</title>
     <desc lang="pt">Um caminhoneiro com desejo de matar cruza o país em busca de sua próxima vítima. A polícia não consegue ligar nenhum de seus assassinatos, até que ele comete um grande erro.(n)</desc>
     <episode-num system="onscreen">S1 E28</episode-num>
@@ -4180,7 +4226,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206075500 -0300" stop="20220206083000 -0300" channel="Universal TV HD">
+  <programme start="20220206075500 +0000" stop="20220206083000 +0000" channel="Universal TV HD">
     <title lang="pt">It Takes A Killer</title>
     <desc lang="pt">Um antigo médico militar tem um plano doentio de sequestrar mulheres, as engravidar e mantê-las em seu porão, como uma fábrica de bebês. Logo, o que era um plano se torna realidade.(n)</desc>
     <episode-num system="onscreen">S1 E34</episode-num>
@@ -4188,11 +4234,11 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206083000 -0300" stop="20220206100500 -0300" channel="Universal TV HD">
+  <programme start="20220206083000 +0000" stop="20220206100500 +0000" channel="Universal TV HD">
     <title lang="pt">A Fuga Das Galinhas</title>
     <desc lang="pt">Após frustradas tentativas de escapar da granja dos Tweedy, as galinhas, lideradas por Ginger, mantêm poucas esperanças. Mas, quando o galo voador Rocky aparece no galinheiro, os animais acreditam que ele poderá ensiná-las...(n)</desc>
   </programme>
-  <programme start="20220206100500 -0300" stop="20220206103500 -0300" channel="Universal TV HD">
+  <programme start="20220206100500 +0000" stop="20220206103500 +0000" channel="Universal TV HD">
     <title lang="pt">It Takes A Killer</title>
     <desc lang="pt">Um triângulo amoroso bizarro se torna mortal e uma mulher subitamente desaparece. Policiais investigam seu sumiço, mas logo descobrem que se trata de um assassinato cometido por um amante rejeitado.(n)</desc>
     <episode-num system="onscreen">S1 E26</episode-num>
@@ -4200,7 +4246,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206103500 -0300" stop="20220206110500 -0300" channel="Universal TV HD">
+  <programme start="20220206103500 +0000" stop="20220206110500 +0000" channel="Universal TV HD">
     <title lang="pt">It Takes A Killer</title>
     <desc lang="pt">Um serial killer com um histórico de estupro aterroriza a cidade de Tampa, na Florida. Ele segue impune por meses até que consegue ser trazido a justiça depois de deixar uma de suas vítimas escapar.(n)</desc>
     <episode-num system="onscreen">S1 E32</episode-num>
@@ -4208,7 +4254,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206110500 -0300" stop="20220206113500 -0300" channel="Universal TV HD">
+  <programme start="20220206110500 +0000" stop="20220206113500 +0000" channel="Universal TV HD">
     <title lang="pt">It Takes A Killer</title>
     <desc lang="pt">Quando uma estudante de direito é estrangulada em sua cama, detetives descobrem que alguém esteve observando-a secretamente por meses.(n)</desc>
     <episode-num system="onscreen">S1 E13</episode-num>
@@ -4216,18 +4262,18 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206113500 -0300" stop="20220206133500 -0300" channel="Universal TV HD">
+  <programme start="20220206113500 +0000" stop="20220206133500 +0000" channel="Universal TV HD">
     <title lang="pt">A Escolha Perfeita 2</title>
     <desc lang="pt">Após conquistarem o sucesso, as Barden Bellas ganham a oportunidade de se apresentar para ninguém menos que o presidente dos Estados Unidos. Só que o show é um grande fiasco, o que as torna uma vergonha nacional.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206133500 -0300" stop="20220206150000 -0300" channel="Universal TV HD">
+  <programme start="20220206133500 +0000" stop="20220206150000 +0000" channel="Universal TV HD">
     <title lang="pt">Spirit - O Corcel Indomável</title>
     <desc lang="pt">No Velho Oeste, um corcel selvagem chamado Mustang Spirit é capturado por soldados, passando a viver maus bocados. Felizmente, ele conhece o jovem índio Lakota, que se torna seu amigo e o leva para seu acampamento.(n)</desc>
   </programme>
-  <programme start="20220206150000 -0300" stop="20220206155500 -0300" channel="Universal TV HD">
+  <programme start="20220206150000 +0000" stop="20220206155500 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">Após o roubo de uma casa luxuosa, o time fica chocado ao descobrir que não apenas a família dormia enquanto o crime ocorria, mas também que a filha adolescente foi violentada durante a invasão.(n)</desc>
     <episode-num system="onscreen">S3 E11</episode-num>
@@ -4235,7 +4281,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206155500 -0300" stop="20220206165000 -0300" channel="Universal TV HD">
+  <programme start="20220206155500 +0000" stop="20220206165000 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">Voight firma um acordo para que seu antigo colega de cela, Eddie Little, se torne informante em um esforço de derrubar um grande fornecedor de cocaína.(n)</desc>
     <episode-num system="onscreen">S3 E12</episode-num>
@@ -4243,7 +4289,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206165000 -0300" stop="20220206174500 -0300" channel="Universal TV HD">
+  <programme start="20220206165000 +0000" stop="20220206174500 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">Lindsay se disfarça para ir atrás de um controverso agente de polícia.(n)</desc>
     <episode-num system="onscreen">S3 E13</episode-num>
@@ -4251,7 +4297,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206174500 -0300" stop="20220206184000 -0300" channel="Universal TV HD">
+  <programme start="20220206174500 +0000" stop="20220206184000 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">Os detetives da SVU, Olivia Benson e Odafin Tutuola, vem até Chicago para auxiliar os policiais a achar o fugitivo Gregory Yates.(n)</desc>
     <episode-num system="onscreen">S3 E14</episode-num>
@@ -4259,7 +4305,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206184000 -0300" stop="20220206193500 -0300" channel="Universal TV HD">
+  <programme start="20220206184000 +0000" stop="20220206193500 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">Um professor universitário é capturado enquanto fazia contrabando de heroína para o Canadá.(n)</desc>
     <episode-num system="onscreen">S3 E15</episode-num>
@@ -4267,7 +4313,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206193500 -0300" stop="20220206203000 -0300" channel="Universal TV HD">
+  <programme start="20220206193500 +0000" stop="20220206203000 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">A polícia investiga o estilo de assassinato de um criminoso que pode estar conectado a um novo caso. O incidente leva os membros da comunidade a começarem uma vigília.(n)</desc>
     <episode-num system="onscreen">S3 E16</episode-num>
@@ -4275,7 +4321,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206203000 -0300" stop="20220206212000 -0300" channel="Universal TV HD">
+  <programme start="20220206203000 +0000" stop="20220206212000 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">Durante uma visita ao banco para seu trabalho extra no ambulatório, Halstead e seus colegas se envolvem em um tiroteio com uma equipe de roubos violenta.(n)</desc>
     <episode-num system="onscreen">S3 E17</episode-num>
@@ -4283,7 +4329,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206212000 -0300" stop="20220206221000 -0300" channel="Universal TV HD">
+  <programme start="20220206212000 +0000" stop="20220206221000 +0000" channel="Universal TV HD">
     <title lang="pt">Chicago P.D.</title>
     <desc lang="pt">A equipe investiga um sequestro dentro de um abrigo secreto para mulheres que sofrem violência doméstica.(n)</desc>
     <episode-num system="onscreen">S3 E18</episode-num>
@@ -4291,21 +4337,21 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206013000 -0300" stop="20220206035500 -0300" channel="Warner Channel HD">
+  <programme start="20220206013000 +0000" stop="20220206035500 +0000" channel="Warner Channel HD">
     <title lang="pt">Animais Fantásticos e Onde Habitam</title>
     <desc lang="pt">O magizoologista Newt Scamander chega à Nova York levando sua preciosa maleta, um objeto mágico onde ele carrega fantásticos animais do mundo da magia que coletou durante as suas viagens.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206035500 -0300" stop="20220206053800 -0300" channel="Warner Channel HD">
+  <programme start="20220206035500 +0000" stop="20220206053800 +0000" channel="Warner Channel HD">
     <title lang="pt">Depois da Terra</title>
     <desc lang="pt">Os humanos abandonaram a Terra há mil anos. Agora, o jovem Kitai e seu pai, o general Cypher Raige, caem em um planeta inóspito e Cypher está ferido. Neste momento, Kitai mostra seu valor e enfrenta perigos inimagináveis.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206053800 -0300" stop="20220206060000 -0300" channel="Warner Channel HD">
+  <programme start="20220206053800 +0000" stop="20220206060000 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Enquanto Raj recebe conselhos amorosos de suas ex-namoradas, Sheldon recebe ajuda para ler os sentimentos das pessoas ao testar um detector de emoções.(n)</desc>
     <episode-num system="onscreen">E14</episode-num>
@@ -4313,7 +4359,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206060000 -0300" stop="20220206062400 -0300" channel="Warner Channel HD">
+  <programme start="20220206060000 +0000" stop="20220206062400 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard e Wolowitz tentam distrair Sheldon quando ele começa a atrasar o progresso do projeto de sistema de orientação. Além disso, Penny e Amy saem com Bernadette à noite, deixando Raj e Stuart cuidando da bebê Halley.(n)</desc>
     <episode-num system="onscreen">E15</episode-num>
@@ -4321,7 +4367,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206062400 -0300" stop="20220206064400 -0300" channel="Warner Channel HD">
+  <programme start="20220206062400 +0000" stop="20220206064400 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Sheldon e Amy têm sua primeira briga desde que se mudaram e passaram a morar juntos, e Koothrappali tem um choque de realidade quando deixa de receber apoio financeiro de seu pai.(n)</desc>
     <episode-num system="onscreen">E16</episode-num>
@@ -4329,7 +4375,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206064400 -0300" stop="20220206070700 -0300" channel="Warner Channel HD">
+  <programme start="20220206064400 +0000" stop="20220206070700 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Após perder o apoio financeiro do pai, Koothrappali pede para Sheldon ajudá-lo a sair do negativo. Além disso, Penny considera ir com Leonard para a Comic-Con.(n)</desc>
     <episode-num system="onscreen">E17</episode-num>
@@ -4337,7 +4383,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206070700 -0300" stop="20220206073000 -0300" channel="Warner Channel HD">
+  <programme start="20220206070700 +0000" stop="20220206073000 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Quando Raj sai de seu apartamento, Leonard e Penny lhe oferecem o velho quarto de Sheldon.(n)</desc>
     <episode-num system="onscreen">E18</episode-num>
@@ -4345,7 +4391,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206073000 -0300" stop="20220206075000 -0300" channel="Warner Channel HD">
+  <programme start="20220206073000 +0000" stop="20220206075000 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard, Penny e Raj se adaptam à nova combinação de moradia, e Sheldon demonstra interesse pelo trabalho de Amy.(n)</desc>
     <episode-num system="onscreen">E19</episode-num>
@@ -4353,7 +4399,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206075000 -0300" stop="20220206090000 -0300" channel="Warner Channel HD">
+  <programme start="20220206075000 +0000" stop="20220206090000 +0000" channel="Warner Channel HD">
     <title lang="pt">Flash</title>
     <desc lang="pt">Barry enfrenta a notícia de sua morte iminente. Enquanto isso, a carreira de Cecile como D.A. entra em conflito com sua identidade quando ela cruza o caminho de um meta-humano perverso.(n)</desc>
     <episode-num system="onscreen">S6 E2</episode-num>
@@ -4361,7 +4407,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206090000 -0300" stop="20220206102200 -0300" channel="Warner Channel HD">
+  <programme start="20220206090000 +0000" stop="20220206102200 +0000" channel="Warner Channel HD">
     <title lang="pt">Flash</title>
     <desc lang="pt">A aparição surpresa de Nora, filha de Barry e Iris no futuro, trouxe novas ameaças, revelações e missões de vida ou morte ao super-herói e sua esposa. O homem mais rápido do mundo também explorou as con...(n)</desc>
     <episode-num system="onscreen">S6 E3</episode-num>
@@ -4369,28 +4415,28 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206102200 -0300" stop="20220206104700 -0300" channel="Warner Channel HD">
+  <programme start="20220206102200 +0000" stop="20220206104700 +0000" channel="Warner Channel HD">
     <title lang="pt">Seinfeld</title>
     <desc lang="pt">Jerry está namorando uma garota chamada Lois. Ele encontra um antigo rival do colégio. Anos atrás Jerry ganhou uma corrida contra ele, mas agora o cara quer acertar contas, pois acha que Seinfeld trapaceou.(n)</desc>
     <episode-num system="onscreen">S6 E10</episode-num>
   </programme>
-  <programme start="20220206104700 -0300" stop="20220206111200 -0300" channel="Warner Channel HD">
+  <programme start="20220206104700 +0000" stop="20220206111200 +0000" channel="Warner Channel HD">
     <title lang="pt">Seinfeld</title>
     <desc lang="pt">George acha que sua namorada modelo sofre de bulimia. Para descobrir, ele contrata a mãe do Kramer, que trabalha no banheiro de um restaurante. Ele descobre também que o primeiro nome do amigo é Cosmo.(n)</desc>
     <episode-num system="onscreen">S6 E11</episode-num>
   </programme>
-  <programme start="20220206111200 -0300" stop="20220206124300 -0300" channel="Warner Channel HD">
+  <programme start="20220206111200 +0000" stop="20220206124300 +0000" channel="Warner Channel HD">
     <title lang="pt">Hotel Transilvânia</title>
     <desc lang="pt">O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula.(n)</desc>
   </programme>
-  <programme start="20220206124300 -0300" stop="20220206142400 -0300" channel="Warner Channel HD">
+  <programme start="20220206124300 +0000" stop="20220206142400 +0000" channel="Warner Channel HD">
     <title lang="pt">Depois da Terra</title>
     <desc lang="pt">Os humanos abandonaram a Terra há mil anos. Agora, o jovem Kitai e seu pai, o general Cypher Raige, caem em um planeta inóspito e Cypher está ferido. Neste momento, Kitai mostra seu valor e enfrenta perigos inimagináveis.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206142400 -0300" stop="20220206144800 -0300" channel="Warner Channel HD">
+  <programme start="20220206142400 +0000" stop="20220206144800 +0000" channel="Warner Channel HD">
     <title lang="pt">Mom</title>
     <desc lang="pt">A exigente professora de direito de Christy (CONSTANCE ZIMMER) pega um pouco pesado com ela. Os planos de Bonnie para obrigar Adam a escolher um local para o casamento dão errado.(n)</desc>
     <episode-num system="onscreen">S6 E11</episode-num>
@@ -4398,7 +4444,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206144800 -0300" stop="20220206151300 -0300" channel="Warner Channel HD">
+  <programme start="20220206144800 +0000" stop="20220206151300 +0000" channel="Warner Channel HD">
     <title lang="pt">Mom</title>
     <desc lang="pt">Christy, uma mãe solteira cuja nova fase na sobriedade lhe deu a habilidade de ver sua vida de forma mais clara... e ela não gosta do que vê.(n)</desc>
     <episode-num system="onscreen">S6 E12</episode-num>
@@ -4406,7 +4452,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206151300 -0300" stop="20220206153700 -0300" channel="Warner Channel HD">
+  <programme start="20220206151300 +0000" stop="20220206153700 +0000" channel="Warner Channel HD">
     <title lang="pt">Brooklyn 9-9</title>
     <desc lang="pt">Jake, Charles e Gina são envolvidos em uma situação no estilo "Duro de Matar" enquanto estão fora de serviço na véspera do Natal, e Terry tem que abandonar a festa familiar para tentar salvar seu esquadr...(n)</desc>
     <episode-num system="onscreen">S3 E10</episode-num>
@@ -4414,7 +4460,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206153700 -0300" stop="20220206160000 -0300" channel="Warner Channel HD">
+  <programme start="20220206153700 +0000" stop="20220206160000 +0000" channel="Warner Channel HD">
     <title lang="pt">Brooklyn 9-9</title>
     <desc lang="pt">Jake ajuda Charles a recuperar o direito sobre o seu esperma, que ficou com a ex-mulher. Sem querer, Amy quebra o nariz de Terry depois de pedir uma recomendação.(n)</desc>
     <episode-num system="onscreen">S3 E11</episode-num>
@@ -4422,7 +4468,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206160000 -0300" stop="20220206162300 -0300" channel="Warner Channel HD">
+  <programme start="20220206160000 +0000" stop="20220206162300 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Sheldon se leva ao limite quando colabora em projetos com Leonard e Wolowitz, assim como Amy no mesmo dia.(n)</desc>
     <episode-num system="onscreen">E20</episode-num>
@@ -4430,7 +4476,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206162300 -0300" stop="20220206164700 -0300" channel="Warner Channel HD">
+  <programme start="20220206162300 +0000" stop="20220206164700 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Howard e Bernadette sofrem para deixar Halley no berçário quando Bernadette volta ao trabalho. Bert apresenta a turma à sua nova namorada, Rebecca.(n)</desc>
     <episode-num system="onscreen">E21</episode-num>
@@ -4438,7 +4484,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206164700 -0300" stop="20220206171200 -0300" channel="Warner Channel HD">
+  <programme start="20220206164700 +0000" stop="20220206171200 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Leonard não fica nada contente quando Penny considera aceitar um novo emprego oferecido por seu ex-namorado, Zack.(n)</desc>
     <episode-num system="onscreen">E22</episode-num>
@@ -4446,7 +4492,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206171200 -0300" stop="20220206173400 -0300" channel="Warner Channel HD">
+  <programme start="20220206171200 +0000" stop="20220206173400 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Depois de Leonard, Sheldon e Wolowitz comemorarem a conclusão do projeto da força aérea, eles têm uma surpresa desagradável.(n)</desc>
     <episode-num system="onscreen">E23</episode-num>
@@ -4454,7 +4500,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206173400 -0300" stop="20220206175700 -0300" channel="Warner Channel HD">
+  <programme start="20220206173400 +0000" stop="20220206175700 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">A turma fica preocupada quando a ex-admiradora de Sheldon, Dr. Ramona Nowitzki, ressurge enquanto Amy está longe em Princeton.(n)</desc>
     <episode-num system="onscreen">E24</episode-num>
@@ -4462,7 +4508,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206175700 -0300" stop="20220206182200 -0300" channel="Warner Channel HD">
+  <programme start="20220206175700 +0000" stop="20220206182200 +0000" channel="Warner Channel HD">
     <title lang="pt">The Big Bang Theory</title>
     <desc lang="pt">Amy dá a Sheldon uma resposta para seu pedido de casamento, enquanto Howard e Bernadette lidam com notícias inesperadas.(n)</desc>
     <episode-num system="onscreen">S11 E1</episode-num>
@@ -4470,14 +4516,14 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206182200 -0300" stop="20220206205000 -0300" channel="Warner Channel HD">
+  <programme start="20220206182200 +0000" stop="20220206205000 +0000" channel="Warner Channel HD">
     <title lang="pt">Animais Fantásticos e Onde Habitam</title>
     <desc lang="pt">O magizoologista Newt Scamander chega à Nova York levando sua preciosa maleta, um objeto mágico onde ele carrega fantásticos animais do mundo da magia que coletou durante as suas viagens.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206000200 -0300" stop="20220206010000 -0300" channel="TCM HD">
+  <programme start="20220206000200 +0000" stop="20220206010000 +0000" channel="TCM HD">
     <title lang="pt">Starsky &amp; Hutch</title>
     <desc lang="pt">Dois policiais sagazes perseguem criminosos a bordo de seu Ford Gran Torino vermelho e branco com a ajuda do informante Huggy Bear.(n)</desc>
     <episode-num system="onscreen">S5 E26</episode-num>
@@ -4485,28 +4531,28 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206010000 -0300" stop="20220206024300 -0300" channel="TCM HD">
+  <programme start="20220206010000 +0000" stop="20220206024300 +0000" channel="TCM HD">
     <title lang="pt">Desejo de Matar</title>
     <desc lang="pt">Depois de sua família ser vítima de um crime, o patriarca resolve se vingar.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206024300 -0300" stop="20220206043200 -0300" channel="TCM HD">
+  <programme start="20220206024300 +0000" stop="20220206043200 +0000" channel="TCM HD">
     <title lang="pt">A Hora do Espanto</title>
     <desc lang="pt">Charley, 17 anos, é louco por filmes de terror e acha que seu vizinho Jerry é um vampiro. Como ninguém lhe dá crédito, Charley vai pedir ajuda a Peter Vincent, um ator que perdeu o emprego de apresentador de filmes de terror.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206043200 -0300" stop="20220206062200 -0300" channel="TCM HD">
+  <programme start="20220206043200 +0000" stop="20220206062200 +0000" channel="TCM HD">
     <title lang="pt">Os Vampiros de John Carpenter</title>
     <desc lang="pt">Por muito tempo a igreja sabe que vampiros existem. Entretanto descobrem que um grupo de vampiros estão procurando por julgamento da humanidade. O Vaticano secretamente lista um time de caçadores de vampiros.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206062200 -0300" stop="20220206071000 -0300" channel="TCM HD">
+  <programme start="20220206062200 +0000" stop="20220206071000 +0000" channel="TCM HD">
     <title lang="pt">Starsky &amp; Hutch</title>
     <desc lang="pt">Dois policiais sagazes perseguem criminosos a bordo de seu Ford Gran Torino vermelho e branco com a ajuda do informante Huggy Bear.(n)</desc>
     <episode-num system="onscreen">S5 E27</episode-num>
@@ -4514,7 +4560,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206071000 -0300" stop="20220206075600 -0300" channel="TCM HD">
+  <programme start="20220206071000 +0000" stop="20220206075600 +0000" channel="TCM HD">
     <title lang="pt">Starsky &amp; Hutch</title>
     <desc lang="pt">Dois policiais sagazes perseguem criminosos a bordo de seu Ford Gran Torino vermelho e branco com a ajuda do informante Huggy Bear.(n)</desc>
     <episode-num system="onscreen">S5 E28</episode-num>
@@ -4522,15 +4568,15 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206075600 -0300" stop="20220206090000 -0300" channel="TCM HD">
+  <programme start="20220206075600 +0000" stop="20220206090000 +0000" channel="TCM HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos.(n)</desc>
   </programme>
-  <programme start="20220206090000 -0300" stop="20220206111700 -0300" channel="TCM HD">
+  <programme start="20220206090000 +0000" stop="20220206111700 +0000" channel="TCM HD">
     <title lang="pt">Hollywood One on One</title>
     <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos.(n)</desc>
   </programme>
-  <programme start="20220206111700 -0300" stop="20220206114000 -0300" channel="TCM HD">
+  <programme start="20220206111700 +0000" stop="20220206114000 +0000" channel="TCM HD">
     <title lang="pt">Mad About You</title>
     <desc lang="pt">Mabel chora durante a noite e os pais chamam o pediatra. Mas, eles também ligam para um parente, que avisa outro...(n)</desc>
     <episode-num system="onscreen">S6 E3</episode-num>
@@ -4538,7 +4584,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206114000 -0300" stop="20220206120300 -0300" channel="TCM HD">
+  <programme start="20220206114000 +0000" stop="20220206120300 +0000" channel="TCM HD">
     <title lang="pt">Mad About You</title>
     <desc lang="pt">Jamie tem depressão pós-parto, mas nega o problema. Paul tenta lidar com os altos e baixos da mulher e tenta dar ajuda.(n)</desc>
     <episode-num system="onscreen">S6 E4</episode-num>
@@ -4546,7 +4592,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206120300 -0300" stop="20220206122700 -0300" channel="TCM HD">
+  <programme start="20220206120300 +0000" stop="20220206122700 +0000" channel="TCM HD">
     <title lang="pt">Mad About You</title>
     <desc lang="pt">Jamie está em depressão pós-parto, mas se recusa a acreditar nisso. Enquanto Paul tenta ajudá-la, ele dirige os próprios pais em uma peça de teatro para caridade.(n)</desc>
     <episode-num system="onscreen">S6 E5</episode-num>
@@ -4554,7 +4600,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206122700 -0300" stop="20220206125000 -0300" channel="TCM HD">
+  <programme start="20220206122700 +0000" stop="20220206125000 +0000" channel="TCM HD">
     <title lang="pt">Mad About You</title>
     <desc lang="pt">Jamie e Paul deixam Mabel com uma babá pela primeira vez. Engano na lavanderia troca a calça de Paul com a de David Copperfield e coisas mágicas acontecem.(n)</desc>
     <episode-num system="onscreen">S6 E6</episode-num>
@@ -4562,7 +4608,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206125000 -0300" stop="20220206134200 -0300" channel="TCM HD">
+  <programme start="20220206125000 +0000" stop="20220206134200 +0000" channel="TCM HD">
     <title lang="pt">Starsky &amp; Hutch</title>
     <desc lang="pt">Dois policiais sagazes perseguem criminosos a bordo de seu Ford Gran Torino vermelho e branco com a ajuda do informante Huggy Bear.(n)</desc>
     <episode-num system="onscreen">S6 E29</episode-num>
@@ -4570,7 +4616,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206134200 -0300" stop="20220206143200 -0300" channel="TCM HD">
+  <programme start="20220206134200 +0000" stop="20220206143200 +0000" channel="TCM HD">
     <title lang="pt">Starsky &amp; Hutch</title>
     <desc lang="pt">Dois policiais sagazes perseguem criminosos a bordo de seu Ford Gran Torino vermelho e branco com a ajuda do informante Huggy Bear.(n)</desc>
     <episode-num system="onscreen">S6 E30</episode-num>
@@ -4578,7 +4624,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206143200 -0300" stop="20220206152300 -0300" channel="TCM HD">
+  <programme start="20220206143200 +0000" stop="20220206152300 +0000" channel="TCM HD">
     <title lang="pt">Starsky &amp; Hutch</title>
     <desc lang="pt">Dois policiais sagazes perseguem criminosos a bordo de seu Ford Gran Torino vermelho e branco com a ajuda do informante Huggy Bear.(n)</desc>
     <episode-num system="onscreen">S6 E31</episode-num>
@@ -4586,7 +4632,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206152300 -0300" stop="20220206161300 -0300" channel="TCM HD">
+  <programme start="20220206152300 +0000" stop="20220206161300 +0000" channel="TCM HD">
     <title lang="pt">Starsky &amp; Hutch</title>
     <desc lang="pt">Dois policiais sagazes perseguem criminosos a bordo de seu Ford Gran Torino vermelho e branco com a ajuda do informante Huggy Bear.(n)</desc>
     <episode-num system="onscreen">S6 E32</episode-num>
@@ -4594,17 +4640,17 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206161300 -0300" stop="20220206163700 -0300" channel="TCM HD">
+  <programme start="20220206161300 +0000" stop="20220206163700 +0000" channel="TCM HD">
     <title lang="pt">Seinfeld</title>
     <desc lang="pt">Quando está no banheiro, Elaine pede papel à mulher que está no banheiro ao lado. Ela se recusa a dar. A mulher é a namorada de Jerry. George reconhece a voz da namorada de Seinfeld em um tele sexo.(n)</desc>
     <episode-num system="onscreen">S5 E12</episode-num>
   </programme>
-  <programme start="20220206163700 -0300" stop="20220206170200 -0300" channel="TCM HD">
+  <programme start="20220206163700 +0000" stop="20220206170200 +0000" channel="TCM HD">
     <title lang="pt">Seinfeld</title>
     <desc lang="pt">Todos vão a um jantar. Elaine e Jerry têm problemas na confeitaria. Eles esquecem de pegar senha e acabam perdendo o último bolo. Kramer e George arrumam confusão na loja de bebidas.(n)</desc>
     <episode-num system="onscreen">S5 E13</episode-num>
   </programme>
-  <programme start="20220206170200 -0300" stop="20220206172600 -0300" channel="TCM HD">
+  <programme start="20220206170200 +0000" stop="20220206172600 +0000" channel="TCM HD">
     <title lang="pt">Mad About You</title>
     <desc lang="pt">Mabel chora durante a noite e os pais chamam o pediatra. Mas, eles também ligam para um parente, que avisa outro...(n)</desc>
     <episode-num system="onscreen">S6 E3</episode-num>
@@ -4612,7 +4658,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206172600 -0300" stop="20220206175000 -0300" channel="TCM HD">
+  <programme start="20220206172600 +0000" stop="20220206175000 +0000" channel="TCM HD">
     <title lang="pt">Mad About You</title>
     <desc lang="pt">Jamie tem depressão pós-parto, mas nega o problema. Paul tenta lidar com os altos e baixos da mulher e tenta dar ajuda.(n)</desc>
     <episode-num system="onscreen">S6 E4</episode-num>
@@ -4620,7 +4666,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206175000 -0300" stop="20220206181400 -0300" channel="TCM HD">
+  <programme start="20220206175000 +0000" stop="20220206181400 +0000" channel="TCM HD">
     <title lang="pt">Mad About You</title>
     <desc lang="pt">Jamie está em depressão pós-parto, mas se recusa a acreditar nisso. Enquanto Paul tenta ajudá-la, ele dirige os próprios pais em uma peça de teatro para caridade.(n)</desc>
     <episode-num system="onscreen">S6 E5</episode-num>
@@ -4628,7 +4674,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206181400 -0300" stop="20220206183800 -0300" channel="TCM HD">
+  <programme start="20220206181400 +0000" stop="20220206183800 +0000" channel="TCM HD">
     <title lang="pt">Mad About You</title>
     <desc lang="pt">Jamie e Paul deixam Mabel com uma babá pela primeira vez. Engano na lavanderia troca a calça de Paul com a de David Copperfield e coisas mágicas acontecem.(n)</desc>
     <episode-num system="onscreen">S6 E6</episode-num>
@@ -4636,17 +4682,17 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206183800 -0300" stop="20220206190200 -0300" channel="TCM HD">
+  <programme start="20220206183800 +0000" stop="20220206190200 +0000" channel="TCM HD">
     <title lang="pt">Seinfeld</title>
     <desc lang="pt">Quando está no banheiro, Elaine pede papel à mulher que está no banheiro ao lado. Ela se recusa a dar. A mulher é a namorada de Jerry. George reconhece a voz da namorada de Seinfeld em um tele sexo.(n)</desc>
     <episode-num system="onscreen">S5 E12</episode-num>
   </programme>
-  <programme start="20220206190200 -0300" stop="20220206192800 -0300" channel="TCM HD">
+  <programme start="20220206190200 +0000" stop="20220206192800 +0000" channel="TCM HD">
     <title lang="pt">Seinfeld</title>
     <desc lang="pt">Todos vão a um jantar. Elaine e Jerry têm problemas na confeitaria. Eles esquecem de pegar senha e acabam perdendo o último bolo. Kramer e George arrumam confusão na loja de bebidas.(n)</desc>
     <episode-num system="onscreen">S5 E13</episode-num>
   </programme>
-  <programme start="20220206192800 -0300" stop="20220206212500 -0300" channel="TCM HD">
+  <programme start="20220206192800 +0000" stop="20220206212500 +0000" channel="TCM HD">
     <title lang="pt">Disque Butterfield 8</title>
     <desc lang="pt">A história de Gloria Wandrous, uma charmosa prostituta de Nova Iorque que leva consigo um passado perturbador e se apaixona por um homem milionário e casado. Terão eles coragem de mudar suas vidas vazias?(n)</desc>
     <rating system="BR">
@@ -5244,42 +5290,42 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20220206010000 -0300" stop="20220206035000 -0300" channel="AMC HD">
+  <programme start="20220206010000 +0000" stop="20220206035000 +0000" channel="AMC HD">
     <title lang="pt">2012</title>
     <desc lang="pt">Apesar das tentativas de salvar o mundo, as autoridades percebem que não têm mais como converter os perigos eminentes que rondam a humanidade. Em meio a caos e pânico, um fracassado escritor tenta levar sua vida normalmente.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206035000 -0300" stop="20220206053500 -0300" channel="AMC HD">
+  <programme start="20220206035000 +0000" stop="20220206053500 +0000" channel="AMC HD">
     <title lang="pt">Os Mercenários 2</title>
     <desc lang="pt">Barney Ross e um bando de mercenários recebem a missão de recuperar um cofre muito importante. No entanto, eles são surpreendidos, e Toll é brutalmente assassinado. Além de buscar vingança, o grupo precisa cumprir sua...(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206053500 -0300" stop="20220206073500 -0300" channel="AMC HD">
+  <programme start="20220206053500 +0000" stop="20220206073500 +0000" channel="AMC HD">
     <title lang="pt">Linha de Ação</title>
     <desc lang="pt">Em Nova York, Billy Taggart deixou a polícia e virou detetive particular. Perto da época de eleição, o prefeito o contrata para investigar sua esposa, a qual ele pensa estar tendo um caso.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206073500 -0300" stop="20220206090500 -0300" channel="AMC HD">
+  <programme start="20220206073500 +0000" stop="20220206090500 +0000" channel="AMC HD">
     <title lang="pt">Piranha</title>
     <desc lang="pt">No paradisíaco Lago Vitctoria muitos turistas aproveitam o sol. Porém, ninguém desconfia que uma pequena rachadura nas profundezas do lago tenha despertado piranhas assassinas prontas para atacar da forma mais mortal.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206090500 -0300" stop="20220206110000 -0300" channel="AMC HD">
+  <programme start="20220206090500 +0000" stop="20220206110000 +0000" channel="AMC HD">
     <title lang="pt">As Palavras</title>
     <desc lang="pt">Um famoso autor em crise conta a história de seu mais novo livro. Com dificuldades para publicar seu primeiro romance, ele encontra um genial antigo manuscrito sem dono e decide publicá-lo como se fosse seu.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206110000 -0300" stop="20220206112500 -0300" channel="AMC HD">
+  <programme start="20220206110000 +0000" stop="20220206112500 +0000" channel="AMC HD">
     <title lang="pt">Action Zone 2021</title>
     <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
     <episode-num system="onscreen">S8 E37</episode-num>
@@ -5287,60 +5333,60 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206112500 -0300" stop="20220206133000 -0300" channel="AMC HD">
+  <programme start="20220206112500 +0000" stop="20220206133000 +0000" channel="AMC HD">
     <title lang="pt">Maré Negra</title>
     <desc lang="pt">Passando por problemas financeiros, Kate aceita uma proposta de um milionário para mergulhar novamente, mas para isso ela terá que enfrentar seu antigo medo.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206133000 -0300" stop="20220206152000 -0300" channel="AMC HD">
+  <programme start="20220206133000 +0000" stop="20220206152000 +0000" channel="AMC HD">
     <title lang="pt">Matilda</title>
     <desc lang="pt">Obrigada a frequentar um colégio infernal, menina desenvolve poderes mágicos que usa para acertar as contas com a diretora e seus colegas indesejáveis.(n)</desc>
   </programme>
-  <programme start="20220206152000 -0300" stop="20220206174500 -0300" channel="AMC HD">
+  <programme start="20220206152000 +0000" stop="20220206174500 +0000" channel="AMC HD">
     <title lang="pt">Um Homem de Família</title>
     <desc lang="pt">Jack Campbell há 13 anos desistiu de um grande amor para se tornar um empresário bem-sucedido. No entanto, a véspera de Natal traz uma surpresa: ele acorda em outra vida, casado e pai de dois filhos.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206174500 -0300" stop="20220206192500 -0300" channel="AMC HD">
+  <programme start="20220206174500 +0000" stop="20220206192500 +0000" channel="AMC HD">
     <title lang="pt">Anjos da Noite - A Rebelião</title>
     <desc lang="pt">O terceiro filme da épica saga Anjos da Noite retorna no tempo para contar as origens do conflito entre os aristocráticos vampiros conhecidos como Mercadores da Morte e os bárbaros lycans, uma linhagem de lobisomens selvagens.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206192500 -0300" stop="20220206211500 -0300" channel="AMC HD">
+  <programme start="20220206192500 +0000" stop="20220206211500 +0000" channel="AMC HD">
     <title lang="pt">Os Mercenários 2</title>
     <desc lang="pt">Barney Ross e um bando de mercenários recebem a missão de recuperar um cofre muito importante. No entanto, eles são surpreendidos, e Toll é brutalmente assassinado. Além de buscar vingança, o grupo precisa cumprir sua...(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206002500 -0300" stop="20220206021000 -0300" channel="Canal Brasil HD">
+  <programme start="20220206002500 +0000" stop="20220206021000 +0000" channel="Canal Brasil HD">
     <title lang="pt">Anna</title>
     <desc lang="pt">Um renomado diretor de teatro decide montar a peça Hamlet. O fracasso da empreitada anterior se deu por conflitos que surgiram nos ensaios, quando ele ultrapassou o limite entre ficção e realidade.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206021000 -0300" stop="20220206035000 -0300" channel="Canal Brasil HD">
+  <programme start="20220206021000 +0000" stop="20220206035000 +0000" channel="Canal Brasil HD">
     <title lang="pt">O Nome da Morte</title>
     <desc lang="pt">Júlio Santana é um jovem comum do interior do Brasil que se tornou pistoleiro e matou 492 pessoas. Pressionado pelo tio Cícero, um policial corrupto, Júlio acaba preso na teia do crime e da violência.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206035000 -0300" stop="20220206053000 -0300" channel="Canal Brasil HD">
+  <programme start="20220206035000 +0000" stop="20220206053000 +0000" channel="Canal Brasil HD">
     <title lang="pt">Paraísos Artificiais</title>
     <desc lang="pt">Erika é uma DJ de relativo sucesso e muito amiga de Lara. Durante um festival onde Erika trabalha, elas conhecem Nando. Juntos, eles vivem um momento intenso.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206053000 -0300" stop="20220206054500 -0300" channel="Canal Brasil HD">
+  <programme start="20220206053000 +0000" stop="20220206054500 +0000" channel="Canal Brasil HD">
     <title lang="pt">Sobrepostas</title>
     <desc lang="pt">Josyana fala sobre a importância das mulheres conhecerem os seus corpos, derrubarem os tabus que rondam a masturbação e desapegarem da ideia de que sexo é apenas penetração.(n)</desc>
     <episode-num system="onscreen">S1 E2</episode-num>
@@ -5348,14 +5394,14 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206054500 -0300" stop="20220206072500 -0300" channel="Canal Brasil HD">
+  <programme start="20220206054500 +0000" stop="20220206072500 +0000" channel="Canal Brasil HD">
     <title lang="pt">Estrangeiro Film Festival: O Pântano (La Ciénaga)</title>
     <desc lang="pt">A cidade de La Cienaga é conhecida pelas terras que se alagam com as chuvas fortes. Para lá, vão duas famílias. Em meio a um verão infernal, elas entram em conflito e a tensão entre elas aumenta.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206072500 -0300" stop="20220206074000 -0300" channel="Canal Brasil HD">
+  <programme start="20220206072500 +0000" stop="20220206074000 +0000" channel="Canal Brasil HD">
     <title lang="pt">Pornolândia</title>
     <desc lang="pt">As irmãs Vênus e Aurora contam como mudaram o rumo de suas vidas para seguirem o trabalho sexual e comentam o preconceito que sofreram ao desbravarem o cenário das camgirls.(n)</desc>
     <episode-num system="onscreen">S4 E37</episode-num>
@@ -5363,75 +5409,75 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206074000 -0300" stop="20220206090000 -0300" channel="Canal Brasil HD">
+  <programme start="20220206074000 +0000" stop="20220206090000 +0000" channel="Canal Brasil HD">
     <title lang="pt">Bonitas e Gostosas</title>
     <desc lang="pt">Um radialista relata em seu programa os fatos que mais marcaram a semana. Para deleite do seu público, o locutor conta a verdadeira história de Chapeuzinho Vermelho, narrada em três versões bem maliciosas.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206090000 -0300" stop="20220206100000 -0300" channel="Canal Brasil HD">
+  <programme start="20220206090000 +0000" stop="20220206100000 +0000" channel="Canal Brasil HD">
     <title lang="pt">Um Crime Entre Nós</title>
     <desc lang="pt">O longa propõe uma mudança de atitude na sociedade frente à violência sexual infantil, tema de extrema urgência e ainda tratado como tabu.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206100000 -0300" stop="20220206101500 -0300" channel="Canal Brasil HD">
+  <programme start="20220206100000 +0000" stop="20220206101500 +0000" channel="Canal Brasil HD">
     <title lang="pt">Maratona Curta na Tela: Alma Bandida</title>
     <desc lang="pt">Sinopse não disponível.(n)</desc>
   </programme>
-  <programme start="20220206101500 -0300" stop="20220206102800 -0300" channel="Canal Brasil HD">
+  <programme start="20220206101500 +0000" stop="20220206102800 +0000" channel="Canal Brasil HD">
     <title lang="pt">Maratona Curta na Tela: Copacabana-Auschwitz</title>
     <desc lang="pt">Um homem aposentado busca descreve sua rotina como morador de Copacabana, no RJ. No entanto, as memórias do tempo em que foi prisioneiro no Campo de Concentração de Auschwitz insistem em invadir sua narrativa.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206102800 -0300" stop="20220206104400 -0300" channel="Canal Brasil HD">
+  <programme start="20220206102800 +0000" stop="20220206104400 +0000" channel="Canal Brasil HD">
     <title lang="pt">Maratona Curta na Tela: A Mulher Que Sou</title>
     <desc lang="pt">Marta quer se dar a chance de viver uma nova vida, em uma nova cidade.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206104400 -0300" stop="20220206105800 -0300" channel="Canal Brasil HD">
+  <programme start="20220206104400 +0000" stop="20220206105800 +0000" channel="Canal Brasil HD">
     <title lang="pt">Maratona Curta Na Tela: a Vida Selvagem de Faustin Von Wolffenbüttel</title>
     <desc lang="pt">Pequeno ensaio sobre a monstruosa figura do escritor e jornalista Fausto Wolff, o homem que viveu mais sua biografia do que a própria vida.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206105800 -0300" stop="20220206111300 -0300" channel="Canal Brasil HD">
+  <programme start="20220206105800 +0000" stop="20220206111300 +0000" channel="Canal Brasil HD">
     <title lang="pt">Maratona Curta na Tela: Motriz</title>
     <desc lang="pt">No interior de Minas Gerais, onde o tempo passa devagar e a saudade teima a andar depressa, Bete, uma mulher de olhos caudalosos e sorriso largo, anseia pelo reencontro anual com sua filha.(n)</desc>
   </programme>
-  <programme start="20220206111300 -0300" stop="20220206113900 -0300" channel="Canal Brasil HD">
+  <programme start="20220206111300 +0000" stop="20220206113900 +0000" channel="Canal Brasil HD">
     <title lang="pt">Maratona Curta na Tela: Mamãe Tem um Demônio</title>
     <desc lang="pt">Nos anos noventa, Tete Barilove era a cantora mais famosa do Brasil. Até ser encontrada morta. Trinta anos depois, Beni, uma antiga fã, descobre o que aconteceu com Tete.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206113900 -0300" stop="20220206115400 -0300" channel="Canal Brasil HD">
+  <programme start="20220206113900 +0000" stop="20220206115400 +0000" channel="Canal Brasil HD">
     <title lang="pt">Maratona Curta na Tela: Mãe Solo</title>
     <desc lang="pt">As histórias de duas mães solo, trazendo consigo algumas reflexões essenciais sobre como a responsabilidade na criação dos filhos recai sobre as mulheres e expõe as questões que envolvem a falta de apoio e acolhi...(n)</desc>
     <rating system="BR">
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206115400 -0300" stop="20220206120500 -0300" channel="Canal Brasil HD">
+  <programme start="20220206115400 +0000" stop="20220206120500 +0000" channel="Canal Brasil HD">
     <title lang="pt">Maratona Curta na Tela: Sorriso</title>
     <desc lang="pt">Com samba no pé e risada contagiante, conheça a história do gari, Renato Sorriso. De uma infância pobre no Rio de Janeiro até sua participação na cerimônia de encerramento das Olimpíadas de Londres 2012.(n)</desc>
   </programme>
-  <programme start="20220206120500 -0300" stop="20220206123000 -0300" channel="Canal Brasil HD">
+  <programme start="20220206120500 +0000" stop="20220206123000 +0000" channel="Canal Brasil HD">
     <title lang="pt">Maratona Curta na Tela: Besta-Fera</title>
     <desc lang="pt">Em 1898, isolados no sertão alagoano, mãe e filho acolhem um homem desconhecido e ferido em casa, fato que muda os rumos de suas vidas.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206123000 -0300" stop="20220206130000 -0300" channel="Canal Brasil HD">
+  <programme start="20220206123000 +0000" stop="20220206130000 +0000" channel="Canal Brasil HD">
     <title lang="pt">Larica Total</title>
     <desc lang="pt">Alta espionagem e culinária de guerrilha estão presentes no episódio. Paulo Oliveira se arrisca na linha de frente da gastronomia industrial e descobre como é feita a famosa Cebola do Deserto Australiano.(n)</desc>
     <episode-num system="onscreen">S3 E70</episode-num>
@@ -5439,47 +5485,47 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220206130000 -0300" stop="20220206131500 -0300" channel="Canal Brasil HD">
+  <programme start="20220206130000 +0000" stop="20220206131500 +0000" channel="Canal Brasil HD">
     <title lang="pt">Cinejornal</title>
     <desc lang="pt">O Cinejornal traz as notícias mais importantes do mercado cinematográfico direto de premiações, estreias e festivais. Onde tem cinema, tem Cinejornal.(n)</desc>
     <episode-num system="onscreen">E37</episode-num>
   </programme>
-  <programme start="20220206131500 -0300" stop="20220206145500 -0300" channel="Canal Brasil HD">
+  <programme start="20220206131500 +0000" stop="20220206145500 +0000" channel="Canal Brasil HD">
     <title lang="pt">Carlota Joaquina, Princesa do Brazil</title>
     <desc lang="pt">Aos 10 anos, Carlota Joaquina é prometida a D. João VI de Portugal. É o início de uma trajetória de brigas, infidelidades e rusgas pelo poder.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206145500 -0300" stop="20220206165500 -0300" channel="Canal Brasil HD">
+  <programme start="20220206145500 +0000" stop="20220206165500 +0000" channel="Canal Brasil HD">
     <title lang="pt">Rasga Coração</title>
     <desc lang="pt">Adaptação da peça de Oduvaldo Vianna Filho. Após 40 anos de militância, Manguari Pistolão vê o filho acusá-lo de ser conservador. Com o passar do tempo, ele se vê repetindo as atitudes do próprio pai.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220206165500 -0300" stop="20220206181500 -0300" channel="Canal Brasil HD">
+  <programme start="20220206165500 +0000" stop="20220206181500 +0000" channel="Canal Brasil HD">
     <title lang="pt">Entrando numa Roubada</title>
     <desc lang="pt">Um roteirista chama um diretor e atores fracassados com a ideia de filmar enquanto assaltam lojas e postos de gasolina. Apesar de os assaltos serem reais, os atores acham que as vítimas fazem parte da cena.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206181500 -0300" stop="20220206194500 -0300" channel="Canal Brasil HD">
+  <programme start="20220206181500 +0000" stop="20220206194500 +0000" channel="Canal Brasil HD">
     <title lang="pt">O Amor no Divã</title>
     <desc lang="pt">Malka Stein é uma renomada terapeuta especializada em guiar casamentos para um lugar melhor. No entanto, após a chegada de um novo casal ao seu consultório, ela coloca em xeque o próprio matrimônio.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220206194500 -0300" stop="20220206212000 -0300" channel="Canal Brasil HD">
+  <programme start="20220206194500 +0000" stop="20220206212000 +0000" channel="Canal Brasil HD">
     <title lang="pt">Casa da Mãe Joana</title>
     <desc lang="pt">Juca, PR, Antônio Pedro e Vavá são amigos que, vagabundos por ideologia, decidem aplicar um golpe em uma joalheria. Vavá, no entanto, acaba fugindo com o dinheiro, deixando os outros em apuros.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220206212000 -0300" stop="20220206225500 -0300" channel="Canal Brasil HD">
+  <programme start="20220206212000 +0000" stop="20220206225500 +0000" channel="Canal Brasil HD">
     <title lang="pt">Cine Holliúdy</title>
     <desc lang="pt">Interior do Ceará, anos 1970. Francisgleydisson é um homem simples que se vê diante de um desafio: ele tem o sonho de montar um cinema, mas a popularização da TV afastou as pessoas da tela grande.(n)</desc>
     <rating system="BR">
