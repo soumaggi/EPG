@@ -12,7 +12,7 @@
   </channel>
   <channel id="Fox HD">
     <display-name lang="pt">Fox HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="FX HD">
     <display-name lang="pt">FX HD</display-name>
@@ -21,31 +21,31 @@
   </channel>
   <channel id="HBO HD">
     <display-name lang="pt">HBO HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="HBO 2 HD">
     <display-name lang="pt">HBO 2 HD</display-name>
-    <url>http://www.vivo.com.br</url>
+    <url>http://www.sky.com.br</url>
   </channel>
   <channel id="HBO Family HD">
     <display-name lang="pt">HBO Family HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="HBO Signature HD">
     <display-name lang="pt">HBO Signature HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="HBO Pop HD">
     <display-name lang="pt">HBO Pop HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="HBO Mundi HD">
     <display-name lang="pt">HBO Mundi HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="HBO Xtreme HD">
     <display-name lang="pt">HBO Xtreme HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="HBO + HD">
     <display-name lang="pt">HBO + HD</display-name>
@@ -108,11 +108,11 @@
   </channel>
   <channel id="Fox Premium 1 HD">
     <display-name lang="pt">Fox Premium 1 HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Fox Premium 2 HD">
     <display-name lang="pt">Fox Premium 2 HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="AMC HD">
     <display-name lang="pt">AMC HD</display-name>
@@ -126,23 +126,23 @@
   </channel>
   <channel id="Smithsonian HD">
     <display-name lang="pt">Smithsonian HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Playboy TV HD">
     <display-name lang="pt">Playboy TV HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Sexy Hot HD">
     <display-name lang="pt">Sexy Hot HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="[+18] Sextreme SD">
     <display-name lang="pt">[+18] Sextreme SD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="[+18] Venus SD">
     <display-name lang="pt">[+18] Venus SD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Boomerang HD">
     <display-name lang="pt">Boomerang HD</display-name>
@@ -202,19 +202,19 @@
   </channel>
   <channel id="TV Aparecida HD">
     <display-name lang="pt">TV Aparecida HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Film &amp; Arts HD">
     <display-name lang="pt">Film &amp; Arts HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Globo SP HD">
     <display-name lang="pt">Globo SP HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="CNN Brasil HD">
     <display-name lang="pt">CNN Brasil HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Paramount Channel HD">
     <display-name lang="pt">Paramount Channel HD</display-name>
@@ -250,58 +250,59 @@
   </channel>
   <channel id="Mais GloboSat HD">
     <display-name lang="pt">Mais GloboSat HD</display-name>
+    <url>http://www.vcfaz.tv</url>
   </channel>
   <channel id="Futura HD">
     <display-name lang="pt">Futura HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Rede Vida HD">
     <display-name lang="pt">Rede Vida HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="TV Cancao Nova HD">
     <display-name lang="pt">TV Cancao Nova HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Band SP HD">
     <display-name lang="pt">Band SP HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="TV Gazeta SP HD">
     <display-name lang="pt">TV Gazeta SP HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Boa Vontade TV HD">
     <display-name lang="pt">Boa Vontade TV HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Cultura HD">
     <display-name lang="pt">Cultura HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="RecordTV SP HD">
     <display-name lang="pt">RecordTV SP HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="AgroMais HD">
     <display-name lang="pt">AgroMais HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="TV Brasil HD">
     <display-name lang="pt">TV Brasil HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="TV Camara HD">
     <display-name lang="pt">TV Camara HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="TV Novo Tempo HD">
     <display-name lang="pt">TV Novo Tempo HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="RedeTV HD">
     <display-name lang="pt">RedeTV HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="SBT HD">
     <display-name lang="pt">SBT HD</display-name>
@@ -313,39 +314,39 @@
   </channel>
   <channel id="A&amp;E HD">
     <display-name lang="pt">A&amp;E HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="BIS HD">
     <display-name lang="pt">BIS HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Comedy Central HD">
     <display-name lang="pt">Comedy Central HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Curta HD">
     <display-name lang="pt">Curta HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Discovery H&amp;H HD">
     <display-name lang="pt">Discovery H&amp;H HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Discovery Turbo HD">
     <display-name lang="pt">Discovery Turbo HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="E! HD">
     <display-name lang="pt">E! HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Fish TV HD">
     <display-name lang="pt">Fish TV HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Food Network HD">
     <display-name lang="pt">Food Network HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Fox Life HD">
     <display-name lang="pt">Fox Life HD</display-name>
@@ -353,39 +354,39 @@
   </channel>
   <channel id="GNT HD">
     <display-name lang="pt">GNT HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="ID: Investigacao Discovery HD">
     <display-name lang="pt">ID: Investigacao Discovery HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Lifetime HD">
     <display-name lang="pt">Lifetime HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="MTV HD">
     <display-name lang="pt">MTV HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Multishow HD">
     <display-name lang="pt">Multishow HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Music Box Brazil HD">
     <display-name lang="pt">Music Box Brazil HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="OFF HD">
     <display-name lang="pt">OFF HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Prime Box Brazil HD">
     <display-name lang="pt">Prime Box Brazil HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="TLC HD">
     <display-name lang="pt">TLC HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="VH1 HD">
     <display-name lang="pt">VH1 HD</display-name>
@@ -401,35 +402,35 @@
   </channel>
   <channel id="Curta! SD">
     <display-name lang="pt">Curta! SD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="DogTV HD">
     <display-name lang="pt">DogTV HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="FashionTV HD">
     <display-name lang="pt">FashionTV HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="MTV Live HD">
     <display-name lang="pt">MTV Live HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Love Nature HD">
     <display-name lang="pt">Love Nature HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Travel Box Brazil HD">
     <display-name lang="pt">Travel Box Brazil HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Like HD">
     <display-name lang="pt">Like HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Band Sports HD">
     <display-name lang="pt">Band Sports HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Combate HD">
     <display-name lang="pt">Combate HD</display-name>
@@ -437,7 +438,7 @@
   </channel>
   <channel id="ESPN Brasil HD">
     <display-name lang="pt">ESPN Brasil HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="ESPN HD">
     <display-name lang="pt">ESPN HD</display-name>
@@ -453,7 +454,7 @@
   </channel>
   <channel id="Premiere Clubes HD">
     <display-name lang="pt">Premiere Clubes HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Premiere 2 HD">
     <display-name lang="pt">Premiere 2 HD</display-name>
@@ -485,15 +486,15 @@
   </channel>
   <channel id="SporTV 3 HD">
     <display-name lang="pt">SporTV 3 HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="SporTV 2 HD">
     <display-name lang="pt">SporTV 2 HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="SporTV HD">
     <display-name lang="pt">SporTV HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="ESPN 2 HD">
     <display-name lang="pt">ESPN 2 HD</display-name>
@@ -505,19 +506,19 @@
   </channel>
   <channel id="CONMEBOL TV 1 HD">
     <display-name lang="pt">CONMEBOL TV 1 HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="CONMEBOL TV 2 HD">
     <display-name lang="pt">CONMEBOL TV 2 HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="CONMEBOL TV 3 HD">
     <display-name lang="pt">CONMEBOL TV 3 HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="CONMEBOL TV 4 HD">
     <display-name lang="pt">CONMEBOL TV 4 HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Animal Planet HD">
     <display-name lang="pt">Animal Planet HD</display-name>
@@ -1448,173 +1449,72 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20220206071000 +0000" stop="20220206090000 +0000" channel="HBO 2 HD">
-    <title lang="pt">O Último Suspeito</title>
-    <desc lang="pt">Ele escapou de seu passado, mas o presente o espera. O detetive LaMarca terá a difícil notícia de que seu filho assassinou um policial.(n)</desc>
+  <programme start="20220206200000 -0300" stop="20220206220000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Destruição Final - O Último Refúgio</title>
+    <desc lang="pt">John Garrity, sua ex-esposa e seu filho embarcam em uma jornada perigosa para encontrar um santuário enquanto um cometa destruidor de planetas avança em direção à Terra. Em meio a relatos aterrorizantes de cidades sendo destruídas, Garrity vê o melhor e o pior da humanidade. À medida que a contagem regressiva para o apocalipse se aproxima de zero, sua incrível jornada culmina em um vôo desesperado e de última hora para um possível refúgio seguro.(n)</desc>
     <credits>
-      <director>Michael Caton-Jones</director>
-      <actor>Nestor Serrano</actor>
-      <actor>Eliza Dushku</actor>
-      <actor>Frances McDormand</actor>
-      <actor>Brian Tarantina</actor>
-      <actor>Robert De Niro</actor>
-      <actor>William Forsythe</actor>
-      <actor>Matthew Colles</actor>
-      <actor>James Franco</actor>
-      <actor>Patti LuPone</actor>
-      <actor>Drena De Niro</actor>
+      <director>Ric Roman Waugh</director>
+      <actor>Morena Baccarin</actor>
+      <actor>Andrew Bachelor</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Hope Davis</actor>
+      <actor>David Denman</actor>
+      <actor>Roger Dale Floyd</actor>
     </credits>
-    <category lang="pt">Policial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/40/10408908_3DEB06C333694C43.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>16</value>
+    <category lang="pt">Filmes</category>
+    <category lang="pt">Ação e Aventura</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/movieposters/AllMADPhotos/2215048/2215048_v1_p.jpg" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220206090000 +0000" stop="20220206103000 +0000" channel="HBO 2 HD">
-    <title lang="pt">Não é Mais um Besteirol Americano</title>
-    <desc lang="pt">Sátira às comédias adolescentes que mostra como o atleta mais bonito do colégio consegue transformar uma garota feia na rainha do baile de formatura.(n)</desc>
+  <programme start="20220206220000 -0300" stop="20220206230200 -0300" channel="HBO 2 HD">
+    <title lang="pt">Euphoria</title>
+    <sub-title lang="pt">You Who Cannot See, Think of Those Who Can</sub-title>
+    <desc lang="pt">Maddy comemora seu aniversário; Jules pede conselhos a Elliot; Cal viaja em suas lembranças. Um grupo de estudantes do ensino médio lida com diferentes situações típicas da idade como drogas, sexo, busca pela identidade, traumas, comportamento nas redes sociais e amizade.(n)</desc>
     <credits>
-      <director>Joel Gallen</director>
-      <actor>Chyler Leigh</actor>
-      <actor>Eric Jungmann</actor>
-      <actor>Cody McMains</actor>
-      <actor>Deon Richmond</actor>
-      <actor>Randy Quaid</actor>
-      <actor>Ron Lester</actor>
-      <actor>Chris Evans</actor>
-      <actor>Mia Kirshner</actor>
-      <actor>Peter Simon</actor>
-      <actor>Eric Christian Olsen</actor>
-    </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/40/10408917_4C18C68D8135DF9C.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220206103000 +0000" stop="20220206120500 +0000" channel="HBO 2 HD">
-    <title lang="pt">O Grito</title>
-    <desc lang="pt">Sam Raimi apresenta esta versão obscura da casa amaldiçoada que leva vítima após vítima pelas mãos de um espírito vingativo.(n)</desc>
-    <credits>
-      <director>Nicolas Pesce</director>
-      <actor>David Lawrence Brown</actor>
-      <actor>Tara Westwood</actor>
-      <actor>Junko Bailey</actor>
-    </credits>
-    <category lang="pt">Terror</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/63/9632970_D2750AD7540243F4.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220206120500 +0000" stop="20220206135000 +0000" channel="HBO 2 HD">
-    <title lang="pt">Monster Hunter</title>
-    <desc lang="pt">Milla Jovovich luta contra enormes e assustadores monstros nesta aventura-fantasia baseada no videogame de mesmo nome.(n)</desc>
-    <credits>
-      <director>Paul W. S. Anderson</director>
-      <actor>Tony Jaa</actor>
-      <actor>Ron Perlman</actor>
-      <actor>Milla Jovovich</actor>
-    </credits>
-    <category lang="pt">Ação</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9318702_34FC8C74791EF8D1.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220206135000 +0000" stop="20220206152000 +0000" channel="HBO 2 HD">
-    <title lang="pt">Escape Room 2: Tensão Máxima</title>
-    <desc lang="pt">Nesta sequência de Escape Room (2019) seis participantes que já sobreviveram ao desafio devem enfrentar uma nova série de quartos mortais.(n)</desc>
-    <credits>
-      <director>Adam Robitel</director>
-      <actor>Deborah Ann Woll</actor>
-      <actor>Taylor Russell</actor>
-      <actor>Logan Miller</actor>
-    </credits>
-    <category lang="pt">Ação</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/34/10347636_E9FB02E41C4086B8.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220206152000 +0000" stop="20220206171000 +0000" channel="HBO 2 HD">
-    <title lang="pt">Débi e Lóide 2 - Quando Débi Conheceu Lóide</title>
-    <desc lang="pt">Lloyd era conhecido como o rapaz mais estúpido do colégio. Isso até a chegada de seu amigo Harry. Quando descobrem que foram postos numa classe "especial", a dupla decide lutar para recuperar seu lugar na escola.(n)</desc>
-    <credits>
-      <director>Troy Miller</director>
-      <actor>Derek Richardson</actor>
-      <actor>Cheri Oteri</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Rachel Nichols</actor>
-      <actor>Eugene Levy</actor>
-    </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/47/10471889_BB4703281EF8CA16.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20220206171000 +0000" stop="20220206190000 +0000" channel="HBO 2 HD">
-    <title lang="pt">Cry Macho: O Caminho Para Redenção</title>
-    <desc lang="pt">Clint Eastwood interpreta um homem cansado do mundo que encontra seu próprio senso de redenção ao ajudar um menino a chegar ao Texas.(n)</desc>
-    <credits>
-      <director>Clint Eastwood</director>
-      <actor>Dwight Yoakam</actor>
-      <actor>Clint Eastwood</actor>
-      <actor>Daniel V. Graulau</actor>
+      <actor role="Rue">Zendaya </actor>
+      <actor role="Lexi">Maude Apatow</actor>
+      <actor role="Fezco">Angus Cloud</actor>
+      <actor role="Maddy">Alexa Demie</actor>
+      <actor role="Nate">Jacob Elordi</actor>
+      <actor role="Kat">Barbie Ferreira</actor>
     </credits>
     <category lang="pt">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/06/10065203_939375EA2725EF0D.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>+12</value>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/SH034849590000/SH034849590000_b_v5_v1_p.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>18+</value>
     </rating>
   </programme>
-  <programme start="20220206190000 +0000" stop="20220206205500 +0000" channel="HBO 2 HD">
-    <title lang="pt">Invocação do Mal 3: A Ordem do Demônio</title>
-    <desc lang="pt">Patrick Wilson e Vera Farmiga retornam como Ed e Lorraine Warren para dar vida a um dos casos paranormais mais famosos dos EUA.(n)</desc>
+  <programme start="20220206230200 -0300" stop="20220207000100 -0300" channel="HBO 2 HD">
+    <title lang="pt">Euphoria</title>
+    <sub-title lang="pt">2ª Temp. Ep.5</sub-title>
+    <desc lang="pt">O destino tem uma maneira de alcançar aqueles que tentam fugir dele. Um grupo de estudantes do ensino médio lida com diferentes situações típicas da idade como drogas, sexo, busca pela identidade, traumas, comportamento nas redes sociais e amizade.(n)</desc>
     <credits>
-      <director>Michael Chaves</director>
-      <actor>Ruairi O'Connor</actor>
-      <actor>Vera Farmiga</actor>
-      <actor>Patrick Wilson</actor>
+      <actor>Zendaya</actor>
+      <actor>Maude Apatow</actor>
+      <actor>Angus Cloud</actor>
+      <actor>Alexa Demie</actor>
+      <actor>Jacob Elordi</actor>
+      <actor>Barbie Ferreira</actor>
     </credits>
-    <category lang="pt">Terror</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/37/9372995_F3ACF4C5BF31FB02.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220206205500 +0000" stop="20220206223000 +0000" channel="HBO 2 HD">
-    <title lang="pt">Escape Room 2: Tensão Máxima</title>
-    <desc lang="pt">Nesta sequência de Escape Room (2019) seis participantes que já sobreviveram ao desafio devem enfrentar uma nova série de quartos mortais.(n)</desc>
-    <credits>
-      <director>Adam Robitel</director>
-      <actor>Deborah Ann Woll</actor>
-      <actor>Taylor Russell</actor>
-      <actor>Logan Miller</actor>
-    </credits>
-    <category lang="pt">Ação</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/34/10347636_E9FB02E41C4086B8.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220206223000 +0000" stop="20220207000000 +0000" channel="HBO 2 HD">
-    <title lang="pt">Confisco</title>
-    <desc lang="pt">A história dos afetados pelo confisco brasileiro de 1990, o maior já realizado por um governo democrático contra seus cidadãos.(n)</desc>
-    <category lang="pt">Documentário</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/90/9907267_2CAEC0B239CCA58C.jpg" />
-    <rating>
-      <value>14</value>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/SH034849590000/SH034849590000_b_v5_v1_p.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>18+</value>
     </rating>
   </programme>
   <programme start="20220206013500 -0300" stop="20220206033900 -0300" channel="HBO Family HD">
@@ -6122,6 +6022,328 @@
       <actor>Bernardo Morisco</actor>
       <actor>Claudia Pulignano</actor>
       <actor>Florencia Coronato</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206001500 -0300" stop="20220206005000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">A Técnica de Relaxamento</title>
+    <desc lang="pt">Um casal que não deixa a rotina abalar a vida sexual. O segredo? Uma técnica de relaxamento que sempre tem um final feliz.(n)</desc>
+    <credits>
+      <director>Javier Falcon</director>
+      <actor>Vivian</actor>
+      <actor>Toni Tigrão</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206005000 -0300" stop="20220206015500 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Churrasco, Resenha e Swing</title>
+    <desc lang="pt">Um fim de semana de sol, carne na brasa, caipirinha no copo e dois casais de amigos. Não tem como dar errado, não é mesmo?(n)</desc>
+    <credits>
+      <director>Javier Falcon</director>
+      <director>Marco Cidade</director>
+      <actor>Aniaty Barbosa</actor>
+      <actor>Evy Kethelyn</actor>
+      <actor>Nego Catra</actor>
+      <actor>Toni Tigrão</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206015500 -0300" stop="20220206031000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Novatas Em Ação</title>
+    <desc lang="pt">Elas podem até estar sendo iniciadas agora, mas parece que já fazem isso há anos!(n)</desc>
+    <credits>
+      <director>Helaine Muzy</director>
+      <actor>Felipe Costa</actor>
+      <actor>Gabriela Ramos</actor>
+      <actor>Vinny Burgos</actor>
+      <actor>Yngrid Nascimento</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206031000 -0300" stop="20220206034500 -0300" channel="Sexy Hot HD">
+    <title lang="pt">A Técnica de Relaxamento</title>
+    <desc lang="pt">Um casal que não deixa a rotina abalar a vida sexual. O segredo? Uma técnica de relaxamento que sempre tem um final feliz.(n)</desc>
+    <credits>
+      <director>Javier Falcon</director>
+      <actor>Vivian</actor>
+      <actor>Toni Tigrão</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206034500 -0300" stop="20220206052000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Quero Ser Uma Pornstar</title>
+    <desc lang="pt">Elas terão que mostrar suas habilidades e fazer por merecer o título de pornstar. Um verdadeiro teste do sofá como você nunca viu!(n)</desc>
+    <credits>
+      <director>Marcelo Cavalcanti</director>
+      <actor>Alice Lemos</actor>
+      <actor>Leona</actor>
+      <actor>Stephany Queiroz</actor>
+      <actor>Jota</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206052000 -0300" stop="20220206060000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Poderosa</title>
+    <desc lang="pt">Giovana ta dê casa nova e comemorou mostrando uns brinquedinhos para o Capoeira.(n)</desc>
+    <credits>
+      <director>Max Anderson</director>
+      <actor>Capoeira</actor>
+      <actor>Giovana Bombom</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206062500 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Xeque-Mate</title>
+    <desc lang="pt">Uma partida de xadrez: Qual era o prêmio? Havia uma aposta entre eles? Quem é freguês de quem? No final das contas, um rei e uma rainha de respeito vão resolver essa partida da melhor forma possível.(n)</desc>
+    <credits>
+      <director>Marco Cidade</director>
+      <actor>Amanda Borges</actor>
+      <actor>Nego Catra</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206062500 -0300" stop="20220206073000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Questão de Pele</title>
+    <desc lang="pt">Fábio e Mariana são amigos de infância e se reencontram em um bar quinze anos depois. Entre lembranças e olhares, os dois acabam indo para a cama. A transa é intensa e cheia de significados.(n)</desc>
+    <credits>
+      <director>May Medeiros</director>
+      <actor>Mario</actor>
+      <actor>Mayanna Rodrigues</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206073000 -0300" stop="20220206090500 -0300" channel="Sexy Hot HD">
+    <title lang="pt">TV Tesão</title>
+    <sub-title lang="pt">Elisa Entrevista</sub-title>
+    <desc lang="pt">Elisa Sanches em um programa só dela. A pauta você já sabe: anal.(n)</desc>
+    <credits>
+      <director>Paul Wild</director>
+      <actor>Elisa Sanches</actor>
+      <actor>Erick Fire</actor>
+      <actor>Shayenne Samara</actor>
+      <actor>Toni Tigrão</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206090500 -0300" stop="20220206101000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Ereção Divã</title>
+    <desc lang="pt">Eles pararam no divã para resolver seus problemas de ereções, e claro que as terapeutas ajudaram nesse problemão.(n)</desc>
+    <credits>
+      <director>Brad Montana</director>
+      <actor>Izabela Pimenta</actor>
+      <actor>Jack Kallahari</actor>
+      <actor>Mark Butt</actor>
+      <actor>Teh Angel</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206101000 -0300" stop="20220206105000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Na Estrada</title>
+    <desc lang="pt">O carro de Eduardo quebra no meio do nada e o único veículo que para é o delas... Será que vai rolar uma ajudinha?(n)</desc>
+    <credits>
+      <director>Bruna Ferraz</director>
+      <actor>Amanda Souza</actor>
+      <actor>Evy Ketlhyn</actor>
+      <actor>Joy Cardoso</actor>
+      <actor>Julia Cataúcha</actor>
+      <actor>Pernocas</actor>
+      <actor>Peu</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206105000 -0300" stop="20220206122500 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Eterno Tesão</title>
+    <desc lang="pt">São eles que transam, mas quem fica sem fôlego é você.(n)</desc>
+    <credits>
+      <director>Roy LP</director>
+      <actor>Mila Spook</actor>
+      <actor>Rafaella Denardin</actor>
+      <actor>Capoeira</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206122500 -0300" stop="20220206135500 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Garotas Levadas Sabem o que Fazem</title>
+    <desc lang="pt">Aqui, quem domina são elas. Um BDSM light no qual vale (quase) tudo. Chicotes, algemas e vendas são os preferidos.(n)</desc>
+    <credits>
+      <director>Paul Wild</director>
+      <actor>Ellen Duarte</actor>
+      <actor>Elisa Sanches</actor>
+      <actor>Karoline Vibe</actor>
+      <actor>Erick Fire</actor>
+      <actor>Loupan</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206135500 -0300" stop="20220206143500 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Reparo Completo</title>
+    <desc lang="pt">Aline está precisando dar uma guinada em sua vida. E um novo emprego pode ajudar, mas uma paixão repentina pode fazê-la arriscar tudo.(n)</desc>
+    <credits>
+      <director>Luz Del Fuego</director>
+      <actor>Mia Linz</actor>
+      <actor>Oscar Martins</actor>
+      <actor>Erika Castro e Jéssica Oliveira</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206143500 -0300" stop="20220206161000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Belas e Safadas</title>
+    <desc lang="pt">Duas gostosas empoderadas vão mostrar que mulheres também amam sexo e não há nada de errado nisso.(n)</desc>
+    <credits>
+      <director>Roy</director>
+      <actor>Pâmela Pantera</actor>
+      <actor>Capoeira</actor>
+      <actor>Ed Junior</actor>
+      <actor>Bruninha Fitness e Scorpion</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206161000 -0300" stop="20220206174500 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Loiras Perversas</title>
+    <desc lang="pt">Uma loira molhadinha é perfeita para matar a sede de sexo!(n)</desc>
+    <credits>
+      <director>Marcelo Cavalcantti</director>
+      <actor>Alice Alcantara</actor>
+      <actor>Lilith Scarlet</actor>
+      <actor>Manu Fox</actor>
+      <actor>Adilson</actor>
+      <actor>Marcelo Maranhão</actor>
+      <actor>Erick Fire</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206174500 -0300" stop="20220206182500 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Laços</title>
+    <desc lang="pt">Quatro vidas interligadas que se cruzam numa noite de prazer.(n)</desc>
+    <credits>
+      <director>Marcos Cidade</director>
+      <actor>Bruninha Fitness</actor>
+      <actor>Dread Hot</actor>
+      <actor>Alemão e André Garcia</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206182500 -0300" stop="20220206200000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Curtir e Compartilhar</title>
+    <desc lang="pt">Quem divide, multiplica. Para esses casais, um ménage é sempre a melhor pedida!(n)</desc>
+    <credits>
+      <director>Marcello Cavalcantti</director>
+      <actor>Amanda Souza</actor>
+      <actor>Aninha Galzerano</actor>
+      <actor>Monique Albuquerque</actor>
+      <actor>Erick Fire</actor>
+      <actor>Higor Negrão</actor>
+      <actor>Johny</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206200000 -0300" stop="20220206212000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">O Que Trazes Pra Mim</title>
+    <desc lang="pt">O que trazes pra mim? Muito tesão! Essa coelhinha tarada abusa dos acessórios para distribuir prazer para homens e mulheres.(n)</desc>
+    <credits>
+      <director>May</director>
+      <actor>Mila Spook</actor>
+      <actor>Debora Blu</actor>
+      <actor>Nan</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206212000 -0300" stop="20220206220000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">Poderosa</title>
+    <desc lang="pt">Giovana ta dê casa nova e comemorou mostrando uns brinquedinhos para o Capoeira.(n)</desc>
+    <credits>
+      <director>Max Anderson</director>
+      <actor>Capoeira</actor>
+      <actor>Giovana Bombom</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206220000 -0300" stop="20220206230000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">O Corno, O Amante e O Entregador</title>
+    <desc lang="pt">Só o marido não vai dar conta de saciar os desejos dessa gostosa. Ela vai precisar do corno, do amante e até do entregador!(n)</desc>
+    <credits>
+      <director>Paula Mann</director>
+      <actor>Nina Lins</actor>
+      <actor>Jota</actor>
+      <actor>Erick Fire</actor>
+      <actor>Maurinho e Alê</actor>
+    </credits>
+    <category lang="pt">Erótico</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20220206230000 -0300" stop="20220207001000 -0300" channel="Sexy Hot HD">
+    <title lang="pt">A Grande Família</title>
+    <desc lang="pt">Essa amiga chegou para ficar na família, e já tem intimidades com todo mundo.(n)</desc>
+    <credits>
+      <director>Paula Mann</director>
+      <actor>Baianinha</actor>
+      <actor>Jota</actor>
+      <actor>Thalia Senna</actor>
     </credits>
     <category lang="pt">Erótico</category>
     <rating system="BR">
