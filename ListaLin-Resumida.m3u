@@ -98,10 +98,10 @@ http://cdn99.one:80/561467/Xn5B6F/71934.ts
 http://cdn99.one:80/561467/Xn5B6F/71955.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/dgd",Futura HD
 http://cdn99.one:80/561467/Xn5B6F/71964.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW",FX FHD
-http://cdn99.one:80/561467/Xn5B6F/71966.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W",Gloob SD
-http://cdn99.one:80/561467/Xn5B6F/131117.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW",FX HD
+http://cdn99.one:80/561467/Xn5B6F/71968.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W",Gloob HD
+http://cdn99.one:80/561467/Xn5B6F/72100.ts
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png",Gloobinho HD
 http://cdn99.one:80/561467/Xn5B6F/90629.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/scT",GNT HD
@@ -126,7 +126,7 @@ http://cdn99.one:80/561467/Xn5B6F/72136.ts
 http://cdn99.one:80/561467/Xn5B6F/72140.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/nug",HGTV HD
 http://cdn99.one:80/561467/Xn5B6F/72144.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2",History HD
+#EXTINF:-1 xmltv_id="History Channel HD" tvg-logo="http://a5.vc/VE2",History HD
 http://cdn99.one:80/561467/Xn5B6F/72148.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/53O",ID: Investigacao Discovery HD
 http://cdn99.one:80/561467/Xn5B6F/72152.ts
