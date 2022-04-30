@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv",EPTV Ribeirão HD
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv",EPTV Ribeirao HD
 http://cdn99.one:80/561467/Xn5B6F/131178.ts
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png",Cultura HD
 http://cdn99.one:80/561467/Xn5B6F/71853.ts
