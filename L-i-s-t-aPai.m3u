@@ -669,3 +669,9 @@ http://acsb.sh:80/4673629418/snakeplay/72989.ts
 http://acsb.sh:80/4673629418/snakeplay/72991.ts
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | Conmebol",Conmebol TV 4 SD
 http://acsb.sh:80/4673629418/snakeplay/72992.ts
+#EXTINF:-1 tvg-logo="http://acsa.ws:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Esportes",Copa do Brasil 1 SD
+http://acsc.cc:80/4673629418/snakeplay/150500.ts
+#EXTINF:-1 tvg-logo="http://acsa.ws:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Esportes",Copa do Brasil 2 HD
+http://acsc.cc:80/4673629418/snakeplay/150502.ts
+#EXTINF:-1 tvg-logo="http://acsa.ws:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Esportes",Copa do Brasil 2 SD
+http://acsc.cc:80/4673629418/snakeplay/150503.ts
