@@ -46061,33 +46061,6 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20221207023000 +0000" stop="20221207040000 +0000" channel="ESPN Brasil HD">
-    <title lang="pt">SportsCenter</title>
-    <desc lang="pt">Veja os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos.(n)</desc>
-    <date>2012</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12928829_6067A41608772032.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20221207040000 +0000" stop="20221207053000 +0000" channel="ESPN Brasil HD">
-    <title lang="pt">ESPN FC 2ª Edição</title>
-    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, repórteres trazem informações exclusivos sobre os confrontos do dia.(n)</desc>
-    <date>2021</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11852200_0B1257E07FBDDB26.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20221207053000 +0000" stop="20221207080000 +0000" channel="ESPN Brasil HD">
-    <title lang="pt">SportsCenter</title>
-    <desc lang="pt">Veja os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos.(n)</desc>
-    <date>2012</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12928829_6067A41608772032.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20221207080000 +0000" stop="20221207083000 +0000" channel="ESPN Brasil HD">
     <title lang="pt">Um Trem para o Qatar</title>
     <desc lang="pt">Acompanhe as principais histórias que antecedem a realização da Copa do Mundo da FIFA de 2022.(n)</desc>
@@ -46219,7 +46192,7 @@
     <sub-title lang="pt">T1 EP5 - Gonzalo Plata</sub-title>
     <desc lang="pt">Peça-chave da classificação do Equador, o ponta-direita revisita sua carreira, fala do desafio de jogar a Copa do Mundo e analisa o seu momento no futebol espanhol, jogando pelo Valladolid.(n)</desc>
     <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14021064_5CE92D61C9E79EC1.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14020992_6FF6BBEF92CFDEA3.jpg" />
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating>
       <value>AGE215</value>
@@ -46230,7 +46203,7 @@
     <sub-title lang="pt">T1 EP6 - Federico Valverde</sub-title>
     <desc lang="pt">O meio-campista uruguaio do Real Madrid fala sobre a sua preparação para a Copa do Mundo de 2022, no Qatar, e o momento que vive no futebol espanhol.(n)</desc>
     <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14021064_5CE92D61C9E79EC1.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14020992_6FF6BBEF92CFDEA3.jpg" />
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating>
       <value>AGE215</value>
@@ -46313,33 +46286,6 @@
     <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, repórteres trazem informações exclusivos sobre os confrontos do dia.(n)</desc>
     <date>2021</date>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11852200_0B1257E07FBDDB26.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20221207013000 +0000" stop="20221207040000 +0000" channel="ESPN HD">
-    <title lang="pt">Dallas Stars x Toronto Maple Leafs - NHL : Dallas Stars x Toronto Maple Leafs</title>
-    <sub-title lang="pt">Dallas Stars x Toronto Maple Leafs</sub-title>
-    <desc lang="pt">O Dallas Stars recebe o Toronto Maple Leafs no American Airlines Center, no Texas. Liderando a divisão central, os Stars querem ampliar sua vantagem na tabela frente ao segundo melhor time do atlântico, que vem de um 15-5-6 no ano.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/11/14114966_8D6F327011E45775.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20221207040000 +0000" stop="20221207043000 +0000" channel="ESPN HD">
-    <title lang="pt">F1: The Inside Line</title>
-    <desc lang="pt">Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais.(n)</desc>
-    <date>2013</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11816440_A7874AB06FDF5643.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20221207043000 +0000" stop="20221207060000 +0000" channel="ESPN HD">
-    <title lang="pt">SportsCenter</title>
-    <desc lang="pt">O programa apresenta um resumo das últimas notícias e destaques dos esportes em todos os cantos do mundo.(n)</desc>
-    <date>1979</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/83/11836232_BA22A1DB9D07F4E8.jpg" />
     <rating>
       <value>AGE215</value>
     </rating>
@@ -46856,60 +46802,6 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20221207023000 +0000" stop="20221207030000 +0000" channel="ESPN Extra HD">
-    <title lang="pt">Um Trem para o Qatar</title>
-    <desc lang="pt">Fique por dentro de toda a cobertura especial que antecede a Copa do Mundo da FIFA, no Qatar.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/09/14095124_A417AADC9E2DE3AD.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20221207030000 +0000" stop="20221207033000 +0000" channel="ESPN Extra HD">
-    <title lang="pt">Um Trem para o Qatar</title>
-    <desc lang="pt">Fique por dentro de toda a cobertura especial que antecede a Copa do Mundo da FIFA, no Qatar.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/10/14102395_3B1258540DA7CDDE.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20221207033000 +0000" stop="20221207040000 +0000" channel="ESPN Extra HD">
-    <title lang="pt">Um Trem para o Qatar</title>
-    <desc lang="pt">Fique por dentro de toda a cobertura especial que antecede a Copa do Mundo da FIFA, no Qatar.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/10/14102350_B09B4D55202A5210.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20221207040000 +0000" stop="20221207043000 +0000" channel="ESPN Extra HD">
-    <title lang="pt">Um Trem para o Qatar</title>
-    <desc lang="pt">Acompanhe as principais histórias que antecedem a realização da Copa do Mundo da FIFA de 2022.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/10/14102338_CDFD4A1DBAD23F07.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20221207043000 +0000" stop="20221207050000 +0000" channel="ESPN Extra HD">
-    <title lang="pt">Um Trem para o Qatar</title>
-    <desc lang="pt">Acompanhe as principais histórias que antecedem a realização da Copa do Mundo da FIFA de 2022.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/10/14106260_D563E9EB3A686115.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20221207050000 +0000" stop="20221207070000 +0000" channel="ESPN Extra HD">
-    <title lang="pt">Texas x Illinois - Basquete Universitário : Texas x Illinois</title>
-    <sub-title lang="pt">Texas x Illinois</sub-title>
-    <desc lang="pt">Pelo torneio universitário, Texas e Illinois se enfrentam no Madison Square Garden, em Nova York. No Jimmy V Classic, os Longhorns tentam manter sua invencibilidade no ano, com um recorde de 6-0. Já o Fighting Illini vem com uma campanha de 6-2.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/11/14114476_195C2C7B811915B3.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
   <programme start="20221207070000 +0000" stop="20221207090000 +0000" channel="ESPN Extra HD">
     <title lang="pt">Basketball: A Love Story</title>
     <desc lang="pt">Veja histórias de Kareem Abdul-Jabbar, Elvin Hayes, Pete Maravich, Spencer Haywood e Immaculata University.(n)</desc>
@@ -47142,33 +47034,6 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20221207023000 +0000" stop="20221207043000 +0000" channel="Fox Sports HD">
-    <title lang="pt">São José x Flamengo - NBB : São José x Flamengo</title>
-    <sub-title lang="pt">São José x Flamengo</sub-title>
-    <desc lang="pt">De São José dos Campos, interior de São Paulo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/77/11775781_7C201100F81405C7.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20221207043000 +0000" stop="20221207060000 +0000" channel="Fox Sports HD">
-    <title lang="pt">Linha de Passe: Mesa-Redonda</title>
-    <desc lang="pt">O programa apresenta um elenco poderoso de comentaristas que debatem e opinam sobre os resultados das rodadas e lances polêmicos dos torneios nacionais.(n)</desc>
-    <date>2012</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11815810_EA05CEE064D4CDF7.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20221207060000 +0000" stop="20221207080000 +0000" channel="Fox Sports HD">
-    <title lang="pt">Milan x Roma - Campeonato Italiano Feminino : Milan x Roma</title>
-    <sub-title lang="pt">Milan x Roma</sub-title>
-    <desc lang="pt">De Milão, Itália.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12865832_C4A0CA3C23EBC0A9.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
   <programme start="20221207080000 +0000" stop="20221207100000 +0000" channel="Fox Sports HD">
     <title lang="pt">Amistoso Pela Paz: Itália x Resto do Mundo - Futebol : Amistoso Pela Paz: Itália x Resto do Mundo</title>
     <sub-title lang="pt">Amistoso Pela Paz: Itália x Resto do Mundo</sub-title>
@@ -47296,7 +47161,7 @@
     <sub-title lang="pt">T1 EP5 - Gonzalo Plata</sub-title>
     <desc lang="pt">Peça-chave da classificação do Equador, o ponta-direita revisita sua carreira, fala do desafio de jogar a Copa do Mundo e analisa o seu momento no futebol espanhol, jogando pelo Valladolid.(n)</desc>
     <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14021064_5CE92D61C9E79EC1.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14020992_6FF6BBEF92CFDEA3.jpg" />
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating>
       <value>AGE215</value>
@@ -47334,7 +47199,7 @@
     <sub-title lang="pt">T1 EP4 - Neymar e Marquinhos</sub-title>
     <desc lang="pt">Acompanhe toda a análise dos jogadores meio a próxima edição da Copa do Mundo da FIFA.(n)</desc>
     <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14021064_5CE92D61C9E79EC1.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14020992_6FF6BBEF92CFDEA3.jpg" />
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating>
       <value>AGE215</value>
@@ -47345,7 +47210,7 @@
     <sub-title lang="pt">T1 EP5 - Gonzalo Plata</sub-title>
     <desc lang="pt">Peça-chave da classificação do Equador, o ponta-direita revisita sua carreira, fala do desafio de jogar a Copa do Mundo e analisa o seu momento no futebol espanhol, jogando pelo Valladolid.(n)</desc>
     <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14021064_5CE92D61C9E79EC1.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14020992_6FF6BBEF92CFDEA3.jpg" />
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating>
       <value>AGE215</value>
@@ -47356,7 +47221,7 @@
     <sub-title lang="pt">T1 EP6 - Federico Valverde</sub-title>
     <desc lang="pt">O meio-campista uruguaio do Real Madrid fala sobre a sua preparação para a Copa do Mundo de 2022, no Qatar, e o momento que vive no futebol espanhol.(n)</desc>
     <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14021064_5CE92D61C9E79EC1.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14020992_6FF6BBEF92CFDEA3.jpg" />
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating>
       <value>AGE215</value>
