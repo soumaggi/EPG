@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>GSM Biotec - Apoiando a pesquisa</title>
+<style type="text/css">
+  img { -ms-interpolation-mode: bicubic; border: 0; outline: none; text-decoration: none; }
+  @media only screen and (max-width: 600px) {
+    .container { width: 100% !important; max-width: 100% !important; }
+    .mobile-padding { padding: 20px !important; }
+    .mobile-title { font-size: 20px !important; line-height: 1.3 !important; }
+    .mobile-text { font-size: 15px !important; }
+    .mobile-stack { display: block !important; width: 100% !important; padding-left: 0 !important; padding-right: 0 !important; }
+  }
+
+    body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+    body { margin: 0 !important; padding: 0 !important; background-color: #f5ede0; font-family: Arial, sans-serif; }
+    .email-wrapper { width: 100%; background-color: #f5ede0; padding: 32px 0; }
+    .email-container { max-width: 620px; margin: 0 auto; background-color: #ffffff; border-radius: 10px; overflow: hidden; border: 1px solid #e8dfc8; }
+    /* Preheader oculto */
+    .preheader-hidden { display: none; max-height: 0; overflow: hidden; mso-hide: all; font-size: 1px; color: #f5ede0; line-height: 1px; }
+    /* Preheader visível */
+    .preheader { background-color: #eef2f5; padding: 9px 36px; font-size: 11px; color: #eef2f5; font-style: italic; border-bottom: 1px solid #eef2f5; }
+    /* Header */
+    .header { background-color: #f5a623; padding: 40px 36px 32px; }
+    .badge { display: inline-block; background-color: rgba(90,40,0,0.15); color: #5a2800; font-size: 10px; letter-spacing: 2px; text-transform: uppercase; font-weight: bold; padding: 5px 14px; border-radius: 40px; margin-bottom: 18px; border: 1px solid rgba(90,40,0,0.2); }
+    .header h1 { font-family: Georgia, 'Times New Roman', serif; font-size: 25px; font-weight: bold; color: #3d1a00; margin: 0 0 12px; line-height: 1.35; }
+    .header h1 em { color: #ffffff; font-style: normal; }
+    .header-sub { font-size: 13px; color: rgba(61,26,0,0.75); margin: 0 0 28px; line-height: 1.65; }
+    .logo-pill { display: inline-block; background-color: rgba(255,255,255,0.55); border: 1px solid rgba(255,255,255,0.85); border-radius: 7px; padding: 8px 20px; font-size: 13px; font-weight: bold; color: #3d1a00; }
+    .logo-x { font-size: 20px; font-weight: bold; color: #ffffff; padding: 0 6px; vertical-align: middle; }
+    /* Accent bar */
+    .accent-bar { height: 5px; background-color: #f0c040; }
+    /* Body */
+    .body { padding: 32px 36px; background-color: #ffffff; }
+    .greeting { font-size: 14px; color: #1a1a1a; line-height: 1.8; margin: 0 0 22px; }
+    .greeting strong { color: #c47a00; }
+    .divider { height: 1px; background-color: #f0e8d8; margin: 0 0 22px; }
+    .sec-label { font-size: 10px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #b09060; margin: 0 0 14px; }
+    /* Cards */
+    .card-td { width: 33.33%; background-color: #fffaf2; border: 1px solid #f0dfc0; border-radius: 8px; padding: 16px 13px; vertical-align: top; }
+    .card-icon-box { width: 36px; height: 36px; background-color: #f5a623; border-radius: 8px; text-align: center; padding: 6px 0; font-size: 18px; margin-bottom: 10px; }
+    .card-title { font-size: 12px; font-weight: bold; color: #3d1a00; margin: 0 0 5px; }
+    .card-desc { font-size: 11px; color: #7a5a30; margin: 0; line-height: 1.5; }
+    /* Highlight */
+    .highlight { background-color: #fff8ee; border-left: 3px solid #f5a623; border-radius: 0 8px 8px 0; padding: 15px 18px; margin-bottom: 20px; }
+    .highlight p { font-size: 13px; color: #3d1a00; margin: 0; line-height: 1.7; }
+    /* Urgency */
+    .urgency { background-color: #f5a623; border-radius: 8px; padding: 16px 20px; margin-bottom: 24px; height: 60px; vertical-align: middle; line-height: 1.65;}
+    .urgency p { font-size: 13px; color: #3d1a00; margin: 0; font-weight: bold; vertical-align: middle;}
+    /* CTA */
+    .cta-block { text-align: center; margin-bottom: 28px; }
+    .cta-sub { font-size: 13px; color: #7a6040; margin: 0 0 16px; }
+    .cta-btn { display: inline-block; background-color: #3d1a00; color: #ffffff; font-size: 15px; font-weight: bold; padding: 16px 44px; border-radius: 6px; text-decoration: none; letter-spacing: 0.3px; }
+    .cta-small { font-size: 11px; color: #b09060; margin: 10px 0 0; }
+    .cta-small a { color: #c47a00; font-weight: bold; text-decoration: none; }
+    /* Contacts */
+    .contact-td { background-color: #fffaf2; border: 1px solid #f0dfc0; border-radius: 8px; padding: 12px 14px; vertical-align: middle; }
+    .contact-label { font-size: 10px; color: #b09060; margin: 0 0 2px; }
+    .contact-value { font-size: 13px; font-weight: bold; color: #3d1a00; margin: 0; text-decoration: none;}
+    /* Signature */
+    .sign { font-size: 14px; color: #333; line-height: 1.7; border-top: 1px solid #f0e8d8; padding-top: 20px; }
+    .sign strong { color: #3d1a00; font-size: 15px; font-family: Georgia, serif; }
+    .sign span { font-size: 12px; color: #b09060; }
+    /* Footer */
+    .footer { background-color: #3d1a00; padding: 20px 36px; text-align: center; }
+    .footer p { font-size: 11px; color: rgba(255,255,255,0.5); margin: 0; line-height: 1.9; }
+    .footer a { color: #f5c060; text-decoration: none; }
+    /* Mobile */
+    @media only screen and (max-width: 600px) {
+      .email-wrapper { padding: 0 !important; }
+      .email-container { border-radius: 0 !important; }
+      .header, .body, .footer, .preheader { padding-left: 20px !important; padding-right: 20px !important; }
+      .header h1 { font-size: 21px !important; }
+      .card-td { display: block !important; width: 100% !important; margin-bottom: 10px !important; }
+      .contact-td { display: block !important; width: 100% !important; margin-bottom: 10px !important; }
+    }
+
+</style>
+</head>
+<body style="margin: 0; padding: 0; background-color: #eef2f5; font-family: Arial, Helvetica, sans-serif;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color: #eef2f5;">
+    <tr>
+      <td align="center" style="padding: 20px 10px;">
+        <table role="presentation" class="container" width="600" cellspacing="0" cellpadding="0" border="0" style="max-width: 600px; width: 100%; background-color: #ffffff; border-collapse: collapse; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+          <tr>
+            <td style="background-color: #005b9f; padding: 30px; text-align: center;" class="mobile-padding">
+			<img src="https://raw.githubusercontent.com/soumaggi/EPG/refs/heads/master/Logo-removebg-preview.png" alt="GSM Biotec" style="width:100%; max-width:320px; height:auto; border-radius:6px; margin-bottom:15px;">
+              <h1 style="padding: 9px 36px; font-size: 16px; color: #eef2f5; font-style: italic; border-bottom: 1px solid #eef2f5;">Parceria que Inspira, Inovação que Transforma</h1>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 35px 40px 20px 40px; text-align: center;" class="mobile-padding">
+              <h2 class="mobile-title" style="margin: 0; color: #003b6f; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold; line-height: 1.3;">GSM Biotec - Apoiando a pesquisa com produtos e suporte especializado</h2>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 0 40px 25px 40px; text-align: center;" class="mobile-padding">
+              <p class="mobile-text" style="margin: 0; color: #4a5568; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 1.6;">Especializada no fornecimento de soluções completas para laboratórios de pesquisa, diagnóstico e controle de qualidade. Amplo portfólio de produtos nacionais e importados.</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 0 40px 30px 40px;" class="mobile-padding">
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color: #e6f2fb; border-left: 4px solid #005b9f; border-radius: 4px;">
+                <tr>
+                  <td style="padding: 20px;">
+                    <p style="margin: 0; color: #003b6f; font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; text-align: center;">Mais de 15 anos de experiência no mercado</p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 0 40px 30px 40px;" class="mobile-padding">
+              <h3 style="margin: 0 0 18px 0; color: #003b6f; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold;">Nossos Produtos</h3>
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tr>
+                  <td style="padding: 8px 0; color: #4a5568; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 1.5;">✓ Equipamentos para laboratório</td>
+                </tr>
+                <tr>
+                  <td style="padding: 8px 0; color: #4a5568; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 1.5;">✓ Anticorpos para pesquisa</td>
+                </tr>
+                <tr>
+                  <td style="padding: 8px 0; color: #4a5568; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 1.5;">✓ Kits ELISA</td>
+                </tr>
+                <tr>
+                  <td style="padding: 8px 0; color: #4a5568; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 1.5;">✓ Reagentes e insumos laboratoriais</td>
+                </tr>
+                <tr>
+                  <td style="padding: 8px 0; color: #4a5568; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 1.5;">✓ Plásticos para laboratório</td>
+                </tr>
+                <tr>
+                  <td style="padding: 8px 0; color: #4a5568; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 1.5;">✓ Vidrarias</td>
+                </tr>
+                <tr>
+                  <td style="padding: 8px 0; color: #4a5568; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 1.5;">✓ Consumíveis e acessórios</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 0 40px 30px 40px;" class="mobile-padding">
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color: #f7fafc; border-radius: 4px;">
+                <tr>
+                  <td style="padding: 20px;">
+                    <h3 style="margin: 0 0 12px 0; color: #003b6f; font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold;">Por que escolher a GSM Biotec?</h3>
+                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td class="mobile-stack" style="width: 33%; padding: 10px; text-align: center; vertical-align: top;">
+                          <p style="margin: 0; color: #005b9f; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold;">★</p>
+                          <p style="margin: 5px 0 0 0; color: #4a5568; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4;">Alta qualidade</p>
+                        </td>
+                        <td class="mobile-stack" style="width: 33%; padding: 10px; text-align: center; vertical-align: top;">
+                          <p style="margin: 0; color: #005b9f; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold;">★</p>
+                          <p style="margin: 5px 0 0 0; color: #4a5568; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4;">Suporte técnico especializado</p>
+                        </td>
+                        <td class="mobile-stack" style="width: 33%; padding: 10px; text-align: center; vertical-align: top;">
+                          <p style="margin: 0; color: #005b9f; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold;">★</p>
+                          <p style="margin: 5px 0 0 0; color: #4a5568; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.4;">Atendimento ágil</p>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 0 40px 30px 40px; text-align: center;" class="mobile-padding">
+              <p style="margin: 0 0 15px 0; color: #718096; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">Marcas Parceiras</p>
+              <p style="margin: 0 0 12px 0; color: #003b6f; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold;">Fisherbrand, ABclonal, Elabscience, IKA, entre outras.</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 0 40px 35px 40px; text-align: center;" class="mobile-padding">
+              <a href="https://raw.githubusercontent.com/soumaggi/EPG/refs/heads/master/Novo%20projeto%20-%20Cat%C3%A1logo.pdf" target="_blank" style="display: inline-block; padding: 16px 32px; background-color: #0077cc; color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; text-decoration: none; border-radius: 6px; text-transform: uppercase; letter-spacing: 0.5px;">Consulte nosso flyer clicando aqui</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="background-color: #003b6f; padding: 25px 40px; text-align: center;" class="mobile-padding">
+              <p style="margin: 0; color: #b3d9f7; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 1.5;">✉ E-mail</p>
+<p style="margin: 0; color: #b3d9f7; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 1.5;"><a style="margin: 0; color: #b3d9f7; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 1.5;" href="mailto:contato@gsmbiotec.com" target="_blank" rel="noopener">contato@gsmbiotec.com</a></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
